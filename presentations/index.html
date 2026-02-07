@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 年 AI 趨勢分析</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/theme/black.css">
+    <style>
+        :root {
+            --r-background-color: #0d1117;
+            --r-main-font: 'Noto Sans TC', sans-serif;
+            --r-heading-font: 'Noto Sans TC', sans-serif;
+            --r-main-color: #e6edf3;
+            --r-heading-color: #ffffff;
+            --r-link-color: #58a6ff;
+        }
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap');
+        
+        .reveal { font-family: 'Noto Sans TC', sans-serif; }
+        .reveal h1, .reveal h2, .reveal h3 { font-weight: 700; }
+        
+        .reveal section { text-align: left; }
+        .reveal section.center { text-align: center; }
+        
+        .gradient-bg { 
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%) !important; 
+        }
+        .dark-bg { background: #0d1117 !important; }
+        
+        .highlight { color: #58a6ff; }
+        .highlight-green { color: #3fb950; }
+        .highlight-yellow { color: #d29922; }
+        .highlight-red { color: #f85149; }
+        
+        .emoji { font-size: 1.5em; }
+        
+        .two-columns { display: flex; gap: 40px; }
+        .two-columns > div { flex: 1; }
+        
+        table { width: 100%; border-collapse: collapse; font-size: 0.7em; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #30363d; }
+        th { background: #161b22; color: #58a6ff; }
+        
+        .card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 24px;
+            margin: 10px 0;
+        }
+        
+        .stat-number { font-size: 3em; font-weight: bold; color: #58a6ff; }
+        .stat-label { font-size: 0.9em; opacity: 0.8; }
+        
+        ul { list-style: none; padding-left: 0; }
+        ul li { padding: 8px 0; padding-left: 30px; position: relative; }
+        ul li::before { 
+            content: "→"; 
+            position: absolute; 
+            left: 0; 
+            color: #58a6ff; 
+        }
+        
+        .footer {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.5em;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            
+            <!-- 第 1 頁：封面 -->
+            <section class="center gradient-bg" data-page="1">
+                <h1 style="font-size: 2.5em;">2026 年</h1>
+                <h1 style="font-size: 3em;" class="highlight">AI 趨勢分析</h1>
+                <p style="margin-top: 40px; opacity: 0.8;">洞察未來 · 掌握先機</p>
+                <p style="margin-top: 80px; font-size: 0.6em; opacity: 0.5;">2026.02</p>
+            </section>
+            
+            <!-- 第 2 頁：概覽 -->
+            <section data-page="2">
+                <h2><span class="emoji">🌍</span> AI 發展現況</h2>
+                <h3 class="highlight">從工具到夥伴的轉變</h3>
+                
+                <div class="two-columns" style="margin-top: 40px;">
+                    <div class="card">
+                        <div class="stat-number">$200B</div>
+                        <div class="stat-label">2026 年 AI 投資規模</div>
+                    </div>
+                    <div class="card">
+                        <div class="stat-number">85%</div>
+                        <div class="stat-label">企業導入 AI 比例</div>
+                    </div>
+                </div>
+                
+                <ul style="margin-top: 30px;">
+                    <li>AI 從「輔助工具」升級為「協作夥伴」</li>
+                    <li>多模態能力成為標配</li>
+                    <li>企業 AI 從實驗進入生產</li>
+                </ul>
+            </section>
+            
+            <!-- 第 3 頁：趨勢 1 - AI Agent -->
+            <section data-page="3">
+                <h2><span class="emoji">🤖</span> 趨勢 1</h2>
+                <h3 class="highlight">AI Agent 全面崛起</h3>
+                
+                <div class="card" style="margin-top: 30px;">
+                    <p><strong>定義：</strong>能自主規劃、執行任務、使用工具的 AI 系統</p>
+                </div>
+                
+                <ul style="margin-top: 20px;">
+                    <li><span class="highlight">Claude Computer Use</span> — 操作電腦完成任務</li>
+                    <li><span class="highlight">OpenAI Operator</span> — 自動化瀏覽器操作</li>
+                    <li><span class="highlight">Google Gemini Agent</span> — 多步驟任務處理</li>
+                    <li><span class="highlight">Manus AI</span> — 全自主任務執行</li>
+                </ul>
+                
+                <p style="margin-top: 30px; padding: 15px; background: #1c2128; border-left: 3px solid #58a6ff;">
+                    💡 <strong>關鍵轉變：</strong>從「你問我答」到「你說我做」
+                </p>
+            </section>
+            
+            <!-- 第 4 頁：趨勢 2 - Vibe Coding -->
+            <section data-page="4">
+                <h2><span class="emoji">💻</span> 趨勢 2</h2>
+                <h3 class="highlight">程式碼的終結？Vibe Coding 時代</h3>
+                
+                <blockquote style="border-left: 3px solid #f85149; padding-left: 20px; margin: 30px 0;">
+                    「軟體工程將在 6-12 個月內被完全淘汰」<br>
+                    <small>— Anthropic CEO, 2026</small>
+                </blockquote>
+                
+                <ul>
+                    <li><span class="highlight-green">Claude Code / Codex</span> — 自然語言寫程式</li>
+                    <li><span class="highlight-green">Cursor / Windsurf</span> — AI 原生 IDE</li>
+                    <li><span class="highlight-green">Replit Agent</span> — 描述需求即可開發</li>
+                </ul>
+                
+                <div class="card" style="margin-top: 20px;">
+                    <p><strong>影響：</strong></p>
+                    <ul>
+                        <li>程式設計門檻大幅降低</li>
+                        <li>開發者角色從「寫代碼」轉向「架構設計」</li>
+                        <li>非技術人員也能開發應用</li>
+                    </ul>
+                </div>
+            </section>
+            
+            <!-- 第 5 頁：趨勢 3 - 多模態 -->
+            <section data-page="5">
+                <h2><span class="emoji">🎨</span> 趨勢 3</h2>
+                <h3 class="highlight">多模態 AI：一體化時代</h3>
+                
+                <table style="margin-top: 30px;">
+                    <tr>
+                        <th>模態</th>
+                        <th>代表技術</th>
+                        <th>應用場景</th>
+                    </tr>
+                    <tr>
+                        <td>📝 文字</td>
+                        <td>GPT-5 / Claude Opus</td>
+                        <td>寫作、分析、對話</td>
+                    </tr>
+                    <tr>
+                        <td>🖼️ 圖片</td>
+                        <td>Imagen 3 / DALL-E 4</td>
+                        <td>設計、創作、編輯</td>
+                    </tr>
+                    <tr>
+                        <td>🎬 影片</td>
+                        <td>Sora / Kling 3.0</td>
+                        <td>影片生成、特效</td>
+                    </tr>
+                    <tr>
+                        <td>🎵 語音</td>
+                        <td>ElevenLabs / Gemini TTS</td>
+                        <td>配音、翻譯、克隆</td>
+                    </tr>
+                </table>
+                
+                <p style="margin-top: 30px; text-align: center; font-size: 1.2em;">
+                    <span class="highlight">一個模型，處理所有形式的內容</span>
+                </p>
+            </section>
+            
+            <!-- 第 6 頁：趨勢 4 - 企業 AI -->
+            <section data-page="6">
+                <h2><span class="emoji">🏢</span> 趨勢 4</h2>
+                <h3 class="highlight">企業 AI：從實驗到生產</h3>
+                
+                <div class="two-columns" style="margin-top: 30px;">
+                    <div>
+                        <h4 class="highlight-red">❌ 2024-2025</h4>
+                        <ul>
+                            <li>POC 專案為主</li>
+                            <li>缺乏落地經驗</li>
+                            <li>ROI 不明確</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 class="highlight-green">✅ 2026</h4>
+                        <ul>
+                            <li>規模化部署</li>
+                            <li>成熟的最佳實踐</li>
+                            <li>可量化的效益</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="card" style="margin-top: 30px;">
+                    <p><strong>企業 AI 成功關鍵：</strong></p>
+                    <ul>
+                        <li>資料治理 — 高品質資料是基礎</li>
+                        <li>安全合規 — 隱私與監管並重</li>
+                        <li>人機協作 — AI 增強而非取代人類</li>
+                    </ul>
+                </div>
+            </section>
+            
+            <!-- 第 7 頁：趨勢 5 - 安全監管 -->
+            <section data-page="7">
+                <h2><span class="emoji">🔒</span> 趨勢 5</h2>
+                <h3 class="highlight">AI 安全與監管加速</h3>
+                
+                <ul style="margin-top: 30px;">
+                    <li><span class="highlight-yellow">🇪🇺 歐盟 AI Act</span> — 全球首部 AI 法規生效</li>
+                    <li><span class="highlight-yellow">🇺🇸 美國行政令</span> — AI 安全與創新並重</li>
+                    <li><span class="highlight-yellow">🇨🇳 中國監管</span> — 生成式 AI 備案制度</li>
+                </ul>
+                
+                <div class="card" style="margin-top: 30px; border-color: #f85149;">
+                    <p><strong>⚠️ 新興風險：</strong></p>
+                    <ul>
+                        <li>Deepfake 與假訊息</li>
+                        <li>AI 武器化</li>
+                        <li>隱私與版權爭議</li>
+                        <li>就業市場衝擊</li>
+                    </ul>
+                </div>
+            </section>
+            
+            <!-- 第 8 頁：關鍵玩家 -->
+            <section data-page="8">
+                <h2><span class="emoji">🏆</span> 關鍵玩家</h2>
+                <h3 class="highlight">OpenAI vs Google vs Anthropic</h3>
+                
+                <table style="margin-top: 30px;">
+                    <tr>
+                        <th>公司</th>
+                        <th>代表產品</th>
+                        <th>優勢</th>
+                    </tr>
+                    <tr>
+                        <td><strong>OpenAI</strong></td>
+                        <td>GPT-5 / Sora / Operator</td>
+                        <td>品牌、生態系</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Google</strong></td>
+                        <td>Gemini 3 / Imagen 3</td>
+                        <td>算力、數據、多模態</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Anthropic</strong></td>
+                        <td>Claude Opus / Computer Use</td>
+                        <td>安全性、程式能力</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Meta</strong></td>
+                        <td>Llama 4 / 開源生態</td>
+                        <td>開源、社群</td>
+                    </tr>
+                    <tr>
+                        <td><strong>xAI</strong></td>
+                        <td>Grok 3</td>
+                        <td>即時資訊、馬斯克</td>
+                    </tr>
+                </table>
+            </section>
+            
+            <!-- 第 9 頁：投資風向 -->
+            <section data-page="9">
+                <h2><span class="emoji">💰</span> 投資風向</h2>
+                <h3 class="highlight">AI 軍備競賽</h3>
+                
+                <div class="two-columns" style="margin-top: 30px;">
+                    <div class="card">
+                        <div class="stat-number">$200B</div>
+                        <div class="stat-label">亞馬遜 2026 資本支出</div>
+                    </div>
+                    <div class="card">
+                        <div class="stat-number">$100B+</div>
+                        <div class="stat-label">微軟 AI 基礎設施</div>
+                    </div>
+                </div>
+                
+                <ul style="margin-top: 30px;">
+                    <li><span class="highlight">算力</span> — GPU 供應持續緊張</li>
+                    <li><span class="highlight">能源</span> — 資料中心電力需求暴增</li>
+                    <li><span class="highlight">人才</span> — AI 工程師供不應求</li>
+                </ul>
+                
+                <p style="margin-top: 20px; padding: 15px; background: #1c2128; border-left: 3px solid #3fb950;">
+                    📈 <strong>受益者：</strong>NVIDIA、台積電、雲端服務商
+                </p>
+            </section>
+            
+            <!-- 第 10 頁：總結 -->
+            <section class="center" data-page="10">
+                <h2><span class="emoji">🎯</span> 行動建議</h2>
+                
+                <div style="text-align: left; max-width: 800px; margin: 30px auto;">
+                    <div class="card">
+                        <h4 class="highlight">👤 給個人</h4>
+                        <ul>
+                            <li>學習 AI 工具，提升生產力</li>
+                            <li>關注 AI Agent，適應新工作模式</li>
+                            <li>培養不可替代的軟技能</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="card" style="margin-top: 20px;">
+                        <h4 class="highlight">🏢 給企業</h4>
+                        <ul>
+                            <li>制定 AI 戰略，從實驗走向生產</li>
+                            <li>投資資料治理與安全合規</li>
+                            <li>建立人機協作的組織文化</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <p style="margin-top: 40px; font-size: 1.3em;">
+                    <span class="highlight">AI 不會取代人類，但會用 AI 的人會取代不會的人</span>
+                </p>
+            </section>
+            
+            <!-- 第 11 頁：Thank You -->
+            <section class="center gradient-bg" data-page="11">
+                <h1 style="font-size: 3em;">Thank You</h1>
+                <p style="margin-top: 30px; opacity: 0.8;">有問題歡迎討論</p>
+                <p style="margin-top: 60px; font-size: 0.6em; opacity: 0.5;">
+                    Powered by 阿福 🐶 | 2026.02
+                </p>
+            </section>
+            
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            slideNumber: 'c/t',
+            controls: true,
+            progress: true,
+            center: false,
+            transition: 'slide'
+        });
+    </script>
+</body>
+</html>
