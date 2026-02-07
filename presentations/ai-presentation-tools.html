@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 簡報工具研究報告</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: #1a1a2e;
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+        
+        /* 簡報容器 - 置中顯示 */
+        .presentation {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            /* 16:9 比例，根據視窗自適應 */
+            width: min(95vw, 177.78vh); /* 16/9 = 1.7778 */
+            height: min(53.44vw, 95vh); /* 9/16 = 0.5625 */
+            background: #0d1117;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        /* 投影片 */
+        .slide {
+            display: none;
+            width: 100%;
+            height: 100%;
+            padding: 5%;
+            color: #e6edf3;
+            position: relative;
+        }
+        
+        .slide.active {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* 標題頁特殊樣式 */
+        .slide.title-slide {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+        }
+        
+        .slide.title-slide h1 {
+            font-size: 4vmin;
+            font-weight: 700;
+            margin-bottom: 2vmin;
+        }
+        
+        .slide.title-slide .subtitle {
+            font-size: 2vmin;
+            color: #8b949e;
+        }
+        
+        /* 一般投影片 */
+        h1 {
+            font-size: 3vmin;
+            font-weight: 700;
+            color: #58a6ff;
+            margin-bottom: 3vmin;
+            padding-bottom: 1.5vmin;
+            border-bottom: 2px solid #30363d;
+        }
+        
+        h2 {
+            font-size: 2.5vmin;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 2vmin;
+        }
+        
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            overflow: hidden;
+        }
+        
+        /* 表格樣式 */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 1.6vmin;
+        }
+        
+        th, td {
+            padding: 1.2vmin;
+            text-align: left;
+            border-bottom: 1px solid #30363d;
+        }
+        
+        th {
+            background: #161b22;
+            color: #58a6ff;
+            font-weight: 600;
+        }
+        
+        tr:hover {
+            background: rgba(88, 166, 255, 0.1);
+        }
+        
+        /* 列表樣式 */
+        ul {
+            font-size: 2vmin;
+            line-height: 1.8;
+            padding-left: 3vmin;
+        }
+        
+        li {
+            margin-bottom: 1vmin;
+        }
+        
+        /* 兩欄佈局 */
+        .two-columns {
+            display: flex;
+            gap: 4vmin;
+            flex: 1;
+        }
+        
+        .column {
+            flex: 1;
+        }
+        
+        /* 卡片樣式 */
+        .card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 2vmin;
+            margin-bottom: 2vmin;
+        }
+        
+        .card h3 {
+            font-size: 2vmin;
+            color: #58a6ff;
+            margin-bottom: 1vmin;
+        }
+        
+        .card p, .card ul {
+            font-size: 1.6vmin;
+        }
+        
+        /* 強調色 */
+        .highlight { color: #58a6ff; }
+        .green { color: #3fb950; }
+        .yellow { color: #d29922; }
+        .red { color: #f85149; }
+        
+        /* 星星評分 */
+        .stars { color: #d29922; }
+        
+        /* 價格標籤 */
+        .price {
+            background: #238636;
+            color: white;
+            padding: 0.3vmin 0.8vmin;
+            border-radius: 4px;
+            font-size: 1.4vmin;
+        }
+        
+        /* 頁碼 */
+        .page-number {
+            position: absolute;
+            bottom: 2vmin;
+            right: 3vmin;
+            font-size: 1.5vmin;
+            color: #6e7681;
+        }
+        
+        /* 導航按鈕 */
+        .nav-buttons {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+            z-index: 100;
+        }
+        
+        .nav-btn {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        /* 進度條 */
+        .progress-bar {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            height: 3px;
+            background: #58a6ff;
+            transition: width 0.3s;
+        }
+        
+        /* 小型網格 */
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2vmin;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2vmin;
+        }
+        
+        /* 工具 Logo 區 */
+        .tool-header {
+            display: flex;
+            align-items: center;
+            gap: 2vmin;
+            margin-bottom: 2vmin;
+        }
+        
+        .tool-logo {
+            font-size: 4vmin;
+        }
+        
+        .tool-info h2 {
+            margin-bottom: 0.5vmin;
+        }
+        
+        .tool-info .tagline {
+            font-size: 1.6vmin;
+            color: #8b949e;
+        }
+        
+        /* 功能列表 */
+        .feature-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1vmin;
+            margin-top: 1vmin;
+        }
+        
+        .feature-tag {
+            background: #21262d;
+            border: 1px solid #30363d;
+            padding: 0.5vmin 1vmin;
+            border-radius: 4px;
+            font-size: 1.4vmin;
+        }
+        
+        /* 比較標籤 */
+        .comparison-badge {
+            display: inline-block;
+            padding: 0.3vmin 1vmin;
+            border-radius: 4px;
+            font-size: 1.3vmin;
+            font-weight: 500;
+        }
+        
+        .badge-best { background: #238636; color: white; }
+        .badge-good { background: #1f6feb; color: white; }
+        .badge-ok { background: #6e7681; color: white; }
+    </style>
+</head>
+<body>
+    <div class="presentation">
+        <!-- Slide 1: 標題頁 -->
+        <div class="slide title-slide active">
+            <div style="font-size: 8vmin; margin-bottom: 3vmin;">🎨</div>
+            <h1>AI 簡報製作工具研究報告</h1>
+            <p class="subtitle">9 款主流工具完整比較分析</p>
+            <p class="subtitle" style="margin-top: 3vmin; color: #58a6ff;">2026.02.07 | 軒哥 & 阿福 🐶</p>
+            <div class="page-number">1 / 12</div>
+        </div>
+
+        <!-- Slide 2: 目錄 -->
+        <div class="slide">
+            <h1>📋 報告大綱</h1>
+            <div class="content">
+                <div class="grid-2" style="font-size: 2vmin;">
+                    <div class="card">
+                        <h3>Part 1 - 工具總覽</h3>
+                        <ul>
+                            <li>9 款工具比較表</li>
+                            <li>核心功能對比</li>
+                            <li>價格分析</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h3>Part 2 - 詳細分析</h3>
+                        <ul>
+                            <li>Beautiful.ai</li>
+                            <li>Pitch</li>
+                            <li>Gamma.app</li>
+                            <li>Tome</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h3>Part 3 - 更多工具</h3>
+                        <ul>
+                            <li>Canva AI</li>
+                            <li>Microsoft Copilot</li>
+                            <li>Google Slides + Gemini</li>
+                            <li>SlidesAI.io</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h3>Part 4 - 結論建議</h3>
+                        <ul>
+                            <li>使用場景推薦</li>
+                            <li>組合搭配建議</li>
+                            <li>最終推薦</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">2 / 12</div>
+        </div>
+
+        <!-- Slide 3: 工具總覽表 -->
+        <div class="slide">
+            <h1>📊 工具總覽比較</h1>
+            <div class="content">
+                <table>
+                    <tr>
+                        <th>工具</th>
+                        <th>核心特色</th>
+                        <th>AI 強度</th>
+                        <th>價格</th>
+                        <th>適合對象</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Beautiful.ai</strong></td>
+                        <td>Smart Slides 自動排版</td>
+                        <td><span class="stars">⭐⭐⭐⭐⭐</span></td>
+                        <td>$12-50/月</td>
+                        <td>商務專業</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Pitch</strong></td>
+                        <td>協作 + 分析追蹤</td>
+                        <td><span class="stars">⭐⭐⭐⭐</span></td>
+                        <td>免費-$80/月</td>
+                        <td>團隊協作</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Gamma.app</strong></td>
+                        <td>一鍵生成完整簡報</td>
+                        <td><span class="stars">⭐⭐⭐⭐⭐</span></td>
+                        <td>免費-$20/月</td>
+                        <td>快速產出</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tome</strong></td>
+                        <td>敘事型視覺簡報</td>
+                        <td><span class="stars">⭐⭐⭐⭐</span></td>
+                        <td>免費-$20/月</td>
+                        <td>創意工作者</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Canva AI</strong></td>
+                        <td>設計模板豐富</td>
+                        <td><span class="stars">⭐⭐⭐⭐</span></td>
+                        <td>免費-$15/月</td>
+                        <td>設計入門</td>
+                    </tr>
+                    <tr>
+                        <td><strong>MS Copilot</strong></td>
+                        <td>Office 深度整合</td>
+                        <td><span class="stars">⭐⭐⭐⭐</span></td>
+                        <td>$30/月</td>
+                        <td>企業用戶</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Google + Gemini</strong></td>
+                        <td>免費 + 雲端協作</td>
+                        <td><span class="stars">⭐⭐⭐</span></td>
+                        <td>免費</td>
+                        <td>一般用戶</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="page-number">3 / 12</div>
+        </div>
+
+        <!-- Slide 4: Beautiful.ai -->
+        <div class="slide">
+            <h1>🌟 Beautiful.ai</h1>
+            <div class="content">
+                <div class="two-columns">
+                    <div class="column">
+                        <div class="card">
+                            <h3>💡 核心特色</h3>
+                            <ul>
+                                <li><strong>Smart Slides™</strong> 自動設計排版</li>
+                                <li>輸入內容即自動美化</li>
+                                <li>節省 <span class="green">75%</span> 製作時間</li>
+                                <li>團隊品牌一致性控制</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>💰 價格方案</h3>
+                            <ul>
+                                <li>Pro: <span class="price">$12/月</span></li>
+                                <li>Team: <span class="price">$40/月/人</span></li>
+                                <li>Enterprise: <span class="price">$50/月/人</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="card">
+                            <h3>🤖 AI 功能</h3>
+                            <ul>
+                                <li>DesignerBot AI 助手</li>
+                                <li>自動建議最佳佈局</li>
+                                <li>智慧圖表視覺化</li>
+                                <li>AI 生成圖片</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>✅ 優缺點</h3>
+                            <p><span class="green">✓</span> 設計品質高、學習曲線低</p>
+                            <p><span class="green">✓</span> 匯出格式多元</p>
+                            <p><span class="red">✗</span> 免費版功能受限</p>
+                            <p><span class="red">✗</span> 團隊版較貴</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">4 / 12</div>
+        </div>
+
+        <!-- Slide 5: Pitch -->
+        <div class="slide">
+            <h1>🚀 Pitch</h1>
+            <div class="content">
+                <div class="two-columns">
+                    <div class="column">
+                        <div class="card">
+                            <h3>💡 核心特色</h3>
+                            <ul>
+                                <li><strong>協作優先</strong> 即時多人編輯</li>
+                                <li>100+ 專業設計模板</li>
+                                <li>簡報觀看分析追蹤</li>
+                                <li>版本歷史控制</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>💰 價格方案</h3>
+                            <ul>
+                                <li>Free: <span class="green">無限簡報</span></li>
+                                <li>Pro: <span class="price">€8/月</span></li>
+                                <li>Business: <span class="price">€80/月</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="card">
+                            <h3>🤖 AI 功能</h3>
+                            <ul>
+                                <li>AI 草稿生成</li>
+                                <li>智慧文案建議</li>
+                                <li>自動設計調整</li>
+                                <li>AI 圖片生成</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>📊 特色：觀看分析</h3>
+                            <ul>
+                                <li>誰看了你的簡報？</li>
+                                <li>每頁停留多久？</li>
+                                <li>轉發次數追蹤</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">5 / 12</div>
+        </div>
+
+        <!-- Slide 6: Gamma.app -->
+        <div class="slide">
+            <h1>⚡ Gamma.app</h1>
+            <div class="content">
+                <div class="two-columns">
+                    <div class="column">
+                        <div class="card">
+                            <h3>💡 核心特色</h3>
+                            <ul>
+                                <li><strong>一鍵生成</strong> 輸入主題即完成</li>
+                                <li>支援文件、網頁、簡報格式</li>
+                                <li>互動式內容嵌入</li>
+                                <li>響應式設計（手機友善）</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>💰 價格方案</h3>
+                            <ul>
+                                <li>Free: <span class="green">400 AI 額度</span></li>
+                                <li>Plus: <span class="price">$8/月</span></li>
+                                <li>Pro: <span class="price">$20/月</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="card">
+                            <h3>🤖 AI 功能</h3>
+                            <ul>
+                                <li>全自動簡報生成</li>
+                                <li>大綱 → 投影片轉換</li>
+                                <li>AI 圖片生成</li>
+                                <li>內容重寫與擴展</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>✅ 最適合</h3>
+                            <p style="font-size: 2vmin;">
+                                <span class="comparison-badge badge-best">最快產出</span>
+                                <br><br>
+                                5 分鐘內從零到完整簡報<br>
+                                適合時間緊迫的情況
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">6 / 12</div>
+        </div>
+
+        <!-- Slide 7: Tome & Canva -->
+        <div class="slide">
+            <h1>🎨 Tome & Canva AI</h1>
+            <div class="content">
+                <div class="two-columns">
+                    <div class="column">
+                        <div class="card" style="height: 85%;">
+                            <h3>🎭 Tome - 敘事型簡報</h3>
+                            <ul>
+                                <li>AI 原生設計</li>
+                                <li>現代視覺風格</li>
+                                <li>DALL-E 圖片整合</li>
+                                <li>3D 物件嵌入</li>
+                                <li>Figma 整合</li>
+                            </ul>
+                            <br>
+                            <p><span class="green">✓</span> 視覺效果驚艷</p>
+                            <p><span class="red">✗</span> 學習曲線較陡</p>
+                            <br>
+                            <p>💰 Free / Pro: <span class="price">$20/月</span></p>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="card" style="height: 85%;">
+                            <h3>🖌️ Canva AI - 萬能設計</h3>
+                            <ul>
+                                <li>海量模板和素材</li>
+                                <li>Magic Design AI 生成</li>
+                                <li>Magic Write 文案</li>
+                                <li>Magic Eraser 去背</li>
+                                <li>1 億+ 素材庫</li>
+                            </ul>
+                            <br>
+                            <p><span class="green">✓</span> 功能全面、操作簡單</p>
+                            <p><span class="red">✗</span> 簡報專業度稍遜</p>
+                            <br>
+                            <p>💰 Free / Pro: <span class="price">$15/月</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">7 / 12</div>
+        </div>
+
+        <!-- Slide 8: Microsoft & Google -->
+        <div class="slide">
+            <h1>🏢 企業級方案</h1>
+            <div class="content">
+                <div class="two-columns">
+                    <div class="column">
+                        <div class="card" style="height: 85%;">
+                            <h3>🔷 Microsoft Copilot</h3>
+                            <ul>
+                                <li><strong>Office 深度整合</strong></li>
+                                <li>一句話生成簡報</li>
+                                <li>Word 文件 → 簡報</li>
+                                <li>Teams 會議整合</li>
+                                <li>企業級安全性</li>
+                            </ul>
+                            <br>
+                            <p><span class="green">✓</span> 相容性最高</p>
+                            <p><span class="green">✓</span> 整合最完整</p>
+                            <p><span class="red">✗</span> 需 365 訂閱</p>
+                            <br>
+                            <p>💰 Copilot: <span class="price">$30/月/人</span></p>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="card" style="height: 85%;">
+                            <h3>🔵 Google Slides + Gemini</h3>
+                            <ul>
+                                <li><strong>完全免費</strong></li>
+                                <li>雲端原生、即時協作</li>
+                                <li>Gemini AI 整合中</li>
+                                <li>Google Workspace 串接</li>
+                                <li>YouTube 影片嵌入</li>
+                            </ul>
+                            <br>
+                            <p><span class="green">✓</span> 免費、協作方便</p>
+                            <p><span class="red">✗</span> 設計能力有限</p>
+                            <p><span class="red">✗</span> AI 功能仍在發展</p>
+                            <br>
+                            <p>💰 <span class="green">免費</span> / Gemini: <span class="price">$20/月</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">8 / 12</div>
+        </div>
+
+        <!-- Slide 9: SlidesAI.io -->
+        <div class="slide">
+            <h1>🔌 SlidesAI.io - Google Slides 外掛</h1>
+            <div class="content">
+                <div class="two-columns">
+                    <div class="column">
+                        <div class="card">
+                            <h3>💡 核心特色</h3>
+                            <ul>
+                                <li>Google Slides 外掛形式</li>
+                                <li>在熟悉環境中使用 AI</li>
+                                <li>快速從文字生成簡報</li>
+                                <li>多語言支援</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>💰 價格方案</h3>
+                            <ul>
+                                <li>Free: <span class="green">3 個簡報/月</span></li>
+                                <li>Basic: <span class="price">$10/月</span></li>
+                                <li>Pro: <span class="price">$20/月</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="card">
+                            <h3>🤖 AI 功能</h3>
+                            <ul>
+                                <li>文字轉簡報</li>
+                                <li>主題自動偵測</li>
+                                <li>自動配圖</li>
+                                <li>多種風格選擇</li>
+                            </ul>
+                        </div>
+                        <div class="card">
+                            <h3>✅ 最適合</h3>
+                            <p style="font-size: 2vmin;">
+                                <span class="comparison-badge badge-good">Slides 用戶</span>
+                                <br><br>
+                                已習慣 Google Slides<br>
+                                想要 AI 增強功能
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">9 / 12</div>
+        </div>
+
+        <!-- Slide 10: 使用場景推薦 -->
+        <div class="slide">
+            <h1>🎯 使用場景推薦</h1>
+            <div class="content">
+                <div class="grid-2">
+                    <div class="card">
+                        <h3>⚡ 快速產出（5分鐘內）</h3>
+                        <p>1. <strong>Gamma.app</strong> - 最快、最省力</p>
+                        <p>2. <strong>SlidesAI.io</strong> - Slides 用戶首選</p>
+                    </div>
+                    <div class="card">
+                        <h3>💼 商務專業簡報</h3>
+                        <p>1. <strong>Beautiful.ai</strong> - 設計品質最高</p>
+                        <p>2. <strong>MS Copilot</strong> - 企業環境首選</p>
+                    </div>
+                    <div class="card">
+                        <h3>👥 團隊協作</h3>
+                        <p>1. <strong>Pitch</strong> - 協作功能最強</p>
+                        <p>2. <strong>Google Slides</strong> - 免費且方便</p>
+                    </div>
+                    <div class="card">
+                        <h3>🎨 創意敘事</h3>
+                        <p>1. <strong>Tome</strong> - 視覺衝擊力最強</p>
+                        <p>2. <strong>Gamma.app</strong> - 互動性佳</p>
+                    </div>
+                    <div class="card">
+                        <h3>🎓 學生 / 教育</h3>
+                        <p>1. <strong>Canva</strong> - 免費版功能足夠</p>
+                        <p>2. <strong>Google Slides</strong> - 完全免費</p>
+                    </div>
+                    <div class="card">
+                        <h3>💰 預算有限</h3>
+                        <p>1. <strong>Gamma.app</strong> - 免費版慷慨</p>
+                        <p>2. <strong>Pitch</strong> - 免費無限簡報</p>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">10 / 12</div>
+        </div>
+
+        <!-- Slide 11: 組合建議 -->
+        <div class="slide">
+            <h1>💡 組合搭配建議</h1>
+            <div class="content">
+                <div class="grid-3">
+                    <div class="card" style="text-align: center;">
+                        <h3>🚀 效率組合</h3>
+                        <p style="font-size: 3vmin; margin: 2vmin 0;">
+                            <span class="highlight">Gamma</span> + <span class="highlight">Beautiful.ai</span>
+                        </p>
+                        <p style="font-size: 1.6vmin;">
+                            Gamma 快速產出初稿<br>
+                            Beautiful.ai 精修設計
+                        </p>
+                    </div>
+                    <div class="card" style="text-align: center;">
+                        <h3>💰 免費組合</h3>
+                        <p style="font-size: 3vmin; margin: 2vmin 0;">
+                            <span class="highlight">Google</span> + <span class="highlight">SlidesAI</span>
+                        </p>
+                        <p style="font-size: 1.6vmin;">
+                            Google Slides 為底<br>
+                            SlidesAI 增強 AI
+                        </p>
+                    </div>
+                    <div class="card" style="text-align: center;">
+                        <h3>🎨 設計組合</h3>
+                        <p style="font-size: 3vmin; margin: 2vmin 0;">
+                            <span class="highlight">Canva</span> + <span class="highlight">Copilot</span>
+                        </p>
+                        <p style="font-size: 1.6vmin;">
+                            Canva 設計素材<br>
+                            Copilot 整合輸出
+                        </p>
+                    </div>
+                </div>
+                <div style="margin-top: 3vmin; text-align: center;">
+                    <div class="card" style="display: inline-block; padding: 2vmin 4vmin;">
+                        <h3>🏆 如果只能選一個？</h3>
+                        <div style="display: flex; gap: 4vmin; margin-top: 2vmin; font-size: 1.8vmin;">
+                            <div>💼 商務 → <span class="highlight">Beautiful.ai</span></div>
+                            <div>🚀 快速 → <span class="highlight">Gamma.app</span></div>
+                            <div>👥 團隊 → <span class="highlight">Pitch</span></div>
+                            <div>💰 免費 → <span class="highlight">Google Slides</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page-number">11 / 12</div>
+        </div>
+
+        <!-- Slide 12: 結尾 -->
+        <div class="slide title-slide">
+            <div style="font-size: 8vmin; margin-bottom: 3vmin;">🎉</div>
+            <h1>感謝觀看</h1>
+            <p class="subtitle">有問題隨時問阿福 🐶</p>
+            <p class="subtitle" style="margin-top: 4vmin;">
+                ← → 鍵切換投影片 | 點擊畫面左右側切換
+            </p>
+            <div class="page-number">12 / 12</div>
+        </div>
+
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <!-- 導航按鈕 -->
+    <div class="nav-buttons">
+        <button class="nav-btn" onclick="prevSlide()">◀ 上一頁</button>
+        <button class="nav-btn" onclick="nextSlide()">下一頁 ▶</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+        const progressBar = document.getElementById('progressBar');
+
+        function showSlide(n) {
+            slides[currentSlide].classList.remove('active');
+            currentSlide = (n + totalSlides) % totalSlides;
+            slides[currentSlide].classList.add('active');
+            updateProgress();
+        }
+
+        function nextSlide() {
+            showSlide(currentSlide + 1);
+        }
+
+        function prevSlide() {
+            showSlide(currentSlide - 1);
+        }
+
+        function updateProgress() {
+            const progress = ((currentSlide + 1) / totalSlides) * 100;
+            progressBar.style.width = progress + '%';
+        }
+
+        // 鍵盤導航
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                nextSlide();
+            } else if (e.key === 'ArrowLeft') {
+                prevSlide();
+            }
+        });
+
+        // 點擊導航
+        document.querySelector('.presentation').addEventListener('click', (e) => {
+            const rect = e.currentTarget.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            if (x < rect.width / 3) {
+                prevSlide();
+            } else if (x > rect.width * 2 / 3) {
+                nextSlide();
+            }
+        });
+
+        // 初始化進度條
+        updateProgress();
+    </script>
+</body>
+</html>
