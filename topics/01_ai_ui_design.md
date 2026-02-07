@@ -1,6 +1,6 @@
 # 如何透過 AI 製作高品質 UI
 
-> 研究進行中 🔬
+> 研究進行中 🔬 | 深度更新 v2
 
 ## 📋 研究目標
 
@@ -10,42 +10,155 @@
 
 ## ✅ 最終解決方案
 
-（待確定）
-
-### 目前建議的工作流程
-
-```
-1. 用 AI 生成設計概念（文字描述/草圖）
-2. 使用 AI 設計工具生成初版 UI
-3. 在 Figma 中精修細節
-4. 用 AI 生成程式碼（如需要）
-```
-
-### 推薦工具組合
+### 推薦工具組合（2026 最新）
 
 | 階段 | 工具 | 用途 |
 |------|------|------|
 | 概念生成 | ChatGPT/Claude | 描述需求、生成設計規格 |
-| 快速原型 | Galileo AI / v0.dev | 從文字生成 UI |
-| 精修設計 | Figma + AI plugins | 細節調整、設計系統 |
-| 程式碼輸出 | Cursor / Claude Code | 將設計轉為程式碼 |
+| 快速原型 | **v0.dev** / **Visily** | 文字轉 UI、非設計師友好 |
+| 精修設計 | **Figma** + **Figma AI** | 細節調整、設計系統 |
+| 設計轉代碼 | **Locofy** / **Anima** | Figma 設計 → 生產級代碼 |
+| 開發整合 | **Pencil** + Claude Code | 程序員的 Vibe Design |
+| 開源選項 | **Penpot** | 自架 Figma 替代品 |
 
 ---
 
-## 📝 研究筆記（新 → 舊）
+## 🔧 工具完整分類
 
-### 2026-02-07 22:45 - 阿福的研究發現與建議
+### 🎨 AI 設計生成工具
+
+| 工具 | 特點 | 適合誰 |
+|------|------|--------|
+| **v0.dev** ⭐ | Agentic 全端、一鍵部署 Vercel | 快速 MVP |
+| **Pencil** ⭐ | Claude Code + MCP 整合 | 前端開發者 |
+| **Visily** 🆕 | 非設計師友好、AI 設計助手 | 產品經理、創業者 |
+| **Uizard** | Autodesigner、熱力圖預測 | 快速驗證想法 |
+| **Framer AI** | 網站設計、多語言翻譯 | 行銷網站 |
+
+### 🔄 Figma to Code 工具
+
+| 工具 | 技術 | 輸出格式 |
+|------|------|----------|
+| **Locofy** ⭐🆕 | Large Design Models (LDM) | React/Vue/Next.js/Flutter |
+| **Anima** 🆕 | UX Design Agent | React/Vue/HTML |
+| **TeleportHQ** 🆕 | Low-code 平台 | 5 種 JS 框架 |
+| **Figma Make** | Figma 原生 | HTML (div soup) |
+
+### 🏢 企業級工具
+
+| 工具 | 核心能力 |
+|------|----------|
+| **Fusion** (Builder.io) | 連接實際 codebase、生產級代碼 |
+| **Figma AI** | 整合 Figma 生態 |
+
+### 🔓 開源專案
+
+| 專案 | GitHub | 說明 |
+|------|--------|------|
+| **Penpot** ⭐ | penpot/penpot | 開源 Figma、原生 Design Tokens |
+| **screenshot-to-code** ⭐ | abi/screenshot-to-code | 截圖 → HTML/React/Vue |
+| **tldraw** | tldraw/tldraw | 無限畫布 SDK |
+| **Excalidraw** | excalidraw/excalidraw | 手繪風白板 |
+
+---
+
+## 📝 深度研究筆記（新 → 舊）
+
+### 2026-02-07 23:30 - 深度研究更新 🔬
+
+#### 🆕 新發現的重要工具
+
+**1. Locofy (locofy.ai)** - Figma to Code 領導者
+- 使用自研 **Large Design Models (LDM)** 專門理解設計語義
+- 生成像素級精確的響應式代碼
+- **Locofy MCP** 可連接 Vibe Coding 工具
+- ISO 27001 & SOC2 認證，企業級安全
+- 比 Figma MCP 更適合生產級應用
+
+**2. Anima (animaapp.com)** - UX Design Agent
+- 定位：「打破設計與開發的邊界」
+- Figma 設計 → 可測試的應用，一鍵轉換
+- 提供 **API** 給其他 Vibe Coding 平台調用
+- 用戶評價：「目前最好的 Figma to Code 工具」
+- 與 Bolt.new 有整合
+
+**3. TeleportHQ** - Low-code 建站平台
+- AI 生成 → 拖放編輯 → 即時發布
+- 支持 **5 種 JS 框架** 輸出：React、Vue、Angular、Next、Gatsby
+- 整合 Headless CMS（Strapi、Contentful）
+- 適合行銷團隊和非技術人員
+
+**4. Visily** - 非設計師的設計工具
+- 不需要精確 prompt，支持模糊想法探索
+- 文字/截圖/草圖都能轉 UI
+- 對話式調整設計
+- 用戶評價：「Figma 太複雜，Visily 讓我能分享想法」
+
+#### 🔓 重要開源專案
+
+**1. Penpot** - 開源 Figma 替代品
+- 第一個原生支持 **Design Tokens** 的設計工具
+- CSS Grid Layout 支援
+- 可自架部署，數據完全控制
+- 使用開放標準：SVG、CSS、HTML
+
+**2. screenshot-to-code** - 截圖轉代碼神器
+- 支持 Gemini 3、Claude Opus 4.5、GPT-5.2
+- 可輸出 HTML/Tailwind、React、Vue、Bootstrap
+- **錄影轉原型**：錄製網站操作 → 生成可運作原型
+- 可本地運行（Docker）
+
+---
+
+### 2026-02-07 22:45 - 初始研究
+
+（見下方歷史記錄）
+
+---
+
+## 💡 選擇建議
+
+| 你的需求 | 推薦工具 |
+|----------|----------|
+| 前端開發者 | **Pencil** (Claude Code 整合) |
+| 快速 MVP | **v0** (一鍵部署) |
+| 設計師 | **Figma AI** + **Figma Make** |
+| 成熟團隊 | **Fusion** (設計系統整合) |
+| 快速原型 | **Uizard** (Autodesigner) |
+| 行銷網站 | **Framer AI** |
+| Figma to 生產代碼 | **Locofy** (LDM 模型) |
+| 非設計師 | **Visily** (AI 設計助手) |
+| 快速建站 | **TeleportHQ** (Low-code) |
+| 開源方案 | **Penpot** (自架) |
+| 截圖轉代碼 | **screenshot-to-code** (開源) |
+
+---
+
+## 🔥 Vibe Design 趨勢
+
+**概念**：用自然語言描述設計「氛圍」，AI 自動生成符合意圖的 UI
+
+**代表工具**：
+- **Pencil**（最強 Claude 整合）
+- **v0**（最強全端整合）
+- **Figma Make**（最強設計師生態）
+- **Anima**（Figma to Code + Vibe Coding）
+
+---
+
+## 📚 相關資源
+
+- [Alan Design 頻道](../youtubers/alan_design/)
+- [AI 超元域相關影片](../youtubers/aisuperdomain/)
+- [Nano Banana PPT 影片](../2026-02-06_gemini_nanobanna_ppt.md)
+- [完整工具研究文件](../../projects/ai-agent-kb/ui-design-tools.md)
+
+---
+
+## 📋 研究歷史
 
 <details>
-<summary>研究過程</summary>
-<small>
-
-**資料來源**：內建知識 + 軒哥追蹤的頻道影片
-
-**研究方法**：整理 Alan Design、AI 超元域等頻道的 UI 相關內容
-
-</small>
-</details>
+<summary>2026-02-07 22:45 - 阿福的初始研究</summary>
 
 #### 🔍 研究發現
 
@@ -59,62 +172,16 @@
 | 全端工具 | Framer AI, Webflow AI | 設計+部署一站式 |
 
 **2. Nano Banana + Gemini 3 組合**
-- 從軒哥追蹤的影片發現這個組合很有潛力
 - Nano Banana 可以生成 UI 設計圖
 - Gemini 3 可以理解設計並生成程式碼
 
 **3. Pencil 工具**
-- 可以 AI 同時生成多個專業級 UI 變體
+- AI 同時生成多個專業級 UI 變體
 - Claude Code 可以一鍵轉換成前端程式碼
 
-**4. 注意事項**
-- AI 生成的 UI 往往需要人工調整細節
-- 設計系統一致性仍需人工維護
-- 響應式設計需要額外處理
-
-#### 💡 建議作法
-
-**初學者路線**
-1. 先學習基本 UI/UX 原則
-2. 使用 v0.dev 快速產出原型
-3. 在 Figma 中學習調整
-
-**進階路線**
-1. 建立自己的設計系統
-2. 使用 Figma + AI plugins 加速工作
-3. 用 Cursor/Claude Code 直接生成程式碼
-
-**推薦學習順序**
-1. Figma 基礎操作
-2. UI/UX 設計原則
-3. AI 工具整合使用
+</details>
 
 ---
 
-### 2026-02-07 - 初始建立
-
-**產出**：議題建立，待深入研究
-
----
-
-## 🔍 研究過的工具
-
-| 工具 | 類型 | 價格 | 評價 |
-|------|------|------|------|
-| Galileo AI | 文字轉 UI | 待確認 | 品質高但等待名單 |
-| v0.dev | 文字轉 UI | 免費額度 | Vercel 出品，React 友好 |
-| Uizard | 文字轉 UI | 免費-$12/月 | 適合非設計師 |
-| Figma AI | Figma 原生 | Figma 訂閱內 | 整合度最高 |
-| Framer AI | 全端 | 免費-$20/月 | 設計+部署一體 |
-
----
-
-## 📚 相關資源
-
-- [Alan Design 頻道](../youtubers/alan_design/)
-- [AI 超元域相關影片](../youtubers/aisuperdomain/)
-- [Nano Banana PPT 影片](../2026-02-06_gemini_nanobanna_ppt.md)
-
----
-
-*最後更新：2026-02-07 22:45*
+*最後更新：2026-02-07 23:30*
+*研究來源：官方網站、GitHub、Builder.io Blog*
