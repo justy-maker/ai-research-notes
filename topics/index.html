@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📚 研究議題</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0d1117;
+            color: #e6edf3;
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 2em; margin-bottom: 10px; }
+        .subtitle { color: #8b949e; margin-bottom: 30px; }
+        .back { margin-bottom: 20px; }
+        a { color: #58a6ff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .topic-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: all 0.3s;
+        }
+        .topic-card:hover {
+            border-color: #58a6ff;
+            transform: translateX(5px);
+        }
+        .topic-card h2 {
+            font-size: 1.3em;
+            margin-bottom: 8px;
+        }
+        .topic-card p {
+            color: #8b949e;
+            font-size: 0.95em;
+        }
+        .status {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            margin-left: 10px;
+        }
+        .status-active { background: #238636; color: white; }
+        .status-planned { background: #6e7681; color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p class="back"><a href="../">← 返回首頁</a></p>
+        <h1>📚 研究議題</h1>
+        <p class="subtitle">軒哥的研究筆記與學習紀錄</p>
+
+        <a href="01_ai_ui_design.md" style="text-decoration: none; color: inherit;">
+            <div class="topic-card">
+                <h2>🎨 如何透過 AI 製作高品質 UI <span class="status status-active">進行中</span></h2>
+                <p>探索 AI 設計工具，如 Figma AI、Galileo、Pencil 等，建立高效 UI 設計流程。</p>
+            </div>
+        </a>
+
+        <a href="02_ai_presentation.md" style="text-decoration: none; color: inherit;">
+            <div class="topic-card">
+                <h2>📊 如何透過 AI 製作高品質簡報 <span class="status status-active">進行中</span></h2>
+                <p>比較 9 款 AI 簡報工具，建立 Markdown + 圖片提示詞的工作流程。</p>
+            </div>
+        </a>
+
+        <a href="03_game_design.md" style="text-decoration: none; color: inherit;">
+            <div class="topic-card">
+                <h2>🎮 遊戲設計研究 <span class="status status-planned">規劃中</span></h2>
+                <p>為兒子的遊戲開發夢想準備，整理遊戲引擎、設計理論與學習資源。</p>
+            </div>
+        </a>
+
+        <a href="04_realtime_news.md" style="text-decoration: none; color: inherit;">
+            <div class="topic-card">
+                <h2>📰 如何蒐集即時的財經與科技快訊 <span class="status status-active">進行中</span></h2>
+                <p>建立自動化新聞蒐集系統，追蹤川普、馬斯克、黃仁勳、OpenAI 等動態。</p>
+            </div>
+        </a>
+
+        <a href="05_quant_trading.md" style="text-decoration: none; color: inherit;">
+            <div class="topic-card">
+                <h2>📈 量化投資機器人設計與量化策略研究 <span class="status status-active">進行中</span></h2>
+                <p>研究 MACD、RSI 策略，探索 KunQuant、TradingAgents 等工具。</p>
+            </div>
+        </a>
+
+        <a href="06_highschool_learning.md" style="text-decoration: none; color: inherit;">
+            <div class="topic-card">
+                <h2>📚 如何透過 AI 進行高中學習與大學聯考準備 <span class="status status-planned">規劃中</span></h2>
+                <p>探索 AI 輔助學習工具與方法，提升學習效率與考試準備。</p>
+            </div>
+        </a>
+    </div>
+</body>
+</html>
