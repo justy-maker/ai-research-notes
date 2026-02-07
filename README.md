@@ -27,7 +27,7 @@
 | 🎨 如何透過 AI 製作高品質 UI | 🟢 進行中 | [查看](topics/01_ai_ui_design.md) |
 | 📊 如何透過 AI 製作高品質簡報 | 🟢 進行中 | [查看](topics/02_ai_presentation.md) |
 | 🎮 遊戲設計研究 | 🟡 規劃中 | [查看](topics/03_game_design.md) |
-| 📰 如何蒐集即時的財經與科技快訊 | 🟢 進行中 | [查看](topics/04_realtime_news.md) |
+| 📰 如何蒐集即時的財經與科技快訊 | ✅ 已解決 | [查看](topics/04_realtime_news.md) |
 | 📈 量化投資機器人設計與策略研究 | 🟢 進行中 | [查看](topics/05_quant_trading.md) |
 | 📚 如何透過 AI 進行高中學習與聯考準備 | 🟡 規劃中 | [查看](topics/06_highschool_learning.md) |
 | 📣 AI 行銷推廣 | 🟡 規劃中 | [查看](topics/07_ai_marketing.md) |
