@@ -1,157 +1,129 @@
-# 量化投資機器人設計與量化策略研究
+# 📈 量化投資策略研究 (2026 Trends)
 
-> 研究進行中 🔬
-
-## 📋 研究目標
-
-探索量化交易策略與自動化交易系統的設計與實作。
+> **Deep Search 日期**: 2026-02-07
+> **來源**: Gemini CLI Deep Research
 
 ---
 
-## ✅ 最終解決方案
+The landscape of quantitative trading is undergoing a seismic shift, driven by advancements in Artificial Intelligence. By 2026, the synergy of sophisticated algorithms, vast datasets, and powerful computing infrastructure will unlock new frontiers in alpha generation and risk management.
 
-（待確定，需經過回測驗證）
+## 1. LLM Sentiment Analysis for Trading
 
-### 建議的開發路徑
+Large Language Models (LLMs) have evolved from text processing tools to critical components of trading strategies, capable of deciphering market sentiment from a deluge of unstructured data like news articles, social media, and financial reports.
 
-```
-Phase 1：學習基礎
-├── 學習 Python 量化庫
-├── 理解技術指標（MACD, RSI, EMA）
-└── 使用歷史數據回測
+### Core Application
+LLMs analyze text to quantify sentiment (positive, negative, neutral) and thematic trends, which are then used as signals for trading decisions. Specialized models like **FinBERT** and general-purpose ones like **GPT-4** are being fine-tuned on financial data to achieve high accuracy in sentiment classification, with some models predicting stock movement trends with up to 80% accuracy.
 
-Phase 2：策略開發
-├── 開發簡單策略
-├── 回測與優化
-└── 模擬交易驗證
+### ✅ Best Practices
+- **Domain-Specific Fine-Tuning:** Use LLMs fine-tuned on financial corpora (like SEC filings, earnings call transcripts) to better understand the nuances of financial language.
+- **Multi-Source Aggregation:** Combine sentiment signals from various sources (e.g., Twitter, news aggregators, forums) to create a more robust and comprehensive market view.
+- **Dynamic Adaptation:** The market's narrative changes quickly. Models should be continuously updated to adapt to new terminology, events, and sentiment drivers.
+- **Hybrid Models:** Combine sentiment features with traditional quantitative factors (like momentum and value) to improve the overall predictive power of a trading model.
 
-Phase 3：實盤部署
-├── 對接券商 API
-├── 風險控制機制
-└── 監控與維護
-```
+### 🔧 GitHub Projects
+- **[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT):** An open-source financial large language model that provides tools for sentiment analysis, news summarization, and more.
+- **[TradingAgents](https://github.com/TradeMaster-AI/TradingAgents):** A multi-agent LLM framework that simulates a trading firm, with agents specializing in sentiment analysis, fundamental analysis, and technical analysis.
+- **[LLM-Enhanced-Trading](https://github.com/Ronitt272/LLM-Enhanced-Trading):** A sentiment-driven trading system using FinGPT for real-time sentiment extraction from financial news.
 
 ---
 
-## 📝 研究筆記（新 → 舊）
+## 2. Machine Learning for Alpha Generation
 
-### 2026-02-07 22:45 - 阿福的研究發現與建議
+Machine learning (ML) is at the heart of modern alpha generation, enabling quant traders to uncover complex, non-linear patterns in market data that are invisible to traditional statistical methods.
 
-<details>
-<summary>研究過程</summary>
-<small>
+### Core Application
+ML models (from linear regression and random forests to complex neural networks) are used to forecast asset returns, volatility, and correlations. They can process vast amounts of traditional and alternative data (e.g., satellite imagery, credit card transactions) to identify new sources of alpha.
 
-**資料來源**：backtrader 官網、軒哥追蹤的頻道影片、量化社群
+### ✅ Best Practices
+- **Feature Engineering:** The quality of the input data is paramount. Focus on creating meaningful features that capture underlying economic relationships.
+- **Preventing Overfitting:** Employ rigorous backtesting, cross-validation, and regularization techniques to ensure that models are not just memorizing historical noise but are learning genuine patterns.
+- **Interpretability:** Use techniques like SHAP (SHapley Additive exPlanations) to understand which features are driving model predictions. This is crucial for risk management and building trust in the model.
+- **Ensemble Methods:** Combine multiple models to improve prediction accuracy and robustness.
 
-**研究方法**：整理量化框架和策略類型
-
-</small>
-</details>
-
-#### 🔍 研究發現
-
-**1. Python 量化框架比較**
-
-| 框架 | 特點 | 學習曲線 | 適合 |
-|------|------|----------|------|
-| **backtrader** | 功能完整、文檔豐富 | ⭐⭐ | 🏆 入門首選 |
-| zipline | Quantopian 出品 | ⭐⭐⭐ | 美股 |
-| vnpy | 中文社群活躍 | ⭐⭐⭐ | 國內市場 |
-| QuantLib | 金融建模專業 | ⭐⭐⭐⭐ | 衍生品 |
-| KunQuant | 高性能 | ⭐⭐⭐ | 高頻交易 |
-
-**2. 常見策略類型**
-
-| 類型 | 策略 | 難度 | 說明 |
-|------|------|------|------|
-| 趨勢跟蹤 | 均線交叉 | ⭐ | 入門經典 |
-| 趨勢跟蹤 | MACD 策略 | ⭐⭐ | 動量判斷 |
-| 均值回歸 | RSI 超買超賣 | ⭐⭐ | 短線操作 |
-| 突破策略 | 布林帶突破 | ⭐⭐ | 波動交易 |
-| 統計套利 | 配對交易 | ⭐⭐⭐ | 需要統計基礎 |
-| 機器學習 | LSTM 預測 | ⭐⭐⭐⭐ | 需要 ML 基礎 |
-
-**3. 從影片整理的策略**
-
-| 影片 | 策略 | 關鍵點 |
-|------|------|--------|
-| MACD 魔改 | MACD 變體 | 調整參數適應市場 |
-| 複合策略 | MACD+RSI+EMA | 多指標確認 |
-| Kronos | K線預測 | AI 輔助判斷 |
-| TradingAgents | AI 分析 | LLM 解讀財報 |
-
-**4. 風險管理要點**
-
-| 項目 | 建議 |
-|------|------|
-| 單筆風險 | 不超過 2% 總資金 |
-| 最大回撤 | 設定停損線（如 -15%）|
-| 分散投資 | 多策略、多市場 |
-| 槓桿控制 | 初學者避免使用 |
-| 蒙特卡洛 | 模擬極端情況 |
-
-**5. 台灣市場特殊考量**
-
-| 項目 | 說明 |
-|------|------|
-| 券商 API | 元大、富邦等有提供 |
-| 當沖限制 | 需開通當沖資格 |
-| 交易成本 | 手續費 0.1425%、交易稅 0.3% |
-| 資料來源 | 證交所、TEJ |
-
-#### 💡 建議作法
-
-**入門學習順序**
-
-1. **基礎準備（1-2 週）**
-   ```python
-   # 學習這些庫
-   import pandas as pd      # 數據處理
-   import numpy as np       # 數值計算
-   import matplotlib.pyplot # 視覺化
-   ```
-
-2. **框架學習（2-3 週）**
-   - 安裝 backtrader
-   - 完成官方 QuickStart
-   - 實作第一個均線策略
-
-3. **策略開發（持續）**
-   - 從簡單策略開始
-   - 逐步增加複雜度
-   - 記錄每個策略的表現
-
-**推薦學習資源**
-
-| 資源 | 類型 | 連結 |
-|------|------|------|
-| backtrader 文檔 | 官方 | backtrader.com/docu |
-| QuantStart | 教學 | quantstart.com |
-| 知乎量化專欄 | 中文 | 搜尋「Python 量化」 |
-
-**第一個策略建議**
-
-```python
-# 雙均線交叉策略（建議從這開始）
-# 短期均線上穿長期均線 → 買入
-# 短期均線下穿長期均線 → 賣出
-```
+### 🔧 GitHub Projects
+- **[machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading):** A comprehensive repository with code and examples for applying ML to algorithmic trading, covering everything from data sourcing to strategy implementation.
+- **[alpha-gfn](https://github.com/nshen7/alpha-gfn):** A deep reinforcement learning framework for generating formulaic alpha factors.
+- **[AlphaTransform](https://github.com/kleonang/AlphaTransform):** A quantitative trading strategy generation and backtesting framework using reinforcement learning with a Transformer network.
 
 ---
 
-### 2026-02-07 - 整理相關影片
+## 3. Reinforcement Learning Trading Strategies
 
-**產出**：整理了 9 部量化相關影片的摘要
+Reinforcement Learning (RL) represents a paradigm shift in algorithmic trading. Instead of predicting the market, RL agents learn to make optimal trading decisions through trial and error, directly interacting with a simulated market environment.
+
+### Core Application
+An RL agent (the trading algorithm) learns a policy to take actions (buy, sell, hold) in a given state (market conditions, portfolio composition) to maximize a cumulative reward (profit).
+
+### ✅ Best Practices
+- **Realistic Environment Simulation:** The simulated trading environment must accurately reflect real-world market dynamics, including transaction costs, slippage, and market impact.
+- **Reward Function Design:** The reward function must be carefully designed to align with the desired trading objectives, such as maximizing Sharpe ratio or minimizing drawdown, not just raw profit.
+- **Risk Management Integration:** Hard-coded risk management rules (e.g., stop-losses, position sizing limits) should be integrated with the RL agent to prevent catastrophic losses.
+- **State Representation:** The state representation should include a rich set of features, such as technical indicators, market sentiment, and order book data, to provide the agent with a comprehensive view of the market.
+
+### 🔧 GitHub Projects
+- **[FinRL](https://github.com/AI4Finance-Foundation/FinRL):** The leading open-source framework for deep RL in quantitative finance.
+- **[rl-trading](https://github.com/bolder-project/rl-trading):** A repository containing various RL agents and trading environments for stocks, forex, and crypto.
+- **[stable-baselines3](https://github.com/DLR-RM/stable-baselines3):** A popular library of RL algorithms that can be applied to custom trading environments.
 
 ---
 
-## 📚 相關資源
+## 4. Platforms and APIs Comparison
 
-- [backtrader](https://www.backtrader.com/)
-- [AI 超元域量化影片](../youtubers/aisuperdomain/)
-- [秋芝2046 量化影片](../youtubers/qiuzhi2046_bilibili/)
-- [MACD 魔改策略](../2026-02-07_macd魔改量化策略.md)
+### QuantConnect
+- **優勢**: 完整的回測引擎、多資產支援、雲端運行
+- **語言**: Python, C#
+- **適用**: 機構級策略開發
+
+### Alpaca API
+- **優勢**: 零手續費美股交易、簡單 REST API
+- **語言**: Python, JavaScript, Go
+- **適用**: 個人量化交易、快速原型開發
+
+### 其他平台
+- **Backtrader**: Python 本地回測框架
+- **Zipline**: Quantopian 開源回測引擎
+- **VectorBT**: 高效能向量化回測
 
 ---
 
-*最後更新：2026-02-07 22:45*
+## 5. FinRL Framework 深度解析
+
+**[FinRL](https://github.com/AI4Finance-Foundation/FinRL)** 是 AI4Finance Foundation 開發的開源深度強化學習框架，專為量化投資設計。
+
+### 核心特色
+- **三層架構**: 環境層、代理層、應用層
+- **多策略支援**: 股票交易、投資組合配置、高頻交易
+- **預建環境**: 美股、加密貨幣、期貨等市場
+- **SOTA 算法**: PPO, A2C, DDPG, SAC 等
+
+### 最佳實踐
+1. 從預建環境開始學習
+2. 設計合理的獎勵函數（考慮風險調整收益）
+3. 使用多代理系統進行組合優化
+4. 持續監控實盤與模擬的差異
+
+---
+
+## 📊 工具對比表
+
+| 類別 | 工具 | 特色 | 適用場景 |
+|------|------|------|----------|
+| 情緒分析 | FinGPT | 金融專用 LLM | 新聞、社交媒體分析 |
+| ML Alpha | Machine Learning for Trading | 完整教學 | 學習 ML 量化 |
+| RL 交易 | FinRL | 深度 RL 框架 | 自動化策略開發 |
+| 回測平台 | QuantConnect | 雲端、多資產 | 機構級開發 |
+| 交易 API | Alpaca | 免費美股 | 個人量化 |
+
+---
+
+## 🚀 2026 關鍵趨勢
+
+1. **LLM + 量化融合**: 情緒分析成為主流 alpha 來源
+2. **多代理協作**: 模擬交易公司的分工合作
+3. **替代數據爆發**: 衛星圖像、社交媒體、供應鏈數據
+4. **風險感知 RL**: 獎勵函數整合風險指標
+5. **可解釋 AI**: SHAP、LIME 應用於策略審計
+
+---
+
+*更新日期: 2026-02-07*
