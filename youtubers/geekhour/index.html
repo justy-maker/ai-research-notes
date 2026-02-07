@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>geekhour - 影片列表</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0d1117;
+            color: #e6edf3;
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 1.8em; margin-bottom: 20px; }
+        .back { margin-bottom: 20px; }
+        a { color: #58a6ff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .video-list { list-style: none; }
+        .video-list li {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+        .video-list li:hover { border-color: #58a6ff; }
+        .count { color: #8b949e; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p class="back"><a href="../">← 返回頻道列表</a></p>
+        <h1>📺 geekhour</h1>
+        <p class="count">共 7 部影片</p>
+        <ul class="video-list">
+            <li><a href="20250207-数据大屏-DataEase.md">20250207-数据大屏-DataEase</a></li>
+            <li><a href="20250215-Vim进阶技巧.md">20250215-Vim进阶技巧</a></li>
+            <li><a href="20250604-CANN异构计算架构.md">20250604-CANN异构计算架构</a></li>
+            <li><a href="20250611-大模型到底是啥.md">20250611-大模型到底是啥</a></li>
+            <li><a href="20250619-API对接大模型.md">20250619-API对接大模型</a></li>
+            <li><a href="20250628-Cursor教程.md">20250628-Cursor教程</a></li>
+            <li><a href="20260202-OpenClaw部署教程.md">20260202-OpenClaw部署教程</a></li>
+        </ul>
+    </div>
+</body>
+</html>
