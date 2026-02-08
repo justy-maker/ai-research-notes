@@ -20,8 +20,14 @@
   - [⚡ 自動化工作流](topics/10_automation_workflow.md)
   - [🎬 AI 影片生成](topics/11_ai_video_generation.md)
 
+- **📖 教學影片**
+  - [Beautiful.ai](tutorials/beautiful-ai/)
+  - [v0.dev](tutorials/v0-dev/)
+  - [Framer](tutorials/framer/)
+
 - **📺 頻道整理**
   - [所有頻道](youtubers/)
+  - [BRAINY DOSE](youtubers/brainydose/)
 
 - **🎨 簡報作品**
   - [查看簡報](presentations/)
