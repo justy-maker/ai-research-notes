@@ -7,6 +7,9 @@
   - [📝 會議記錄工具](#)
   - [💼 智慧報價系統](#)
 
+- **📰 研究報告**
+  - [OpenAI vs Anthropic Agent Teams](2026-02-08_AI-Agent-Teams-Research.md)
+
 - **🔬 研究議題**
   - [🎨 AI 製作高品質 UI](topics/01_ai_ui_design.md)
   - [📊 AI 製作高品質簡報](topics/02_ai_presentation.md)
