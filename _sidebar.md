@@ -30,6 +30,7 @@
 
 - **📺 頻道整理**
   - [所有頻道](youtubers/)
+  - [Y Combinator](youtubers/ycombinator/)
   - [BRAINY DOSE](youtubers/brainydose/)
 
 - **🎨 簡報作品**

@@ -15,6 +15,7 @@
 | [Dr. Berg 中文](drberg_chinese/) | 健康/營養 | 20 |
 | [Simon Sinek](simon_sinek/) | 領導力/商業 | 16 |
 | [Tech With Tim](tech_with_tim/) | 程式/職涯 | 20 |
+| [Y Combinator](ycombinator/) | 創業/AI | 5 |
 
 ## B站 頻道
 
