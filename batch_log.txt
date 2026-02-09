@@ -1,0 +1,9 @@
+開始處理 90 支影片...
+==========================
+[1/90] 跳過 (已存在): Inside The Startup Building Reusable Rockets
+[2/90] 跳過 (已存在): How Intelligent Is AI, Really?
+[3/90] 跳過 (已存在): From Pivot Hell To 1.4 Billion Unicorn
+[4/90] 跳過 (已存在): How Amplitude Went From Skeptics to All In on AI
+[5/90] 處理: The Best Consumer Startup Ideas Were Impossible Until Now
+  ✓ 成功
+  等待 30 秒...
