@@ -1,0 +1,25 @@
+# intheworldofai
+
+## 影片列表
+
+- [How to Use Google's Antigravity Better than 99%!](20260116-antigravity-guide.md)
+- [Gemini Agent Mode Upgraded: Build ANYTHING FREE!](20260117-gemini-agent-mode.md)
+- [Gemini Whisk Designer: Build Websites FOR FREE!](20260119-gemini-whisk-designer.md)
+- [Antigravity AgentKit: Supercharge AI 100x!](20260120-antigravity-agentkit.md)
+- [Gemini Cowork: AI Operating System!](20260121-gemini-cowork.md)
+- [Antigravity + Opencode: Best AI Coding Workflow!](20260122-antigravity-opencode.md)
+- [Zenflow: First-Ever AI Software Engineer!](20260123-zenflow.md)
+- [Pencil.dev: Greatest AI Design System!](20260124-pencil-dev.md)
+- [ClawdBot: 24/7 AI Agent Employee!](20260126-clawdbot.md)
+- [Gemini 3.5: Google's Greatest Model Ever!](20260127-gemini-3-5.md)
+- [Kimi K2.5: GREATEST Opensource Model Beats Opus 4.5!](20260128-kimi-k2-5.md)
+- [Gemini in Chrome: Automate ANY Browser Task!](20260129-gemini-chrome.md)
+- [Manus 1.6: AI Super Agent That Can DO ANYTHING!](20260130-manus-1-6.md)
+- [Antigravity + Stitch: Build Anything FOR FREE!](20260131-antigravity-stitch.md)
+- [Epic Mode: NEW Toolkit Ends Vibe Coding!](20260201-epic-mode-traycer.md)
+- [Stop Paying for ElevenLabs - NEW #1 AI Voice Is FREE!](20260202-inworld-tts-1-5.md)
+- [OpenClaw + Antigravity: 全自主工程團隊!](20260203-openclaw-antigravity.md)
+- [Claude Sonnet 5: Greatest AI Coding Model Ever!](20260204-claude-sonnet-5.md)
+- [Claude Code With UNLIMITED Memory!](20260205-claude-code-unlimited-memory.md)
+- [Claude Opus 4.6: Greatest AI Coding Model Ever!](20260206-claude-opus-4-6.md)
+- [In The World of AI (@intheworldofai) 影片摘要](README.md)
