@@ -8,30 +8,33 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #0d1117;
-            color: #e6edf3;
+            background: #ffffff;
+            color: #333333;
             line-height: 1.6;
             padding: 40px 20px;
         }
         .container { max-width: 900px; margin: 0 auto; }
-        h1 { font-size: 2em; margin-bottom: 10px; }
-        .subtitle { color: #8b949e; margin-bottom: 30px; }
-        h2 { color: #58a6ff; margin: 30px 0 15px; font-size: 1.3em; }
+        h1 { font-size: 2em; margin-bottom: 10px; color: #2e7d32; }
+        .subtitle { color: #666666; margin-bottom: 30px; }
+        h2 { color: #388e3c; margin: 30px 0 15px; font-size: 1.3em; }
         table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
-        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #30363d; }
-        th { background: #161b22; color: #58a6ff; font-weight: 600; }
-        tr:hover { background: rgba(88, 166, 255, 0.1); }
-        a { color: #58a6ff; text-decoration: none; }
-        a:hover { text-decoration: underline; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #e0e0e0; }
+        th { background: #e8f5e9; color: #2e7d32; font-weight: 600; }
+        tr:hover { background: #f1f8e9; }
+        a { color: #388e3c; text-decoration: none; }
+        a:hover { text-decoration: underline; color: #1b5e20; }
         .stats { 
-            background: #161b22; 
-            border: 1px solid #30363d; 
+            background: #e8f5e9; 
+            border: 1px solid #c8e6c9; 
             border-radius: 8px; 
             padding: 20px; 
             margin-top: 30px;
             text-align: center;
+            color: #2e7d32;
         }
         .back { margin-bottom: 20px; }
+        .back a { color: #666666; }
+        .back a:hover { color: #388e3c; }
     </style>
 </head>
 <body>
@@ -43,23 +46,25 @@
         <h2>YouTube 頻道</h2>
         <table>
             <tr><th>頻道</th><th>類型</th><th>影片數</th></tr>
-            <tr><td><a href="dan_martell/">Dan Martell</a></td><td>創業/AI</td><td>11</td></tr>
-            <tr><td><a href="dankoe/">Dan Koe</a></td><td>個人成長/創業</td><td>20</td></tr>
-            <tr><td><a href="intheworldofai/">In The World of AI</a></td><td>AI 工具/教程</td><td>21</td></tr>
-            <tr><td><a href="geekhour/">GeekHour 極客時間</a></td><td>技術教程</td><td>7</td></tr>
-            <tr><td><a href="alan_design/">Alan Design</a></td><td>UI/設計</td><td>21</td></tr>
-            <tr><td><a href="aisuperdomain/">AI 超元域</a></td><td>AI 教程</td><td>20</td></tr>
-            <tr><td><a href="drberg_chinese/">Dr. Berg 中文</a></td><td>健康/營養</td><td>20</td></tr>
-            <tr><td><a href="simon_sinek/">Simon Sinek</a></td><td>領導力/商業</td><td>16</td></tr>
-            <tr><td><a href="tech_with_tim/">Tech With Tim</a></td><td>程式/職涯</td><td>20</td></tr>
+            <tr><td><a href="dan_martell/index.html">Dan Martell</a></td><td>創業/AI</td><td>11</td></tr>
+            <tr><td><a href="dankoe/index.html">Dan Koe</a></td><td>個人成長/創業</td><td>20</td></tr>
+            <tr><td><a href="intheworldofai/index.html">In The World of AI</a></td><td>AI 工具/教程</td><td>21</td></tr>
+            <tr><td><a href="geekhour/index.html">GeekHour 極客時間</a></td><td>技術教程</td><td>7</td></tr>
+            <tr><td><a href="alan_design/index.html">Alan Design</a></td><td>UI/設計</td><td>21</td></tr>
+            <tr><td><a href="aisuperdomain/index.html">AI 超元域</a></td><td>AI 教程</td><td>20</td></tr>
+            <tr><td><a href="drberg_chinese/index.html">Dr. Berg 中文</a></td><td>健康/營養</td><td>20</td></tr>
+            <tr><td><a href="simon_sinek/index.html">Simon Sinek</a></td><td>領導力/商業</td><td>16</td></tr>
+            <tr><td><a href="tech_with_tim/index.html">Tech With Tim</a></td><td>程式/職涯</td><td>20</td></tr>
+            <tr><td><a href="brainydose/index.html">Brainy Dose</a></td><td>心理學/自我成長</td><td>2</td></tr>
+            <tr><td><a href="ycombinator/index.html">Y Combinator</a></td><td>創業/投資</td><td>20+</td></tr>
         </table>
 
         <h2>B站 頻道</h2>
         <table>
             <tr><th>頻道</th><th>類型</th><th>影片數</th></tr>
-            <tr><td><a href="aisuperdomain_bilibili/">AI 超元域 (B站)</a></td><td>AI 教程</td><td>20</td></tr>
-            <tr><td><a href="aiseeker_bilibili/">AI-seeker</a></td><td>AI 教程</td><td>20</td></tr>
-            <tr><td><a href="qiuzhi2046_bilibili/">秋芝2046</a></td><td>AI 教程</td><td>20</td></tr>
+            <tr><td><a href="aisuperdomain_bilibili/index.html">AI 超元域 (B站)</a></td><td>AI 教程</td><td>20</td></tr>
+            <tr><td><a href="aiseeker_bilibili/index.html">AI-seeker</a></td><td>AI 教程</td><td>20</td></tr>
+            <tr><td><a href="qiuzhi2046_bilibili/index.html">秋芝2046</a></td><td>AI 教程</td><td>20</td></tr>
         </table>
 
         <div class="stats">
