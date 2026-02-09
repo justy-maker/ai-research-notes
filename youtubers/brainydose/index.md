@@ -12,4 +12,6 @@
 - [10 Things That Make You Look Like a Loser](08-look-like-loser.md)
 - [Why Nothing Feels Fun and Exciting Anymore](09-nothing-feels-fun.md)
 - [Why Self-Awareness Leads to Fewer Friends](10-self-awareness-fewer-friends.md)
+- [我們為何懷念過去？——懷舊的失真現象](11-nostalgia-glitch.md)
+- [小費文化如何成為一種常態化的詐騙](12-tipping-culture-scam.md)
 - [BRAINY DOSE 頻道摘要](README.md)

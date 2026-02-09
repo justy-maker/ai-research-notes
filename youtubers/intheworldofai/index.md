@@ -22,4 +22,6 @@
 - [Claude Sonnet 5: Greatest AI Coding Model Ever!](20260204-claude-sonnet-5.md)
 - [Claude Code With UNLIMITED Memory!](20260205-claude-code-unlimited-memory.md)
 - [Claude Opus 4.6: Greatest AI Coding Model Ever!](20260206-claude-opus-4-6.md)
+- [Gemini 3.0 Pro GA 將成為 Google 有史以來最棒的模型！](20260210-gemini-3-pro-ga.md)
+- [GPT-5.3 Codex 太瘋狂了！OpenAI 最強模型可能擊敗 Opus 4.6？](20260210-gpt-5-3-codex.md)
 - [In The World of AI (@intheworldofai) 影片摘要](README.md)
