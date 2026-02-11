@@ -14,4 +14,5 @@
 - [Why Self-Awareness Leads to Fewer Friends](10-self-awareness-fewer-friends.md)
 - [我們為何懷念過去？——懷舊的失真現象](11-nostalgia-glitch.md)
 - [小費文化如何成為一種常態化的詐騙](12-tipping-culture-scam.md)
+- [為什麼這麼多聰明人選擇退出世界？](13-intelligent-people-quitting-world.md)
 - [BRAINY DOSE 頻道摘要](README.md)

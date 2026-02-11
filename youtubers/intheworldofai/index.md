@@ -24,4 +24,6 @@
 - [Claude Opus 4.6: Greatest AI Coding Model Ever!](20260206-claude-opus-4-6.md)
 - [Gemini 3.0 Pro GA 將成為 Google 有史以來最棒的模型！](20260210-gemini-3-pro-ga.md)
 - [GPT-5.3 Codex 太瘋狂了！OpenAI 最強模型可能擊敗 Opus 4.6？](20260210-gpt-5-3-codex.md)
+- [GLM-5 洩露？全新 Pony Alpha 隱形模型太瘋狂！](20260212-glm5-pony-alpha.md)
+- [如何輕鬆使用 n8n 自動化 PDF 資料提取！](20260212-n8n-pdf-extraction.md)
 - [In The World of AI (@intheworldofai) 影片摘要](README.md)

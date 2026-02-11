@@ -13,3 +13,4 @@
 - [These 6 ChatGPT Hacks Will Make You So Much Money](video_bkM-lYgAxh0.md)
 - [How to Be So Productive It Feels Like Cheating](video_iQX_Cc0aHhg.md)
 - [I Ranked the Best AI Tools to Make Money in 2026](video_xXxrvra9DQg.md)
+- [為何偷懶反而讓你更成功](video_J8mCcVp4c1M.md)
