@@ -22,4 +22,6 @@
 - [OpenClaw 自動進化技巧：打造全自動智能超級助手](20260131-openclaw-auto-evolution.md)
 - [OpenClaw 多 Agent 高級玩法：Token 消耗減半的正確使用方式](20260204-openclaw-multi-agent.md)
 - [Claude Opus 4.6 vs GPT-5.3-Codex 七大維度深度實測](20260206-opus46-vs-gpt53.md)
+- [OpenClaw 多 Agent 協作 + 模型容災 + 雲端操控本地](20260208-openclaw-multi-agent-disaster-recovery.md)
+- [OpenClaw Hooks 回調實現零輪詢 Token 優化](20260210-openclaw-hooks-zero-polling.md)
 - [AI 超元域 (@aisuperdomain) 影片摘要](README.md)

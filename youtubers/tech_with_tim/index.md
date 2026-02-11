@@ -22,4 +22,5 @@
 - [I Tested 3 Interview Prep Methods So You Don't Have To](2026-02-01_interview-prep-methods-tested.md)
 - [Learning to code has changed](2026-02-02_learning-to-code-has-changed.md)
 - [How to get a software engineer remote job - Full Roadmap](2026-02-05_remote-software-engineer-job-roadmap.md)
+- [ClawdBot/OpenClaw 新手完整教學：安全設定指南](2026-02-06_clawdbot-secure-setup-guide.md)
 - [Tech With Tim - 影片摘要目錄](README.md)
