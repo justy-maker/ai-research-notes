@@ -2,6 +2,19 @@
 
 ## 影片列表
 
+### 🆕 最新更新 (2026-02-11)
+
+- [血赚不亏！用 Minimax M2.1 玩转 OpenClaw，低成本解锁最强玩法](BV1E4F9zeErb.md)
+- [GPT-5.3 本周发布｜GLM-5 模型泄露，Claude Cowork 移动端上线！](BV1oyFDzsEjd.md)
+- [Gemini 3.0 Pro GA：谷歌史上最强模型（早期测试）](BV1mfcuzoEwA.md)
+- [Claude Code Agent Teams：最强功能正式登场（附完整教程）](BV1MkcczqEL5.md)
+- [GPT-5.3 Codex 直接封神！OpenAI 王炸模型实测能否干翻 Opus 4.6？](BV1h5cwzyEBN.md)
+- [Anthropic 突然放料！Opus 4.6 全新上线](BV1g9FxzGEqT.md)
+- [Pony Alpha+OpenClaw：免费隐身模型完胜 OPUS！](BV1CDcczcEJ5.md)
+- [终于摸透了！OpenClaw 的最佳运行方法被我破解了](BV1uRFxzrEg2.md)
+
+### 之前更新
+
 - [Moltbook 2.0：AI 智能体雇佣人类，8 万 + 加入！](BV14vFez4ETy.md)
 - [OpenAI 打造 ChatGPT 专属 AGI 机器人，颠覆一切](BV16KFFzJEi2.md)
 - [集体整活！OpenAI 终于上线 AI 编程 APP，谷歌甩出 CONDUCTOR，Sonnet 5 还泄露了](BV1BuFFzjEhw.md)
@@ -11,7 +24,7 @@
 - [【Antigravity+Stitch MCP】全新 AI 智能体，可独立搭建完整网站！](BV1ZtffB5ERv.md)
 - [绝了！Vercel 的超强技能秘籍，一个简易文件夹让 Claude 写代码直接猛 10 倍！](BV1bqFLzVENL.md)
 - [GPT-5.3 Codex 硬刚 Opus 4.6！全维度深度实测，谁赢麻了一眼看穿！](BV1daFkzhEYS.md)
-- [实测出炉！Codex 桌面端 + 免费 GPT-5.2 Codex 上线，OpenAI 这波是抄 Conductor、Commander？](BV1deffBgEqo.md)
+- [实测出炉！Codex 桌面端 + 免费 GPT-5.2 Codex 上线](BV1deffBgEqo.md)
 - [Claude Opus 4.6 杀疯了！堪称 AI 编码天花板，百万上下文直接拉满！](BV1eeFkzFE9o.md)
 - [【Claude Opus 4.6 & GPT-5.3 Codex】两大新模型今日发布！完整解析奉上](BV1mDFkzEE3e.md)
 - [炸了！马斯克实锤 Optimus Gen 3 将至，特斯拉居然停产 Model S 和 X！](BV1mrFLz6EF9.md)
@@ -22,4 +35,6 @@
 - [【Claude Sonnet 5 泄露】一次提示词直接生成 5000 行代码！](BV1yRffBdEeK.md)
 - [离谱！AI 自研社交 MOLTBOOT，居然把人类全给禁了！](BV1yVFkzCEry.md)
 - [【Claude Code 重磅更新】解锁无限内存！彻底解决记忆难题！](BV1yzFez9E2e.md)
-- [AI-seeker B站頻道影片摘要](README.md)
+
+---
+*頻道介紹見 [README.md](README.md)*

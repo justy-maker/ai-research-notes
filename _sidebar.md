@@ -32,6 +32,11 @@
   - [所有頻道](youtubers/)
   - [Y Combinator](youtubers/ycombinator/)
   - [BRAINY DOSE](youtubers/brainydose/)
+  
+- **🔴 B站頻道**
+  - [AI-seeker](youtubers/aiseeker_bilibili/)
+  - [AI 超元域](youtubers/aisuperdomain_bilibili/)
+  - [秋芝2046](youtubers/qiuzhi2046_bilibili/)
 
 - **🎨 簡報作品**
   - [查看簡報](presentations/)
