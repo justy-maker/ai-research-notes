@@ -33,3 +33,4 @@
 - [We're All Bad At Being Human](d_13NyreOGo_we_are_all_bad_at_being_human.md)
 - [How To Make People Feel Seen](g6sDRbo4S6g_how_to_make_people_feel_seen.md)
 - [The Hardest Part About Leadership](qtn-gwHWFFU_hardest_part_about_leadership.md)
+- [When Pop Fandom Becomes a Force for Good with AJR's Adam Met](K1757kpOpjs_pop_fandom_force_for_good.md)
