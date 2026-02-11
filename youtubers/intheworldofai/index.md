@@ -26,4 +26,7 @@
 - [GPT-5.3 Codex 太瘋狂了！OpenAI 最強模型可能擊敗 Opus 4.6？](20260210-gpt-5-3-codex.md)
 - [GLM-5 洩露？全新 Pony Alpha 隱形模型太瘋狂！](20260212-glm5-pony-alpha.md)
 - [如何輕鬆使用 n8n 自動化 PDF 資料提取！](20260212-n8n-pdf-extraction.md)
+- [GLM-5 洩漏？Pony Alpha 隱身模型媲美 Opus 4.6！](video_MfJXFF1-o0E.md)
+- [使用 n8n 輕鬆自動化 PDF 資料提取](video_7I7CL9iNxS4.md)
+- [Gemini 3.0 Pro GA 將成為 Google 史上最強模型！](video_tPTMHT4O4HQ.md)
 - [In The World of AI (@intheworldofai) 影片摘要](README.md)

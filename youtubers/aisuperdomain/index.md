@@ -24,4 +24,7 @@
 - [Claude Opus 4.6 vs GPT-5.3-Codex 七大維度深度實測](20260206-opus46-vs-gpt53.md)
 - [OpenClaw 多 Agent 協作 + 模型容災 + 雲端操控本地](20260208-openclaw-multi-agent-disaster-recovery.md)
 - [OpenClaw Hooks 回調實現零輪詢 Token 優化](20260210-openclaw-hooks-zero-polling.md)
+- [OpenClaw 高級使用：Claude Code 最省 Token 技巧](video_iJEfIc1mrsc.md)
+- [OpenClaw 五分鐘打造多 Agent 協作編程團隊](video_pvlPkUauHis.md)
+- [OpenClaw 實測 Claude Opus 4.6 vs GPT-5.3-Codex](video_Veoin_nqfOE.md)
 - [AI 超元域 (@aisuperdomain) 影片摘要](README.md)
