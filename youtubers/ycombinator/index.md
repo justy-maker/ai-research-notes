@@ -8,6 +8,7 @@ Y Combinator 是全球最知名的新創加速器，培育出 Airbnb、Dropbox�
 ## 已整理影片
 
 ### AI 工具與開發
+- [我們都對 Claude Code 上癮了](20260212-addicted-to-claude-code.md) - Claude Code CLI 效率、上下文管理與編碼代理最佳實踐 (2026-02-12 更新)
 - [We're All Addicted To Claude Code](qwmmWzPnhog-were-all-addicted-to-claude-code.md) - Claude Code 使用心得與 AI 編程工具比較
 
 ### AI 產業分析
@@ -23,5 +24,6 @@ Y Combinator 是全球最知名的新創加速器，培育出 Airbnb、Dropbox�
 - [From Idea to $650M Exit: Lessons in Building AI Startups](l0h3nAW13ao-from-idea-to-650m-exit-lessons-in-buildi.md) - AI 創業到 6.5 億美元出場的經驗分享
 
 ### AI Agent 與未來
+- [OpenClaw 創作者：為何 80% 的應用程式將會消失](20260212-openclaw-creator-80-percent-apps-disappear.md) - 本地運行 AI 代理、數據主權、soul.md 概念 (2026-02-12 更新)
 - [OpenClaw Creator: Why 80% Of Apps Will Disappear](4uzGDAoNOZc-openclaw-creator-80-percent-apps-disappear.md) - OpenClaw 創作者談 80% App 將消失的原因
 
