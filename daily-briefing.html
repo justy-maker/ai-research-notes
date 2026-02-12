@@ -6,7 +6,7 @@
     <title>每日早報 - 2026年2月12日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans TC", sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
@@ -15,131 +15,64 @@
             color: #333;
         }
         h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
+            border-bottom: 2px solid #333;
             padding-bottom: 10px;
         }
         h2 {
-            color: #34495e;
             margin-top: 30px;
+            color: #444;
         }
-        .weather {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
+        p {
+            margin: 15px 0;
+            text-align: justify;
         }
-        .news-item {
-            background: white;
-            padding: 15px;
-            margin: 10px 0;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        .video-item {
-            background: #fff3e0;
-            padding: 15px;
-            margin: 10px 0;
-            border-radius: 8px;
-        }
-        .video-item a {
-            color: #e65100;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .video-item a:hover {
-            text-decoration: underline;
-        }
-        .footer {
-            margin-top: 40px;
-            text-align: center;
-            color: #7f8c8d;
+        .date {
+            color: #666;
             font-size: 0.9em;
+        }
+        .section {
+            margin-bottom: 30px;
         }
     </style>
 </head>
 <body>
     <h1>每日早報</h1>
-    <p>2026年2月12日 星期四</p>
+    <p class="date">2026年2月12日 星期四</p>
 
-    <div class="weather">
-        <h2 style="color:white;margin-top:0;">台北天氣</h2>
-        <p>今天台北天氣舒適，氣溫攝氏17.6度，部分多雲。東風吹拂，風速約每小時12公里，適合外出活動。記得帶件薄外套以備早晚溫差。</p>
-    </div>
-
-    <h2>科技新聞摘要</h2>
-    
-    <div class="news-item">
-        <strong>Google</strong><br>
-        Google 發布了最新的 AI 模型系列，旨在提升其搜尋引擎和雲端服務的效率與準確性。
-    </div>
-    
-    <div class="news-item">
-        <strong>OpenAI 與 Sam Altman</strong><br>
-        OpenAI 宣布一項新的合作計畫，將 GPT 技術整合到更多企業級應用程式中。Sam Altman 同時透露公司正在探索新的人機互動方式，目標是讓 AI 更自然地融入人類的日常工作流程。
-    </div>
-    
-    <div class="news-item">
-        <strong>TSMC 台積電</strong><br>
-        台積電確認其下一代 2 奈米晶片製程進展順利，預計將如期量產，以應對 AI 硬體的強勁需求。
-    </div>
-    
-    <div class="news-item">
-        <strong>馬斯克與 xAI</strong><br>
-        馬斯克旗下的人工智慧公司 xAI 公布了其大型語言模型的更新，強調在處理即時資訊方面的獨特優勢。
-    </div>
-    
-    <div class="news-item">
-        <strong>黃仁勳與 NVIDIA</strong><br>
-        黃仁勳在一次演講中表示，NVIDIA 的下一代 GPU 將為生成式 AI 帶來前所未有的運算能力，並預計將加速科學研究的進程。
-    </div>
-    
-    <div class="news-item">
-        <strong>Anthropic</strong><br>
-        Anthropic 為其 AI 模型 Claude 推出了新的安全功能，旨在為企業用戶提供更可靠和可控的 AI 互動環境。
-    </div>
-    
-    <div class="news-item">
-        <strong>川普談科技監管</strong><br>
-        川普在一場公開活動中提及科技巨頭的影響力，並表示若再次當選，將對 AI 產業的監管採取更嚴格的立場。
+    <div class="section">
+        <h2>今日天氣</h2>
+        <p>台北今日天氣資訊暫時無法取得，建議出門前查看中央氣象署官網或手機天氣 App 確認最新天氣狀況。</p>
     </div>
 
-    <h2>今日新整理影片</h2>
-    <p>新增頻道 Liam Ottley，共整理 5 部影片：</p>
-    
-    <div class="video-item">
-        <a href="https://youtube.com/watch?v=RXBjzT8gQ2g" target="_blank">My Honest Thoughts on the OpenClaw Hype</a><br>
-        <small>2026-02-08</small><br>
-        OpenClaw 作為 AI 應用平台的潛力，強調持續學習和解決實際問題的重要性
-    </div>
-    
-    <div class="video-item">
-        <a href="https://youtube.com/watch?v=HiC1J8a9V1I" target="_blank">How to Scale Your AI Agency (Forward Deployed Engineer Model)</a><br>
-        <small>2026-02-03</small><br>
-        運用前置部署工程師模型擴展 AI 代理業務
-    </div>
-    
-    <div class="video-item">
-        <a href="https://youtube.com/watch?v=CSULpfABy0I" target="_blank">Every AI Business Model Explained in 8 Minutes</a><br>
-        <small>2026-01-31</small><br>
-        11 種可行的 AI 商業模式介紹
-    </div>
-    
-    <div class="video-item">
-        <a href="https://youtube.com/watch?v=XC5oeZnMvcg" target="_blank">ClawdBot is INSANE. 3 Ways to Make Money With It</a><br>
-        <small>2026-01-28</small><br>
-        ClawdBot 賺錢的三種方式
-    </div>
-    
-    <div class="video-item">
-        <a href="https://youtube.com/watch?v=Tt-hpp87pd0" target="_blank">Did Claude Just Replace Video Editors? (Remotion Breakdown)</a><br>
-        <small>2026-01-26</small><br>
-        Remotion 與 Claude Code 結合的 AI 影片編輯
+    <div class="section">
+        <h2>重要新聞摘要</h2>
+
+        <h3>台積電</h3>
+        <p>台積電週二批准了一項高達四百四十九點六億美元的資本預算，將用於擴大先進製程和專業技術產能，主要是因應全球人工智慧需求的爆發性成長。另外，台積電公布一月份營收數據，較去年同期大幅成長百分之三十六點八，顯示全球對先進半導體的需求持續加速，表現超出市場預期。</p>
+
+        <h3>OpenAI</h3>
+        <p>根據最新資料，OpenAI 正在尋求新一輪融資，目標估值為八百三十億美元。不過值得注意的是，該公司預計二零二六年將錄得十四億美元的淨虧損，且在二零二九年之前可能都無法實現年度盈利。此外，OpenAI 韓國總經理表示，公司推出廣告服務是為了幫助更多免費用戶使用 ChatGPT。</p>
+
+        <h3>Anthropic</h3>
+        <p>Blackstone 據報已將其在 Anthropic 的持股增加到約十億美元，而 Anthropic 目前的估值已攀升至三千五百億美元。這顯示即使估值達到前所未有的水平，全球資本仍持續大量流入領先的人工智慧實驗室。</p>
+
+        <h3>Google</h3>
+        <p>Google 發出重大的 AI 驅動轉型信號，宣布為不願意或沒有準備好適應變化的員工提供自願離職選擇。這反映出科技巨頭在 AI 時代加速組織變革的決心。</p>
+
+        <h3>川普</h3>
+        <p>美國總統川普表示，如果與伊朗的談判失敗，他正在考慮向中東派遣第二個航空母艦打擊群，以採取可能的軍事行動。另外，川普在社交媒體上抨擊了俄克拉荷馬州州長凱文斯蒂特，稱其為名義上的共和黨人。</p>
     </div>
 
-    <div class="footer">
-        <p>由阿福自動生成 | 線上版：<a href="https://justy-maker.github.io/ai-research-notes/daily-briefing.html">GitHub Pages</a></p>
+    <div class="section">
+        <h2>今日新整理影片</h2>
+        <p>今日新增了 Liam Ottley 頻道，共整理了五部影片：</p>
+        <p>第一部是 My Honest Thoughts on the OpenClaw Hype，探討 OpenClaw 作為 AI 應用平台的潛力，強調持續學習和解決實際問題的重要性。</p>
+        <p>第二部是 How to Scale Your AI Agency，介紹運用前置部署工程師模型來擴展 AI 代理業務的方法。</p>
+        <p>第三部是 Every AI Business Model Explained in 8 Minutes，在八分鐘內介紹了十一種可行的 AI 商業模式。</p>
+        <p>第四部是 ClawdBot is INSANE 3 Ways to Make Money With It，分享用 ClawdBot 賺錢的三種方式。</p>
+        <p>第五部是 Did Claude Just Replace Video Editors，探討 Remotion 與 Claude Code 結合的 AI 影片編輯技術。</p>
     </div>
+
+    <p style="margin-top: 40px; color: #888; font-size: 0.85em;">報告由阿福自動生成</p>
 </body>
 </html>
