@@ -2,7 +2,11 @@
 
 ## 影片列表
 
-### 🆕 最新更新 (2026-02-11)
+### 🆕 最新更新 (2026-02-12)
+
+- [AI 带来的 13 个糟心问题！看完细思极恐](BV1UNcqzBEvN.md) ⚠️
+
+### 之前更新 (2026-02-11)
 
 - [血赚不亏！用 Minimax M2.1 玩转 OpenClaw，低成本解锁最强玩法](BV1E4F9zeErb.md)
 - [GPT-5.3 本周发布｜GLM-5 模型泄露，Claude Cowork 移动端上线！](BV1oyFDzsEjd.md)

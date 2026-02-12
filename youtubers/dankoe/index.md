@@ -22,4 +22,5 @@
 - [This mental model will make you think like a strategic genius](18-strategic-genius.md)
 - [You Need To Be Extreme If You Want Your Life To Change](19-be-extreme.md)
 - [How To Build A Better Personal Brand Than 99% Of People](20-personal-brand.md)
+- [未來的工作：高收入技能堆疊](20260212-future-of-work-skill-stack.md)
 - [Dan Koe (@dankoetalks) 影片摘要](README.md)
