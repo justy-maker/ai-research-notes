@@ -23,4 +23,6 @@
 - [Learning to code has changed](2026-02-02_learning-to-code-has-changed.md)
 - [How to get a software engineer remote job - Full Roadmap](2026-02-05_remote-software-engineer-job-roadmap.md)
 - [ClawdBot/OpenClaw 新手完整教學：安全設定指南](2026-02-06_clawdbot-secure-setup-guide.md)
+- [技術面試失敗的 5 個常見錯誤](2026-02-09_technical-interview-mistakes.md) 🆕
+- [2026 年最值得學習的 AI 編程工具](2026-02-10_ai-coding-tools-worth-learning-2026.md) 🆕
 - [Tech With Tim - 影片摘要目錄](README.md)
