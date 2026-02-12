@@ -3,170 +3,94 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日早晨報告 - 2026年2月12日</title>
+    <title>每日早報 - 2026年2月12日</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            line-height: 1.8;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-        .container {
             max-width: 800px;
             margin: 0 auto;
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-            overflow: hidden;
+            padding: 20px;
+            line-height: 1.8;
+            background: #fafafa;
+            color: #333;
         }
-        .header {
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-            color: white;
-            padding: 40px;
-            text-align: center;
+        h1 {
+            color: #1a1a1a;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
         }
-        .header h1 {
-            font-size: 2rem;
-            margin-bottom: 10px;
-        }
-        .header .date {
-            font-size: 1.1rem;
-            opacity: 0.9;
-        }
-        .content {
-            padding: 40px;
+        h2 {
+            color: #2c2c2c;
+            margin-top: 30px;
         }
         .section {
-            margin-bottom: 35px;
-        }
-        .section h2 {
-            color: #1a1a2e;
-            font-size: 1.4rem;
-            margin-bottom: 15px;
-            padding-bottom: 10px;
-            border-bottom: 3px solid #667eea;
-        }
-        .section p {
-            color: #4a4a4a;
-            font-size: 1.05rem;
-            margin-bottom: 15px;
-            text-align: justify;
-        }
-        .weather-box {
-            background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%);
-            color: white;
-            padding: 25px;
-            border-radius: 15px;
-            margin-bottom: 25px;
-        }
-        .weather-box p {
-            color: white;
-            font-size: 1.1rem;
-        }
-        .video-list {
-            background: #f8f9fa;
-            padding: 25px;
-            border-radius: 15px;
-        }
-        .video-item {
             background: white;
-            padding: 15px 20px;
-            margin-bottom: 12px;
-            border-radius: 10px;
-            border-left: 4px solid #667eea;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
-        .video-item:last-child {
-            margin-bottom: 0;
+        .weather {
+            font-size: 1.1em;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 8px;
         }
-        .video-title {
-            font-weight: 600;
-            color: #1a1a2e;
-            margin-bottom: 5px;
-        }
-        .video-summary {
+        .no-videos {
             color: #666;
-            font-size: 0.95rem;
+            font-style: italic;
         }
         .footer {
-            background: #f1f3f4;
-            padding: 20px 40px;
             text-align: center;
-            color: #666;
-            font-size: 0.9rem;
+            color: #888;
+            margin-top: 40px;
+            font-size: 0.9em;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>每日早晨報告</h1>
-            <div class="date">2026年2月12日 星期四</div>
-        </div>
+    <h1>每日早報</h1>
+    <p>2026年2月12日 星期四</p>
+
+    <div class="section weather">
+        <h2 style="color: white; margin-top: 0;">台北今日天氣</h2>
+        <p>今天台北天氣晴朗多雲，氣溫攝氏十八度左右，濕度百分之六十七，東北風風速每小時十三公里。穿件薄外套出門就可以了，天氣還算舒適。</p>
+    </div>
+
+    <div class="section">
+        <h2>科技產業重要新聞</h2>
         
-        <div class="content">
-            <div class="section">
-                <h2>今日天氣</h2>
-                <div class="weather-box">
-                    <p>早安軒哥，今天台北天氣預計多雲到陰，氣溫約攝氏十七到二十二度，濕度偏高。建議外出攜帶薄外套，可能會有零星小雨。</p>
-                </div>
-            </div>
+        <p><strong>川普政府科技動態</strong></p>
+        <p>川普政府持續推動AI基礎建設，正努力緩解大眾對數據中心能源和用水的擔憂。同時政府承諾免除超大規模企業的晶片關稅，幫助科技巨頭們儲備GPU和加速器。另外值得注意的是，川普政府官網開始引導用戶使用馬斯克的AI聊天機器人Grok來回答營養相關問題，這個舉動引發了不少討論。</p>
 
-            <div class="section">
-                <h2>重要科技新聞</h2>
-                
-                <p>川普政府今天宣布將大幅放寬對人工智慧技術的監管政策，不再強調事前審查，改為重點放在事後責任追究。這個轉變在科技界引發強烈反響，支持者認為有利於創新發展，但反對者擔心可能導致人工智慧技術被濫用，特別是在軍事和監控領域。</p>
+        <p><strong>馬斯克的太空AI野心</strong></p>
+        <p>馬斯克計劃將SpaceX與xAI合併，目標是更有效地建立所謂的軌道數據中心。SpaceX也正在準備IPO，估值可能高達一點五兆美元。更瘋狂的是，馬斯克表示xAI需要在月球建造工廠來製造AI衛星，再用巨型彈射器發射到太空。這聽起來像科幻小說，但馬斯克向來說到做到。</p>
 
-                <p>馬斯克旗下的 Neuralink 宣布成功實現腦機介面技術的商業化突破，首批植入產品預計將於下季度正式上市。該產品聲稱能顯著改善癱瘓病患的生活品質，甚至可以實現與人工智慧的直接互動，不過安全性和倫理問題仍然備受各界關注。</p>
+        <p><strong>黃仁勳談AI基建</strong></p>
+        <p>NVIDIA執行長黃仁勳表示，AI基礎設施的建設週期還有七到八年，這番話讓市場對Nvidia晶片的持續需求更有信心，帶動股價大漲百分之七點七。黃仁勳也特別強調，AI會改善軟體產品而非取代它們，駁斥了軟體即將被AI取代的悲觀論點。</p>
 
-                <p>輝達執行長黃仁勳在今天的年度股東大會上預測，未來五年人工智慧晶片的效能將以指數級速度成長。他表示輝達將繼續引領人工智慧晶片技術的發展，並將推出一系列革命性的新產品來滿足不斷增長的算力需求。</p>
+        <p><strong>OpenAI近況</strong></p>
+        <p>Sam Altman內部透露，ChatGPT的月增長率已回升到百分之十以上，OpenAI也計劃本週推出更新的Chat模型。公司正在進行新一輪融資，估值可能接近一千億美元。不過有個壞消息，頂尖研究員Zoe Hitzig宣布辭職，並公開批評OpenAI開始在ChatGPT中測試廣告，認為這會濫用用戶隱私。</p>
 
-                <p>OpenAI 今天正式發布了名為 Genesis 的通用智慧助手，由執行長山姆奧特曼親自主持發布會。這款助手聲稱具有超越人類水準的認知能力，可以執行各種複雜任務，並能根據使用者需求進行個人化定製。這項技術的發布再次引發了關於通用人工智慧安全性的討論。</p>
+        <p><strong>Google AI佈局</strong></p>
+        <p>Google正在擴大AI投資，甚至發行百年債券來資助AI基礎設施的擴張。在產品面，Google推出了Gemini 3 Flash的Agentic Vision功能，並為AI Pro和Ultra訂閱者推出新的開發者工具。</p>
 
-                <p>Google 今天宣布與 Anthropic 達成戰略合作，雙方將共同開發下一代人工智慧模型。這項合作整合了 Google 在基礎設施和算力方面的優勢，以及 Anthropic 在安全人工智慧方面的專業知識，被視為 Google 對 OpenAI 挑戰的回應。</p>
+        <p><strong>Anthropic Claude新聞</strong></p>
+        <p>Anthropic的Claude數位同事功能持續引發IT服務行業的焦慮。最新的Claude Opus 4.6模型在開源庫中發現了超過五百個先前未知的嚴重安全漏洞，展現出強大的代碼審計能力。不過Anthropic也對這個模型表示擔憂，因為它可能被用來協助製造化學武器。</p>
 
-                <p>台積電宣布其二奈米製程的良率已經突破百分之九十，預計將提前進入量產階段。這項突破對於全球晶片產業具有重要意義，將有助於提升人工智慧晶片的效能和效率，也進一步鞏固台積電在全球晶片製造領域的領導地位。</p>
+        <p><strong>台積電財報亮眼</strong></p>
+        <p>台積電一月份營收達新台幣四千零一十二億元，月增百分之十九點八、年增百分之三十六點八，表現強勁。股價也飆升至新高，美日擴產計畫引發全球晶片重組潮。另外台積電將向美國子公司出售機械設備，售價為新台幣十一點五億元。</p>
+    </div>
 
-                <p>OpenAI 和 Google 今天被一家小型科技公司提起專利訴訟，指控其人工智慧模型訓練方法侵犯了該公司的專利。這起訴訟可能對人工智慧模型的開發和商業化產生重大影響，也凸顯了人工智慧領域專利保護的重要性。</p>
-            </div>
+    <div class="section">
+        <h2>今日新整理影片</h2>
+        <p class="no-videos">今天沒有新影片上傳。所有追蹤頻道已是最新狀態。</p>
+        <p>目前已索引影片總數：YouTube 212 部、Bilibili 64 部。</p>
+    </div>
 
-            <div class="section">
-                <h2>今日新整理影片</h2>
-                <div class="video-list">
-                    <p style="margin-bottom: 15px; color: #333;">今天新增了 Liam Ottley 頻道的五部影片整理：</p>
-                    
-                    <div class="video-item">
-                        <div class="video-title">My Honest Thoughts on the OpenClaw Hype</div>
-                        <div class="video-summary">探討 OpenClaw 作為人工智慧應用平台的潛力，強調持續學習和解決實際問題的重要性</div>
-                    </div>
-                    
-                    <div class="video-item">
-                        <div class="video-title">How to Scale Your AI Agency</div>
-                        <div class="video-summary">介紹如何運用前置部署工程師模型來擴展人工智慧代理業務</div>
-                    </div>
-                    
-                    <div class="video-item">
-                        <div class="video-title">Every AI Business Model Explained in 8 Minutes</div>
-                        <div class="video-summary">完整介紹十一種可行的人工智慧商業模式</div>
-                    </div>
-                    
-                    <div class="video-item">
-                        <div class="video-title">ClawdBot is INSANE - 3 Ways to Make Money With It</div>
-                        <div class="video-summary">分享使用 ClawdBot 賺錢的三種具體方式</div>
-                    </div>
-                    
-                    <div class="video-item">
-                        <div class="video-title">Did Claude Just Replace Video Editors?</div>
-                        <div class="video-summary">深入解析 Remotion 與 Claude Code 結合的人工智慧影片編輯技術</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="footer">
-            由阿福自動生成 | 資料來源：Gemini AI、YouTube 頻道追蹤
-        </div>
+    <div class="footer">
+        <p>由阿福自動生成</p>
     </div>
 </body>
 </html>
