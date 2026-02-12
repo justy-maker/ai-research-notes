@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日早報 - 2026年2月12日</title>
+    <title>每日科技簡報 - 2026年2月12日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang TC", "Microsoft JhengHei", sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
@@ -14,43 +14,113 @@
             background: #fafafa;
             color: #333;
         }
-        h1 { color: #1a1a1a; border-bottom: 2px solid #333; padding-bottom: 10px; }
-        h2 { color: #444; margin-top: 30px; }
-        p { margin: 15px 0; }
-        .meta { color: #666; font-size: 0.9em; }
-        .section { margin: 25px 0; }
+        h1 {
+            color: #1a1a2e;
+            border-bottom: 3px solid #4a90d9;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #16213e;
+            margin-top: 30px;
+        }
+        .date {
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 20px;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .highlight {
+            background: linear-gradient(120deg, #fff3cd 0%, #fff3cd 100%);
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        a {
+            color: #4a90d9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            text-align: center;
+            color: #888;
+            margin-top: 40px;
+            font-size: 0.9em;
+        }
     </style>
 </head>
 <body>
-    <h1>每日早報</h1>
-    <p class="meta">2026年2月12日 星期四</p>
+    <h1>每日科技簡報</h1>
+    <p class="date">2026年2月12日 星期三</p>
 
     <div class="section">
-        <h2>今日天氣</h2>
-        <p>台北今天多雲，氣溫約攝氏十五到十七度，風速約每小時十二公里，是個涼爽舒適的日子。能見度還不錯，大約十公里左右。出門帶件薄外套就夠了。</p>
+        <h2>今日重點一：OpenClaw 創辦人預言 80% App 將消失</h2>
+        <p>軒哥早安，今天 Y Combinator 有一支重磅訪談，請到 OpenClaw 的創辦人 Peter Steinberger。他預測未來 80% 的應用程式都會消失，因為個人 AI 代理可以做得更好。</p>
+        <p>他的論點是這樣的：很多 App 本質上只是資料管理器，像健身追蹤、待辦事項這些。但如果你有一個本地運行的 AI 代理，它可以直接從你的照片、飲食紀錄來追蹤健康，根本不需要專門的 App。</p>
+        <p>他提到一個關鍵概念叫 soul.md，就是讓 AI 代理擁有自己的靈魂和價值觀設定。真正的價值會轉移到使用者擁有的個人數據和記憶，而不是 App 或模型本身。</p>
+        <p>另一個有趣的點是，他認為未來會是「群體智慧」而不是單一的超級智能。你可能有好幾個專門化的 AI 代理，分別負責工作、私人生活、人際關係，互相協作。</p>
+        <p><a href="https://www.youtube.com/watch?v=4uzGDAoNOZc">觀看完整影片</a></p>
     </div>
 
     <div class="section">
-        <h2>科技與 AI 新聞</h2>
-        
-        <p>馬斯克的 xAI 公司宣布重組，將分為四個事業部門：Grok 對話系統、Coding 程式開發、Imagine 影像生成，以及一個名字很有趣的 Macrohard 部門。這個重組顯示 xAI 正在擴大業務範圍，不再只專注於聊天機器人。</p>
-
-        <p>OpenAI 這幾天動作頻繁。首先，他們正在測試在 ChatGPT 中加入廣告。前 OpenAI 研究員 Zoë Hitzig 本週離職，並在紐約時報發表專欄，表達對這種做法的深切擔憂，她認為廣告可能會對用戶造成潛在傷害。另外，OpenAI 也解散了負責確保通用人工智慧造福人類的 Mission Alignment 團隊，成員被調到公司其他部門，原團隊負責人 Joshua Achiam 將轉任首席未來學家。還有一則較敏感的消息是，OpenAI 解雇了一位反對推出成人模式的高管，該高管擔心安全措施不夠完善。</p>
-
-        <p>Anthropic 面對資料中心耗能的批評聲浪，宣布將承諾限制能源成本。這是繼其他科技公司之後，又一家對 AI 環境影響做出回應的企業。</p>
-
-        <p>美國參議院出現了一項跨黨派法案，名為版權標示與道德 AI 報告法，要求科技公司必須報告 AI 訓練中使用的版權內容。這項法案由加州民主黨參議員 Adam Schiff 和猶他州共和黨參議員 John Curtis 共同提出，可能對 AI 產業造成重大影響。</p>
-
-        <p>印度政府頒布新規定，要求社交平台必須在收到下架請求後三小時內移除 deepfake 內容。新規定還要求合成影音內容必須標示並可追溯來源，同時禁止欺騙性冒充和非自願親密影像。</p>
-
-        <p>YouTube Music 推出了 AI 播放列表功能，讓付費用戶可以用語音或文字描述來創建個人化播放清單，這跟 Spotify 去年十二月推出的 Prompted Playlists 功能類似。</p>
+        <h2>今日重點二：開發者為何對 Claude Code 上癮</h2>
+        <p>同樣來自 Y Combinator 的另一支影片，談到開發者們都對 Claude Code 上癮了。受訪者形容使用體驗就像裝了仿生膝蓋，編碼速度快了五倍。</p>
+        <p>這裡有個重要技巧：當上下文使用量超過 50% 的時候，應該主動清除，否則會發生所謂的「內容中毒」，模型的推論品質會明顯下降。</p>
+        <p>他們也討論到 CLI 工具在 AI 時代意外地復興了。CLI 的自由形式讓上下文處理更靈活，配合子代理切分上下文，效果比傳統 IDE 還好。</p>
+        <p>另一個洞見是：好的開源文件和社群活躍度變得超級重要，因為 LLM 會推薦它認識的工具。所以像 Superbase 這種底部驅動、文件完善的專案會越來越有優勢。</p>
+        <p><a href="https://www.youtube.com/watch?v=qwmmWzPnhog">觀看完整影片</a></p>
     </div>
 
     <div class="section">
-        <h2>今日影片整理</h2>
-        <p>今天檢查了十五個追蹤頻道，其中十三個已完成檢查。目前所有頻道都是最新狀態，沒有新的影片需要整理。In The World of AI 和 Y Combinator 頻道的最新內容都已經在昨天整理完畢。B站頻道將於明天進行新影片檢查，Dr. Berg 中文頻道因為 429 請求限制，暫時跳過處理。</p>
+        <h2>今日重點三：GLM-5 可能洩露了</h2>
+        <p>In The World of AI 報導說，Open Router 上出現一款神秘的隱形模型叫 Pony Alpha，很可能就是即將發布的 GLM-5。</p>
+        <p>如果傳聞是真的，GLM-5 的規格相當驚人：7450 億參數，其中 440 億是活躍參數，可能是最大的中文混合專家模型。</p>
+        <p>測試者說它的 SVG 和 UI 生成能力是目前見過最強的，生成品質可以跟 Opus 4.5 相比。而且 200K 的上下文窗口在長文本處理上表現很好。GLM-5 預計二月就會正式發布，值得關注。</p>
+        <p><a href="https://www.youtube.com/watch?v=MfJXFF1-o0E">觀看完整影片</a></p>
     </div>
 
-    <p class="meta">報告生成時間：2026-02-12 08:18</p>
+    <div class="section">
+        <h2>今日重點四：n8n 加 Unstruct 免費提取 PDF</h2>
+        <p>同一個頻道介紹了一個很實用的開源組合：用 Unstruct 加上 n8n 來自動提取 PDF 資料。</p>
+        <p>Unstruct 可以把非結構化的文件即時轉成結構化資料，n8n 則是用來建立多步驟的自動化流程。兩個結合起來，可以自動處理收據、發票這類文件，提取出名字、電話、Email 這些欄位。</p>
+        <p>重點是這是完全免費、完全本地的解決方案，不需要付費 API。</p>
+        <p><a href="https://www.youtube.com/watch?v=7I7CL9iNxS4">觀看完整影片</a></p>
+    </div>
+
+    <div class="section">
+        <h2>今日重點五：2026 年最值得學的 AI 編程工具</h2>
+        <p>Tech With Tim 分享了他每天在用的 AI 編程工具清單。我快速幫你整理一下：</p>
+        <p>OpenClaw 和 Claude Code 是主力，一個是 24 小時自主運行的代理，一個是輕量級的終端編碼工具。Cursor 適合快速小修改和前端。Warp 是 AI 終端，專門處理後端和 DevOps。</p>
+        <p>他特別推薦 Whisper Flow，用語音轉文字來寫程式，是隱藏的效率神器。大型重構任務則用 Blitzy。快速做 Landing Page 用 Lovable。</p>
+        <p>Tim 的建議是：沒有一個工具可以打天下，要根據任務選擇合適的工具組合。</p>
+        <p><a href="https://www.youtube.com/watch?v=-VTiqivKOB8">觀看完整影片</a></p>
+    </div>
+
+    <div class="section">
+        <h2>今日重點六：AI 時代的真假危機</h2>
+        <p>最後是 Brainy Dose 的一支比較沉重的影片，談 AI 帶來的信任危機。</p>
+        <p>核心論點是：超過一百年來，影像和錄音是證據的基礎。但現在深度偽造可以讓任何人說或做任何事，視覺證據基本上已經死了。</p>
+        <p>更可怕的是 AI 生成的「人」正在成為網紅。這些人有個性、有背景故事、有政治觀點、有粉絲，但實際上根本不存在。我們不只要擔心假訊息，還要擔心訊息來源本身就是假的。</p>
+        <p>影片還提到一個概念叫「AI 近親繁殖」：AI 學習 AI 生成的內容，品質會越來越差。網路文化正在失去人性。</p>
+        <p><a href="https://www.youtube.com/watch?v=DDBcJB-k30g">觀看完整影片</a></p>
+    </div>
+
+    <div class="section">
+        <h2>今日總結</h2>
+        <p>今天的重點圍繞在 AI 代理的發展趨勢。OpenClaw 創辦人預言 80% App 會消失，Claude Code 讓開發者效率倍增，GLM-5 可能是下一個大模型的突破。</p>
+        <p>實用工具方面，n8n 加 Unstruct 是免費的 PDF 處理方案，Tim 的工具清單值得參考。</p>
+        <p>最後別忘了，AI 帶來便利的同時，也在模糊真假的界線，保持批判性思考很重要。</p>
+    </div>
+
+    <div class="footer">
+        <p>由阿福整理 - 2026年2月12日</p>
+        <p><a href="index.html">查看歷史簡報</a></p>
+    </div>
 </body>
 </html>
