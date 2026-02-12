@@ -3,124 +3,120 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日科技簡報 - 2026年2月12日</title>
+    <title>每日早晨報告 - 2026年2月12日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang TC", "Microsoft JhengHei", sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
             line-height: 1.8;
-            background: #fafafa;
             color: #333;
+            background: #fafafa;
         }
         h1 {
-            color: #1a1a2e;
-            border-bottom: 3px solid #4a90d9;
+            color: #1a1a1a;
+            border-bottom: 2px solid #333;
             padding-bottom: 10px;
         }
         h2 {
-            color: #16213e;
+            color: #2c3e50;
             margin-top: 30px;
         }
         .date {
             color: #666;
-            font-size: 1.1em;
-            margin-bottom: 20px;
+            font-size: 0.9em;
         }
-        .section {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        .weather {
+            background: #e8f4f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
         }
-        .highlight {
-            background: linear-gradient(120deg, #fff3cd 0%, #fff3cd 100%);
-            padding: 2px 5px;
-            border-radius: 3px;
+        .news-item {
+            margin-bottom: 15px;
+            padding-left: 15px;
+            border-left: 3px solid #3498db;
         }
-        a {
-            color: #4a90d9;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
+        .videos {
+            background: #f0f8e8;
+            padding: 15px;
+            border-radius: 8px;
         }
         .footer {
-            text-align: center;
-            color: #888;
             margin-top: 40px;
-            font-size: 0.9em;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #666;
+            font-size: 0.85em;
         }
     </style>
 </head>
 <body>
-    <h1>每日科技簡報</h1>
-    <p class="date">2026年2月12日 星期三</p>
+    <h1>每日早晨報告</h1>
+    <p class="date">2026年2月12日 星期四</p>
 
-    <div class="section">
-        <h2>今日重點一：OpenClaw 創辦人預言 80% App 將消失</h2>
-        <p>軒哥早安，今天 Y Combinator 有一支重磅訪談，請到 OpenClaw 的創辦人 Peter Steinberger。他預測未來 80% 的應用程式都會消失，因為個人 AI 代理可以做得更好。</p>
-        <p>他的論點是這樣的：很多 App 本質上只是資料管理器，像健身追蹤、待辦事項這些。但如果你有一個本地運行的 AI 代理，它可以直接從你的照片、飲食紀錄來追蹤健康，根本不需要專門的 App。</p>
-        <p>他提到一個關鍵概念叫 soul.md，就是讓 AI 代理擁有自己的靈魂和價值觀設定。真正的價值會轉移到使用者擁有的個人數據和記憶，而不是 App 或模型本身。</p>
-        <p>另一個有趣的點是，他認為未來會是「群體智慧」而不是單一的超級智能。你可能有好幾個專門化的 AI 代理，分別負責工作、私人生活、人際關係，互相協作。</p>
-        <p><a href="https://www.youtube.com/watch?v=4uzGDAoNOZc">觀看完整影片</a></p>
+    <h2>今日天氣</h2>
+    <div class="weather">
+        <p>早安軒哥，今天台北的天氣是多雲，目前氣溫攝氏16度，體感溫度也差不多是16度。濕度有點高，大約77%，吹東風，風速每小時14公里左右。今天氣溫預計在14到19度之間，中午前後可能會飄一點小雨，不過下午到傍晚會慢慢轉晴，晚上應該就是晴朗的天空了。出門的話帶把傘比較保險。</p>
     </div>
 
-    <div class="section">
-        <h2>今日重點二：開發者為何對 Claude Code 上癮</h2>
-        <p>同樣來自 Y Combinator 的另一支影片，談到開發者們都對 Claude Code 上癮了。受訪者形容使用體驗就像裝了仿生膝蓋，編碼速度快了五倍。</p>
-        <p>這裡有個重要技巧：當上下文使用量超過 50% 的時候，應該主動清除，否則會發生所謂的「內容中毒」，模型的推論品質會明顯下降。</p>
-        <p>他們也討論到 CLI 工具在 AI 時代意外地復興了。CLI 的自由形式讓上下文處理更靈活，配合子代理切分上下文，效果比傳統 IDE 還好。</p>
-        <p>另一個洞見是：好的開源文件和社群活躍度變得超級重要，因為 LLM 會推薦它認識的工具。所以像 Superbase 這種底部驅動、文件完善的專案會越來越有優勢。</p>
-        <p><a href="https://www.youtube.com/watch?v=qwmmWzPnhog">觀看完整影片</a></p>
+    <h2>AI 與科技新聞摘要</h2>
+    
+    <div class="news-item">
+        <p><strong>OpenAI 推出 GPT-5.3-Codex</strong></p>
+        <p>OpenAI 發布了最新的 AI 代理式程式編寫模型 GPT-5.3-Codex，整體速度提升了 25%。這次更新也把 Codex 應用從雲端延伸到桌機環境，可以支援更長時間、更複雜的開發任務。對於寫程式的工程師來說是個好消息。</p>
     </div>
 
-    <div class="section">
-        <h2>今日重點三：GLM-5 可能洩露了</h2>
-        <p>In The World of AI 報導說，Open Router 上出現一款神秘的隱形模型叫 Pony Alpha，很可能就是即將發布的 GLM-5。</p>
-        <p>如果傳聞是真的，GLM-5 的規格相當驚人：7450 億參數，其中 440 億是活躍參數，可能是最大的中文混合專家模型。</p>
-        <p>測試者說它的 SVG 和 UI 生成能力是目前見過最強的，生成品質可以跟 Opus 4.5 相比。而且 200K 的上下文窗口在長文本處理上表現很好。GLM-5 預計二月就會正式發布，值得關注。</p>
-        <p><a href="https://www.youtube.com/watch?v=MfJXFF1-o0E">觀看完整影片</a></p>
+    <div class="news-item">
+        <p><strong>Anthropic Claude Code 新增快速模式</strong></p>
+        <p>Anthropic 的 Claude Code 推出了快速模式功能，讓 Opus 4.6 模型可以用較高的費率換取更快的回應速度，輸出 Token 的生成速度最高可以達到原本的 2.5 倍，品質和能力維持不變。</p>
     </div>
 
-    <div class="section">
-        <h2>今日重點四：n8n 加 Unstruct 免費提取 PDF</h2>
-        <p>同一個頻道介紹了一個很實用的開源組合：用 Unstruct 加上 n8n 來自動提取 PDF 資料。</p>
-        <p>Unstruct 可以把非結構化的文件即時轉成結構化資料，n8n 則是用來建立多步驟的自動化流程。兩個結合起來，可以自動處理收據、發票這類文件，提取出名字、電話、Email 這些欄位。</p>
-        <p>重點是這是完全免費、完全本地的解決方案，不需要付費 API。</p>
-        <p><a href="https://www.youtube.com/watch?v=7I7CL9iNxS4">觀看完整影片</a></p>
+    <div class="news-item">
+        <p><strong>OpenAI 開始在 ChatGPT 測試廣告</strong></p>
+        <p>OpenAI 在美國開始測試在 ChatGPT 導入商業廣告機制，目前針對的是免費用戶和低價訂閱方案的用戶，未成年使用者則被排除在外。這是 OpenAI 探索新收入來源的一個嘗試。</p>
     </div>
 
-    <div class="section">
-        <h2>今日重點五：2026 年最值得學的 AI 編程工具</h2>
-        <p>Tech With Tim 分享了他每天在用的 AI 編程工具清單。我快速幫你整理一下：</p>
-        <p>OpenClaw 和 Claude Code 是主力，一個是 24 小時自主運行的代理，一個是輕量級的終端編碼工具。Cursor 適合快速小修改和前端。Warp 是 AI 終端，專門處理後端和 DevOps。</p>
-        <p>他特別推薦 Whisper Flow，用語音轉文字來寫程式，是隱藏的效率神器。大型重構任務則用 Blitzy。快速做 Landing Page 用 Lovable。</p>
-        <p>Tim 的建議是：沒有一個工具可以打天下，要根據任務選擇合適的工具組合。</p>
-        <p><a href="https://www.youtube.com/watch?v=-VTiqivKOB8">觀看完整影片</a></p>
+    <div class="news-item">
+        <p><strong>OpenClaw 預設配置曝露安全風險</strong></p>
+        <p>資安團隊 STRIKE 發現約有 4.29 萬個 OpenClaw 代理型 AI 實例直接曝露在網際網路上，其中約三分之一存在遠端程式碼執行等漏洞風險。主要問題是預設允許任何人從網路連線進來，如果被入侵可能會擴大成長期攻擊節點。</p>
     </div>
 
-    <div class="section">
-        <h2>今日重點六：AI 時代的真假危機</h2>
-        <p>最後是 Brainy Dose 的一支比較沉重的影片，談 AI 帶來的信任危機。</p>
-        <p>核心論點是：超過一百年來，影像和錄音是證據的基礎。但現在深度偽造可以讓任何人說或做任何事，視覺證據基本上已經死了。</p>
-        <p>更可怕的是 AI 生成的「人」正在成為網紅。這些人有個性、有背景故事、有政治觀點、有粉絲，但實際上根本不存在。我們不只要擔心假訊息，還要擔心訊息來源本身就是假的。</p>
-        <p>影片還提到一個概念叫「AI 近親繁殖」：AI 學習 AI 生成的內容，品質會越來越差。網路文化正在失去人性。</p>
-        <p><a href="https://www.youtube.com/watch?v=DDBcJB-k30g">觀看完整影片</a></p>
+    <div class="news-item">
+        <p><strong>Google Data Commons MCP 託管上雲</strong></p>
+        <p>Google 把 Data Commons MCP 改成雲端託管，開放端點讓 AI 代理可以直接查詢 datacommons.org 上的公開統計資料，不用再在本機架設和維護 MCP 伺服器，方便很多。</p>
     </div>
 
-    <div class="section">
-        <h2>今日總結</h2>
-        <p>今天的重點圍繞在 AI 代理的發展趨勢。OpenClaw 創辦人預言 80% App 會消失，Claude Code 讓開發者效率倍增，GLM-5 可能是下一個大模型的突破。</p>
-        <p>實用工具方面，n8n 加 Unstruct 是免費的 PDF 處理方案，Tim 的工具清單值得參考。</p>
-        <p>最後別忘了，AI 帶來便利的同時，也在模糊真假的界線，保持批判性思考很重要。</p>
+    <div class="news-item">
+        <p><strong>VS Code 1.109 強化多代理開發</strong></p>
+        <p>微軟發布了 VS Code 1.109 版本，主打多代理開發體驗升級，聊天輸入區加入了工作階段選單，可以切換本機、背景和雲端代理，還新增了終端機沙箱功能，限制代理對檔案系統和網路的存取，提升安全性。</p>
+    </div>
+
+    <div class="news-item">
+        <p><strong>Waymo 導入生成式世界模型</strong></p>
+        <p>Waymo 以 Google DeepMind 的 Genie 3 為基礎，發展出自家無人車專用的世界模型，可以即時生成可互動的 3D 世界，用來強化自動駕駛的安全驗證，這是自動駕駛安全驗證的一大進步。</p>
+    </div>
+
+    <div class="news-item">
+        <p><strong>歐盟警告 Meta 可能違反競爭法</strong></p>
+        <p>針對 Meta 禁止第三方 AI 助理在 WhatsApp 商用方案上運作這件事，歐盟執委會認為可能違反競爭法，正在考慮下令 Meta 暫時恢復 WhatsApp 的開放性。</p>
+    </div>
+
+    <h2>今日新整理影片</h2>
+    <div class="videos">
+        <p>今天一共整理了 5 部 BRAINY DOSE 頻道的影片：</p>
+        <p>1. 12 個看似健康，實際上對身體有害的選擇</p>
+        <p>2. 15 個完全是浪費錢的東西</p>
+        <p>3. 為什麼「看起來不富有」很重要</p>
+        <p>4. 12 個讓人崩潰的惱人事</p>
+        <p>5. 你被迫相信的最大謊言</p>
+        <p>這些都是生活觀點類的內容，有興趣的話可以到影片摘要區看看。</p>
     </div>
 
     <div class="footer">
-        <p>由阿福整理 - 2026年2月12日</p>
-        <p><a href="index.html">查看歷史簡報</a></p>
+        <p>報告由阿福自動生成</p>
+        <p>生成時間：2026-02-12 08:30 AM (Asia/Taipei)</p>
     </div>
 </body>
 </html>
