@@ -3,89 +3,198 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日科技早報 - 2026年2月13日</title>
+    <title>每日報告 - 2026年2月13日</title>
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang TC", "Microsoft JhengHei", sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
+            line-height: 1.8;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container {
             max-width: 800px;
             margin: 0 auto;
-            padding: 40px 20px;
-            line-height: 1.8;
-            background: #fafafa;
-            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
         }
         h1 {
-            font-size: 1.8em;
-            border-bottom: 2px solid #333;
-            padding-bottom: 10px;
-            margin-bottom: 30px;
-        }
-        h2 {
-            font-size: 1.3em;
-            margin-top: 40px;
-            color: #222;
-        }
-        p {
-            margin: 16px 0;
-            text-align: justify;
+            font-size: 2rem;
+            font-weight: 300;
+            color: #fff;
+            margin-bottom: 8px;
         }
         .date {
+            color: #888;
+            font-size: 1.1rem;
+        }
+        section {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 24px 28px;
+            margin-bottom: 24px;
+        }
+        h2 {
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: #64b5f6;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        h2::before {
+            content: '';
+            width: 4px;
+            height: 24px;
+            background: #64b5f6;
+            border-radius: 2px;
+        }
+        p {
+            margin-bottom: 12px;
+            text-align: justify;
+        }
+        .weather-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-top: 16px;
+        }
+        .weather-card {
+            background: rgba(100, 181, 246, 0.1);
+            padding: 16px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .weather-card .temp {
+            font-size: 2rem;
+            font-weight: 300;
+            color: #fff;
+        }
+        .weather-card .label {
+            color: #888;
+            font-size: 0.9rem;
+        }
+        .video-list {
+            list-style: none;
+        }
+        .video-list li {
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .video-list li:last-child {
+            border-bottom: none;
+        }
+        .channel-name {
+            color: #81c784;
+            font-weight: 500;
+        }
+        .video-count {
+            color: #888;
+            font-size: 0.9rem;
+        }
+        .notice {
+            background: rgba(255, 193, 7, 0.1);
+            border-left: 3px solid #ffc107;
+            padding: 16px;
+            border-radius: 0 8px 8px 0;
+            margin-top: 12px;
+        }
+        footer {
+            text-align: center;
             color: #666;
-            font-size: 0.9em;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin: 8px 0;
+            font-size: 0.85rem;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.05);
         }
     </style>
 </head>
 <body>
-    <h1>每日科技早報</h1>
-    <p class="date">2026年2月13日 星期五</p>
-    
-    <div class="section">
-        <h2>今日天氣</h2>
-        <p>台北今天是個晴朗的好天氣，氣溫大約攝氏15度，適合外出活動。早晚溫差較大，記得帶件薄外套。</p>
-    </div>
-    
-    <div class="section">
-        <h2>重要新聞摘要</h2>
-        
-        <p>首先是台美關係的重大進展。行政院副院長鄭麗君率團在華府完成了台美對等貿易協定的簽署，同時台美投資備忘錄也正式生效。這項協定確立了台灣享有對等關稅與232關稅優惠待遇，對於台灣的國際貿易地位是個重要的里程碑。</p>
-        
-        <p>半導體產業方面，美國商務部宣布與應用材料公司達成2.52億美元的和解協議。這起案件源於應材涉嫌非法向中國最大晶圓代工廠中芯國際出口晶片製造設備，違反了美國的出口管制規定。這也再次凸顯美中科技戰下，美國對半導體設備出口管制的嚴格執法態度。</p>
-        
-        <p>在AI晶片競爭方面，瑞銀集團發布最新報告指出，Google自家開發的TPU張量處理單元正逐漸成為雲端AI運算中可與NVIDIA GPU競爭的替代方案。分析師預期TPU將在較小的基期上實現更快的成長速度，這對NVIDIA的市場主導地位形成挑戰。</p>
-        
-        <p>記憶體產業有兩項重要消息。首先是三星在LPDDR6正式發布前，已經向高通寄送下一代LPDDR6X記憶體樣品，顯示下一代手機記憶體規格競爭正在加速。另外，鎧俠控公布財報顯示營收創下歷史新高，主要受惠於AI伺服器對高性能存儲產品的強勁需求。</p>
-        
-        <p>AI產業動態方面，根據數位時代的報導，前Google台灣董事總經理簡立峰指出2026年將是企業AI的清算年，他觀察到許多公司投入資源推動AI，但員工學習AI的目標與企業提升競爭力的目標並不一致，導致投資效果不如預期。</p>
-        
-        <p>關於馬斯克的xAI公司，共同創辦人吳宇懷Tony Wu宣布辭職，這使得12人的創始團隊已經流失近半。這波人事變動對於正在快速擴張的xAI來說是個不小的挑戰。</p>
-        
-        <p>機器人領域傳來有趣的消息。人型機器人廠商1X Technologies與波士頓動力在一月份陸續透過AI模型更新，強化自家產品對非結構化環境的適應力。不過專家也指出，AI模型演進雖然加速了商用化，但也帶來物理幻覺、隱私爭議及高能耗等挑戰。</p>
-        
-        <p>比較特別的是俄羅斯新創Neiry宣稱成功將電子裝置植入鴿子大腦，將牠們改造成生物無人機。據稱植入物可以輕微刺激鴿子大腦，引導牠們選擇特定飛行路徑，試飛時還攜帶了小型控制器、太陽能電池板和攝影機。</p>
-        
-        <p>其他消息方面，Google原定推出的Android 17 Beta 1版本在最後一刻決定撤回，目前未提供具體原因和新的時間表。另外，歐盟執委會批准了首款中國電動車免徵進口反補貼稅，這是歐中達成共識後的軟著陸首例。</p>
-    </div>
-    
-    <div class="section">
-        <h2>今日新整理影片</h2>
-        <p>今天一共整理了21部影片，涵蓋多個頻道的最新內容。</p>
-        
-        <p>In The World Of AI頻道有6部新影片，Dan Martell頻道有6部關於商業和創業的內容，Tech With Tim頻道有2部程式教學影片，Dan Koe頻道有2部關於個人成長的影片，Brainy Dose頻道有2部關於心理學和自我提升的內容，Liam Ottley頻道有1部AI代理相關的影片。另外B站的AI Seeker頻道也有1部新影片。</p>
-        
-        <p>不過有8部影片因為沒有字幕而無法處理，這些影片已經被跳過。</p>
-    </div>
-    
-    <div class="section">
-        <p>以上就是今天的科技早報。祝您有個美好的一天。</p>
+    <div class="container">
+        <header>
+            <h1>每日早晨報告</h1>
+            <div class="date">2026年2月13日 星期五</div>
+        </header>
+
+        <section>
+            <h2>台北天氣</h2>
+            <p>今天台北天氣非常好，全天晴朗無雨，是個適合外出的好日子。清晨氣溫約攝氏15度，體感溫度相近，濕度偏高但不會悶熱。到了中午氣溫會上升到24至25度，下午最高溫可達25度左右。傍晚會稍微降溫到21度，整體來說是舒適宜人的一天。</p>
+            <div class="weather-info">
+                <div class="weather-card">
+                    <div class="temp">15°C</div>
+                    <div class="label">目前氣溫</div>
+                </div>
+                <div class="weather-card">
+                    <div class="temp">25°C</div>
+                    <div class="label">今日最高</div>
+                </div>
+                <div class="weather-card">
+                    <div class="temp">14°C</div>
+                    <div class="label">今日最低</div>
+                </div>
+            </div>
+            <p style="margin-top: 16px; color: #888;">日出時間 06:30，日落時間 17:47。紫外線指數中等，外出建議做好防曬。</p>
+        </section>
+
+        <section>
+            <h2>重要新聞</h2>
+            <div class="notice">
+                <p>新聞搜尋功能暫時無法使用，需要設定 Brave Search API Key。請執行以下指令完成設定：</p>
+                <p style="font-family: monospace; color: #ffc107; margin-top: 8px;">openclaw configure --section web</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>今日新影片整理</h2>
+            <p>今天共處理了 21 部影片，來自 YouTube 和 Bilibili 多個頻道。以下是各頻道的整理數量：</p>
+            <ul class="video-list">
+                <li>
+                    <span class="channel-name">In the World of AI</span>
+                    <span class="video-count"> - 6 部影片</span>
+                </li>
+                <li>
+                    <span class="channel-name">Dan Martell</span>
+                    <span class="video-count"> - 6 部影片</span>
+                </li>
+                <li>
+                    <span class="channel-name">Tech With Tim</span>
+                    <span class="video-count"> - 2 部影片</span>
+                </li>
+                <li>
+                    <span class="channel-name">Dan Koe</span>
+                    <span class="video-count"> - 2 部影片</span>
+                </li>
+                <li>
+                    <span class="channel-name">Brainy Dose</span>
+                    <span class="video-count"> - 2 部影片</span>
+                </li>
+                <li>
+                    <span class="channel-name">Liam Ottley</span>
+                    <span class="video-count"> - 1 部影片</span>
+                </li>
+                <li>
+                    <span class="channel-name">AI Seeker (Bilibili)</span>
+                    <span class="video-count"> - 1 部影片</span>
+                </li>
+            </ul>
+            <p style="margin-top: 16px; color: #888;">另有 8 部影片因無字幕而略過處理。</p>
+        </section>
+
+        <section>
+            <h2>提醒事項</h2>
+            <p>明天是情人節，台北天氣預報同樣是晴朗好天氣，氣溫16至26度，非常適合安排戶外活動。</p>
+        </section>
+
+        <footer>
+            <p>由阿福自動生成 | OpenClaw Morning Briefing</p>
+        </footer>
     </div>
 </body>
 </html>
