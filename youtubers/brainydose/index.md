@@ -1,9 +1,10 @@
 # Brainy Dose
 
-共 26 部影片摘要
+共 27 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-14 | [Why We Yearn for The Past - The Nostalgia Glitch](2026-02-14_xMIVWtqIxW4) |
 | 未知日期 | [12 個看似健康，實際上對身體有害的選擇](15-healthy-choices-terrible) |
 | 未知日期 | [Why Self-Awareness Leads to Fewer Friends](10-self-awareness-fewer-friends) |
 | 未知日期 | [PfxZs824u1Y-tipping-culture-scam](PfxZs824u1Y-tipping-culture-scam) |

@@ -1,9 +1,11 @@
 # In The World of AI
 
-共 40 部影片摘要
+共 42 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-14 | [MiniMax M2.5 IS INSANE! Best Opensource Coding Model!](2026-02-14_dRN9hJyg5Rc) |
+| 2026-02-14 | [OpenClaw + OpenCode: Full Autonomous Engineering Team](2026-02-14_kIWMLL0S8X8) |
 | 未知日期 | [qhuS__jC4n8-claude-code-unlimited-memory](qhuS__jC4n8-claude-code-unlimited-memory) |
 | 未知日期 | [Pencil.dev: Greatest AI Design System!](20260124-pencil-dev) |
 | 未知日期 | [Antigravity + Stitch: Build Anything FOR FREE!](20260131-antigravity-stitch) |

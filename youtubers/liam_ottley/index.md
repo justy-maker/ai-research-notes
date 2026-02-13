@@ -3,12 +3,13 @@
 - **頻道**: [@liamottley](https://www.youtube.com/@liamottley)
 - **類型**: AI 創業/代理
 - **語言**: EN
-- **最後更新**: 2026-02-12
+- **最後更新**: 2026-02-14
 
 ## 影片列表
 
 | 日期 | 標題 | 連結 |
 |------|------|------|
+| 2026-02-14 | [AI Just Had It's iPhone Moment...](2026-02-14_qNtDxuLfFE8.md) | [YouTube](https://www.youtube.com/watch?v=qNtDxuLfFE8) |
 | 2026-02-08 | [My Honest Thoughts on the OpenClaw Hype](RXBjzT8gQ2g.md) | [YouTube](https://www.youtube.com/watch?v=RXBjzT8gQ2g) |
 | 2026-02-03 | [How to Scale Your AI Agency (Forward Deployed Engineer Model)](HiC1J8a9V1I.md) | [YouTube](https://www.youtube.com/watch?v=HiC1J8a9V1I) |
 | 2026-01-31 | [Every AI Business Model Explained in 8 Minutes](CSULpfABy0I.md) | [YouTube](https://www.youtube.com/watch?v=CSULpfABy0I) |

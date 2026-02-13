@@ -1,9 +1,10 @@
 # Simon Sinek
 
-共 35 部影片摘要
+共 36 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-14 | [Why Are We Friends?](2026-02-14_CCXICFcqn3A) |
 | 未知日期 | [The Hardest Part About Leadership](qtn-gwHWFFU_hardest_part_about_leadership) |
 | 未知日期 | [Company Culture Reflects The Founder](Company_Culture_Reflects_The_Founder) |
 | 未知日期 | [Courage Comes From Friendship](Courage_Comes_From_Friendship) |

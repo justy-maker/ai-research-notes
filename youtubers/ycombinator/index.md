@@ -8,6 +8,7 @@ Y Combinator 是全球最知名的新創加速器，培育出 Airbnb、Dropbox�
 ## 已整理影片
 
 ### AI 工具與開發
+- [We're All Addicted To Claude Code](2026-02-14_qwmmWzPnhog.md) - Claude Code 使用體驗、編碼代理未來發展 (2026-02-14 新增)
 - [我們都對 Claude Code 上癮了](20260212-addicted-to-claude-code.md) - Claude Code CLI 效率、上下文管理與編碼代理最佳實踐 (2026-02-12 更新)
 - [We're All Addicted To Claude Code](qwmmWzPnhog-were-all-addicted-to-claude-code.md) - Claude Code 使用心得與 AI 編程工具比較
 

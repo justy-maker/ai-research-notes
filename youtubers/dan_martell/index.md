@@ -1,9 +1,10 @@
 # Dan Martell
 
-共 22 部影片摘要
+共 23 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-14 | [I Tried 500+ AI Tools, These 20 Will Make You $1M](2026-02-14_FEex8E1yDj4) |
 | 未知日期 | [How to Be So Productive It Feels Like Cheating](video_iQX_Cc0aHhg) |
 | 未知日期 | [The Only Trait to Get Rich in the AI Era](video_QpfVvmXBHOU) |
 | 未知日期 | [How to Invest Your Money Like The 0.1%](video_2WEMhpDOnsw) |
