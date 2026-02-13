@@ -28,14 +28,14 @@
             padding: 20px;
             margin: 20px 0;
             border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         .weather {
-            font-size: 1.2em;
-            color: #555;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
         }
         .news-item {
-            margin: 15px 0;
+            margin-bottom: 20px;
             padding-bottom: 15px;
             border-bottom: 1px solid #eee;
         }
@@ -43,94 +43,81 @@
             border-bottom: none;
         }
         .video-item {
-            margin: 15px 0;
+            margin-bottom: 15px;
         }
-        a {
-            color: #2980b9;
+        .video-link {
+            color: #e74c3c;
             text-decoration: none;
         }
-        a:hover {
+        .video-link:hover {
             text-decoration: underline;
         }
         .footer {
-            margin-top: 40px;
             text-align: center;
             color: #888;
-            font-size: 0.9em;
+            font-size: 14px;
+            margin-top: 30px;
         }
     </style>
 </head>
 <body>
-    <h1>每日早報</h1>
-    <p>2026年2月14日 星期五 情人節快樂</p>
+    <h1>每日早報 - 2026年2月14日 星期六</h1>
+    <p>情人節快樂！以下是今天的重點整理。</p>
 
-    <div class="section">
-        <h2>今日天氣</h2>
-        <p class="weather">
-            台北今天早晨有薄霧，氣溫攝氏十七度，濕度百分之九十四，東北風每小時四公里。天氣濕涼，出門記得帶把傘，也建議穿件薄外套。
-        </p>
+    <div class="section weather">
+        <h2 style="color:white; margin-top:0;">台北今日天氣</h2>
+        <p>今天早晨有霧，目前氣溫約攝氏16度，體感溫度也差不多。白天會轉為晴朗好天氣，最高溫可達攝氏26度，最低溫攝氏16度。濕度較高約百分之九十四，能見度早上較差約三公里。風向西南風，風速每小時四公里，相當微弱。日出時間是早上六點二十九分，日落是下午五點四十七分。整體來說是適合外出的好天氣，白天會很舒服，但早晚溫差大，記得帶件薄外套。</p>
     </div>
 
     <div class="section">
-        <h2>科技新聞摘要</h2>
-
+        <h2>科技與AI重點新聞</h2>
+        
         <div class="news-item">
-            <strong>OpenAI 解散使命對齊團隊</strong><br>
-            OpenAI 宣布解散其 Mission Alignment 團隊，這個團隊原本負責確保通用人工智慧能造福全人類。團隊成員已被調往公司其他部門，前團隊負責人 Joshua Achiam 將擔任新設立的首席未來學家職位。據前員工透露，這次重組源於安全議題的內部緊張關係。
+            <h3>Anthropic 完成史上最大 AI 融資</h3>
+            <p>Anthropic 宣布完成由 Coatue 和新加坡政府投資公司 GIC 領投的 G 輪融資，金額高達三百億美元，公司估值來到三千八百億美元。Nvidia 和微軟也參與了這輪融資。據報導 Anthropic 的年收入已達到一百四十億美元，正以每年十倍的速度高速增長。這筆資金將用於推動 Claude AI 模型的研發和基礎設施擴展，顯示市場對 Anthropic 的高度信心。</p>
         </div>
 
         <div class="news-item">
-            <strong>OpenAI 開始測試 ChatGPT 廣告</strong><br>
-            OpenAI 正在測試將廣告加入 ChatGPT。本週離開公司的研究員 Zoë Hitzig 在紐約時報發表文章，對此舉表達深度憂慮，認為廣告模式可能對用戶造成潛在傷害，並呼籲探索其他替代方案。
+            <h3>Google 發布 Gemini 3 Deep Think 更新</h3>
+            <p>Google 發布了 Gemini 3 的 Deep Think 更新版本，這是一個專門設計用來解決科學、工程和高級研究中複雜問題的 AI 平台。Deep Think 模式現在可以在 Gemini 應用程式中使用，但完整存取權限僅限於 Google AI Ultra 訂閱者。Google DeepMind 也基於 Gemini 3 Deep Think 開發了一款名為 Aletheia 的 AI 代理。</p>
         </div>
 
         <div class="news-item">
-            <strong>OpenAI 高層因反對成人模式遭開除</strong><br>
-            OpenAI 產品政策副總裁 Ryan Beiermeister 於一月初遭解僱。她曾反對公司推出成人內容功能，並擔憂相關安全防護措施不足。OpenAI 表示解僱與她提出的議題無關。
+            <h3>OpenAI 指控 DeepSeek 竊取技術</h3>
+            <p>OpenAI 向美國議員發出警告，聲稱中國競爭對手 DeepSeek 正在使用不正當且日益複雜的方法，從美國領先的人工智慧模型中提取結果，用於訓練其下一代 R1 聊天機器人。OpenAI 指控 DeepSeek 使用了蒸餾技術，並採取新的模糊方法來規避 OpenAI 對其模型輸出濫用的防禦機制。這件事情可能會升級成美中科技競爭的新焦點。</p>
         </div>
 
         <div class="news-item">
-            <strong>微軟 AI 執行長預測白領工作將被自動化</strong><br>
-            微軟 AI 執行長 Mustafa Suleyman 在接受金融時報採訪時表示，他認為大部分白領工作，包括律師、會計、專案經理和行銷人員等，將在未來十二到十八個月內被 AI 完全自動化。他也透露微軟今年將推出更多自家開發的 AI 模型。
+            <h3>黃仁勳談 AI 基礎建設將持續七到八年</h3>
+            <p>Nvidia 執行長黃仁勳表示，人工智慧的大規模資本支出是適當且必要的，因為該行業正在經歷一代人一次的基礎設施建設，這個過程將持續七到八年。黃仁勳還提到 Meta 是目前在使用 AI 方面做得最好的公司，顯示他對大型科技公司 AI 應用策略的觀察。</p>
         </div>
 
         <div class="news-item">
-            <strong>Google Docs 新增 AI 音訊摘要功能</strong><br>
-            Google 開始向部分商業用戶和 Google AI 訂閱者推出 Gemini 驅動的音訊摘要功能。使用者可以聆聽文件的精簡語音摘要，而不必閱讀完整文件內容。這項功能可在 Google Docs 的工具選單中找到。
-        </div>
-
-        <div class="news-item">
-            <strong>Meta 智能眼鏡銷量大增</strong><br>
-            Meta 與 EssilorLuxottica 合作的智能眼鏡在 2025 年售出超過七百萬副，是 2023 和 2024 年銷量總和的三倍。執行長 Francesco Milleri 表示銷量呈現指數級成長，並預期年銷量一千萬副的目標指日可待。
-        </div>
-
-        <div class="news-item">
-            <strong>新法案要求 AI 公司揭露版權內容使用</strong><br>
-            美國參議員 Adam Schiff 與 John Curtis 共同提出跨黨派的 CLEAR 法案，將要求科技公司報告使用版權內容訓練 AI 的情況，以書面方式詳細說明訓練資料來源。
+            <h3>川普政府的 AI 政策動向</h3>
+            <p>有報導指出川普政府正在起草一份自願協議，要求 AI 公司支付百分之百的資料中心能源費用。另外 Anthropic 計畫捐贈兩千萬美元給一個名為 Public First Action 的政治團體，該組織反對聯邦層面過度的 AI 監管。在貿易方面，有消息指川普政府可能與台灣達成貿易協議，降低台灣的關稅壁壘。</p>
         </div>
     </div>
 
     <div class="section">
         <h2>今日新整理影片</h2>
-
+        <p>今天整理了兩支新影片：</p>
+        
         <div class="video-item">
-            <strong>Claude Code 終極入門指南</strong><br>
-            頻道：Liam Ottley<br>
-            這部影片詳細介紹如何使用 Claude Code 自動化日常工作流程。內容涵蓋工作區、指令、技能和腳本等核心概念，以及情境堆疊等進階技巧。對於想要提升 AI 輔助開發效率的人來說是很實用的教學。<br>
-            <a href="https://justy-maker.github.io/ai-research-notes/#/youtubers/liam_ottley/2026-02-14_2bsfQThGXxc">閱讀完整摘要</a>
+            <h3>Liam Ottley - Claude Code 終極新手指南</h3>
+            <p>這支影片教你如何使用 Claude Code 來自動化你的生活和工作，是一個完整的新手入門指南。</p>
+            <p><a class="video-link" href="https://www.youtube.com/watch?v=2bsfQThGXxc" target="_blank">觀看影片</a> | <a class="video-link" href="https://justy-maker.github.io/ai-research-notes/#/youtubers/liam_ottley/2026-02-14_2bsfQThGXxc" target="_blank">閱讀筆記</a></p>
         </div>
 
         <div class="video-item">
-            <strong>一句話克隆聲音 Index TTS 教程</strong><br>
-            頻道：極客時間 GeekHour<br>
-            B站推出的開源免費語音生成模型 Index TTS 2 介紹。只需要一小段語音樣本就能克隆聲音，還能模擬不同情感，支援多種語言包括中文方言。硬體要求不高，約八GB顯存的顯卡就能運行，適合用於配音、有聲書製作等場景。<br>
-            <a href="https://justy-maker.github.io/ai-research-notes/#/youtubers/geekhour/2026-02-14_2YbFmvF8-7c">閱讀完整摘要</a>
+            <h3>GeekHour - Index TTS 一句話克隆聲音教程</h3>
+            <p>介紹 Index TTS 這個工具，只需要一句話就能克隆你的聲音，相當有趣的語音合成技術。</p>
+            <p><a class="video-link" href="https://www.youtube.com/watch?v=2YbFmvF8-7c" target="_blank">觀看影片</a> | <a class="video-link" href="https://justy-maker.github.io/ai-research-notes/#/youtubers/geekhour/2026-02-14_2YbFmvF8-7c" target="_blank">閱讀筆記</a></p>
         </div>
     </div>
 
     <div class="footer">
-        <p>報告由阿福自動生成</p>
-        <p><a href="https://justy-maker.github.io/ai-research-notes/">完整影片資料庫</a></p>
+        <p>本報告由 OpenClaw AI 自動生成</p>
+        <p>更多研究筆記請見 <a href="https://justy-maker.github.io/ai-research-notes/">AI Research Notes</a></p>
     </div>
 </body>
 </html>
