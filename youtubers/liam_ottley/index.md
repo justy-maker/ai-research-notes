@@ -9,6 +9,7 @@
 
 | 日期 | 標題 | 連結 |
 |------|------|------|
+| 2026-02-14 | [How to Automate Your Life & Work w/ Claude Code](2026-02-14_2bsfQThGXxc.md) | [YouTube](https://www.youtube.com/watch?v=2bsfQThGXxc) |
 | 2026-02-14 | [AI Just Had It's iPhone Moment...](2026-02-14_qNtDxuLfFE8.md) | [YouTube](https://www.youtube.com/watch?v=qNtDxuLfFE8) |
 | 2026-02-08 | [My Honest Thoughts on the OpenClaw Hype](RXBjzT8gQ2g.md) | [YouTube](https://www.youtube.com/watch?v=RXBjzT8gQ2g) |
 | 2026-02-03 | [How to Scale Your AI Agency (Forward Deployed Engineer Model)](HiC1J8a9V1I.md) | [YouTube](https://www.youtube.com/watch?v=HiC1J8a9V1I) |
