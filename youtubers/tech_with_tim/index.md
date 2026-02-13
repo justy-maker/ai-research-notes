@@ -1,9 +1,10 @@
 # Tech With Tim
 
-共 29 部影片摘要
+共 30 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-14 | [如何避免技術面試失敗](2026-02-14_oifG86B7fP8) |
 | 未知日期 | [Go 語言程式設計完整課程](V-lI7AmusGs) |
 | 未知日期 | [VTiqivKOB8-ai-coding-tools-2026](VTiqivKOB8-ai-coding-tools-2026) |
 | 未知日期 | [Tech With Tim - 影片摘要目錄](README) |
