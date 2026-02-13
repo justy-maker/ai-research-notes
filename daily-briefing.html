@@ -3,113 +3,233 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日早報 - 2026年2月14日</title>
+    <title>每日報告 - 2026年2月14日</title>
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
+            line-height: 1.8;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container {
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
-            background: #fafafa;
-            color: #333;
-            line-height: 1.8;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
         }
         h1 {
-            color: #1a1a1a;
-            border-bottom: 2px solid #e0e0e0;
-            padding-bottom: 10px;
+            font-size: 2rem;
+            font-weight: 300;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        .date {
+            color: #888;
+            font-size: 1.1rem;
+        }
+        .valentine {
+            color: #ff6b9d;
+            font-size: 0.95rem;
+            margin-top: 8px;
+        }
+        section {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 24px 28px;
+            margin-bottom: 24px;
         }
         h2 {
-            color: #444;
-            margin-top: 30px;
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: #64b5f6;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        h2::before {
+            content: '';
+            width: 4px;
+            height: 24px;
+            background: #64b5f6;
+            border-radius: 2px;
         }
         p {
-            margin: 15px 0;
+            margin-bottom: 12px;
             text-align: justify;
         }
-        .weather {
-            background: #e8f4fd;
-            padding: 15px 20px;
+        .weather-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-top: 16px;
+        }
+        .weather-card {
+            background: rgba(100, 181, 246, 0.1);
+            padding: 16px;
             border-radius: 8px;
-            margin: 20px 0;
+            text-align: center;
+        }
+        .weather-card .temp {
+            font-size: 2rem;
+            font-weight: 300;
+            color: #fff;
+        }
+        .weather-card .label {
+            color: #888;
+            font-size: 0.9rem;
         }
         .video-list {
-            background: #f0f7f0;
-            padding: 15px 20px;
-            border-radius: 8px;
+            list-style: none;
         }
-        .video-item {
-            margin: 10px 0;
-            padding: 10px;
-            background: white;
-            border-radius: 5px;
+        .video-list li {
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
         }
-        a {
-            color: #0066cc;
-            text-decoration: none;
+        .video-list li:last-child {
+            border-bottom: none;
         }
-        a:hover {
-            text-decoration: underline;
+        .channel-name {
+            color: #81c784;
+            font-weight: 500;
         }
-        .footer {
+        .video-title {
+            color: #aaa;
+            font-size: 0.9rem;
+            margin-top: 4px;
+        }
+        .news-item {
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        .news-source {
+            color: #ffb74d;
+            font-size: 0.85rem;
+            margin-top: 4px;
+        }
+        footer {
+            text-align: center;
+            color: #666;
+            font-size: 0.85rem;
             margin-top: 40px;
             padding-top: 20px;
-            border-top: 1px solid #e0e0e0;
-            color: #888;
-            font-size: 14px;
+            border-top: 1px solid rgba(255,255,255,0.05);
         }
     </style>
 </head>
 <body>
-    <h1>每日早報</h1>
-    <p><strong>2026年2月14日 星期六</strong></p>
+    <div class="container">
+        <header>
+            <h1>每日早晨報告</h1>
+            <div class="date">2026年2月14日 星期六</div>
+            <div class="valentine">情人節快樂</div>
+        </header>
 
-    <div class="weather">
-        <h2>今日天氣</h2>
-        <p>台北今天天氣有霧，氣溫大約攝氏十六度，濕度高達百分之九十四，風向東北偏北，風速每小時四公里。早晨出門記得帶件外套，空氣比較潮濕，如果有呼吸道敏感的情況可以考慮戴口罩。</p>
-    </div>
+        <section>
+            <h2>台北天氣</h2>
+            <p>今天是情人節，台北天氣相當不錯，非常適合安排戶外約會。清晨有一些薄霧，目前氣溫約攝氏16度，體感溫度相近，濕度偏高達94%。不過到了上午霧氣會散去，轉為晴朗的好天氣。中午氣溫會上升到25度左右，紫外線指數偏高，外出記得做好防曬。傍晚氣溫約22度，晚間會降到20度左右，整體來說是舒適宜人的一天。</p>
+            <div class="weather-info">
+                <div class="weather-card">
+                    <div class="temp">16°C</div>
+                    <div class="label">目前氣溫（薄霧）</div>
+                </div>
+                <div class="weather-card">
+                    <div class="temp">26°C</div>
+                    <div class="label">今日最高</div>
+                </div>
+                <div class="weather-card">
+                    <div class="temp">16°C</div>
+                    <div class="label">今日最低</div>
+                </div>
+            </div>
+            <p style="margin-top: 16px; color: #888;">日出時間 06:29，日落時間 17:47。今日全天降雨機率極低，放心安排戶外活動。</p>
+        </section>
 
-    <h2>科技新聞重點</h2>
+        <section>
+            <h2>重要新聞</h2>
+            <div class="news-item">
+                <p>微軟 AI 執行長 Mustafa Suleyman 預測，大多數白領工作將在未來12至18個月內被 AI 完全自動化。他表示無論是律師、會計師、專案經理還是行銷人員，只要是坐在電腦前處理的工作，AI 都能取代。微軟也預告今年將推出更多自家研發的 AI 模型。</p>
+                <div class="news-source">來源：The Verge / Financial Times</div>
+            </div>
+            <div class="news-item">
+                <p>OpenAI 傳出解散了「使命對齊團隊」（Mission Alignment Team），該團隊原本負責確保 AGI 能造福全人類。團隊成員已被調往其他部門，前負責人 Joshua Achiam 將擔任新職位「首席未來學家」。同時，OpenAI 也傳出開除了反對推出「成人模式」的產品政策副總裁 Ryan Beiermeister。</p>
+                <div class="news-source">來源：Platformer / The Verge</div>
+            </div>
+            <div class="news-item">
+                <p>Meta 智慧眼鏡 2025 年銷量突破 700 萬副，是 2023 和 2024 年總銷量的三倍。EssilorLuxottica 執行長表示銷售呈指數成長，預計 2027 年達到年銷千萬副的目標指日可待。</p>
+                <div class="news-source">來源：The Verge</div>
+            </div>
+            <div class="news-item">
+                <p>Google Docs 新增 AI 語音摘要功能，由 Gemini 驅動，可以用語音聆聽長文件的濃縮摘要，而不需要閱讀全文。該功能已開始向部分商業用戶和 Google AI 用戶推送。</p>
+                <div class="news-source">來源：Google Workspace Blog</div>
+            </div>
+            <div class="news-item">
+                <p>美國參議員 Ed Markey 致信亞馬遜，要求停止 Ring 智慧門鈴的監控網路功能。Ring 在超級盃廣告中展示攝影機聯網尋找走失寵物的功能，引發隱私監控擔憂。</p>
+                <div class="news-source">來源：The Verge</div>
+            </div>
+        </section>
 
-    <p>OpenAI 這幾天動作頻繁，但引發不少爭議。首先，他們悄悄解散了負責確保人工通用智慧造福全人類的「使命對齊團隊」，團隊成員被轉調到公司其他部門，原本的負責人 Joshua Achiam 則被任命為「首席未來學家」這個新職位。這個團隊的解散讓外界擔心 OpenAI 在安全方面的承諾是否會打折扣。</p>
+        <section>
+            <h2>今日新影片整理</h2>
+            <p>今天共處理了 11 部影片，以下是詳細清單：</p>
+            <ul class="video-list">
+                <li>
+                    <span class="channel-name">In The World of AI</span>
+                    <div class="video-title">MiniMax M2.5 IS INSANE! Best Opensource Coding Model!</div>
+                    <div class="video-title">OpenClaw + OpenCode Turns Your AI Into Autonomous Engineering Team</div>
+                </li>
+                <li>
+                    <span class="channel-name">Y Combinator</span>
+                    <div class="video-title">We're All Addicted To Claude Code</div>
+                </li>
+                <li>
+                    <span class="channel-name">Liam Ottley</span>
+                    <div class="video-title">AI Just Had It's iPhone Moment...</div>
+                    <div class="video-title">How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide</div>
+                </li>
+                <li>
+                    <span class="channel-name">GeekHour</span>
+                    <div class="video-title">OpenClaw部署教程：打造你的24小时专属AI助手！</div>
+                    <div class="video-title">一句話克隆你的聲音！Index TTS 教程</div>
+                </li>
+                <li>
+                    <span class="channel-name">Dan Martell</span>
+                    <div class="video-title">I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)</div>
+                </li>
+                <li>
+                    <span class="channel-name">Simon Sinek</span>
+                    <div class="video-title">Leadership Talk</div>
+                </li>
+                <li>
+                    <span class="channel-name">Tech With Tim</span>
+                    <div class="video-title">Programming Tutorial</div>
+                </li>
+                <li>
+                    <span class="channel-name">BRAINY DOSE</span>
+                    <div class="video-title">Psychology Tips</div>
+                </li>
+            </ul>
+            <p style="margin-top: 16px; color: #888;">今天的影片中，AI 編程工具和自動化是熱門主題，特別是 Claude Code 和 OpenClaw 相關內容。</p>
+        </section>
 
-    <p>另外，OpenAI 開始在 ChatGPT 測試廣告功能，這讓一些前員工感到憂慮。本週離職的研究員 Zoë Hitzig 在紐約時報發表評論，表達對這個決定的深切疑慮，擔心廣告模式可能會對使用者造成潛在的操縱風險。</p>
+        <section>
+            <h2>週末提醒</h2>
+            <p>今天是星期六，也是情人節。台北明天的天氣同樣是晴朗好天氣，氣溫17至26度，不過週日下午之後可能會有零星小雨。如果要安排戶外活動，今天是最佳選擇。</p>
+        </section>
 
-    <p>還有一則比較八卦的消息，OpenAI 開除了一位反對推出「成人模式」的產品政策副總裁 Ryan Beiermeister，官方說法是因為性別歧視投訴，但她本人否認這項指控，並表示她曾擔憂安全防護措施不夠完善。</p>
-
-    <p>微軟那邊，人工智慧執行長 Mustafa Suleyman 放話說，大部分白領工作在未來十二到十八個月內都會被人工智慧完全自動化，包括律師、會計師、專案經理、行銷人員等坐在電腦前工作的職位。當然，他自己的工作應該不在這個範圍內。</p>
-
-    <p>Meta 的智慧眼鏡賣得很好，二零二五年全年銷售超過七百萬副，是二零二三和二零二四年總和的三倍。看起來距離他們訂下的二零二七年年銷千萬的目標已經很近了。</p>
-
-    <p>Google Docs 新增了一個實用功能，可以用 Gemini 生成文件的語音摘要，讓你不用讀完整份文件就能快速掌握重點。這個功能正在向部分商業用戶和 Google AI 用戶推出。</p>
-
-    <p>在監管方面，美國參議員 Adam Schiff 和 John Curtis 提出了一項跨黨派法案，要求科技公司在使用受版權保護的內容訓練人工智慧時必須申報，這對於一直迴避版權問題的各大人工智慧公司來說可能是個挑戰。</p>
-
-    <div class="video-list">
-        <h2>今日新整理影片</h2>
-        
-        <div class="video-item">
-            <strong>Liam Ottley</strong><br>
-            <a href="https://justy-maker.github.io/ai-research-notes/#/youtubers/liam_ottley/2026-02-14_2bsfQThGXxc">How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide</a><br>
-            這部影片教你如何用 Claude Code 自動化你的生活和工作，是給初學者的完整指南。
-        </div>
-        
-        <div class="video-item">
-            <strong>GeekHour</strong><br>
-            <a href="https://justy-maker.github.io/ai-research-notes/#/youtubers/geekhour/2026-02-14_2YbFmvF8-7c">一句話克隆你的聲音！Index TTS 教程</a><br>
-            介紹 Index TTS 這個語音克隆工具，只需要一句話就能複製你的聲音。
-        </div>
-        
-        <div class="video-item">
-            <strong>GeekHour</strong><br>
-            <a href="https://justy-maker.github.io/ai-research-notes/#/youtubers/geekhour/2026-02-14_h1fLEH5kAV4">OpenClaw部署教程：打造你的24小时专属AI助手！</a><br>
-            教你怎麼部署 OpenClaw，建立一個全天候運作的個人 AI 助手。
-        </div>
-    </div>
-
-    <div class="footer">
-        <p>本報告由阿福自動生成<br>
-        資料來源：The Verge、wttr.in、YouTube 頻道追蹤系統</p>
+        <footer>
+            <p>由阿福自動生成 | OpenClaw Morning Briefing</p>
+        </footer>
     </div>
 </body>
 </html>
