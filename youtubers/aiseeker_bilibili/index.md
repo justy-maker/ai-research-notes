@@ -2,9 +2,16 @@
 
 ## 影片列表
 
-### 🆕 最新更新 (2026-02-12)
+### 🆕 最新更新 (2026-02-14)
 
-- [AI 带来的 13 个糟心问题！看完细思极恐](BV1UNcqzBEvN.md) ⚠️
+- [Seedance 2.0 深度体验！是真硬核还是纯噱头？](BV1uwcqz6E9s.md)
+- [国产 AI 杀疯了！狂破 TerminalBench，暴打 Claude Opus 4.6！](BV1bPcqzuEk1.md)
+- [宇树科技 G1 重磅升级！全球首款掌握滑板的人形机器人！](BV1azcqzLEMR.md)
+- [Gemini 3.1 Pro 现身！GLM-5 开源模型突袭上线！](BV1ZNcizUEM4.md)
+
+### 之前更新 (2026-02-12)
+
+- [AI 带来的 13 个糟心问题！看完细思极恐](BV1UNcqzBEvN.md)
 
 ### 之前更新 (2026-02-11)
 
