@@ -6,77 +6,144 @@
     <title>每日早晨報告 - 2026年2月14日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.8;
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
-            line-height: 1.8;
-            background: #f9f9f9;
+            padding: 40px 20px;
+            background: #fafafa;
             color: #333;
         }
-        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-        h2 { color: #34495e; margin-top: 30px; }
-        .weather { background: #e8f4fd; padding: 15px; border-radius: 8px; margin: 20px 0; }
-        .section { background: white; padding: 20px; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .videos { background: #f0fff4; }
-        .footer { text-align: center; color: #888; margin-top: 40px; font-size: 0.9em; }
+        h1 {
+            color: #1a1a1a;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 15px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 35px;
+            margin-bottom: 20px;
+        }
+        p {
+            margin-bottom: 18px;
+            text-align: justify;
+        }
+        .weather {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+        }
+        .section {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .news-item {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .news-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        .footer {
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+            margin-top: 40px;
+        }
+        .valentine {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <h1>每日早晨報告</h1>
-    <p>2026年2月14日 星期六 情人節快樂</p>
+    <p style="color: #666; font-size: 14px;">2026年2月14日 星期六</p>
+    
+    <div class="valentine">
+        <strong>情人節快樂</strong><br>
+        今天是西洋情人節，祝福所有有情人都能幸福美滿
+    </div>
 
-    <div class="weather section">
-        <h2>今日天氣</h2>
-        <p>台北今天是個晴朗的好天氣，氣溫攝氏27度，濕度百分之51，微風從西方吹來，風速每小時4公里。適合外出活動，記得防曬。</p>
+    <div class="weather">
+        <h2 style="color: white; margin-top: 0;">今日天氣</h2>
+        <p style="margin-bottom: 0;">台北今天天氣非常好，陽光充足，氣溫攝氏 27 度，濕度百分之 51，西風時速約 4 公里。適合外出活動，記得防曬。</p>
     </div>
 
     <div class="section">
-        <h2>重要科技新聞</h2>
+        <h2 style="margin-top: 0;">AI 與科技重要新聞</h2>
         
-        <h3>川普政府 AI 政策</h3>
-        <p>川普政府在一月份調整了對中國的 AI 晶片出口政策，允許在特定條件下出口先進 AI 晶片，這項政策轉變引發國會反對，擔心削弱美國在 AI 領域的優勢。同時，川普政府公布了「創世紀任務」的首批26個目標，計劃將 AI 注入政府科學研究，涵蓋從關鍵礦產到物理學統一理論等各個方面。政府也強調各州零散的 AI 法規對美國競爭力和網路基礎設施部署構成威脅。</p>
-        
-        <h3>馬斯克的太空與 AI 布局</h3>
-        <p>馬斯克宣布 SpaceX 將重心轉向在月球上建造「自我成長的城市」，目標十年內完成，計劃建立永久月球基地和 AI 驅動的衛星工廠。SpaceX 收購 xAI 後，計劃在月球建立 AI 衛星工廠，並建立太陽能供電的軌道數據中心。儘管 Grok 因生成爭議圖像而備受批評，但 Grok 在美國市場的佔有率仍在上升。馬斯克也抨擊 Anthropic 的 AI 是「厭惡人類的」。</p>
-        
-        <h3>黃仁勳看好 2026</h3>
-        <p>NVIDIA 執行長黃仁勳表示，AI 將影響每個產業，每個國家都需要將 AI 納入國家戰略。他認為 AI Agent 會消耗軟體而不是取代它，駁斥了 AI 取代軟體的恐懼。黃仁勳在台灣告訴商業夥伴，2026年將是晶片產業和 AI 產業的「巨大一年」。</p>
-        
-        <h3>OpenAI 與 Sam Altman</h3>
-        <p>OpenAI 指控中國的 DeepSeek 竊取其智慧財產權來訓練自己的模型。Sam Altman 表示，OpenAI 的 GPT 5.3 Codex 號稱是第一個「在創建自身方面發揮了作用」的 AI 模型。另外，OpenAI 的 IPO 市場因一位副總裁涉及性別歧視指控被解僱，「2026年底前不進行 IPO」的可能性升至百分之52。</p>
-        
-        <h3>Google 安全警報</h3>
-        <p>Google 報告指出，與北韓有關的威脅行為者 UNC2970 正在使用 Gemini 模型對目標進行偵察。Google 也概述了 2026 年 AI Agent 增長的五個關鍵趨勢。</p>
-        
-        <h3>Anthropic 巨額融資</h3>
-        <p>Anthropic 完成300億美元 G 輪融資，公司估值達到3800億美元，持續在 AI 領域擴大投資。</p>
-        
-        <h3>台積電營收成長</h3>
-        <p>台積電擴大在日本生產先進 AI 半導體，以滿足不斷成長的 AI 相關需求。一月份營收大幅成長百分之36.8，突顯全球對先進半導體的需求加速。</p>
+        <div class="news-item">
+            <strong>OpenAI 組織變動與策略調整</strong>
+            <p>OpenAI 本週進行了多項重大人事與組織調整。首先，公司解散了負責確保通用人工智慧造福全人類的 Mission Alignment 團隊，成員已被轉移到公司其他部門，前團隊負責人 Joshua Achiam 將擔任新設的「首席未來學家」職位。這項變動引發了外界對 OpenAI 安全優先承諾的質疑。</p>
+            <p>此外，前產品政策副總裁 Ryan Beiermeister 因反對公司推出「成人模式」功能而遭解僱。她擔憂現有的安全防護措施不夠完善。OpenAI 否認解僱與她提出的問題有關。</p>
+            <p>另一位離職研究員 Zoë Hitzig 則在紐約時報發表專文，對 OpenAI 計劃在 ChatGPT 中投放廣告表達深切擔憂，認為這可能對用戶造成潛在傷害。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>OpenAI 硬體產品延期至 2027 年</strong>
+            <p>根據法院文件顯示，OpenAI 副總裁 Peter Welinder 表示，原本預計今年推出的首款硬體產品將延遲至 2027 年 3 月之後才能與消費者見面。這些產品據傳包括智慧音箱和智慧眼鏡等裝置。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>微軟 AI 負責人：白領工作將在一年半內自動化</strong>
+            <p>微軟 AI 執行長 Mustafa Suleyman 接受金融時報採訪時表示，他認為 AI 將在未來 12 到 18 個月內完全自動化大部分白領工作，包括律師、會計師、專案經理和行銷人員等職位。他同時透露微軟今年將推出更多自有 AI 模型。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>Meta 智慧眼鏡銷量亮眼</strong>
+            <p>EssilorLuxottica 執行長 Francesco Milleri 在財報電話會議上宣布，Meta Ray-Ban 智慧眼鏡在 2025 年售出超過 700 萬副，較 2023 和 2024 年的總銷量成長三倍。按照這個增長態勢，原定 2027 年達成的年銷售一千萬副目標應該可以提前實現。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>迪士尼向字節跳動發出侵權警告</strong>
+            <p>迪士尼向字節跳動發出停止侵權函，指控其新發布的 Seedance 2.0 AI 影片生成模型侵犯了迪士尼旗下角色的智慧財產權。迪士尼在函件中列舉了該模型生成蜘蛛人和達斯維達等角色影片的案例，指責字節跳動「劫持了迪士尼的角色」。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>Google Docs 新增 AI 音訊摘要功能</strong>
+            <p>Google 開始向部分商業用戶和 Google AI 訂閱用戶推出由 Gemini 驅動的音訊摘要功能。用戶可以透過工具選單使用這項功能，讓 AI 為冗長的文件生成精簡的語音概述，不需要閱讀整份文件。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>印度要求三小時內移除深度偽造內容</strong>
+            <p>印度政府更新了 2021 年 IT 規則，要求社群平台在收到檢舉後三小時內移除深度偽造內容。新規定還要求合成音訊和視覺內容必須加上標籤並可追溯來源，同時禁止欺騙性冒充、未經同意的親密影像，以及與嚴重犯罪相關的素材。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>YouTube Music 推出 AI 播放清單功能</strong>
+            <p>YouTube Music 向 iOS 和 Android 的付費訂閱用戶推出 AI 播放清單功能。用戶可以使用語音或文字描述來將想法、曲風或氛圍轉換成個人化播放清單，功能類似 Spotify 去年十二月推出的 Prompted Playlists。</p>
+        </div>
+
+        <div class="news-item">
+            <strong>美國提出 AI 訓練版權法案</strong>
+            <p>參議員 Adam Schiff 和 John Curtis 提出跨黨派的「版權標籤和倫理 AI 報告法案」，要求科技公司必須書面報告使用版權作品訓練新的和現有 AI 模型的情況。這項法案是在多起針對 AI 公司版權侵權訴訟後提出的。</p>
+        </div>
     </div>
 
-    <div class="section videos">
-        <h2>今日新整理影片</h2>
-        <p>今天總共整理了78部新影片，來自以下頻道：</p>
-        <ul>
-            <li>brainydose：12部</li>
-            <li>dankoe：11部</li>
-            <li>tech_with_tim：9部</li>
-            <li>intheworldofai：9部</li>
-            <li>aisuperdomain：8部</li>
-            <li>drberg_chinese：8部</li>
-            <li>geekhour：7部</li>
-            <li>liam_ottley：6部</li>
-            <li>dan_martell：3部</li>
-            <li>simon_sinek：3部</li>
-            <li>alan_design：2部</li>
-        </ul>
-        <p>B站目前因為需要登錄憑證暫時無法存取。</p>
+    <div class="section">
+        <h2 style="margin-top: 0;">今日新整理影片</h2>
+        <p>今天共整理了 78 部新影片，來自以下頻道：</p>
+        <p>Brainydose 頻道 12 部、Dan Koe 頻道 11 部、In The World Of AI 頻道 9 部、Tech With Tim 頻道 9 部、AI Super Domain 頻道 8 部、柏格醫生中文頻道 8 部、GeekHour 頻道 7 部、Liam Ottley 頻道 6 部、Dan Martell 頻道 3 部、Simon Sinek 頻道 3 部、Alan 設計頻道 2 部。</p>
+        <p>B 站影片因需要登錄憑證暫時無法整理。</p>
     </div>
 
     <div class="footer">
-        <p>由阿福自動生成 | <a href="https://justy-maker.github.io/ai-research-notes/">AI Research Notes</a></p>
+        <p>報告由阿福自動生成</p>
+        <p>查看更多報告：<a href="index.html">歷史報告索引</a></p>
     </div>
 </body>
 </html>
