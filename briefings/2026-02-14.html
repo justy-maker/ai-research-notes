@@ -3,256 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日報告 - 2026年2月14日</title>
+    <title>每日早晨報告 - 2026年2月14日</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
-            line-height: 1.8;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-            color: #e0e0e0;
-            min-height: 100vh;
-            padding: 40px 20px;
-        }
-        .container {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             max-width: 800px;
             margin: 0 auto;
+            padding: 20px;
+            line-height: 1.8;
+            background: #fafafa;
+            color: #333;
         }
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid rgba(255,255,255,0.1);
-        }
-        h1 {
-            font-size: 2rem;
-            font-weight: 300;
-            color: #fff;
-            margin-bottom: 8px;
-        }
-        .date {
-            color: #888;
-            font-size: 1.1rem;
-        }
-        section {
-            background: rgba(255,255,255,0.05);
-            border-radius: 12px;
-            padding: 24px 28px;
-            margin-bottom: 24px;
-        }
-        h2 {
-            font-size: 1.3rem;
-            font-weight: 500;
-            color: #64b5f6;
-            margin-bottom: 16px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        h2::before {
-            content: '';
-            width: 4px;
-            height: 24px;
-            background: #64b5f6;
-            border-radius: 2px;
-        }
-        p {
-            margin-bottom: 12px;
-            text-align: justify;
-        }
-        .weather-info {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 16px;
-            margin-top: 16px;
-        }
-        .weather-card {
-            background: rgba(100, 181, 246, 0.1);
-            padding: 16px;
-            border-radius: 8px;
-            text-align: center;
-        }
-        .weather-card .temp {
-            font-size: 2rem;
-            font-weight: 300;
-            color: #fff;
-        }
-        .weather-card .label {
-            color: #888;
-            font-size: 0.9rem;
-        }
-        .video-list {
-            list-style: none;
-        }
-        .video-list li {
-            padding: 12px 0;
-            border-bottom: 1px solid rgba(255,255,255,0.05);
-        }
-        .video-list li:last-child {
-            border-bottom: none;
-        }
-        .channel-name {
-            color: #81c784;
-            font-weight: 500;
-        }
-        .video-count {
-            color: #888;
-            font-size: 0.9rem;
-        }
-        .news-item {
-            padding: 16px 0;
-            border-bottom: 1px solid rgba(255,255,255,0.05);
-        }
-        .news-item:last-child {
-            border-bottom: none;
-        }
-        .news-title {
-            color: #fff;
-            font-weight: 500;
-            margin-bottom: 8px;
-        }
-        .news-summary {
-            color: #aaa;
-            font-size: 0.95rem;
-        }
-        footer {
-            text-align: center;
-            color: #666;
-            font-size: 0.85rem;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid rgba(255,255,255,0.05);
-        }
-        .valentine {
-            background: rgba(244, 67, 54, 0.1);
-            border-left: 3px solid #f44336;
-            padding: 16px;
-            border-radius: 0 8px 8px 0;
-            margin-top: 12px;
-            color: #ffcdd2;
-        }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        .section { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .weather { font-size: 1.2em; color: #e67e22; }
+        .meta { color: #7f8c8d; font-size: 0.9em; }
+        p { margin: 15px 0; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>每日早晨報告</h1>
-            <div class="date">2026年2月14日 星期六 情人節</div>
-        </header>
+    <h1>每日早晨報告</h1>
+    <p class="meta">2026年2月14日 星期六 情人節</p>
 
-        <section>
-            <h2>台北天氣</h2>
-            <p>今天是情人節，台北天氣非常給力，全天晴朗無雨，目前氣溫攝氏24度，體感溫暖舒適。今天氣溫預計維持在20到26度之間，是非常適合外出約會的好天氣。空氣品質良好，紫外線中等偏強，外出記得做好防曬。</p>
-            <div class="weather-info">
-                <div class="weather-card">
-                    <div class="temp">24°C</div>
-                    <div class="label">目前氣溫</div>
-                </div>
-                <div class="weather-card">
-                    <div class="temp">26°C</div>
-                    <div class="label">預計最高</div>
-                </div>
-                <div class="weather-card">
-                    <div class="temp">晴朗</div>
-                    <div class="label">天氣狀況</div>
-                </div>
-            </div>
-            <div class="valentine">
-                <p>情人節快樂！今天天氣這麼好，非常適合安排浪漫的戶外活動喔。</p>
-            </div>
-        </section>
-
-        <section>
-            <h2>重要新聞</h2>
-            
-            <div class="news-item">
-                <div class="news-title">Anthropic 獲 300 億美元巨額融資</div>
-                <div class="news-summary">AI 新創公司 Anthropic 在最新一輪融資中籌集了 300 億美元，估值翻倍至 3800 億美元。公司除了投入前沿研究和產品開發，還捐款 2000 萬美元給政治超級 PAC，旨在影響美國的 AI 監管政策。</div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-title">OpenAI 預計面臨 140 億美元虧損</div>
-                <div class="news-summary">儘管處於 AI 領先地位，報告預測 OpenAI 今年可能面臨超過 140 億美元的虧損，凸顯尖端 AI 基礎設施的巨大成本。同時傳言 OpenAI 將在下半年推出首款硬體產品，可能是 AI 耳機。</div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-title">Google 計劃今年投入 1850 億美元</div>
-                <div class="news-summary">為鞏固 AI 競賽地位，Google 計劃今年投入高達 1850 億美元，主要用於基礎設施、資料中心和雲端服務。此舉被視為應對 OpenAI 等對手的激烈競爭。</div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-title">台積電營收創新高，資本支出大增</div>
-                <div class="news-summary">全球晶片製造龍頭台積電公佈創紀錄的元月營收，同比增長近 37%。為滿足 AI 晶片強勁需求，公司將今年資本支出提高至 520 至 560 億美元，預計 AI 驅動銷售額將增長近 30%。</div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-title">黃仁勳預言實體 AI 的 ChatGPT 時刻</div>
-                <div class="news-summary">Nvidia 執行長黃仁勳預測，2026 年將是晶片產業和 AI 領域的豐收年，並將迎來機器人與實體 AI 的 ChatGPT 時刻。他表示 AI 建設還有 7 到 8 年的路要走。</div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-title">Musk 指示 xAI 研究月球製造設施</div>
-                <div class="news-summary">為推動 AI 能力的極限，Elon Musk 已指示 xAI 團隊研究在月球上建立製造設施的可能性，認為未來的 AI 系統將需要遠超地球所能提供的計算能力。</div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-title">川普政府要求科技公司承擔 AI 電力成本</div>
-                <div class="news-summary">美國川普政府與國會議員達成跨黨派共識，堅持要求科技公司而非消費者來支付 AI 資料中心的大量電力成本，旨在解決 AI 發展帶來的能源消耗問題。</div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-title">Sam Altman 承認 GPT-5.2 寫作品質問題</div>
-                <div class="news-summary">OpenAI CEO Sam Altman 承認最新模型 GPT-5.2 優先考慮智力和編碼等技術能力，導致寫作品質變得笨拙難讀。同時他表示正朝著能自行創新的系統邁進，願意將公司交棒給 AI。</div>
-            </div>
-        </section>
-
-        <section>
-            <h2>今日新影片整理</h2>
-            <p>今天共處理了 63 部影片，來自 YouTube 多個頻道。以下是各頻道的整理數量：</p>
-            <ul class="video-list">
-                <li>
-                    <span class="channel-name">AI SuperDomain</span>
-                    <span class="video-count"> - 10 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">Dan Koe</span>
-                    <span class="video-count"> - 10 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">Tech With Tim</span>
-                    <span class="video-count"> - 10 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">Brainy Dose</span>
-                    <span class="video-count"> - 10 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">In the World of AI</span>
-                    <span class="video-count"> - 7 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">Liam Ottley</span>
-                    <span class="video-count"> - 5 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">Dr. Berg 中文</span>
-                    <span class="video-count"> - 5 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">Dan Martell</span>
-                    <span class="video-count"> - 1 部影片</span>
-                </li>
-                <li>
-                    <span class="channel-name">Simon Sinek</span>
-                    <span class="video-count"> - 1 部影片</span>
-                </li>
-            </ul>
-            <p style="margin-top: 16px; color: #888;">另有 12 部影片待處理，包括 GeekHour 和 Alan Design 頻道，因無字幕需使用 Whisper 處理。</p>
-        </section>
-
-        <footer>
-            <p>由阿福自動生成 | OpenClaw Morning Briefing</p>
-        </footer>
+    <div class="section">
+        <h2>今日天氣</h2>
+        <p class="weather">台北今天是晴天，氣溫約攝氏24度，天氣相當舒適，適合外出活動。</p>
     </div>
+
+    <div class="section">
+        <h2>重要科技新聞</h2>
+
+        <p>今天的科技圈有幾則值得關注的消息。首先是迪士尼對字節跳動提出侵權警告，指控他們新推出的 Seedance 2.0 AI 影片生成模型可以製作出蜘蛛人和達斯維達等迪士尼角色的影片，迪士尼的律師表示字節跳動正在「劫持」迪士尼的角色，這凸顯了 AI 生成內容在版權方面的法律爭議越來越激烈。</p>
+
+        <p>OpenAI 這邊有兩則重大消息。第一是他們解散了「使命對齊團隊」，這個團隊原本負責確保 AGI 能造福全人類，團隊成員已經被調到公司其他部門，前團隊負責人 Joshua Achiam 將擔任新的「首席未來學家」職位。第二是 OpenAI 開始在 ChatGPT 測試廣告，一位本週離職的前研究員在紐約時報發表評論文章，對這個做法表達深切擔憂，認為這可能會對用戶造成潛在傷害。</p>
+
+        <p>微軟 AI 執行長 Mustafa Suleyman 發表了一個頗具爭議的預測，他認為 AI 將在未來 12 到 18 個月內完全自動化大部分白領工作，包括律師、會計師、專案經理和行銷人員等。他也透露微軟今年會推出更多自家的 AI 模型。</p>
+
+        <p>Google 則是在 Google Docs 加入了 AI 音頻摘要功能，透過 Gemini 可以幫你把長文件濃縮成語音摘要，這樣就不用一字一句讀完整份文件了。</p>
+
+        <p>在硬體方面，Meta 的智慧眼鏡表現亮眼，2025 年賣出超過 700 萬副，是 2023 和 2024 年銷量總和的三倍。他們原本預計 2027 年達到年銷一千萬副的目標，現在看來應該可以提前達成。</p>
+    </div>
+
+    <div class="section">
+        <h2>今日影片整理</h2>
+        <p>今天共整理了 64 部新影片，涵蓋多個頻道的內容。主要包括：</p>
+        <p>AI SuperDomain 頻道整理了 10 部影片，Tech With Tim 整理了 10 部，Dan Koe 整理了 10 部，BrainyDose 整理了 10 部，In The World of AI 整理了 7 部，Liam Ottley 整理了 5 部，Dr. Berg 中文頻道整理了 5 部，另外還有 Dan Martell、Simon Sinek 和 Alan Design 等頻道的影片。</p>
+        <p>目前還有 GeekHour 的 5 部影片待處理，因為需要用 Whisper 進行語音轉錄，CPU 處理會比較慢。AI-seeker 的 B 站影片則需要登錄才能處理。</p>
+    </div>
+
+    <div class="section">
+        <h2>今日小結</h2>
+        <p>今天是情人節，祝軒哥有個愉快的一天。科技圈的重點是 AI 內容版權爭議持續升溫，以及 OpenAI 在商業化和安全團隊調整上的動作引發關注。天氣很好，適合出門走走。</p>
+    </div>
+
+    <p class="meta">報告由阿福自動生成</p>
 </body>
 </html>
