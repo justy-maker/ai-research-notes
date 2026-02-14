@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日早晨報告 - 2026年2月14日</title>
+    <title>每日早報 - 2026年2月14日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
@@ -14,102 +14,75 @@
             background: #fafafa;
             color: #333;
         }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #34495e;
-            margin-top: 30px;
-        }
-        .weather {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
-        }
-        .news-item {
-            background: white;
-            padding: 15px 20px;
-            margin: 15px 0;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        .news-item strong {
-            color: #2980b9;
-        }
-        .no-videos {
-            background: #f8f9fa;
-            padding: 15px;
-            border-radius: 8px;
-            color: #6c757d;
-            font-style: italic;
-        }
-        .timestamp {
-            color: #95a5a6;
-            font-size: 0.9em;
-        }
+        h1 { color: #1a1a1a; border-bottom: 2px solid #333; padding-bottom: 10px; }
+        h2 { color: #444; margin-top: 30px; }
+        .date { color: #666; font-size: 0.9em; }
+        .weather { background: #e8f4f8; padding: 15px; border-radius: 8px; margin: 20px 0; }
+        .news-item { margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
+        .news-title { font-weight: bold; color: #222; }
+        .no-video { background: #f5f5f5; padding: 15px; border-radius: 8px; color: #666; }
+        footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; color: #888; font-size: 0.85em; }
     </style>
 </head>
 <body>
-    <h1>每日早晨報告</h1>
-    <p class="timestamp">2026年2月14日 星期六</p>
+    <h1>每日早報</h1>
+    <p class="date">2026年2月14日 星期六 情人節</p>
 
     <div class="weather">
-        <h2 style="color: white; margin-top: 0;">今日天氣</h2>
-        <p>台北今天有霧，氣溫攝氏17度，濕度蠻高的有94%，風速不大大概每小時4公里往東北方向吹。出門記得帶件外套，濕氣重的天氣體感會比較涼。</p>
+        <h2>今日天氣</h2>
+        <p>台北今天是薄霧天氣，氣溫攝氏18度，濕度偏高達到88%，風向西北風速約每小時4公里。天氣涼爽但潮濕，外出記得帶件薄外套。今天是情人節，祝各位情人節快樂。</p>
     </div>
 
-    <h2>重要新聞摘要</h2>
+    <h2>AI 與科技新聞摘要</h2>
 
     <div class="news-item">
-        <p><strong>Anthropic 完成史上第二大科技私募融資</strong></p>
-        <p>Claude 的母公司 Anthropic 昨天宣布完成 300 億美元的新一輪融資，投後估值達到 3800 億美元，成為史上第二大科技私募募資案，僅次於 OpenAI 去年超過 400 億美元的交易。AI 領域的資金規模真的越來越誇張了。</p>
-    </div>
-
-    <div class="news-item">
-        <p><strong>HBM4 記憶體大戰正式開打</strong></p>
-        <p>三星和美光昨天同時宣布開始出貨下一代高頻寬記憶體 HBM4。這款記憶體被視為驅動下一代 AI 加速硬體的核心動力，三大記憶體原廠的 HBM4 驗證程序都進入尾聲，預計第二季陸續完成，將形成三家廠商同時供應 NVIDIA 的格局。</p>
+        <p class="news-title">OpenAI 解散使命對齊團隊</p>
+        <p>OpenAI 已解散其「使命對齊團隊」，這個團隊原本負責確保通用人工智慧能夠造福全人類。團隊成員已被轉調到公司其他部門，前團隊負責人 Joshua Achiam 將擔任新職位「首席未來學家」。這是 OpenAI 近期組織調整的一部分，外界關注該公司在安全議題上的立場是否有所轉變。</p>
     </div>
 
     <div class="news-item">
-        <p><strong>OpenAI 指控 DeepSeek 蒸餾美國 AI 模型</strong></p>
-        <p>OpenAI 向美國國會送交備忘錄，指控中國 AI 公司 DeepSeek 利用所謂蒸餾技術，提取美國先進 AI 模型的成果來訓練 DeepSeek-R1。OpenAI 說這是 DeepSeek 持續搭便車利用美國前線實驗室 AI 成果的一部分。</p>
+        <p class="news-title">微軟 AI 執行長預言白領工作將被自動化</p>
+        <p>微軟 AI 執行長 Mustafa Suleyman 表示，AI 將在未來 12 到 18 個月內準備好取代大部分白領工作。他指出，無論是律師、會計師、專案經理還是行銷人員，這些坐在電腦前的工作大多將被 AI 完全自動化。他同時透露微軟今年將推出更多自家研發的 AI 模型。</p>
     </div>
 
     <div class="news-item">
-        <p><strong>OpenAI 推出即時程式設計模型 GPT-5.3-Codex-Spark</strong></p>
-        <p>OpenAI 推出 GPT-5.3-Codex 的精簡版 Codex-Spark，這是他們首款專為即時程式設計打造的模型，也是與 AI 晶片公司 Cerebras 合作的新里程碑。目前是研究預覽版。</p>
+        <p class="news-title">OpenAI 開除反對成人模式的高階主管</p>
+        <p>OpenAI 產品政策團隊前副總裁 Ryan Beiermeister 於一月初被解僱。據報導，她曾反對在 ChatGPT 中加入成人內容功能，並擔憂安全措施不夠完善。OpenAI 表示解僱原因與她提出的任何問題無關，但這再度引發外界對該公司內部文化的討論。</p>
     </div>
 
     <div class="news-item">
-        <p><strong>微軟要自己做 AI 模型，減少對 OpenAI 依賴</strong></p>
-        <p>微軟宣布 AI 策略將朝向自給自足的方向發展，打算減少對 OpenAI 的依賴。看來這對夥伴關係正在慢慢鬆綁。</p>
+        <p class="news-title">Meta 智慧眼鏡銷量爆發</p>
+        <p>Meta 與 EssilorLuxottica 合作的智慧眼鏡在 2025 年售出超過 700 萬副，相較於 2023 和 2024 年合計銷量成長了三倍。執行長表示這是指數級的成長，預計 2027 年可達到年銷售 1000 萬副的目標。不過短期內價格可能維持在較高水準。</p>
     </div>
 
     <div class="news-item">
-        <p><strong>Google 發布 Gemini 3 重大升級</strong></p>
-        <p>Google 推出 Gemini 3 重大升級版本，新增 Deep Think 深度思考功能。</p>
+        <p class="news-title">Google Docs 新增 AI 語音摘要功能</p>
+        <p>Google 為 Docs 加入了由 Gemini 驅動的語音摘要功能，使用者可以聆聽長文件的精簡摘要，而不需要閱讀整份文件。這項功能目前已開始向部分企業用戶和 Google AI 訂閱用戶推出，可在 Google Docs 的工具選單中找到。</p>
     </div>
 
     <div class="news-item">
-        <p><strong>蘋果股價單日市值蒸發 2020 億美元</strong></p>
-        <p>AI 恐慌交易蔓延，美股四大指數全面收黑。蘋果領跌，市值一日蒸發約 2020 億美元，創上市以來第二大單日市值損失。科技七巨頭全面收跌。</p>
+        <p class="news-title">美國新法案要求 AI 公司揭露版權內容使用情況</p>
+        <p>參議員 Adam Schiff 和 John Curtis 提出跨黨派的「版權標示與道德 AI 報告法案」，將要求 AI 公司書面報告訓練模型時使用版權作品的情況。這項法案回應了近期多起針對 AI 公司的版權侵權訴訟，包括 Anthropic 與作家達成的 15 億美元和解案。</p>
     </div>
 
     <div class="news-item">
-        <p><strong>應材受惠 AI 需求獲利大增</strong></p>
-        <p>半導體設備商應材公布 2026 會計年度第一季財報，受惠於 AI 運算加速投資帶動高效能晶片與 HBM 的強勁需求，每股盈餘較去年同期大幅成長 75%。</p>
+        <p class="news-title">印度要求 3 小時內移除深偽內容</p>
+        <p>印度政府更新了 2021 年的資訊科技規則，要求社群平台在收到下架請求後 3 小時內移除深偽內容。新規定還要求合成音視頻內容必須標示並可追溯，並禁止未經同意的親密影像和與嚴重犯罪相關的內容。</p>
     </div>
 
-    <h2>今日新影片</h2>
-    <div class="no-videos">
-        <p>今天追蹤的 12 個 YouTube 頻道都沒有新影片。Bilibili 頻道因為需要登錄 cookies 暫時無法檢查。</p>
+    <div class="news-item">
+        <p class="news-title">YouTube Music 推出 AI 播放清單生成器</p>
+        <p>YouTube Music 為 iOS 和 Android 的付費訂閱用戶推出了 AI 播放清單功能，類似於 Spotify 去年 12 月推出的 Prompted Playlists。使用者可以透過語音或文字描述自己想要的音樂風格或氛圍，AI 就會自動生成個人化的播放清單。</p>
     </div>
 
-    <hr style="margin-top: 40px; border: none; border-top: 1px solid #ddd;">
-    <p class="timestamp">報告生成時間：2026-02-14 08:27 (Asia/Taipei)</p>
+    <h2>今日新整理影片</h2>
+    <div class="no-video">
+        <p>今日追蹤的 12 個 YouTube 頻道均無新影片更新。Bilibili 頻道因需要登錄 cookies 暫時無法檢查。</p>
+    </div>
+
+    <footer>
+        <p>此報告由阿福自動生成</p>
+        <p>報告時間：2026年2月14日 08:31</p>
+    </footer>
 </body>
 </html>
