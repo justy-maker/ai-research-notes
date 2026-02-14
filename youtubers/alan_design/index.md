@@ -25,4 +25,5 @@
 | 未知日期 | [WCAG 2.2 - SC 1.4.1 - Use of Color 顏色的使用](video_xL4iSKNc-PY) |
 | 未知日期 | [Figma Breadcrumb 設計](video_-NA4Z_Kp3B4) |
 | 未知日期 | [Figma: Buzz - 行銷協作工具](video_VZhDtB-xe8o) |
+| 2025-11-07 | [Figma Breadcrumb 設計 • Figma 教學](2025-11-07_-NA4Z_Kp3B4) |
 | 2026-02-13 | [Figma 完整軟體教學 (2026)](2026-02-13_nxEUbjrF1JI) |
