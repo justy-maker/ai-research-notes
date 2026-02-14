@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日早晨報告 - 2026年2月14日</title>
+    <title>每日早報 - 2026年2月14日</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -14,59 +14,97 @@
             background: #fafafa;
             color: #333;
         }
-        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-        h2 { color: #34495e; margin-top: 30px; }
-        .section { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .weather { font-size: 1.2em; color: #e67e22; }
-        .timestamp { color: #95a5a6; font-size: 0.9em; }
-        p { margin: 15px 0; }
+        h1 {
+            color: #1a1a1a;
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+        }
+        p {
+            margin: 15px 0;
+        }
+        .date {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .weather {
+            font-size: 1.1em;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 8px;
+        }
+        .video-list {
+            background: #f8f9fa;
+            padding: 15px;
+            border-left: 4px solid #3498db;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #95a5a6;
+            font-size: 0.85em;
+        }
     </style>
 </head>
 <body>
-    <h1>每日早晨報告</h1>
-    <p class="timestamp">2026年2月14日 星期六 上午11點</p>
+    <h1>每日早報</h1>
+    <p class="date">2026年2月14日 星期六 情人節</p>
 
-    <div class="section">
-        <h2>今日天氣</h2>
-        <p class="weather">台北今天天氣晴朗，氣溫約攝氏25度，是個舒適的好天氣。今天是情人節，出門約會或走春都很適合。</p>
+    <div class="section weather">
+        <h2 style="color:white;margin-top:0;">今日天氣</h2>
+        <p>台北今天是個晴朗的好天氣，氣溫攝氏 25 度，濕度 61%，微風從西邊吹來，風速約每小時 4 公里。很適合出門走走，如果有約會的話是個完美的情人節天氣。</p>
     </div>
 
     <div class="section">
-        <h2>重要新聞摘要</h2>
+        <h2>AI 與科技新聞重點</h2>
         
-        <p><strong>台美對等貿易協定簽署</strong></p>
-        <p>昨天台美完成簽署對等貿易協定，這是歷經十個月談判的重大成果。協定確立對等關稅百分之十五不疊加，並爭取到超過兩千項輸美產品豁免對等關稅，輸美平均關稅將降至百分之十二點三三。專家分析，這份協定能在川普訪問中國前簽署極具意義，有助扭轉外界對美台關係的擔憂。受此利多影響，主計總處大幅上修今年經濟成長率預測值至百分之七點七一，上修幅度歷年罕見。</p>
+        <p><strong>OpenAI 解散 Mission Alignment 團隊</strong></p>
+        <p>OpenAI 內部負責確保 AGI 造福全人類的 Mission Alignment 團隊已被解散，成員被分配到公司其他部門。原本的團隊負責人 Joshua Achiam 將轉任為「首席未來學家」這個新職位。這個消息讓外界對 OpenAI 的安全承諾產生更多質疑。</p>
 
-        <p><strong>Anthropic 完成三百億美元融資</strong></p>
-        <p>Claude 的開發商 Anthropic 昨天宣布完成 G 輪融資，公司估值上看三千八百億美元。市場傳出 Anthropic 可能在今年進行首次公開募股，這將是 AI 領域的重要里程碑。</p>
+        <p><strong>Anthropic 前員工談安全擔憂</strong></p>
+        <p>有前員工透露，Anthropic 內部進行了重組，據說這是因為安全團隊與公司方向之間存在緊張關係。有人形容公司目前處於追趕競爭對手的階段，這可能影響到安全優先的文化。</p>
 
-        <p><strong>OpenAI 參與軍方無人機專案</strong></p>
-        <p>OpenAI 已與兩家獲美國國防部選中的國防科技企業合作，參與美軍語音控制無人機蜂群的指揮軟體競標。不過 OpenAI 強調其技術僅用於將指揮官語音指令翻譯為無人機數據指令，並不涉及無人機操控、武器集成及目標鎖定。另外，OpenAI 也宣告將在 ChatGPT 測試廣告功能。</p>
+        <p><strong>微軟 AI 執行長預言白領工作將被取代</strong></p>
+        <p>微軟 AI 執行長 Mustafa Suleyman 表示，在未來 12 到 18 個月內，大部分白領工作將被 AI 完全自動化。他特別提到律師、會計師、專案經理和行銷人員等坐在電腦前工作的職位。當然，他沒有提到自己的工作是否也在這個名單上。</p>
 
-        <p><strong>SpaceX 考慮採用雙重股權結構上市</strong></p>
-        <p>馬斯克的 SpaceX 正考慮在今年籌劃的首次公開募股中採用雙重股權結構，為部分股東提供擁有額外投票權的股票，讓馬斯克即便持有少數股權也能維持對公司的控制權。同時，SpaceX 的 Crew-12 任務已成功發射，四名太空人將於今天與國際太空站對接。</p>
+        <p><strong>Disney 對 ByteDance 新 AI 影片模型提出警告</strong></p>
+        <p>Disney 向 ByteDance 發出停止侵權函，指控其新推出的 Seedance 2.0 AI 影片生成模型侵犯了旗下角色的版權。信中舉例說明該模型可以生成蜘蛛人和達斯維達等角色的影片。Disney 的律師表示 ByteDance 正在劫持 Disney 的角色來創作衍生作品。</p>
 
-        <p><strong>微軟面臨 AI 領先地位挑戰</strong></p>
-        <p>分析指出微軟的 AI 領先優勢正面臨 Google 與新創公司的強勢挑戰。微軟昨天也公布了 Windows 基準安全模式，預設啟用執行階段完整性防護機制，讓應用程式與 AI 代理人的存取行為更加透明可控。</p>
+        <p><strong>Google Docs 新增 AI 語音摘要功能</strong></p>
+        <p>Google 為 Docs 加入了 Gemini 驅動的語音摘要功能。使用者可以聆聽長文件的濃縮摘要，而不需要閱讀整份文件。這個功能目前開始向部分商業用戶和 Google AI 訂閱用戶推出。</p>
 
-        <p><strong>美國國防部短暫發布中企軍方關聯名單</strong></p>
-        <p>美國國防部昨天短暫發布了一份更新名單，將阿里巴巴、百度和比亞迪等中國大型企業列為與中國軍方有關的公司。然而該名單在幾分鐘後便被撤回，未提供任何解釋，引發市場關注。</p>
+        <p><strong>Meta 智慧眼鏡銷量暴增</strong></p>
+        <p>Meta 在 2025 年賣出了超過 700 萬副 AI 智慧眼鏡，這個數字是 2023 年和 2024 年銷量總和的三倍。EssilorLuxottica 的執行長表示，按這個成長速度，2027 年達到年銷量一千萬副的目標看起來很有希望達成。</p>
 
-        <p><strong>AI 開發動態</strong></p>
-        <p>Cloudflare 推出 Markdown for Agents 服務，AI 代理只要在請求標頭要求 markdown 格式，就能取得即時轉換的版本，詞元用量可減少百分之八十。Chrome 瀏覽器也開始支援 WebMCP，讓 AI 代理可以直接和網頁元件互動。</p>
+        <p><strong>OpenAI 開除反對「成人模式」高管</strong></p>
+        <p>OpenAI 產品政策團隊前副總裁 Ryan Beiermeister 據報在一月初被開除。他曾反對公司推出的「成人模式」功能。官方說法是因為涉嫌對男性同事的性別歧視，但時機點引發外界議論。</p>
+
+        <p><strong>前 OpenAI 研究員對廣告模式表達憂慮</strong></p>
+        <p>本週離開 OpenAI 的研究員 Zoë Hitzig 在紐約時報發表專欄，對公司計畫在 ChatGPT 中放入廣告表達深切的保留意見。她認為應該有其他方式可以讓更多人使用這些工具，同時避免對用戶造成潛在的操控。</p>
     </div>
 
-    <div class="section">
+    <div class="section video-list">
         <h2>今日新整理影片</h2>
-        <p>今天共整理了六十四部新影片，涵蓋多個頻道的最新內容：</p>
-        <p>AI Super Domain 頻道有十部新影片、Dan Koe 頻道十部、Tech With Tim 頻道十部、Brainy Dose 頻道十部、In the World of AI 頻道七部、Liam Ottley 頻道五部、Dr. Berg 中文頻道五部、Simon Sinek 一部、Dan Martell 一部，以及 Alan Design 一部。</p>
-        <p>另外還有五部 Geek Hour 的影片因為沒有字幕，需要使用 Whisper 處理。</p>
-        <p>所有已整理的影片都已同步到 GitHub Pages，可以在線上查看完整摘要。</p>
+        <p>今天一共整理了 64 部影片，來自以下頻道：</p>
+        <p>AI Superdomain 貢獻了 10 部影片，涵蓋 AI 領域最新技術解析。Dan Koe 也有 10 部關於創業和生產力的內容。Tech With Tim 同樣產出 10 部程式開發教學。Brainy Dose 有 10 部關於自我成長的影片。In The World of AI 整理了 7 部 AI 應用案例。Dr. Berg 中文頻道有 5 部健康相關內容。Liam Ottley 貢獻了 5 部關於 AI Agency 的影片。Simon Sinek 有 1 部領導力主題影片。Dan Martell 有 1 部 SaaS 商業內容。還有 Alan 設計頻道的 1 部設計相關影片。</p>
+        <p>另外還有 5 部 GeekHour 的影片因為沒有字幕，需要用 Whisper 處理。還有 2 部 Bilibili 的內容需要登入才能取得。</p>
     </div>
 
-    <div class="section">
-        <p>今天是農曆新年連假第二天，也是西洋情人節，祝軒哥情人節快樂。如果有計劃出門，今天天氣很好，記得查看高乘載管制資訊。</p>
+    <div class="footer">
+        <p>本報告由阿福自動生成</p>
+        <p>更多整理內容請參考：<a href="https://justy-maker.github.io/ai-research-notes/">AI Research Notes</a></p>
     </div>
-
 </body>
 </html>
