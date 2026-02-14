@@ -1,62 +1,18 @@
----
-video_id: kIWMLL0S8X8
-title: OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team
-channel: In The World of AI
-date: 2026-02-13
-url: https://www.youtube.com/watch?v=kIWMLL0S8X8
----
+# OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!
 
-# 如何免費使用最強大的AI模型：OpenClaw + OpenCode工作流程（繁體中文翻譯）
+## 摘要
 
-## 📌 重點摘要
-- OpenClaw 是一個本地運行的自主AI代理，可以作為個人AI助理。
-- OpenCode 是一個開源AI編碼代理，可以直接讀取、編輯和推理你的程式碼庫。
-- 將 OpenClaw 與 OpenCode 整合，可以實現更強大的自動化工作流程，OpenClaw 負責規劃和協調，OpenCode 負責執行。
-- Agent Trust Hub 提供技能掃描器，可以檢測和阻止 OpenClaw 技能中的潛在威脅，確保安全。
-- 可以使用 Google OAuth 在 OpenClaw 和 OpenCode 中免費使用最先進的模型，例如 Gemini 3 和 Opus 4.6。
+這段影片主要介紹如何結合 OpenClaw 和 OpenCode，將 AI 變成一個全自動的工程團隊，並自動化程式碼編寫。OpenClaw 是一個本地端運行的自主 AI 代理，可以像個人 AI 助理一樣直接在你的電腦上工作。OpenCode 則是一個開源的 AI 程式碼編寫代理，可以直接讀取、編輯和推論你的程式碼庫。
 
-## 📝 內容大綱
-*   **介紹 OpenClaw 和 OpenCode：**
-    *   OpenClaw 是一個自主AI代理，可以在本地運行，並透過 Twitter 等平台觸發任務。
-    *   OpenCode 是一個開源AI編碼代理，可以直接在終端機中使用，讀取和編輯程式碼。
-*   **OpenClaw 的安全性問題：**
-    *   社群建立的 OpenClaw 技能可能包含惡意程式碼，竊取個人資料。
-    *   Agent Trust Hub 提供技能掃描器，可以檢測和阻止潛在威脅。
-*   **整合 OpenClaw 和 OpenCode 的工作流程：**
-    *   OpenClaw 作為指揮中心，負責規劃和協調任務。
-    *   OpenCode 負責執行任務，可以使用多個子代理。
-    *   可以使用 Google OAuth 在 OpenClaw 和 OpenCode 中免費使用最先進的模型。
-*   **設定 OpenClaw 和 OpenCode：**
-    *   安裝 Node.js 22 或更高版本。
-    *   使用 npm 安裝 OpenClaw 和 OpenCode。
-    *   啟用 Google OAuth 插件。
-    *   安裝 OpenCode 控制器技能，讓 OpenClaw 可以控制 OpenCode。
-*   **使用 Agent Trust Hub 驗證技能安全性：**
-    *   在 Claw Hub 上找到 OpenCode 控制器技能。
-    *   使用 Agent Trust Hub 的技能掃描器驗證技能的安全性。
-    *   如果技能安全，則將其添加到 OpenClaw。
-*   **OpenClaw 和 OpenCode 的應用範例：**
-    *   自動建立 Node.js 或 React 專案。
-    *   安裝依賴項並啟動開發伺服器。
-    *   建立自定義腳本。
-    *   將想法轉換為程式碼。
-    *   排程多個代理在不同時間執行特定任務。
+影片強調了 OpenClaw 的潛在安全風險，因為它可以控制和執行本地電腦上的工具。影片推薦使用 Gen Digital 的 Agent Trust Hub 來掃描和阻止惡意技能，確保使用安全。透過將 OpenClaw 作為指揮中心，OpenCode 作為執行者，可以更有效率地完成程式碼編寫任務，並能使用免費模型，例如 Google 的模型。這種工作流程可以利用 OpenClaw 的規劃和協調能力，以及 OpenCode 的執行能力，創建出功能完善的 SaaS 應用程式。
 
-## 💡 關鍵要點
-*   使用 Agent Trust Hub 驗證 OpenClaw 技能的安全性，避免安裝惡意程式碼。
-*   利用 OpenClaw 和 OpenCode 的整合，實現更強大的自動化工作流程。
-*   使用 Google OAuth 在 OpenClaw 和 OpenCode 中免費使用最先進的模型。
-*   OpenClaw 負責規劃和協調，OpenCode 負責執行，可以更有效地完成任務。
-*   可以排程多個代理在不同時間執行特定任務，實現自動化。
+## 重點
 
-## 🔗 提到的工具/資源
-*   OpenClaw (OpenClaw)
-*   OpenCode
-*   Agent Trust Hub
-*   Claw Hub
-*   Node.js
-*   npm
-*   Google OAuth
-*   Gemini 3
-*   Opus 4.6
-
+- **OpenClaw**: 是一個本地端運行的自主 AI 代理，可以作為個人 AI 助理。
+- **OpenCode**: 是一個開源的 AI 程式碼編寫代理，可以直接讀取、編輯和推論程式碼庫。
+- **結合 OpenClaw 和 OpenCode**: 可以將 AI 變成一個全自動的工程團隊，實現程式碼自動化。
+- **安全風險**: OpenClaw 因為可以控制和執行本地工具，存在潛在的安全風險。
+- **Agent Trust Hub**: 由 Gen Digital 提供的技能掃描器，可以檢測和阻止惡意技能，確保安全。
+- **工作流程**: OpenClaw 作為指揮中心，負責規劃和協調；OpenCode 作為執行者，負責實際的程式碼編寫。
+- **免費模型**: 可以透過 Google 的 OAuth 協議在 OpenClaw 中使用免費模型。
+- **實際應用**: 這種工作流程可以創建出功能完善的 SaaS 應用程式。
