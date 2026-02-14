@@ -13,6 +13,7 @@
 | 25 | [保持低調的重要性：為何「看起來不富裕」反而是一種優勢](25-looking-poor-important) | Why Looking Poor Is Important | 2025-12-05 |
 | 24 | [花錢如流水的 15 件事](24-waste-of-money) | 15 Things That Are a Complete WASTE of Your Money | 2025-12-19 |
 | 23 | [看似健康卻有害的 12 種選擇](23-healthy-choices-terrible) | 12 HEALTHY Choices That Are Actually TERRIBLE for You | 2025-12-28 |
+| 31 | [為什麼這麼多聰明人選擇退出世界？](2026-02-14_fJVEOlHGtfE) | Why So Many Intelligent People Are Quitting the World | 2026-01-04 |
 | 22 | [為何越來越多聰明人選擇「退出世界」？](22-intelligent-quitting-world) | Why So Many Intelligent People Are Quitting the World | 2026-01-04 |
 | 21 | [小費文化已成常態化的詐騙？](21-tipping-culture-scam) | Tipping Culture Has Become A Normalized Scam | 2026-01-13 |
 | 20 | [我們為何如此懷念過去？——懷舊的錯覺](20-nostalgia-glitch) | Why We Yearn for The Past - The Nostalgia Glitch | 2026-01-29 |
