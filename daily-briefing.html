@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日早報 - 2026年2月14日</title>
+    <title>每日簡報 - 2026年2月14日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
@@ -14,59 +14,107 @@
             background: #fafafa;
             color: #333;
         }
-        h1 { color: #1a1a1a; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; }
-        h2 { color: #444; margin-top: 30px; }
-        .weather { background: #e3f2fd; padding: 15px; border-radius: 8px; margin: 20px 0; }
-        .news { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin: 20px 0; }
-        .videos { background: #f3e5f5; padding: 20px; border-radius: 8px; margin: 20px 0; }
-        .footer { color: #888; font-size: 0.9em; margin-top: 40px; text-align: center; }
+        h1 {
+            color: #1a1a1a;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 30px;
+        }
+        .date {
+            color: #666;
+            font-size: 1.1em;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .weather {
+            font-size: 1.1em;
+        }
+        .news-item {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        .video-stats {
+            background: #f0f7ff;
+        }
     </style>
 </head>
 <body>
-    <h1>每日早報</h1>
-    <p>2026年2月14日 星期六 情人節</p>
+    <h1>每日簡報</h1>
+    <p class="date">2026年2月14日 星期六 情人節</p>
 
-    <div class="weather">
+    <div class="section weather">
         <h2>今日天氣</h2>
-        <p>台北今天天氣晴朗，氣溫攝氏27度，濕度百分之51，有微弱的東風，風速每小時4公里。適合外出的好天氣，如果有情人節約會計畫的話，不需要擔心下雨。</p>
+        <p>
+            台北今天是個晴朗的好天氣，非常適合情人節出遊。目前氣溫攝氏27度，體感溫度約28度，濕度51%，風從東邊吹來，風速每小時4公里，相當舒適。今天最高溫會到26度，最低溫約16度，日落時間是傍晚5點47分。紫外線指數偏高，達到7，外出記得做好防曬。整體來說是個溫暖宜人的冬末春初天氣，早晚溫差較大，建議帶件薄外套。
+        </p>
     </div>
 
-    <div class="news">
-        <h2>科技新聞摘要</h2>
+    <div class="section">
+        <h2>AI 科技新聞摘要</h2>
         
-        <p><strong>川普 AI 政策</strong></p>
-        <p>川普政府持續推動 AI 監管框架，強調國家安全和經濟競爭力。相關政策限制特定外國 AI 技術在美國的使用，同時鼓勵美國本土 AI 企業發展，但也引發國際貿易摩擦討論。</p>
+        <div class="news-item">
+            <strong>Anthropic 完成史上第二大融資，估值飆升至 3800 億美元</strong>
+            <p>
+                Anthropic 昨日宣布完成 300 億美元的新一輪融資，這是科技圈史上金額第二高的私募融資。這筆資金讓 Anthropic 的估值從上一輪翻倍，達到 3800 億美元。值得注意的是，矽谷創投霸主紅杉資本也參與了這輪投資，打破了業界的競業潛規則，因為紅杉同時也是 OpenAI 和 xAI 的投資者。輝達也參與了這輪投資。這顯示 Anthropic 正在快速縮小與 OpenAI 的差距。
+            </p>
+        </div>
 
-        <p><strong>Elon Musk</strong></p>
-        <p>Musk 旗下的 xAI 在通用人工智慧領域持續推進，推出與 OpenAI 競爭的模型。Musk 持續關注 AI 對社會的潛在風險，並積極參與相關的倫理和監管討論。</p>
+        <div class="news-item">
+            <strong>超級盃廣告大戰，OpenAI 與 Anthropic 針鋒相對</strong>
+            <p>
+                今年超級盃成為 AI 公司的廣告競技場。OpenAI、Anthropic 和 Google 同台較勁，爭奪 1.2 億觀眾的目光。Anthropic 的廣告明顯在嘲諷 OpenAI 即將在 ChatGPT 中導入廣告的決定，強調 Claude 將保持無廣告。OpenAI 執行長 Sam Altman 則批評 Anthropic 的宣傳不誠實。數據顯示，Anthropic 的超級盃廣告帶來了 11% 的用戶增長。這場較勁反映出兩家公司在商業模式上的根本分歧：OpenAI 正積極尋求廣告變現，而 Anthropic 則選擇用這點來差異化競爭。
+            </p>
+        </div>
 
-        <p><strong>Jensen Huang 與 Nvidia</strong></p>
-        <p>Nvidia 在 AI 晶片市場的主導地位進一步鞏固，新一代 GPU 架構和 AI 加速器在性能和能效上持續領先。黃仁勳強調加速運算的重要性，並積極投資於 AI 生態系統建設。</p>
+        <div class="news-item">
+            <strong>五角大廈要求 AI 公司放寬軍事應用限制</strong>
+            <p>
+                美國國防部正在推動將 AI 技術導入軍事機密網路，並要求 OpenAI 和 Anthropic 放寬其安全限制條款。五角大廈希望能夠無限制地部署 AI 系統，這引發了關於 AI 軍事應用的安全與倫理爭議。據報導，Anthropic 對此採取較為謹慎的態度，而 OpenAI 則似乎更願意配合。另有消息指出，美軍在緝捕委內瑞拉總統馬杜洛的行動中，已經動用了 Anthropic 的 Claude AI 工具。
+            </p>
+        </div>
 
-        <p><strong>Sam Altman 與 OpenAI</strong></p>
-        <p>OpenAI 持續推進 AGI 發展，推出更強大、更具通用性的 AI 模型。Altman 面臨 AGI 安全性和倫理問題的持續挑戰，並與政府和學術界合作制定相關規範。</p>
+        <div class="news-item">
+            <strong>川普施壓奏效，Anthropic 承諾負擔電網升級費用</strong>
+            <p>
+                在川普政府持續施壓科技巨頭解決 AI 資料中心的電力需求問題後，Anthropic 宣布將全額負擔其資料中心所需的電網升級費用。這是 AI 公司首次做出這樣的承諾，反映出政府對 AI 基礎設施造成電網壓力的關切。美國電網目前正面臨吃緊的情況，AI 運算對電力的龐大需求已成為產業發展的重要瓶頸。
+            </p>
+        </div>
 
-        <p><strong>Google AI</strong></p>
-        <p>Google 在 AI 領域的佈局更加全面，AI 模型在搜索、雲計算、自動駕駛等領域發揮重要作用。Google 持續強調 AI 倫理和社會責任。</p>
-
-        <p><strong>Anthropic Claude</strong></p>
-        <p>Anthropic 的 Claude 模型在安全性和可解釋性方面持續領先，在企業級應用和政府部門中獲得更廣泛採用。Anthropic 致力於構建更加可靠和負責任的 AI 系統。</p>
-
-        <p><strong>台積電</strong></p>
-        <p>台積電在先進製程技術上持續領先，為 AI 晶片製造提供強大支持，是 Nvidia、Google 等 AI 巨頭的重要合作夥伴。台積電持續擴大產能以滿足日益增長的 AI 晶片需求。</p>
+        <div class="news-item">
+            <strong>AI 超級代理大戰全面開打</strong>
+            <p>
+                OpenAI 和 Anthropic 正在四大領域全面展開 AI 代理競爭，挑戰微軟等傳統軟體巨頭的市場地位。這場超級代理大戰標誌著 AI 產業從單純的聊天機器人，轉向能夠自主執行複雜任務的智慧代理。兩家公司都在投入大量資源開發能夠操作電腦、瀏覽網頁、編寫程式碼的 AI 代理，這將徹底改變人們與軟體互動的方式。
+            </p>
+        </div>
     </div>
 
-    <div class="videos">
-        <h2>今日新影片整理</h2>
-        <p>今天總共整理了 64 部影片，來自以下頻道：</p>
-        <p>AI Superdomain 整理了 10 部影片，In The World of AI 整理了 7 部影片，Tech With Tim 整理了 10 部影片，Dan Koe 整理了 10 部影片，Brainy Dose 整理了 10 部影片，Liam Ottley 整理了 5 部影片，Dr. Berg 中文整理了 5 部影片，Dan Martell 整理了 1 部影片，Simon Sinek 整理了 1 部影片，Alan 設計頻道整理了 1 部影片。</p>
-        <p>另外還有 5 部 GeekHour 的影片需要用 Whisper 處理字幕，以及 2 部 Bilibili 影片需要登錄後處理。</p>
-        <p>所有影片摘要已同步到 GitHub Pages，可以在線上查閱。</p>
+    <div class="section video-stats">
+        <h2>今日影片整理</h2>
+        <p>
+            今天共整理了 78 部 YouTube 影片，來自追蹤的各個頻道。以下是各頻道的整理數量：
+        </p>
+        <p>
+            Brainydose 頻道整理了 12 部影片，Dan Koe 頻道有 11 部，Tech With Tim 和 In the World of AI 各有 9 部，AI Super Domain 有 8 部，Dr. Berg 中文頻道 8 部，GeekHour 有 7 部，Liam Ottley 有 6 部，Dan Martell 和 Simon Sinek 各有 3 部，Alan Design 有 2 部。
+        </p>
+        <p>
+            另外要注意，B 站的影片目前因為需要登入憑證而無法抓取。
+        </p>
     </div>
 
-    <div class="footer">
-        <p>報告由阿福自動產生</p>
-        <p>線上版本：<a href="https://justy-maker.github.io/ai-research-notes/daily-briefing.html">https://justy-maker.github.io/ai-research-notes/daily-briefing.html</a></p>
-    </div>
+    <footer style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; color: #666; font-size: 0.9em;">
+        <p>此報告由阿福自動生成 | 資料來源：Google 新聞、wttr.in</p>
+    </footer>
 </body>
 </html>
