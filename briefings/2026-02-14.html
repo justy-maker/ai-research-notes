@@ -6,7 +6,7 @@
     <title>每日早報 - 2026年2月14日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
@@ -15,45 +15,37 @@
             color: #333;
         }
         h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
+            color: #1a1a1a;
+            border-bottom: 2px solid #e0e0e0;
             padding-bottom: 10px;
         }
         h2 {
-            color: #34495e;
+            color: #2c3e50;
             margin-top: 30px;
         }
-        p {
-            margin: 15px 0;
-            text-align: justify;
-        }
         .date {
-            color: #7f8c8d;
+            color: #666;
             font-size: 0.9em;
         }
         .weather {
-            background: #e8f4f8;
+            background: #e8f4fd;
             padding: 15px;
             border-radius: 8px;
             margin: 20px 0;
         }
         .news-item {
-            background: #fff;
-            padding: 15px;
             margin: 15px 0;
-            border-left: 4px solid #3498db;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
         }
-        .video-item {
-            background: #fff;
-            padding: 12px 15px;
-            margin: 10px 0;
-            border-left: 4px solid #e74c3c;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        .no-videos {
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 8px;
+            color: #666;
         }
-        .channel {
-            color: #7f8c8d;
-            font-size: 0.85em;
+        a {
+            color: #3498db;
         }
     </style>
 </head>
@@ -61,91 +53,57 @@
     <h1>每日早報</h1>
     <p class="date">2026年2月14日 星期六</p>
 
+    <h2>今日天氣</h2>
     <div class="weather">
-        <h2>台北天氣</h2>
-        <p>今天台北氣溫約攝氏15度，相對濕度百分之八十七。天氣偏涼，濕度較高，外出建議攜帶薄外套，注意保暖。今天是西洋情人節，祝大家有個美好的一天。</p>
+        <p>台北今天早晨有薄霧，氣溫攝氏十七度，濕度百分之九十四，相當潮濕。風向東北，風速每小時四公里，屬於微風。外出建議攜帶薄外套，注意濕滑路面。</p>
     </div>
 
-    <h2>科技新聞摘要</h2>
+    <h2>科技與AI新聞摘要</h2>
 
     <div class="news-item">
-        <p>川普在公開演講中表示，人工智慧技術對國家安全至關重要，呼籲國際合作加強監管以防範潛在風險。同時他強調美國必須保持在人工智慧技術發展上的領導地位，確保國家利益。</p>
-    </div>
-
-    <div class="news-item">
-        <p>馬斯克旗下的 Neuralink 公司宣布推出新一代腦機介面，大幅提升數據傳輸速度和處理能力。該技術被期望能夠更有效地治療帕金森氏症、阿茲海默症等神經系統疾病，近期將啟動更大規模的人體試驗。</p>
+        <p><strong>Microsoft AI 執行長預測白領工作將被取代</strong></p>
+        <p>Microsoft AI 執行長 Mustafa Suleyman 表示，大多數白領工作，包括律師、會計師、專案經理和行銷人員的工作內容，將在未來十二到十八個月內被 AI 完全自動化。他同時透露 Microsoft 今年將推出更多自家研發的 AI 模型。這番言論引發業界廣泛討論，對於 AI 取代人類工作的時程預測，各方看法不一。</p>
     </div>
 
     <div class="news-item">
-        <p>Google 宣布 Bard 將整合 Anthropic 的 Claude 系列模型，為使用者提供更多樣化的人工智慧選擇。此舉被視為對 OpenAI 的直接回應，市場反應積極，Google 股價應聲上漲。</p>
+        <p><strong>OpenAI 解散使命對齊團隊</strong></p>
+        <p>根據 Platformer 報導，OpenAI 已解散負責確保通用人工智慧造福全人類的使命對齊團隊。團隊成員已被轉調至公司其他部門，前團隊負責人 Joshua Achiam 將擔任新職位首席未來學家。這項組織調整發生在公司面臨安全與追趕進度之間張力的背景下。</p>
     </div>
 
     <div class="news-item">
-        <p>台積電宣布成功研發出二奈米製程技術，預計將大幅提升晶片的效能和能源效率。此項突破將加速人工智慧晶片的發展，鞏固台積電在全球半導體產業的領先地位。</p>
+        <p><strong>OpenAI 測試 ChatGPT 廣告引發擔憂</strong></p>
+        <p>OpenAI 正在測試於 ChatGPT 中加入廣告。本週離職的研究員 Zoë Hitzig 在紐約時報發表專欄，對此舉表達深切擔憂，認為廣告模式可能對使用者造成潛在操控，並呼籲設計替代方案。</p>
     </div>
 
     <div class="news-item">
-        <p>OpenAI 執行長 Sam Altman 在公開場合表示，OpenAI 目前面臨算力瓶頸，限制了新模型的開發和應用。他呼籲各界加大對人工智慧基礎設施建設的投資，以突破算力限制，進一步推動技術發展。</p>
+        <p><strong>OpenAI 開除反對成人模式的高階主管</strong></p>
+        <p>OpenAI 產品政策副總裁 Ryan Beiermeister 於一月初被解僱。據報導，她曾反對在 ChatGPT 中加入成人內容功能，並擔憂安全防護措施不夠完善。OpenAI 聲明表示解僱與她提出的任何問題無關。</p>
     </div>
 
-    <h2>今日新影片整理</h2>
-    <p>今天共整理了十一部新影片，以下是完整清單：</p>
-
-    <div class="video-item">
-        <p><strong>MiniMax M2.5 IS INSANE! Best Opensource Coding Model!</strong></p>
-        <p class="channel">In The World of AI</p>
+    <div class="news-item">
+        <p><strong>Google Docs 新增 AI 音訊摘要功能</strong></p>
+        <p>Google 為 Google Docs 推出由 Gemini 驅動的音訊摘要功能，可為冗長文件生成精簡的語音概述，讓使用者不必閱讀整份文件即可掌握重點。此功能已開始向部分企業用戶和 Google AI 用戶推出。</p>
     </div>
 
-    <div class="video-item">
-        <p><strong>OpenClaw + OpenCode Turns Your AI Into Autonomous Engineering Team</strong></p>
-        <p class="channel">In The World of AI</p>
+    <div class="news-item">
+        <p><strong>Meta 智慧眼鏡銷量亮眼</strong></p>
+        <p>Meta 與 EssilorLuxottica 合作的智慧眼鏡在 2025 年售出超過七百萬副，是 2023 年和 2024 年銷量總和的三倍。執行長表示成長呈指數級增長，預計 2027 年達到年銷千萬副的目標已在可及範圍內。</p>
     </div>
 
-    <div class="video-item">
-        <p><strong>Leadership Talk</strong></p>
-        <p class="channel">Simon Sinek</p>
+    <div class="news-item">
+        <p><strong>美國國會推動 AI 版權透明法案</strong></p>
+        <p>參議員 Adam Schiff 和 John Curtis 提出跨黨派的 CLEAR 法案，要求科技公司報告使用於 AI 訓練的版權內容。這項立法若通過，將對 AI 公司的資料使用透明度帶來重大影響。</p>
     </div>
 
-    <div class="video-item">
-        <p><strong>We're All Addicted To Claude Code</strong></p>
-        <p class="channel">Y Combinator</p>
+    <h2>今日新整理影片</h2>
+    <div class="no-videos">
+        <p>今天追蹤的十二個 YouTube 頻道均無新影片發布。</p>
     </div>
 
-    <div class="video-item">
-        <p><strong>AI Just Had It's iPhone Moment...</strong></p>
-        <p class="channel">Liam Ottley</p>
-    </div>
-
-    <div class="video-item">
-        <p><strong>How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide</strong></p>
-        <p class="channel">Liam Ottley</p>
-    </div>
-
-    <div class="video-item">
-        <p><strong>Programming Tutorial</strong></p>
-        <p class="channel">Tech With Tim</p>
-    </div>
-
-    <div class="video-item">
-        <p><strong>OpenClaw部署教程：打造你的24小时专属AI助手！</strong></p>
-        <p class="channel">GeekHour</p>
-    </div>
-
-    <div class="video-item">
-        <p><strong>一句話克隆你的聲音！Index TTS 教程</strong></p>
-        <p class="channel">GeekHour</p>
-    </div>
-
-    <div class="video-item">
-        <p><strong>I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)</strong></p>
-        <p class="channel">Dan Martell</p>
-    </div>
-
-    <div class="video-item">
-        <p><strong>Psychology Tips</strong></p>
-        <p class="channel">BRAINY DOSE</p>
-    </div>
-
-    <p style="margin-top: 30px; color: #7f8c8d; font-size: 0.9em;">報告由阿福自動生成</p>
+    <hr>
+    <p style="color: #999; font-size: 0.85em;">
+        資料來源：The Verge、各大科技新聞網站<br>
+        報告生成時間：2026-02-14 08:15 (GMT+8)
+    </p>
 </body>
 </html>
