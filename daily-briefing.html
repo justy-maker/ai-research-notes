@@ -23,62 +23,86 @@
             color: #444;
             margin-top: 30px;
         }
-        .section {
-            background: white;
-            padding: 20px;
+        .weather {
+            background: #e3f2fd;
+            padding: 15px 20px;
+            border-radius: 8px;
             margin: 20px 0;
+        }
+        .news-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: white;
             border-radius: 8px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
-        .weather {
-            font-size: 1.2em;
-            color: #e67700;
+        .videos {
+            background: #f3e5f5;
+            padding: 15px 20px;
+            border-radius: 8px;
         }
         .date {
             color: #666;
             font-size: 0.9em;
         }
-        p {
-            margin: 15px 0;
-        }
     </style>
 </head>
 <body>
     <h1>每日早報</h1>
-    <p class="date">2026年2月14日 星期六 情人節</p>
+    <p class="date">2026年2月14日 星期六</p>
 
-    <div class="section">
+    <div class="weather">
         <h2>今日天氣</h2>
-        <p class="weather">台北今天是個好天氣，晴朗無雲，氣溫約攝氏27度。適合出門走走，記得做好防曬。</p>
+        <p>台北今天天氣晴朗，氣溫攝氏 25 度，是個舒適宜人的好天氣。適合外出走春或處理戶外活動。</p>
     </div>
 
-    <div class="section">
-        <h2>AI 科技新聞摘要</h2>
-        
-        <p>迪士尼對 ByteDance 發出停止侵權警告函。ByteDance 新推出的 Seedance 2.0 AI 影片生成模型被發現可以生成蜘蛛人、黑武士等迪士尼角色的影片。迪士尼律師表示 ByteDance 正在劫持迪士尼的角色，進行複製、散佈和衍生創作。這是繼 Sora 之後，AI 影片生成工具再次面臨版權爭議。</p>
+    <h2>重要新聞摘要</h2>
 
-        <p>微軟 AI 執行長 Mustafa Suleyman 接受金融時報採訪時語出驚人，他認為 AI 將在未來 12 到 18 個月內完全取代大部分白領工作。無論是律師、會計師、專案經理還是行銷人員，這些坐在電腦前的工作都將被 AI 自動化。他同時透露微軟今年會推出更多自家 AI 模型。</p>
-
-        <p>Meta 的智慧眼鏡銷量創下紀錄。2025 年 Meta 與 EssilorLuxottica 合作的 Ray-Ban 智慧眼鏡賣出超過 700 萬副，是 2023 和 2024 年總和的三倍。執行長表示按照這個成長速度，2027 年達到年銷一千萬副的目標完全可行。</p>
-
-        <p>Google Docs 新增 AI 音訊摘要功能。透過 Gemini 技術，用戶可以聽取長文件的語音摘要，而不用逐字閱讀整份文件。這項功能已開始向部分商業用戶和 Google AI 訂閱用戶推出。</p>
-
-        <p>OpenAI 內部持續傳出震盪消息。據報導 OpenAI 已解散專門確保 AGI 造福全人類的 Mission Alignment 團隊，成員被調往公司其他部門。前團隊主管 Joshua Achiam 將轉任新設的首席未來學家職位。此外，OpenAI 也開始測試在 ChatGPT 中加入廣告，本週離職的研究員 Zoe Hitzig 在紐約時報發表專欄表達深度擔憂，認為廣告模式可能對用戶造成傷害。</p>
-
-        <p>紐約時報過去一年使用自建 AI 工具監控所謂的 manosphere 男性主義 Podcast。這套系統追蹤約 80 個以右翼為主的 Podcast，包括 Ben Shapiro Show 等節目，自動生成逐字稿和摘要。這顯示主流媒體正在用 AI 追蹤另類媒體的動態。</p>
+    <div class="news-item">
+        <h3>台美簽署對等貿易協定</h3>
+        <p>歷經 10 個月談判，台美昨日正式簽署對等貿易協定。美國專家分析，這是相當全面的協定，涵蓋工業和農產品、關稅與非關稅壁壘。能在川普訪問中國前完成簽署極具意義，再次確認台灣是美國重塑 AI 與關鍵礦產供應鏈的核心夥伴。輸美平均關稅將降至 12.33%，超過 2000 項產品獲得豁免。</p>
     </div>
 
-    <div class="section">
-        <h2>今日影片整理</h2>
-        <p>今天共整理了 64 部 YouTube 影片，涵蓋多個頻道的最新內容。</p>
-        
-        <p>AI Superdomain 更新了 10 部影片，主題涵蓋 AI Agent 最新發展。In the World of AI 有 7 部新影片，包含多項 AI 工具和技術教學。Tech With Tim 也更新了 10 部程式開發相關教學。Dan Koe 分享了 10 部關於個人成長和創作者經濟的內容。</p>
-
-        <p>Liam Ottley 上傳了 5 部 AI 自動化代理相關教學。Brainy Dose 更新了 10 部心理學和個人發展影片。Eric Berg 中文頻道有 5 部健康知識影片。Dan Martell、Simon Sinek 和 Alan Design 也各有新內容更新。</p>
-
-        <p>目前還有 5 部 GeekHour 影片因沒有字幕需要用 Whisper 處理，以及 2 部 Bilibili 影片需要登入才能取得。</p>
+    <div class="news-item">
+        <h3>台灣經濟成長率大幅上修至 7.71%</h3>
+        <p>隨著台美關稅不確定性消除，加上人工智慧狂潮持續延燒，主計總處昨日大舉上修今年經濟成長率預測至 7.71%，較先前預測值增加超過 4 個百分點，上修幅度為歷年罕見。官員透露此次預測採中性偏保守立場，不排除仍有上修空間。全年商品出口預估將突破 7000 億美元大關，直奔 7831 億美元，再創歷史新高。</p>
     </div>
 
-    <p style="text-align: center; color: #999; margin-top: 40px;">由阿福自動生成</p>
+    <div class="news-item">
+        <h3>微軟 AI 首席預測白領工作將被自動化</h3>
+        <p>微軟人工智慧部門首席執行長 Mustafa Suleyman 在接受金融時報採訪時預測，未來 12 到 18 個月內，許多白領工作將被人工智慧完全自動化。他指出法律、會計、行銷及專案管理等職位將面臨重大變革，這些工作將由 AI 系統取代。此預測與近期科技行業因自動化轉型而進行的裁員趨勢相呼應。</p>
+    </div>
+
+    <div class="news-item">
+        <h3>Anthropic 完成 300 億美元融資</h3>
+        <p>傳出可能在今年進行首次公開募股的 AI 新創公司 Anthropic 宣布完成 G 輪融資，籌得 300 億美元，公司估值上看 3800 億美元。Anthropic 是 Claude AI 的開發商，目前與 OpenAI 和 Google 並列為 AI 領域的領先企業。</p>
+    </div>
+
+    <div class="news-item">
+        <h3>OpenAI 參與軍用無人機軟體競標</h3>
+        <p>OpenAI 已與兩家獲美國國防部選中的國防科技企業合作，參與美軍語音控制無人機蜂群的指揮軟體競標。OpenAI 強調其技術僅用於將指揮官語音指令翻譯為無人機數據指令，並不涉及無人機操控、武器整合及目標鎖定等敏感功能。</p>
+    </div>
+
+    <div class="news-item">
+        <h3>SpaceX 考慮 IPO 採用雙重股權結構</h3>
+        <p>為強化控制權，SpaceX 創辦人馬斯克正考慮在今年籌劃的首次公開募股中採用雙重股權結構。這種結構將為部分股東提供擁有額外投票權的股票，讓內部人士即便持有少數股權也能維持對公司的控制權，確保馬斯克能繼續主導公司決策。</p>
+    </div>
+
+    <div class="news-item">
+        <h3>Cloudflare 推出 AI 爬蟲友善服務</h3>
+        <p>Cloudflare 推出 Markdown for Agents 服務，AI 代理只要在 Accept 標頭要求 text/markdown 格式，就能取得由 Cloudflare 即時轉換的 Markdown 版本網頁內容，詞元用量可減少達 80%。這項服務將有助於 AI 系統更有效率地擷取和處理網頁資訊。</p>
+    </div>
+
+    <div class="videos">
+        <h2>今日新整理影片</h2>
+        <p>今日共整理了 64 部影片，來自以下頻道：</p>
+        <p>AI Superdomain 整理了 10 部關於 AI Agent 與技術趨勢的影片。In The World of AI 整理了 7 部 AI 領域最新發展內容。Tech With Tim 整理了 10 部程式開發與 AI 教學影片。Dan Koe 整理了 10 部關於個人成長與創業的內容。Brainy Dose 整理了 10 部心理學與自我提升影片。Liam Ottley 整理了 5 部 AI Agency 建設相關內容。Dr. Berg 中文頻道整理了 5 部健康養生影片。其他頻道也各有更新。</p>
+        <p>另有 5 部 GeekHour 影片因無字幕需等待 Whisper 處理，以及 2 部 B 站影片需登錄後處理。</p>
+    </div>
+
+    <p style="margin-top: 40px; color: #666; font-size: 0.9em;">
+        本報告由阿福自動生成<br>
+        完整影片摘要請見：<a href="https://justy-maker.github.io/ai-research-notes/">AI Research Notes</a>
+    </p>
 </body>
 </html>
