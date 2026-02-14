@@ -25,6 +25,7 @@ Y Combinator 是全球最知名的新創加速器，培育出 Airbnb、Dropbox�
 - [From Idea to $650M Exit: Lessons in Building AI Startups](l0h3nAW13ao-from-idea-to-650m-exit-lessons-in-buildi.md) - AI 創業到 6.5 億美元出場的經驗分享
 
 ### AI Agent 與未來
+- [YC 專訪 OpenClaw 創辦人：80% 應用程式將消失](2026-02-14_4uzGDAoNOZc.md) - 本機運行 AI、群體智慧、機機互動 (2026-02-14 新增)
 - [OpenClaw 創作者：為何 80% 的應用程式將會消失](20260212-openclaw-creator-80-percent-apps-disappear.md) - 本地運行 AI 代理、數據主權、soul.md 概念 (2026-02-12 更新)
 - [OpenClaw Creator: Why 80% Of Apps Will Disappear](4uzGDAoNOZc-openclaw-creator-80-percent-apps-disappear.md) - OpenClaw 創作者談 80% App 將消失的原因
 
