@@ -5,113 +5,189 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>每日早報 - 2026年2月14日</title>
     <style>
-        * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            line-height: 1.8;
             max-width: 800px;
             margin: 0 auto;
-            padding: 40px 20px;
+            padding: 20px;
+            line-height: 1.8;
             background: #fafafa;
             color: #333;
         }
-        h1 { font-size: 1.8em; margin-bottom: 8px; color: #1a1a1a; }
-        .date { color: #666; margin-bottom: 30px; font-size: 0.95em; }
-        h2 { font-size: 1.3em; margin: 30px 0 15px; color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 8px; }
-        p { margin-bottom: 16px; text-align: justify; }
-        .section { margin-bottom: 35px; }
-        .video-list { list-style: none; }
-        .video-list li { margin-bottom: 12px; padding-left: 0; }
-        .video-list a { color: #2980b9; text-decoration: none; }
-        .video-list a:hover { text-decoration: underline; }
-        .channel { color: #7f8c8d; font-size: 0.9em; }
-        .footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #ddd; color: #999; font-size: 0.85em; }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .date {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        .weather {
+            background: linear-gradient(135deg, #74b9ff, #a29bfe);
+            color: white;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .news-item {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            border-left: 4px solid #3498db;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .video-item {
+            background: white;
+            padding: 12px 15px;
+            margin: 8px 0;
+            border-radius: 8px;
+            border-left: 4px solid #e74c3c;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .channel {
+            color: #7f8c8d;
+            font-size: 0.85em;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #95a5a6;
+            font-size: 0.85em;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <h1>每日早報</h1>
     <p class="date">2026年2月14日 星期六 情人節</p>
 
-    <div class="section">
-        <h2>今日天氣</h2>
-        <p>台北今天有霧，氣溫攝氏18度，濕度偏高來到百分之88，風勢微弱。出門記得帶件外套，能見度可能不太好，開車騎車要特別注意安全。</p>
+    <div class="weather">
+        <strong>台北天氣</strong><br>
+        多霧，氣溫攝氏18度，微風從西北方向吹來，風速約每小時4公里。今天適合室內活動，外出記得帶件薄外套。
     </div>
 
-    <div class="section">
-        <h2>AI 科技新聞摘要</h2>
-        
-        <p>OpenAI 這幾天動作頻頻，內部傳出不少震盪。首先是 Mission Alignment 團隊被解散了，這個團隊原本負責確保 AGI 開發能造福全人類，團隊成員被分散到公司其他部門，前任負責人 Joshua Achiam 轉任「首席未來學家」這個新職位。另外，公司還解雇了一位反對推出「成人模式」的高管，這位副總裁曾擔心現有的安全防護措施不夠完善。前員工透露，這次重組反映出公司在安全議題上的緊張氣氛，以及「陷入追趕階段」的焦慮。</p>
-        
-        <p>關於 ChatGPT 要加入廣告的消息持續發酵。本週離開 OpenAI 的研究員 Zoë Hitzig 在紐約時報發表評論，表達她對這個方向的深切保留，擔心廣告模式可能在未來對使用者造成傷害。她認為應該有更好的商業模式，既不排除使用者，也不會操縱消費者。</p>
-        
-        <p>微軟 AI 執行長 Mustafa Suleyman 發表了頗具爭議的預測，他認為 AI 將在未來12到18個月內全面自動化大部分白領工作，包括律師、會計師、專案經理、行銷人員等坐在電腦前工作的職位。他也透露微軟今年會推出更多自家的 AI 模型。</p>
-        
-        <p>Meta 的智慧眼鏡業務表現亮眼，2025年售出超過700萬副，這個數字是2023年和2024年加起來的三倍。執行長表示銷量呈指數級成長，不過短期內價格可能還是會維持在較高水準。</p>
-        
-        <p>Google Docs 加入了新的 AI 功能，現在可以用 Gemini 生成文件的音頻摘要，讓你不用讀完整份文件就能快速掌握重點。這個功能正在向部分商業用戶和 Google AI 訂閱用戶推出。</p>
-        
-        <p>在監管方面，印度政府要求社群平台必須在收到檢舉後3小時內移除深偽內容，同時規定 AI 生成的音視頻內容必須加上標籤並可追溯。美國也有新動作，參議員提出了「版權標示與 AI 道德報告法案」，要求 AI 公司必須報告訓練資料中使用了哪些受版權保護的作品。</p>
+    <h2>科技與 AI 重要新聞</h2>
+
+    <div class="news-item">
+        <strong>Anthropic 內部傳出安全疑慮</strong><br>
+        據報導，Anthropic 前員工透露公司在重組後出現緊張氣氛，部分員工對安全措施及公司「處於追趕階段」的狀態表達擔憂。這反映出 AI 安全與商業競爭之間的張力。
     </div>
 
-    <div class="section">
-        <h2>今日新整理影片</h2>
-        <p>今天整理了13部新影片，以下是完整清單：</p>
-        <ul class="video-list">
-            <li>
-                <a href="../youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md">I Tried 500+ AI Tools, These 20 Will Make You $1M</a>
-                <span class="channel">Dan Martell</span>
-            </li>
-            <li>
-                <a href="../youtubers/intheworldofai/2026-02-14_dRN9hJyg5Rc.md">MiniMax M2.5 IS INSANE! Best Opensource Coding Model!</a>
-                <span class="channel">In The World of AI</span>
-            </li>
-            <li>
-                <a href="../youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md">OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!</a>
-                <span class="channel">In The World of AI</span>
-            </li>
-            <li>
-                <a href="../youtubers/geekhour/2026-02-14_2YbFmvF8-7c.md">一句話克隆你的聲音！Index TTS 教程</a>
-                <span class="channel">GeekHour</span>
-            </li>
-            <li>
-                <a href="../youtubers/geekhour/2026-02-14_h1fLEH5kAV4.md">OpenClaw 部署教程：打造你的 24 小時專屬 AI 助手！</a>
-                <span class="channel">GeekHour</span>
-            </li>
-            <li>
-                <a href="../youtubers/liam_ottley/2026-02-14_qNtDxuLfFE8.md">AI Just Had It's iPhone Moment...</a>
-                <span class="channel">Liam Ottley</span>
-            </li>
-            <li>
-                <a href="../youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md">How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide</a>
-                <span class="channel">Liam Ottley</span>
-            </li>
-            <li>
-                <a href="../youtubers/simon_sinek/2026-02-14_CCXICFcqn3A.md">Why Are We Friends?</a>
-                <span class="channel">Simon Sinek</span>
-            </li>
-            <li>
-                <a href="../youtubers/tech_with_tim/2026-02-14_oifG86B7fP8.md">如何避免技術面試失敗</a>
-                <span class="channel">Tech With Tim</span>
-            </li>
-            <li>
-                <a href="../youtubers/ycombinator/2026-02-14_qwmmWzPnhog.md">We're All Addicted To Claude Code</a>
-                <span class="channel">Y Combinator</span>
-            </li>
-            <li>
-                <a href="../youtubers/brainydose/2026-02-14_xMIVWtqIxW4.md">Why We Yearn for The Past - The Nostalgia Glitch</a>
-                <span class="channel">BRAINY DOSE</span>
-            </li>
-            <li>
-                <a href="../youtubers/drberg_chinese/2026-02-14_OFDWAdafWSY.md">更年期症狀，最需要這一種食物</a>
-                <span class="channel">Dr. Berg 中文</span>
-            </li>
-            <li>
-                <a href="../youtubers/drberg_chinese/2026-02-14_8tBp_-Q7uF4.md">更年期：激素失衡不是卵巢問題，而是肝的問題</a>
-                <span class="channel">Dr. Berg 中文</span>
-            </li>
-        </ul>
+    <div class="news-item">
+        <strong>OpenAI 解散使命對齊團隊</strong><br>
+        OpenAI 悄悄解散了負責確保 AGI 造福全人類的「使命對齊」團隊，團隊成員已被轉調至其他部門。前團隊負責人 Joshua Achiam 將擔任公司「首席未來學家」的新角色。這是 OpenAI 近期組織調整的一部分。
     </div>
 
-    <p class="footer">由阿福自動生成 | 資料來源：The Verge、wttr.in、YouTube 頻道追蹤</p>
+    <div class="news-item">
+        <strong>OpenAI 計劃在 ChatGPT 加入廣告</strong><br>
+        OpenAI 正在測試在 ChatGPT 中加入廣告功能。一位本週離職的前研究員在紐約時報發表評論，表達對此舉可能對用戶造成潛在傷害的深切擔憂，並呼籲設計能避免排斥用戶或操縱消費者的替代方案。
+    </div>
+
+    <div class="news-item">
+        <strong>微軟 AI 執行長預測白領工作將被自動化</strong><br>
+        微軟 AI 執行長 Mustafa Suleyman 表示，AI 將在未來12到18個月內準備好取代大多數白領工作，包括律師、會計師、專案經理和行銷人員的工作。他同時透露微軟今年將推出更多自家 AI 模型。
+    </div>
+
+    <div class="news-item">
+        <strong>Google Docs 新增 AI 音訊摘要功能</strong><br>
+        Google 為 Docs 加入由 Gemini 驅動的音訊摘要功能，讓用戶可以用聽的方式獲取冗長文件的精簡概述，而不需要閱讀整份文件。此功能已開始向部分企業用戶和 Google AI 用戶推出。
+    </div>
+
+    <div class="news-item">
+        <strong>Meta 智慧眼鏡銷量大幅成長</strong><br>
+        Meta 在2025年賣出超過700萬副 AI 智慧眼鏡，較2023和2024年合計銷量成長三倍。EssilorLuxottica 執行長表示成長呈指數型態，2027年達到年銷千萬副的目標看來指日可待。
+    </div>
+
+    <div class="news-item">
+        <strong>美國國會提出 AI 版權透明法案</strong><br>
+        參議員 Adam Schiff 和 John Curtis 共同提出跨黨派的「版權標示與 AI 倫理報告法案」，要求科技公司必須報告使用版權內容訓練 AI 的情況，這可能對 AI 訓練資料的使用產生重大影響。
+    </div>
+
+    <h2>今日新整理影片</h2>
+    <p>共整理 13 部新影片，以下為重點內容：</p>
+
+    <div class="video-item">
+        <strong>I Tried 500+ AI Tools, These 20 Will Make You $1M</strong><br>
+        <span class="channel">Dan Martell</span> — 測試超過500個 AI 工具後精選出20個最值得使用的工具
+    </div>
+
+    <div class="video-item">
+        <strong>MiniMax M2.5 IS INSANE! Best Opensource Coding Model!</strong><br>
+        <span class="channel">In The World of AI</span> — MiniMax M2.5 開源程式碼模型評測
+    </div>
+
+    <div class="video-item">
+        <strong>OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!</strong><br>
+        <span class="channel">In The World of AI</span> — 如何使用 OpenClaw 和 OpenCode 打造自主工程團隊
+    </div>
+
+    <div class="video-item">
+        <strong>一句話克隆你的聲音！Index TTS 教程</strong><br>
+        <span class="channel">GeekHour</span> — Index TTS 語音克隆技術教學
+    </div>
+
+    <div class="video-item">
+        <strong>OpenClaw 部署教程：打造你的 24 小時專屬 AI 助手！</strong><br>
+        <span class="channel">GeekHour</span> — OpenClaw 完整部署指南
+    </div>
+
+    <div class="video-item">
+        <strong>AI Just Had It's iPhone Moment...</strong><br>
+        <span class="channel">Liam Ottley</span> — AI 產業的 iPhone 時刻已經到來
+    </div>
+
+    <div class="video-item">
+        <strong>How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide</strong><br>
+        <span class="channel">Liam Ottley</span> — 使用 Claude Code 自動化生活與工作的完整指南
+    </div>
+
+    <div class="video-item">
+        <strong>We're All Addicted To Claude Code</strong><br>
+        <span class="channel">Y Combinator</span> — Y Combinator 討論 Claude Code 的影響力
+    </div>
+
+    <div class="video-item">
+        <strong>Why Are We Friends?</strong><br>
+        <span class="channel">Simon Sinek</span> — 探討友誼的本質
+    </div>
+
+    <div class="video-item">
+        <strong>如何避免技術面試失敗</strong><br>
+        <span class="channel">Tech With Tim</span> — 技術面試準備建議
+    </div>
+
+    <div class="video-item">
+        <strong>Why We Yearn for The Past - The Nostalgia Glitch</strong><br>
+        <span class="channel">BRAINY DOSE</span> — 為什麼我們會懷念過去
+    </div>
+
+    <div class="video-item">
+        <strong>更年期症狀,最需要這一種食物</strong><br>
+        <span class="channel">Dr. Berg 中文</span> — 更年期飲食建議
+    </div>
+
+    <div class="video-item">
+        <strong>更年期：激素失衡不是卵巢問題，而是肝的問題</strong><br>
+        <span class="channel">Dr. Berg 中文</span> — 更年期與肝臟健康的關聯
+    </div>
+
+    <div class="footer">
+        <p>由阿福自動生成 | <a href="index.html">查看歷史報告</a></p>
+        <p>完整影片摘要：<a href="https://justy-maker.github.io/ai-research-notes/">AI Research Notes</a></p>
+    </div>
 </body>
 </html>
