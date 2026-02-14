@@ -6,7 +6,7 @@
     <title>每日早晨報告 - 2026年2月14日</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
@@ -14,73 +14,81 @@
             background: #fafafa;
             color: #333;
         }
-        h1 {
-            color: #1a1a1a;
-            border-bottom: 2px solid #e0e0e0;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #444;
-            margin-top: 30px;
-        }
-        .section {
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-        }
-        .weather {
-            font-size: 1.2em;
-            color: #2196F3;
-        }
-        .timestamp {
-            color: #888;
-            font-size: 0.9em;
-        }
-        p {
-            margin: 15px 0;
-        }
+        h1 { color: #1a1a1a; border-bottom: 2px solid #333; padding-bottom: 10px; }
+        h2 { color: #444; margin-top: 30px; }
+        .weather { background: #e3f2fd; padding: 15px; border-radius: 8px; margin: 20px 0; }
+        .news-item { margin-bottom: 20px; padding: 15px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .news-item h3 { margin-top: 0; color: #1565c0; }
+        .video-section { background: #f3e5f5; padding: 15px; border-radius: 8px; margin: 20px 0; }
+        .footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; color: #666; font-size: 0.9em; }
     </style>
 </head>
 <body>
     <h1>每日早晨報告</h1>
-    <p class="timestamp">2026年2月14日 星期六 上午10點37分</p>
-
-    <div class="section">
+    <p>2026年2月14日 星期六 情人節快樂</p>
+    
+    <div class="weather">
         <h2>今日天氣</h2>
-        <p class="weather">台北今天是個好天氣，晴朗無雲，氣溫約攝氏23度。適合外出活動，情人節出門約會不用帶傘。</p>
+        <p>台北今天是晴朗的好天氣，氣溫攝氏25度，濕度61%，有輕微西風約每小時4公里。適合外出活動，不過記得做好防曬。</p>
     </div>
-
-    <div class="section">
-        <h2>AI 科技新聞摘要</h2>
-        
-        <p>微軟人工智慧執行長穆斯塔法蘇萊曼昨天發表了一個相當大膽的預測，他認為大部分白領工作，包括律師、會計師、專案經理和行銷人員的工作，在未來十二到十八個月內將會被人工智慧完全自動化。這番言論引發了不少討論，畢竟他本人的工作應該不在被取代的範圍內。蘇萊曼同時也透露微軟今年會推出更多自家的人工智慧模型。</p>
-
-        <p>OpenAI 這邊的動態比較多。首先，公司解散了使命對齊團隊，這個團隊原本負責確保通用人工智慧的發展能造福全人類。團隊成員已被調往公司其他部門，前團隊負責人 Joshua Achiam 將擔任新職位「首席未來學家」。另外，有前員工表示公司內部存在「恐懼文化」，員工感受到必須「服從」的壓力。還有一位反對「成人模式」的高管被解雇了。</p>
-
-        <p>關於 OpenAI 在 ChatGPT 裡面放廣告這件事，這週離開公司的研究員 Zoë Hitzig 在紐約時報發表了評論，表示她對這種做法有深深的保留意見，擔心這可能會傷害用戶。</p>
-
-        <p>Google 方面，他們在 Google 文件加入了人工智慧音訊摘要功能。這個由 Gemini 驅動的功能可以把冗長的文件濃縮成語音摘要，讓你用聽的而不用從頭讀到尾。這項功能目前開始向部分企業用戶和 Google AI 用戶推出。</p>
-
-        <p>Meta 公布了智慧眼鏡的銷售數字，二零二五年他們賣出了超過七百萬副人工智慧眼鏡，呈現指數級成長。跟之前透露的二零二三和二零二四年合計賣兩百萬副相比，成長幅度相當驚人。他們原本設定二零二七年要達到年銷一千萬副的目標，看起來提前達成應該不是問題。</p>
-
-        <p>字節跳動的新人工智慧影片模型 Seedance 2.0 遇到麻煩了。迪士尼發出了停止侵權函，指控這個模型侵犯了他們的角色版權，包括蜘蛛人和達斯維達等角色。迪士尼的律師表示字節跳動正在「劫持」迪士尼的角色來製作衍生作品。</p>
-
-        <p>在人工智慧深度偽造議題上，一位叫 Jeremy Carrasco 的創作者一直在社群平台上教大家如何辨識影片中的人工智慧痕跡。現在他成立了一個專門的文字媒體 Riddance，專注於人工智慧媒體的新聞、調查和分析報導。</p>
+    
+    <h2>重要科技新聞</h2>
+    
+    <div class="news-item">
+        <h3>OpenAI 首次離開 NVIDIA 生態系統</h3>
+        <p>OpenAI 昨天宣布在 Cerebras 晶片上推出 GPT-5.3-Codex-Spark 模型。這是 OpenAI 首次在非 NVIDIA 硬體上進行生產部署，標誌著 AI 運算生態系統可能出現重大轉變。新模型主打程式碼生成，每秒可處理 1000 個 token，顯示 Cerebras 的晶圓級晶片在特定應用上確實具有競爭力。</p>
     </div>
-
-    <div class="section">
-        <h2>今日新影片整理</h2>
-        <p>截至今天早上，系統已經處理了六十三部影片。整理的頻道包括 Dan Martell、AI Super Domain、Simon Sinek、In The World of AI、Dr. Berg 中文頻道、Dan Koe、Tech With Tim、Brainy Dose 和 Liam Ottley。</p>
-        
-        <p>目前還有十二部影片待處理。GeekHour 頻道有九部影片、Alan Design 有一部影片需要用 Whisper 轉錄，因為沒有內建字幕。B站的 AI-seeker 頻道則需要登錄才能處理。</p>
+    
+    <div class="news-item">
+        <h3>高盛看好 NVIDIA 本季表現</h3>
+        <p>高盛分析師預期 NVIDIA 將在本季度交出超越市場預期的財報，並可能上調財測。這反映出 AI 算力需求持續強勁，即便有 Cerebras 等新競爭者出現，NVIDIA 在 AI 晶片市場的主導地位短期內仍難以撼動。</p>
     </div>
-
-    <div class="section">
-        <h2>今日提醒</h2>
-        <p>今天是情人節，祝軒哥情人節快樂！</p>
+    
+    <div class="news-item">
+        <h3>微軟 AI 執行長預言白領工作將被取代</h3>
+        <p>微軟 AI 執行長 Mustafa Suleyman 在接受金融時報訪問時表示，大多數白領工作，包括律師、會計師、專案經理和行銷人員，將在未來12到18個月內被 AI 完全自動化。他也透露微軟今年將推出更多自家 AI 模型，減少對 OpenAI 的依賴。</p>
     </div>
-
+    
+    <div class="news-item">
+        <h3>OpenAI 解散使命對齊團隊</h3>
+        <p>OpenAI 據報已解散其「使命對齊」團隊。這個團隊原本負責確保 AGI 的發展對全人類有益。團隊成員已被調往公司其他部門，前團隊負責人 Joshua Achiam 將擔任新職位「首席未來學家」。這個變動引發外界對 OpenAI 安全承諾的質疑。</p>
+    </div>
+    
+    <div class="news-item">
+        <h3>OpenAI 開始測試 ChatGPT 廣告</h3>
+        <p>OpenAI 正在測試在 ChatGPT 中投放廣告。一位本週離職的 OpenAI 研究員在紐約時報撰文表達「深切保留」，擔心廣告模式可能傷害用戶。她認為應該探索既不排斥用戶使用工具、又不將用戶當作消費者操縱的替代方案。</p>
+    </div>
+    
+    <div class="news-item">
+        <h3>迪士尼控告字節跳動 AI 影片模型侵權</h3>
+        <p>迪士尼向字節跳動發出停止侵害通知函，指控其新推出的 Seedance 2.0 AI 影片生成模型侵犯迪士尼角色版權。迪士尼律師表示該模型可以生成蜘蛛人和達斯維達等角色的影片，構成未經授權的重製、散布和創作衍生作品。</p>
+    </div>
+    
+    <div class="news-item">
+        <h3>Google Docs 加入 AI 音訊摘要功能</h3>
+        <p>Google 為 Docs 加入由 Gemini 驅動的音訊摘要功能，可以將長篇文件濃縮成語音摘要，讓用戶不必閱讀整份文件。這項功能已開始向部分商業用戶和 Google AI 訂閱者推出。</p>
+    </div>
+    
+    <div class="news-item">
+        <h3>Meta 智慧眼鏡銷量大爆發</h3>
+        <p>Meta 在 2025 年賣出超過 700 萬副 AI 智慧眼鏡，是 2023 和 2024 兩年總和的三倍。EssilorLuxottica 執行長表示年銷售 1000 萬副的目標看來完全可以達成。</p>
+    </div>
+    
+    <div class="news-item">
+        <h3>美國參議員提出 AI 版權報告法案</h3>
+        <p>參議員 Adam Schiff 和 John Curtis 提出跨黨派的「版權標示與 AI 倫理報告法案」，要求 AI 公司必須書面揭露訓練模型時使用的受版權保護作品。這是在眾多 AI 公司面臨版權侵權訴訟後的立法回應。</p>
+    </div>
+    
+    <div class="video-section">
+        <h2>今日新整理影片</h2>
+        <p>今天總共整理了 63 部影片，涵蓋多個頻道：</p>
+        <p>Dan Martell 有 1 部新影片，AI Super Domain 有 10 部，Simon Sinek 有 1 部，In The World Of AI 有 7 部，Dr. Berg 中文頻道有 5 部，Dan Koe 有 10 部，Tech With Tim 有 10 部，Brainy Dose 有 10 部，Liam Ottley 有 9 部。</p>
+        <p>另外還有 12 部影片待處理，主要是 GeekHour 的 9 部和 Alan Design 的 1 部，這些需要用 Whisper 轉錄因為沒有字幕。AI Seeker 的 B 站影片需要登錄才能取得。</p>
+    </div>
+    
+    <div class="footer">
+        <p>報告由阿福自動生成</p>
+        <p>線上版本：<a href="https://justy-maker.github.io/ai-research-notes/daily-briefing.html">GitHub Pages</a></p>
+    </div>
 </body>
 </html>
