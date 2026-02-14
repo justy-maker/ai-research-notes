@@ -23,123 +23,155 @@
             color: #34495e;
             margin-top: 30px;
         }
-        .section {
-            background: white;
+        .weather {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
             padding: 20px;
+            border-radius: 10px;
             margin: 20px 0;
+        }
+        .news-item {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        .weather {
-            font-size: 1.2em;
-            color: #e67e22;
+        .video-item {
+            background: #fff3e0;
+            padding: 12px;
+            margin: 8px 0;
+            border-radius: 6px;
+            border-left: 4px solid #ff9800;
         }
-        .video-list {
-            list-style: none;
-            padding: 0;
-        }
-        .video-list li {
-            padding: 10px 0;
-            border-bottom: 1px solid #eee;
-        }
-        .video-list li:last-child {
-            border-bottom: none;
-        }
-        .channel {
-            color: #7f8c8d;
-            font-size: 0.9em;
-        }
-        a {
-            color: #3498db;
+        .video-item a {
+            color: #e65100;
             text-decoration: none;
         }
-        a:hover {
+        .video-item a:hover {
             text-decoration: underline;
         }
         .footer {
             margin-top: 40px;
-            text-align: center;
-            color: #95a5a6;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #666;
             font-size: 0.9em;
         }
     </style>
 </head>
 <body>
     <h1>每日早晨報告</h1>
-    <p>2026年2月14日 星期六 情人節</p>
+    <p>2026年2月14日 星期六 情人節快樂</p>
 
-    <div class="section">
-        <h2>今日天氣</h2>
-        <p class="weather">台北今天天氣晴朗，氣溫約攝氏19度，是個舒適宜人的好天氣。適合外出活動，不過早晚溫差可能較大，建議攜帶薄外套。</p>
+    <div class="weather">
+        <h2 style="color:white; margin-top:0;">今日天氣</h2>
+        <p>台北今天天氣晴朗，氣溫大約攝氏十九度。是個適合出門的好天氣，情人節約會剛剛好。記得帶件薄外套，早晚溫差可能較大。</p>
     </div>
 
-    <div class="section">
-        <h2>科技新聞摘要</h2>
-        <p>以下是近期 AI 與科技領域的重要新聞：</p>
-        
-        <p><strong>台積電投資價值獲肯定</strong></p>
-        <p>外媒近日點名台積電為值得長期持有十年的優質標的，並在全球五百大品牌排名中擠進前五十名。台灣共有四家企業進入該榜單，顯示台灣科技產業的國際競爭力持續提升。</p>
-        
-        <p><strong>AI 產業三強鼎立</strong></p>
-        <p>根據最新市場分析，AI 產業競爭格局正朝向 OpenAI、Google 和 Anthropic 三強鼎立的方向發展。其中 OpenAI 在企業市場的受歡迎程度仍然遠超其他競爭對手，顯示其在商業應用領域的領先地位。</p>
-        
-        <p><strong>Google 與 Anthropic 策略結盟</strong></p>
-        <p>Google 持續深化與 Anthropic 的合作關係，此舉被視為對抗輝達與 OpenAI 聯盟的重要布局。分析師認為這樣的競爭態勢將使 AI 產業發展更加健康多元。</p>
+    <h2>AI 科技新聞摘要</h2>
+
+    <div class="news-item">
+        <strong>微軟 AI 執行長預測白領工作將被取代</strong><br>
+        微軟 AI 執行長 Mustafa Suleyman 接受訪問時表示，他認為 AI 在未來十二到十八個月內就能完全自動化大部分白領工作，包括律師、會計師、專案經理和行銷人員等職位。這個預測相當大膽，也引發了關於 AI 取代人類工作的熱烈討論。
     </div>
 
-    <div class="section">
-        <h2>今日新整理影片</h2>
-        <p>今天共整理了 11 部新影片：</p>
-        <ul class="video-list">
-            <li>
-                <a href="../youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md">I Tried 500+ AI Tools, These 20 Will Make You $1M</a>
-                <div class="channel">Dan Martell</div>
-            </li>
-            <li>
-                <a href="../youtubers/intheworldofai/2026-02-14_dRN9hJyg5Rc.md">MiniMax M2.5 IS INSANE! Best Opensource Coding Model!</a>
-                <div class="channel">In The World of AI</div>
-            </li>
-            <li>
-                <a href="../youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md">OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!</a>
-                <div class="channel">In The World of AI</div>
-            </li>
-            <li>
-                <a href="../youtubers/geekhour/2026-02-14_2YbFmvF8-7c.md">一句話克隆你的聲音！Index TTS 教程</a>
-                <div class="channel">GeekHour</div>
-            </li>
-            <li>
-                <a href="../youtubers/geekhour/2026-02-14_h1fLEH5kAV4.md">OpenClaw 部署教程：打造你的 24 小時專屬 AI 助手！</a>
-                <div class="channel">GeekHour</div>
-            </li>
-            <li>
-                <a href="../youtubers/liam_ottley/2026-02-14_qNtDxuLfFE8.md">AI Just Had It's iPhone Moment...</a>
-                <div class="channel">Liam Ottley</div>
-            </li>
-            <li>
-                <a href="../youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md">How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide</a>
-                <div class="channel">Liam Ottley</div>
-            </li>
-            <li>
-                <a href="../youtubers/simon_sinek/2026-02-14_CCXICFcqn3A.md">Why Are We Friends?</a>
-                <div class="channel">Simon Sinek</div>
-            </li>
-            <li>
-                <a href="../youtubers/tech_with_tim/2026-02-14_oifG86B7fP8.md">如何避免技術面試失敗</a>
-                <div class="channel">Tech With Tim</div>
-            </li>
-            <li>
-                <a href="../youtubers/ycombinator/2026-02-14_qwmmWzPnhog.md">We're All Addicted To Claude Code</a>
-                <div class="channel">Y Combinator</div>
-            </li>
-            <li>
-                <a href="../youtubers/brainydose/2026-02-14_xMIVWtqIxW4.md">Why We Yearn for The Past - The Nostalgia Glitch</a>
-                <div class="channel">BRAINY DOSE</div>
-            </li>
-        </ul>
+    <div class="news-item">
+        <strong>OpenAI 解散使命對齊團隊</strong><br>
+        據報導，OpenAI 已經解散了負責確保通用人工智慧造福全人類的使命對齊團隊。團隊成員已被調往公司其他部門，前團隊負責人 Joshua Achiam 將擔任新職位「首席未來學家」。這個消息讓外界對 OpenAI 的安全承諾產生疑慮。
+    </div>
+
+    <div class="news-item">
+        <strong>OpenAI 開始在 ChatGPT 測試廣告</strong><br>
+        OpenAI 正在測試在 ChatGPT 中投放廣告。一位本週離職的前研究員 Zoë Hitzig 在紐約時報發表評論，表達她對這個決定的深切擔憂，認為廣告模式可能會傷害用戶。
+    </div>
+
+    <div class="news-item">
+        <strong>OpenAI 解僱反對成人模式的高管</strong><br>
+        OpenAI 產品政策副總裁 Ryan Beiermeister 因反對推出成人內容功能而被解僱。她擔心安全防護措施不夠完善，但公司表示她的離職與她提出的任何問題無關。
+    </div>
+
+    <div class="news-item">
+        <strong>Meta 智慧眼鏡銷量創新高</strong><br>
+        Meta 在二零二五年賣出超過七百萬副 AI 智慧眼鏡，是二零二三和二零二四年總和的三倍。執行長表示銷量呈指數級成長，預計二零二七年前可達到年銷一千萬副的目標。
+    </div>
+
+    <div class="news-item">
+        <strong>Google 為 Docs 添加 AI 音頻摘要功能</strong><br>
+        Google 推出由 Gemini 驅動的音頻摘要功能，讓用戶可以聆聽長篇文件的濃縮摘要，而不需要閱讀整份文件。這個功能已開始向部分企業用戶和 Google AI 用戶推出。
+    </div>
+
+    <div class="news-item">
+        <strong>印度要求三小時內移除深偽內容</strong><br>
+        印度政府更新 IT 規則，要求社交平台在收到下架請求後三小時內移除深偽內容。新規定還包括要求標記和追蹤合成音視頻內容，並禁止欺騙性冒充和未經同意的親密影像。
+    </div>
+
+    <div class="news-item">
+        <strong>美國兩黨提出 AI 版權報告法案</strong><br>
+        參議員 Adam Schiff 和 John Curtis 提出跨黨派法案，要求科技公司報告使用版權作品訓練 AI 模型的情況。這項法案是在多起針對 AI 公司侵權訴訟之後提出的。
+    </div>
+
+    <h2>今日新整理影片</h2>
+    <p>今天整理了十一部新影片，以下是完整清單：</p>
+
+    <div class="video-item">
+        <strong>Dan Martell</strong><br>
+        <a href="https://youtube.com/watch?v=FEex8E1yDj4" target="_blank">I Tried 500+ AI Tools, These 20 Will Make You $1M</a>
+    </div>
+
+    <div class="video-item">
+        <strong>In The World of AI</strong><br>
+        <a href="https://youtube.com/watch?v=dRN9hJyg5Rc" target="_blank">MiniMax M2.5 IS INSANE! Best Opensource Coding Model!</a>
+    </div>
+
+    <div class="video-item">
+        <strong>In The World of AI</strong><br>
+        <a href="https://youtube.com/watch?v=kIWMLL0S8X8" target="_blank">OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!</a>
+    </div>
+
+    <div class="video-item">
+        <strong>GeekHour</strong><br>
+        <a href="https://youtube.com/watch?v=2YbFmvF8-7c" target="_blank">一句話克隆你的聲音！Index TTS 教程</a>
+    </div>
+
+    <div class="video-item">
+        <strong>GeekHour</strong><br>
+        <a href="https://youtube.com/watch?v=h1fLEH5kAV4" target="_blank">OpenClaw 部署教程：打造你的 24 小時專屬 AI 助手！</a>
+    </div>
+
+    <div class="video-item">
+        <strong>Liam Ottley</strong><br>
+        <a href="https://youtube.com/watch?v=qNtDxuLfFE8" target="_blank">AI Just Had It's iPhone Moment...</a>
+    </div>
+
+    <div class="video-item">
+        <strong>Liam Ottley</strong><br>
+        <a href="https://youtube.com/watch?v=2bsfQThGXxc" target="_blank">How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide</a>
+    </div>
+
+    <div class="video-item">
+        <strong>Simon Sinek</strong><br>
+        <a href="https://youtube.com/watch?v=CCXICFcqn3A" target="_blank">Why Are We Friends?</a>
+    </div>
+
+    <div class="video-item">
+        <strong>Tech With Tim</strong><br>
+        <a href="https://youtube.com/watch?v=oifG86B7fP8" target="_blank">如何避免技術面試失敗</a>
+    </div>
+
+    <div class="video-item">
+        <strong>Y Combinator</strong><br>
+        <a href="https://youtube.com/watch?v=qwmmWzPnhog" target="_blank">We're All Addicted To Claude Code</a>
+    </div>
+
+    <div class="video-item">
+        <strong>BRAINY DOSE</strong><br>
+        <a href="https://youtube.com/watch?v=xMIVWtqIxW4" target="_blank">Why We Yearn for The Past - The Nostalgia Glitch</a>
     </div>
 
     <div class="footer">
-        <p>由阿福自動生成 | <a href="index.html">查看歷史報告</a></p>
+        <p>報告由阿福自動生成<br>
+        完整影片庫：<a href="https://justy-maker.github.io/ai-research-notes/">AI Research Notes</a></p>
     </div>
 </body>
 </html>
