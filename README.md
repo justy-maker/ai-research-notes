@@ -11,10 +11,11 @@
 | 專案 | 狀態 | 說明 |
 |------|------|------|
 | 🤖 AI Agent 知識庫 | 🟢 進行中 | 系統性整理 Agent 技術學習路徑 |
-| 📈 量化交易 + AI | 🟡 規劃中 | AI 交易信號系統 POC |
+| 📈 量化交易 + AI | 🟢 進行中 | Paper Trading 運行中，策略待深化 |
 | 📚 教育 AI 工具 | 🟡 規劃中 | 聯考複習助手原型 |
 | 📝 會議記錄工具 | 🟡 待辦 | Google Meet 自動會議紀錄 |
 | 💼 智慧報價系統 | 🟡 待辦 | CRM 整合 + AI 對話報價 |
+| 🌐 全 AI 雲端系統平台 | 💭 願景 | AI 營運的雲端服務公司 |
 
 ---
 
@@ -28,7 +29,7 @@
 | 📊 如何透過 AI 製作高品質簡報 | 🟢 進行中 | [查看](topics/02_ai_presentation.md) |
 | 🎮 遊戲設計研究 | 🟡 規劃中 | [查看](topics/03_game_design.md) |
 | 📰 如何蒐集即時的財經與科技快訊 | ✅ 已解決 | [查看](topics/04_realtime_news.md) |
-| 📈 量化投資機器人設計與策略研究 | 🟢 進行中 | [查看](topics/05_quant_trading.md) |
+| 📈 量化投資策略 | 🟢 進行中 | [查看](topics/05_quant_trading.md) |
 | 📚 如何透過 AI 進行高中學習與聯考準備 | 🟡 規劃中 | [查看](topics/06_highschool_learning.md) |
 | 📣 AI 行銷推廣 | 🟡 規劃中 | [查看](topics/07_ai_marketing.md) |
 | 🔬 AI 市場調研 | 🟡 規劃中 | [查看](topics/08_ai_market_research.md) |
@@ -67,5 +68,5 @@
 
 ---
 
-*最後更新：2026-02-07*
+*最後更新：2026-02-17*
 *搜索引擎：Gemini CLI (每週自動更新)*
