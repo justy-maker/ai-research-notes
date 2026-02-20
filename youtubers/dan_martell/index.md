@@ -1,9 +1,12 @@
 # Dan Martell
 
-共 23 部影片摘要
+共 26 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-21 | [AI Tools: UNDERRATED vs OVERRATED](ajPV4GHi0Bc.md) |
+| 2026-02-21 | [Modern education systems are dying](vg5hN7hZV-8.md) |
+| 2026-02-21 | [Is Dropshipping the method for 2026?](82NbQ1sEGg0.md) |
 | 2026-02-14 | [I Tried 500+ AI Tools, These 20 Will Make You $1M](2026-02-14_FEex8E1yDj4) |
 | 未知日期 | [How to Be So Productive It Feels Like Cheating](video_iQX_Cc0aHhg) |
 | 未知日期 | [The Only Trait to Get Rich in the AI Era](video_QpfVvmXBHOU) |
