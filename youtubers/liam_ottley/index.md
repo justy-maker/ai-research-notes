@@ -3,12 +3,13 @@
 - **頻道**: [@liamottley](https://www.youtube.com/@liamottley)
 - **類型**: AI 創業/代理
 - **語言**: EN
-- **最後更新**: 2026-02-14
+- **最後更新**: 2026-02-22
 
 ## 影片列表
 
 | 日期 | 標題 | 連結 |
 |------|------|------|
+| 2026-02-22 | [AGI Is Here. It's Real. And It Changes Everything](GyCNs5AymRw.md) | [YouTube](https://www.youtube.com/watch?v=GyCNs5AymRw) |
 | 2026-02-14 | [How to Automate Your Life & Work w/ Claude Code](2026-02-14_2bsfQThGXxc.md) | [YouTube](https://www.youtube.com/watch?v=2bsfQThGXxc) |
 | 2026-02-14 | [AI Just Had It's iPhone Moment...](2026-02-14_qNtDxuLfFE8.md) | [YouTube](https://www.youtube.com/watch?v=qNtDxuLfFE8) |
 | 2026-02-08 | [My Honest Thoughts on the OpenClaw Hype](RXBjzT8gQ2g.md) | [YouTube](https://www.youtube.com/watch?v=RXBjzT8gQ2g) |

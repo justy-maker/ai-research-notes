@@ -6,6 +6,7 @@ YouTube 頻道：[Tech With Tim](https://www.youtube.com/@TechWithTim)
 
 | 日期 | 標題 | 影片連結 |
 |------|------|----------|
+| 2026-02-22 | [How I'm Using AI Agents in 2026](BikPUaT76i8.md) | [YouTube](https://www.youtube.com/watch?v=BikPUaT76i8) |
 | 2026-02-14 | [如何避免技術面試失敗](2026-02-14_oifG86B7fP8.md) | [YouTube](https://www.youtube.com/watch?v=oifG86B7fP8) |
 | 2026-02-13 | [The Only AI Coding Tools Worth Learning in 2026](2026-02-13_-VTiqivKOB8.md) | [YouTube](https://www.youtube.com/watch?v=-VTiqivKOB8) |
 | 2026-02-13 | [Go Programming - Full Course](2026-02-13_V-lI7AmusGs.md) | [YouTube](https://www.youtube.com/watch?v=V-lI7AmusGs) |

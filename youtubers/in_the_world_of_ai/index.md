@@ -8,7 +8,8 @@
 
 | 日期 | 標題 | 連結 |
 |------|------|------|
+| 2026-02-22 | Claude Code NEW Update IS HUGE! Claude Code Security, Claude Engineer, & MORE! | [摘要](CrCPFGxtgEY.md) |
 | 2026-02-21 | Gemini 3.1 Pro Is Google's Greatest Model Ever! Most Powerful AI EVER! | [摘要](_uQKI-NOCFg.md) |
 
 ---
-*最後更新: 2026-02-21*
+*最後更新: 2026-02-22*
