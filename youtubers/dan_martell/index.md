@@ -1,9 +1,11 @@
 # Dan Martell
 
-共 26 部影片摘要
+共 28 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-23 | [Schools will be gone in 5 years](2026-02-23_La4GEuNCIU4.md) |
+| 2026-02-23 | [How to create WEALTH with AI](2026-02-23_LA-ejpPji38.md) |
 | 2026-02-21 | [AI Tools: UNDERRATED vs OVERRATED](ajPV4GHi0Bc.md) |
 | 2026-02-21 | [Modern education systems are dying](vg5hN7hZV-8.md) |
 | 2026-02-21 | [Is Dropshipping the method for 2026?](82NbQ1sEGg0.md) |

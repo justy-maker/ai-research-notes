@@ -1,9 +1,10 @@
 # In The World of AI
 
-共 48 部影片摘要
+共 49 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-23 | [Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)](2026-02-23_CBIUxXy3WmM.md) |
 | 2026-02-14 | [OpenClaw + Antigravity Turns Your AI Into a Full Autonomous Engineering Team!](1Jqaj1KN5vA) |
 | 2026-02-14 | [Claude Sonnet 5: Greatest AI Coding Model Ever! 1M Context, Cheap, & More!](_87CirMQ1FM) |
 | 2026-02-14 | [Claude Code With UNLIMITED Memory! Solves Claude's Memory Problem!](qhuS__jC4n8) |

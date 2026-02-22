@@ -1,6 +1,12 @@
 # Dan Koe
 
-共 36 部影片摘要
+共 37 部影片摘要
+
+## 2026-02-23 新增（1部）
+
+| 日期 | 標題 |
+|------|------|
+| 2026-02-23 | [How To Think Like A Strategic Genius (5-Dimensional Thinking)](2026-02-23_TY8IVSQnwlk.md) |
 
 ## 2026-02-14 新增（10部）
 
