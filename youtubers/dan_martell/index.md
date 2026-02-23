@@ -1,9 +1,12 @@
 # Dan Martell
 
-共 28 部影片摘要
+共 31 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-24 | [AI will make more millionaires than the INTERNET](2026-02-24_psL1OAsasA4.md) |
+| 2026-02-24 | [I helped this kid start his DETAILING BUSINESS](2026-02-24_GnzpctL5I1Y.md) |
+| 2026-02-24 | [8 Tiny Habits That Made Me Rich](2026-02-24_8ujbxFtVzBM.md) |
 | 2026-02-23 | [Schools will be gone in 5 years](2026-02-23_La4GEuNCIU4.md) |
 | 2026-02-23 | [How to create WEALTH with AI](2026-02-23_LA-ejpPji38.md) |
 | 2026-02-21 | [AI Tools: UNDERRATED vs OVERRATED](ajPV4GHi0Bc.md) |

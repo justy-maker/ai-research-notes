@@ -1,9 +1,10 @@
 # In The World of AI
 
-共 49 部影片摘要
+共 50 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-24 | [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](2026-02-24_EGo7m7ZjW0c.md) |
 | 2026-02-23 | [Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)](2026-02-23_CBIUxXy3WmM.md) |
 | 2026-02-14 | [OpenClaw + Antigravity Turns Your AI Into a Full Autonomous Engineering Team!](1Jqaj1KN5vA) |
 | 2026-02-14 | [Claude Sonnet 5: Greatest AI Coding Model Ever! 1M Context, Cheap, & More!](_87CirMQ1FM) |
