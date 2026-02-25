@@ -1,10 +1,12 @@
 # AI Super Domain（AI 超元域）
 
-共 33 部影片摘要
+共 35 部影片摘要
 
 ## 2026 年 2 月
 | 日期 | 標題 |
 |------|------|
+| 2026-02-24 | [OpenClaw 進階玩法：自研 LanceDB 記憶插件](video_MtukF1C8epQ) |
+| 2026-02-21 | [OpenClaw 高級進階技巧：模型精選+記憶優化+深度搜索+Gateway 自動修復](video_7n9qbuzwS-U) |
 | 2026-02-13 | [OpenClaw 自動進化技巧：打造全自動智能超級助手](20260213-openclaw-auto-evolution) |
 | 2026-02-13 | [OpenClaw 多 Agent 高級玩法](20260213-openclaw-multi-agent) |
 | 2026-02-10 | [OpenClaw Hooks 回調實現零輪詢](20260210-openclaw-hooks-zero-polling) |
