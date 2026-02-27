@@ -1,9 +1,10 @@
 # Simon Sinek
 
-共 42 部影片摘要
+共 43 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-28 | [What A Company's WHY Really Means](u7DesMZtc40) |
 |  | [Vulnerability | A Bit of Optimism #podcast](20260220-Vulnerability-A-Bit-of-Optimism-podcast) |
 |  | [Company Culture | Simon Sinek](20260220-Company-Culture-Simon-Sinek) |
 |  | [Without The Title, Who Are You? | Simon Sinek](20260219-Without-The-Title-Who-Are-You-Simon-Sinek) |

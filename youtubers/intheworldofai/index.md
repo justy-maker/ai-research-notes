@@ -1,9 +1,10 @@
 # In The World of AI
 
-共 49 部影片摘要
+共 50 部影片摘要
 
 | 日期 | 標題 |
 |------|------|
+| 2026-02-28 | [Google's Nano Banana 2.0: Best Text-To-Image Generation Model EVER!](u22-XoQvI4I) |
 |  | [如何輕鬆使用 n8n 自動化 PDF 資料提取！](20260212-n8n-pdf-extraction) |
 |  | [GLM-5 洩露？全新 Pony Alpha 隱形模型太瘋狂！](20260212-glm5-pony-alpha) |
 |  | [Automate PDF Data Extraction with n8n EASILY! (Open source)](20260211-n8n-pdf-extraction) |
