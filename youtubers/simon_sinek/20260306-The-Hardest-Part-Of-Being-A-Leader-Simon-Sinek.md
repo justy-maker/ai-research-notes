@@ -1,0 +1,11 @@
+# The Hardest Part Of Being A Leader | Simon Sinek
+
+- **頻道**：Simon Sinek
+- **平台**：youtube
+- **時長**：2 分鐘
+- **來源**：https://www.youtube.com/watch?v=WR6EhDQaCCc
+- **轉錄方式**：subtitle
+
+## 轉錄內容
+
+is if you're now promoted in a position of leadership, remember you are better at doing the job of the people who work for you. That's what got you promoted. But the now it's their chance and it's their opportunity to do the work. And they may not be as good as you. And so you can't just come in and tell them how you would do it. And you can't just change the way that they're doing it, but rather you have to push them and encourage them to try and solve the problems the way that they would just like someone did for you once before. And this is one of the reasons leadership uh is hard, which is sometimes it is frustrating to see people, you know, miss the idea when we know the answer and the temptation to just swoop in and fix it. >> But then you're not leading, you're just doing the work. You just have the leadership position. Um and one of the things that I admire about great leaders is unless there's an emergency, which is very rare, um you can swoop in in an emergency, right? But that's not normal. Um uh but one of the things that I admire about great leaders is they have patience. They're in business for the long game and they understand I don't need this immediately. I have time to to let you learn this. Um I'll give you one of my favorite examples um of an organization with patience institutionalized leadership patience. It's the company Chanel as in Chanel. uh uh uh they have a they have a policy at their company which is uh senior leaders newly hired senior leaders are not allowed to speak in meetings for for the first 3 months of their employment. Okay? Because they know you're smart. You don't have to prove it to us. We hired you. We know you don't have to prove it. uh shut up and learn because you don't know anything about our company and you'll learn by listening and we trust that you're going to be here for a long time and we trust uh we have a long view of our business that not having you contribute for 90 90 days is fine. That's institutionalized patience and I love that and as a result it's a remarkably remarkably successful company over many many many decades.
