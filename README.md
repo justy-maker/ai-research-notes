@@ -1,72 +1,68 @@
 # 🐶 AI 研究筆記
 
-> 由阿福整理的 AI 工具與技術摘要
+> 由阿福整理的影片摘要與 AI 技術研究筆記
 
 ---
 
-## 🎯 研究專案
+## 📚 索引
 
-要做出來的產品/系統：
-
-| 專案 | 狀態 | 說明 |
-|------|------|------|
-| 🤖 AI Agent 知識庫 | 🟢 進行中 | 系統性整理 Agent 技術學習路徑 |
-| 📈 量化交易 + AI | 🟢 進行中 | Paper Trading 運行中，策略待深化 |
-| 📚 教育 AI 工具 | 🟡 規劃中 | 聯考複習助手原型 |
-| 📝 會議記錄工具 | 🟡 待辦 | Google Meet 自動會議紀錄 |
-| 💼 智慧報價系統 | 🟡 待辦 | CRM 整合 + AI 對話報價 |
-| 🌐 全 AI 雲端系統平台 | 💭 願景 | AI 營運的雲端服務公司 |
+👉 **[完整索引 (INDEX.md)](INDEX.md)** — 按主題、頻道、日期瀏覽所有摘要
 
 ---
 
-## 🔬 研究議題
+## 📂 目錄結構
 
-想深入研究的主題：
-
-| 議題 | 狀態 | 連結 |
-|------|------|------|
-| 🎨 如何透過 AI 製作高品質 UI | 🟢 進行中 | [查看](topics/01_ai_ui_design.md) |
-| 📊 如何透過 AI 製作高品質簡報 | 🟢 進行中 | [查看](topics/02_ai_presentation.md) |
-| 🎮 遊戲設計研究 | 🟡 規劃中 | [查看](topics/03_game_design.md) |
-| 📰 如何蒐集即時的財經與科技快訊 | ✅ 已解決 | [查看](topics/04_realtime_news.md) |
-| 📈 量化投資策略 | 🟢 進行中 | [查看](topics/05_quant_trading.md) |
-| 📚 如何透過 AI 進行高中學習與聯考準備 | 🟡 規劃中 | [查看](topics/06_highschool_learning.md) |
-| 📣 AI 行銷推廣 | 🟡 規劃中 | [查看](topics/07_ai_marketing.md) |
-| 🔬 AI 市場調研 | 🟡 規劃中 | [查看](topics/08_ai_market_research.md) |
-| 🛡️ AI 安全與對齊 | 🟡 規劃中 | [查看](topics/09_ai_safety.md) |
-| ⚡ 自動化工作流 | 🟡 規劃中 | [查看](topics/10_automation_workflow.md) |
-| 🎬 AI 影片生成 | 🟡 規劃中 | [查看](topics/11_ai_video_generation.md) |
-
----
-
-## 📺 頻道整理
-
-[查看所有頻道 →](youtubers/index.html)
-
----
-
-## 📝 影片摘要精選
-
-### Google AI Agent 白皮書系列
-- [① Introduction to Agents](2026-02-06_google_agent_whitepaper.md)
-- [② MCP 工具互操作性](2026-02-06_google_agent_whitepaper_mcp.md)
-- [③ Context & Memory](2026-02-06_google_agent_context_memory.md)
-- [④ Agent Quality](2026-02-06_google_agent_quality.md)
-- [⑤ Prototype to Production](2026-02-06_google_agent_prototype_to_production.md)
-- [📋 五集總整理](2026-02-06_google_agent_whitepaper_complete.md)
-
-### AI 工具實戰
-- [Gemini 3.0 Computer Use](2026-02-06_gemini_3_computer_use.md)
-- [Antigravity + Stitch MCP](2026-02-06_antigravity_stitch_mcp.md)
-- [Suno + Kling MV 製作](2026-02-06_suno-nano-banana-kling-mv-tutorial.md)
+```
+├── youtubers/          # 按頻道分類的影片摘要
+│   ├── ycombinator/    # Y Combinator (115 篇)
+│   ├── drberg_chinese/ # Dr. Berg 中文 (73 篇)
+│   ├── intheworldofai/ # In The World of AI (60 篇)
+│   ├── tech_with_tim/  # Tech With Tim (53 篇)
+│   ├── dan_martell/    # Dan Martell (51 篇)
+│   ├── simon_sinek/    # Simon Sinek (46 篇)
+│   ├── brainydose/     # BRAINY DOSE (39 篇)
+│   ├── aisuperdomain/  # AI超元域 YouTube (38 篇)
+│   ├── dankoe/         # Dan Koe (38 篇)
+│   ├── misc_bilibili/  # B站散件 (37 篇)
+│   ├── aiseeker_bilibili/ # AI-seeker B站 (36 篇)
+│   ├── aisuperdomain_bilibili/ # AI超元域 B站 (32 篇)
+│   ├── qiuzhi2046_bilibili/ # 秋芝2046 B站 (32 篇)
+│   ├── alan_design/    # Alan UI Design (24 篇)
+│   ├── geekhour/       # GeekyHour (17 篇)
+│   ├── liam_ottley/    # Liam Ottley (17 篇)
+│   └── ...
+├── series/             # 系列專題
+│   ├── google-agent-whitepaper/  # Google AI Agent 白皮書 (6 篇)
+│   └── elon-musk/      # Elon Musk 訪談 (3 篇)
+├── research/           # 獨立研究報告
+├── topics/             # 主題研究
+├── tutorials/          # 教學影片
+├── presentations/      # 簡報作品
+├── briefings/          # 每日報告
+├── scripts/            # 工具腳本
+│   └── build-index.py  # 索引生成器
+├── INDEX.md            # 📚 完整索引
+├── VIDEO-SOP.md        # 📹 影片處理 SOP
+└── README.md           # 本文件
+```
 
 ---
 
-## 🎨 簡報作品
+## 📹 新增影片流程
 
-[查看簡報 →](presentations/)
+詳見 [VIDEO-SOP.md](VIDEO-SOP.md)
+
+簡要流程：收到影片 → 下載轉錄 → 生成摘要 → 歸檔分類 → 更新索引 → push
 
 ---
 
-*最後更新：2026-02-19*
-*搜索引擎：Gemini CLI (每週自動更新)*
+## 📊 統計
+
+- **總摘要數**: 706+ 篇
+- **頻道數**: 20+
+- **覆蓋主題**: AI Agent、量化交易、AI 工具、健康、創業、設計、自動化等
+- **語言**: 中文為主，部分英文
+
+---
+
+*最後更新：2026-03-22*

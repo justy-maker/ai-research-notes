@@ -1,0 +1,1659 @@
+# 📚 AI 研究筆記索引
+
+> 共 **706** 篇摘要 | 最後更新：2026-03-22 17:55
+
+---
+
+## 🏷️ 按主題分類
+
+
+### AI Agent (153 篇)
+
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context &amp; Excels at Coding! (Fully Tested)](youtubers/intheworldofai/20260306-GPT-54-Is-INSANE-OpenAIs-BEST-Model-Yet-1-Million-Context-am.md) `2026-03-06` — In The World of AI
+- [Gemini 3.1 Flash-Lite Is Google's FASTEST &amp; Cheapest Model Ever! Decent At Coding! (Fully Tested)](youtubers/intheworldofai/20260306-Gemini-31-Flash-Lite-Is-Googles-FASTEST-amp-Cheapest-Model-E.md) `2026-03-06` — In The World of AI
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06` — In The World of AI
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!](youtubers/intheworldofai/20260301-Antigravity-Claude-Code-IS-INCREDIBLE-NEW-AI-Coding-Workflo.md) `2026-03-01` — In The World of AI
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27` — Dan Martell
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27` — In The World of AI
+- [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](youtubers/intheworldofai/2026-02-24_EGo7m7ZjW0c.md) `2026-02-24` — In The World of AI
+- [How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)](youtubers/tech_with_tim/2026-02-24_NO-bOryZoTE.md) `2026-02-24` — Tech With Tim
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20` — In The World of AI
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — Tech With Tim
+- [Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](youtubers/intheworldofai/20260218-Claude-Sonnet-46-The-Best-AI-Coding-Model-Ever-1M-Context-Ch.md) `2026-02-18` — In The World of AI
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — In The World of AI
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18` — Tech With Tim
+- [AI Native Hedge Funds](youtubers/ycombinator/20260218-AI-Native-Hedge-Funds.md) `2026-02-18` — Y Combinator
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [MiniMax M2.5：挑戰頂級專有模型的開源 AI 新秀](youtubers/intheworldofai/2026-02-14_dRN9hJyg5Rc.md) `2026-02-14` — In The World of AI
+- [OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!](youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md) `2026-02-14` — In The World of AI
+- [OpenClaw 自動進化：讓 AI 越用越聰明的實戰技巧](youtubers/aisuperdomain/20260213-openclaw-auto-evolution.md) `2026-02-13` — AI超元域
+- [OpenClaw 多 Agent 玩法：工作空間分離與成本控制](youtubers/aisuperdomain/20260213-openclaw-multi-agent.md) `2026-02-13` — AI超元域
+- [GPT-5.3 Codex Is INSANE! OpenAI's BEST Model](youtubers/intheworldofai/2026-02-13_ulR5iC1oR8E.md) `2026-02-13` — @intheworldofai
+- [我們都對 Claude Code 上癮了](youtubers/ycombinator/20260212-addicted-to-claude-code.md) `2026-02-12` — Y Combinator
+- [OpenClaw 高級使用經驗 - Claude Code Hooks 回調實現零輪詢](youtubers/aisuperdomain/20260210-openclaw-hooks-zero-polling.md) `2026-02-10` — AI 超元域 (@aisuperdomain)
+- [GPT-5.3 Codex 太瘋狂了！OpenAI 最強模型可能擊敗 Opus 4.6？](youtubers/intheworldofai/20260210-gpt-5-3-codex.md) `2026-02-10` — In The World of AI
+- [2026 年最值得學習的 AI 編程工具](youtubers/tech_with_tim/2026-02-10_ai-coding-tools-worth-learning-2026.md) `2026-02-10` — Tech With Tim (@techwithtim)
+- [OpenClaw 高級使用經驗 - 多 Agent 協作 + 模型容災 + 雲端操控本地](youtubers/aisuperdomain/20260208-openclaw-multi-agent-disaster-recovery.md) `2026-02-08` — AI 超元域 (@aisuperdomain)
+- [Kestra：萬物自動化的 AI 智能體](youtubers/aiseeker_bilibili/2026-02-07_kestra自動化ai智能體.md) `2026-02-07` — AI-seeker
+- [AI 炒股智能體：TradingAgents 框架解析](youtubers/misc_bilibili/2026-02-07_AI炒股智能體TradingAgents.md) `2026-02-07` — 金天聊一下
+- [Agent Skill 從使用到原理完整解析](youtubers/misc_bilibili/2026-02-07_agent-skill原理.md) `2026-02-07` — 馬克的技術工作坊
+- [Skill 餵飯教程 - IDE 手搓 Skill](youtubers/misc_bilibili/2026-02-07_skill餵飯教程.md) `2026-02-07` — 程序員三千
+- [TradingAgents - AI 智能體股票深度分析神器](youtubers/misc_bilibili/2026-02-07_tradingagents股票分析.md) `2026-02-07` — AI數字獨角獸
+- [技能 Agent 做量化交易](youtubers/misc_bilibili/2026-02-07_技能agent做量化交易.md) `2026-02-07` — 數字遊牧人
+- [Claude Opus 4.6: Greatest AI Coding Model Ever!](youtubers/intheworldofai/20260206-claude-opus-4-6.md) `2026-02-06` — In The World of AI
+- [吃透這 20 個 Agent 應用項目](youtubers/misc_bilibili/2026-02-06_agent_20_projects.md) `2026-02-06` — misc_bilibili
+- [Antigravity + Stitch MCP - AI 智能體獨立搭建完整網站](youtubers/misc_bilibili/2026-02-06_antigravity_stitch_mcp.md) `2026-02-06` — misc_bilibili
+- [YouTube 影片摘要](youtubers/misc_bilibili/2026-02-06_atlas_ai_automation.md) `2026-02-06` — misc_bilibili
+- [Claude Changed Content Creation - Remotion 影片製作教學](youtubers/misc_bilibili/2026-02-06_claude-remotion-video-creation.md) `2026-02-06` —  不明（科技/AI 教學頻道）
+- [Gemini 3.0 Computer Use - Google 免費瀏覽器自動化 AI Agent](youtubers/misc_bilibili/2026-02-06_gemini_3_computer_use.md) `2026-02-06` — misc_bilibili
+- [OpenClaw 多 Agent 高級玩法：Token 消耗減半的正確使用方式](youtubers/aisuperdomain/20260204-openclaw-multi-agent.md) `2026-02-04` — aisuperdomain
+- [Claude Sonnet 5: Greatest AI Coding Model Ever!](youtubers/intheworldofai/20260204-claude-sonnet-5.md) `2026-02-04` — In The World of AI
+- [OpenClaw + Antigravity: 全自主工程團隊!](youtubers/intheworldofai/20260203-openclaw-antigravity.md) `2026-02-03` — In The World of AI
+- [Stop Paying for ElevenLabs - NEW #1 AI Voice Is FREE!](youtubers/intheworldofai/20260202-inworld-tts-1-5.md) `2026-02-02` — In The World of AI
+- [Epic Mode: NEW Toolkit Ends Vibe Coding!](youtubers/intheworldofai/20260201-epic-mode-traycer.md) `2026-02-01` — In The World of AI
+- [OpenClaw 自動進化技巧：打造全自動智能超級助手](youtubers/aisuperdomain/20260131-openclaw-auto-evolution.md) `2026-01-31` — aisuperdomain
+- [🛠️ Anthropic 黑客松冠軍親授 Claude Code 最優配置](youtubers/bilibili_favorites/20260131-claude-code-config.md) `2026-01-31` — bilibili_favorites
+- [Meta Acquired This AI Agent… And It's Actually Incredible (Manus AI)](youtubers/tech_with_tim/2026-01-31_meta-acquired-manus-ai.md) `2026-01-31` — Tech With Tim
+- [Meta 神秘武器：Manus AI 深度解析 – 打造 App、分析財務，無所不能！](youtubers/tech_with_tim/2026-01-31_meta-acquired-this-ai-agent-and-its-actually-incre.md) `2026-01-31` — tech_with_tim
+
+> ... 還有 103 篇，請到對應頻道查看
+
+### AI 工具 (393 篇)
+
+- [5 tips to prompt AI like a Pro](youtubers/dan_martell/20260306-5-tips-to-prompt-AI-like-a-Pro.md) `2026-03-06` — Dan Martell
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — Dr. Berg 中文
+- [GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context &amp; Excels at Coding! (Fully Tested)](youtubers/intheworldofai/20260306-GPT-54-Is-INSANE-OpenAIs-BEST-Model-Yet-1-Million-Context-am.md) `2026-03-06` — In The World of AI
+- [Gemini 3.1 Flash-Lite Is Google's FASTEST &amp; Cheapest Model Ever! Decent At Coding! (Fully Tested)](youtubers/intheworldofai/20260306-Gemini-31-Flash-Lite-Is-Googles-FASTEST-amp-Cheapest-Model-E.md) `2026-03-06` — In The World of AI
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06` — In The World of AI
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [Comment &quot;openclaw&quot; below👇](youtubers/tech_with_tim/20260306-Comment-quotopenclawquot-below.md) `2026-03-06` — Tech With Tim
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!](youtubers/intheworldofai/20260301-Antigravity-Claude-Code-IS-INCREDIBLE-NEW-AI-Coding-Workflo.md) `2026-03-01` — In The World of AI
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27` — Dan Martell
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27` — In The World of AI
+- [10 Python one liners you'll actually use](youtubers/tech_with_tim/2026-02-27-rmenKCClYUs.md) `2026-02-27` — Tech With Tim
+- [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](youtubers/intheworldofai/2026-02-24_EGo7m7ZjW0c.md) `2026-02-24` — In The World of AI
+- [The Easiest Software Business to Start in 2026](youtubers/liam_ottley/2026-02-24_KAufsCas_F4.md) `2026-02-24` — Liam Ottley
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — Liam Ottley
+- [How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)](youtubers/tech_with_tim/2026-02-24_NO-bOryZoTE.md) `2026-02-24` — Tech With Tim
+- [Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)](youtubers/intheworldofai/2026-02-23_CBIUxXy3WmM.md) `2026-02-23` — In The World of AI
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20` — Dan Martell
+- [冬季憂鬱症 醫生揭露隱藏的真相](youtubers/drberg_chinese/20260220-冬季憂鬱症-醫生揭露隱藏的真相.md) `2026-02-20` — Dr. Berg 中文
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20` — In The World of AI
+- [I Tried Google's Hardest Coding Interview (Here's What Happened)](youtubers/tech_with_tim/20260220-I-Tried-Googles-Hardest-Coding-Interview-Heres-What-Happened.md) `2026-02-20` — Tech With Tim
+- [Should AI be allowed in school?](youtubers/dan_martell/20260219-Should-AI-be-allowed-in-school.md) `2026-02-19` — Dan Martell
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — Tech With Tim
+- [Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](youtubers/intheworldofai/20260218-Claude-Sonnet-46-The-Best-AI-Coding-Model-Ever-1M-Context-Ch.md) `2026-02-18` — In The World of AI
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — In The World of AI
+- [How to learn Python coding fast - Step by step roadmap](youtubers/tech_with_tim/20260218-How-to-learn-Python-coding-fast---Step-by-step-roadmap.md) `2026-02-18` — Tech With Tim
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18` — Tech With Tim
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15` — @chenglung（龍龍）
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14` — Dan Martell
+- [The Most Important Skill To Learn Right Now](youtubers/dankoe/2026-02-14_0XI_Xt0ci2Y.md) `2026-02-14` — dankoe
+- [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/2026-02-14_U5kQTKWTUX0.md) `2026-02-14` — dankoe
+- [How I'd build a one-person business (if I started over in 2026)](youtubers/dankoe/2026-02-14_VyR8nqD3sQ8.md) `2026-02-14` — dankoe
+- [How To Use AI Better Than 99% Of People (This Changed My Life)](youtubers/dankoe/2026-02-14_xgpLjLHB5sA.md) `2026-02-14` — dankoe
+- [更年期：激素失衡不是卵巢問題，而是肝的問題](youtubers/drberg_chinese/2026-02-14_8tBp_-Q7uF4.md) `2026-02-14` — Dr. Berg 中文
+- [更年期症狀,最需要這一種食物](youtubers/drberg_chinese/2026-02-14_OFDWAdafWSY.md) `2026-02-14` — Dr. Berg 中文
+- [一句話克隆你的聲音！Index TTS 教程](youtubers/geekhour/2026-02-14_2YbFmvF8-7c.md) `2026-02-14` — 極客時間 GeekHour (@geekhour_net)
+- [一小時 Jenkins 教程](youtubers/geekhour/2026-02-14_GKLuQtni6Ok.md) `2026-02-14` — 極客時間 GeekHour
+- [OpenClaw 部署教程：打造你的24小時專屬AI助手！](youtubers/geekhour/2026-02-14_h1fLEH5kAV4.md) `2026-02-14` — GeekHour (極客時間)
+- [MiniMax M2.5：挑戰頂級專有模型的開源 AI 新秀](youtubers/intheworldofai/2026-02-14_dRN9hJyg5Rc.md) `2026-02-14` — In The World of AI
+- [OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!](youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md) `2026-02-14` — In The World of AI
+- [How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide](youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md) `2026-02-14` — Liam Ottley (@liamottley)
+- [YC 專訪 OpenClaw 創辦人：一個在本機運行的 AI 如何席捲網路](youtubers/ycombinator/2026-02-14_4uzGDAoNOZc.md) `2026-02-14` — Y Combinator
+- [We're All Addicted To Claude Code](youtubers/ycombinator/2026-02-14_qwmmWzPnhog.md) `2026-02-14` — Y Combinator
+- [OpenClaw 自動進化：讓 AI 越用越聰明的實戰技巧](youtubers/aisuperdomain/20260213-openclaw-auto-evolution.md) `2026-02-13` — AI超元域
+- [OpenClaw 多 Agent 玩法：工作空間分離與成本控制](youtubers/aisuperdomain/20260213-openclaw-multi-agent.md) `2026-02-13` — AI超元域
+- [Why We Yearn for The Past - The Nostalgia Glitch](youtubers/brainydose/2026-02-13_xMIVWtqIxW4.md) `2026-02-13` — @brainydose
+
+> ... 還有 343 篇，請到對應頻道查看
+
+### AI 編程 (303 篇)
+
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context &amp; Excels at Coding! (Fully Tested)](youtubers/intheworldofai/20260306-GPT-54-Is-INSANE-OpenAIs-BEST-Model-Yet-1-Million-Context-am.md) `2026-03-06` — In The World of AI
+- [Gemini 3.1 Flash-Lite Is Google's FASTEST &amp; Cheapest Model Ever! Decent At Coding! (Fully Tested)](youtubers/intheworldofai/20260306-Gemini-31-Flash-Lite-Is-Googles-FASTEST-amp-Cheapest-Model-E.md) `2026-03-06` — In The World of AI
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06` — In The World of AI
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [Is this the easiest way to make money coding?](youtubers/tech_with_tim/20260306-Is-this-the-easiest-way-to-make-money-coding.md) `2026-03-06` — Tech With Tim
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!](youtubers/intheworldofai/20260301-Antigravity-Claude-Code-IS-INCREDIBLE-NEW-AI-Coding-Workflo.md) `2026-03-01` — In The World of AI
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27` — Dan Martell
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27` — In The World of AI
+- [10 Python one liners you'll actually use](youtubers/tech_with_tim/2026-02-27-rmenKCClYUs.md) `2026-02-27` — Tech With Tim
+- [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](youtubers/intheworldofai/2026-02-24_EGo7m7ZjW0c.md) `2026-02-24` — In The World of AI
+- [The Easiest Software Business to Start in 2026](youtubers/liam_ottley/2026-02-24_KAufsCas_F4.md) `2026-02-24` — Liam Ottley
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — Liam Ottley
+- [How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)](youtubers/tech_with_tim/2026-02-24_NO-bOryZoTE.md) `2026-02-24` — Tech With Tim
+- [How to ACTUALLY make money from coding](youtubers/tech_with_tim/2026-02-24_rH2IRqdI778.md) `2026-02-24` — Tech With Tim
+- [Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)](youtubers/intheworldofai/2026-02-23_CBIUxXy3WmM.md) `2026-02-23` — In The World of AI
+- [Should you learn Python as a beginner?🤔](youtubers/tech_with_tim/2026-02-23_U72snoggHGw.md) `2026-02-23` — Tech With Tim
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20` — Dan Martell
+- [Why aren't you going ALL IN on AI?](youtubers/dan_martell/20260220-Why-arent-you-going-ALL-IN-on-AI.md) `2026-02-20` — Dan Martell
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20` — In The World of AI
+- [Coding might not be for you if you can't do this.](youtubers/tech_with_tim/20260220-Coding-might-not-be-for-you-if-you-cant-do-this.md) `2026-02-20` — Tech With Tim
+- [I Tried Google's Hardest Coding Interview (Here's What Happened)](youtubers/tech_with_tim/20260220-I-Tried-Googles-Hardest-Coding-Interview-Heres-What-Happened.md) `2026-02-20` — Tech With Tim
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — Tech With Tim
+- [This is very important to understand.](youtubers/tech_with_tim/20260219-This-is-very-important-to-understand.md) `2026-02-19` — Tech With Tim
+- [Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](youtubers/intheworldofai/20260218-Claude-Sonnet-46-The-Best-AI-Coding-Model-Ever-1M-Context-Ch.md) `2026-02-18` — In The World of AI
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — In The World of AI
+- [How to learn Python coding fast - Step by step roadmap](youtubers/tech_with_tim/20260218-How-to-learn-Python-coding-fast---Step-by-step-roadmap.md) `2026-02-18` — Tech With Tim
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18` — Tech With Tim
+- [AI Native Hedge Funds](youtubers/ycombinator/20260218-AI-Native-Hedge-Funds.md) `2026-02-18` — Y Combinator
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14` — Dan Martell
+- [How To Use AI Better Than 99% Of People (This Changed My Life)](youtubers/dankoe/2026-02-14_xgpLjLHB5sA.md) `2026-02-14` — dankoe
+- [一句話克隆你的聲音！Index TTS 教程](youtubers/geekhour/2026-02-14_2YbFmvF8-7c.md) `2026-02-14` — 極客時間 GeekHour (@geekhour_net)
+- [一小時 Jenkins 教程](youtubers/geekhour/2026-02-14_GKLuQtni6Ok.md) `2026-02-14` — 極客時間 GeekHour
+- [OpenClaw 部署教程：打造你的24小時專屬AI助手！](youtubers/geekhour/2026-02-14_h1fLEH5kAV4.md) `2026-02-14` — GeekHour (極客時間)
+- [MiniMax M2.5：挑戰頂級專有模型的開源 AI 新秀](youtubers/intheworldofai/2026-02-14_dRN9hJyg5Rc.md) `2026-02-14` — In The World of AI
+- [OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!](youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md) `2026-02-14` — In The World of AI
+- [How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide](youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md) `2026-02-14` — Liam Ottley (@liamottley)
+- [AI Just Had It's iPhone Moment...](youtubers/liam_ottley/2026-02-14_qNtDxuLfFE8.md) `2026-02-14` — Liam Ottley
+- [技術面試五大常見錯誤 - Tech With Tim](youtubers/tech_with_tim/2026-02-14_oifG86B7fP8.md) `2026-02-14` — tech_with_tim
+- [YC 專訪 OpenClaw 創辦人：一個在本機運行的 AI 如何席捲網路](youtubers/ycombinator/2026-02-14_4uzGDAoNOZc.md) `2026-02-14` — Y Combinator
+- [We're All Addicted To Claude Code](youtubers/ycombinator/2026-02-14_qwmmWzPnhog.md) `2026-02-14` — Y Combinator
+- [OpenClaw 自動進化：讓 AI 越用越聰明的實戰技巧](youtubers/aisuperdomain/20260213-openclaw-auto-evolution.md) `2026-02-13` — AI超元域
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/2026-02-13_NcNingch2AM.md) `2026-02-13` — @DanMartell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13` — @DanMartell
+- [Index TTS：一句話克隆聲音的 AI 語音合成工具](youtubers/geekhour/20260213-index-tts-voice-cloning.md) `2026-02-13` — GeekHour
+- [OpenClaw 部署教程：打造你的 24 小時專屬 AI 助手](youtubers/geekhour/20260213-openclaw-deployment-tutorial.md) `2026-02-13` — GeekHour (極客時間)
+
+> ... 還有 253 篇，請到對應頻道查看
+
+### SEO/行銷 (59 篇)
+
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — Dr. Berg 中文
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — Liam Ottley
+- [停止吃這些食物，拯救你的心臟](youtubers/drberg_chinese/2026-02-23_gT6lnr7eKVg.md) `2026-02-23` — Dr. Berg 中文
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15` — @chenglung（龍龍）
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-13_DhEMFeo_gL8.md) `2026-02-13` — @DanMartell
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/2026-02-13_NcNingch2AM.md) `2026-02-13` — @DanMartell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13` — @DanMartell
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-13_ExNWGF-q64M.md) `2026-02-13` — @dankoetalks
+- [牙齒腐爛的原因 柏格醫生揭露](youtubers/drberg_chinese/2026-02-13_pmSCD29UD9A.md) `2026-02-13` — @drbergchinese
+- [When Pop Fandom Becomes a Force for Good with AJR's Adam Met](youtubers/simon_sinek/2026-02-13_K1757kpOpjs.md) `2026-02-13` — @simonsinek
+- [假人、假新聞 - AI 瘋狂的危險](youtubers/brainydose/20260212-ai-madness-fake-people.md) `2026-02-12` — BRAINY DOSE (@brainydose)
+- [未來的工作：高收入技能堆疊](youtubers/dankoe/20260212-future-of-work-skill-stack.md) `2026-02-12` — Dan Koe (@dankoetalks)
+- [Grok AI + Gemini 製作角色一致性皮克斯動畫長影片](youtubers/misc_bilibili/2026-02-07_Grok-Gemini皮克斯動畫.md) `2026-02-07` — 七七行銷筆記
+- [Lovart：2025 最強 AI 設計神器完整評測](youtubers/misc_bilibili/2026-02-07_Lovart-AI設計神器.md) `2026-02-07` — 泛科學院
+- [YouTube 影片摘要](youtubers/misc_bilibili/2026-02-06_atlas_ai_automation.md) `2026-02-06` — misc_bilibili
+- [Claude Changed Content Creation - Remotion 影片製作教學](youtubers/misc_bilibili/2026-02-06_claude-remotion-video-creation.md) `2026-02-06` —  不明（科技/AI 教學頻道）
+- [Gemini 3.0 Computer Use - Google 免費瀏覽器自動化 AI Agent](youtubers/misc_bilibili/2026-02-06_gemini_3_computer_use.md) `2026-02-06` — misc_bilibili
+- [求職逆襲：軟體工程師面試通關秘笈](youtubers/tech_with_tim/2026-01-29_your-resume-isnt-the-problem.md) `2026-01-29` — tech_with_tim
+- [Figma: Buzz - 行銷協作工具](youtubers/alan_design/video_VZhDtB-xe8o.md) — alan_design
+- [WCAG 2.2 - SC 1.4.1 - Use of Color 顏色的使用](youtubers/alan_design/video_xL4iSKNc-PY.md) — alan_design
+- [12 Normalized Scams Everyone Just Goes Along With](youtubers/brainydose/01-normalized-scams.md) — BRAINY DOSE
+- [15 個完全是浪費錢的東西](youtubers/brainydose/16-waste-of-money.md) — BRAINY DOSE
+- [你被迫相信的最大謊言](youtubers/brainydose/19-biggest-lies.md) — BRAINY DOSE
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/FEex8E1yDj4.md) — Dan Martell
+- [How to Invest Your Money Like The 0.1%](youtubers/dan_martell/video_2WEMhpDOnsw.md) — Dan Martell
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/video_NcNingch2AM.md) — Dan Martell
+- [These 6 ChatGPT Hacks Will Make You So Much Money](youtubers/dan_martell/video_bkM-lYgAxh0.md) — Dan Martell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/video_xXxrvra9DQg.md) — Dan Martell
+- [How To Use AI Better Than 99% Of People](youtubers/dankoe/06-use-ai-better.md) — Dan Koe
+- [The Death Of Social Media (& The Future Of Content Creation)](youtubers/dankoe/12-death-of-social-media.md) — Dan Koe
+- [你信任的健康網紅可能被收買了？大藥廠如何操控社群媒體](youtubers/drberg_chinese/ve5JDnQ8JIQ_健康網紅被收買.md) — 柏格醫生中文 Dr Berg
+- [如何利用 AI 將 LinkedIn 變成個人品牌的吸客磁鐵](youtubers/liam_ottley/3iR3kHxCwfo-linkedin-lead-magnet-ai.md) — Liam Ottley
+- [AGI Is Here. It's Real. And It Changes Everything — Here's My Plan](youtubers/liam_ottley/GyCNs5AymRw.md) — Liam Ottley
+- [從零開始：18分鐘打造你的第一個 AI 語音客服（免寫程式）](youtubers/liam_ottley/oB7gia1kC_g-ai-voice-agent-18min.md) — Liam Ottley
+- [5種在2026年用AI在家賺錢的天才方法](youtubers/liam_ottley/pLs6ZKEDixQ-5-ways-make-money-ai-2026.md) — Liam Ottley
+- [AI 革命：無人看見的真相](youtubers/ycombinator/0LMK5JYkB94-ai-revolution-what-nobody-else-is-seeing.md) — Y Combinator
+- [Figma CEO Dylan Field：探索創意迷宮](youtubers/ycombinator/4UE4e6b2qtA-figmas-dylan-field-exploring-the-idea-maze.md) — Y Combinator
+- [啟動 AI 新創前該問的問題（中文翻譯）](youtubers/ycombinator/DJjZzzPANBY-ask-these-questions-before-starting-an-ai-sta.md) — Y Combinator
+- [新創公司的好消息：大型企業不擅長人工智慧](youtubers/ycombinator/DULfEcPR0Gc-good-news-for-startups-enterprise-is-bad-at-a.md) — Y Combinator
+- [新創公司花錢的正確與錯誤方式](youtubers/ycombinator/IRROi-Q1V44-the-right-and-wrong-way-to-spend-money-at-you.md) — Y Combinator
+- [設計評論：Y Combinator 全新官方網站](youtubers/ycombinator/K5JoLAauzq4-yc-website-redesign.md) — Y Combinator
+- [Anthropic Claude 電腦使用：遊戲規則改變者](youtubers/ycombinator/VDmU0jjklBo-anthropics-claude-computer-use-is-a-game-chan.md) — Y Combinator
+- [從轉型到建立一家 96 億美元的薪資公司](youtubers/ycombinator/VaQA55ZZWBU-from-a-pivot-to-building-a-96-billion-payroll.md) — Y Combinator
+- [新創公司招聘首批工程師和銷售人員的實戰指南（中文翻譯）](youtubers/ycombinator/i_PjjXKNpA4-the-startup-playbook-for-hiring-your-first-en.md) — Y Combinator
+- [將 Agentic AI 帶入華爾街的金融新創公司](youtubers/ycombinator/lqokpIme47A-the-finance-startup-bringing-agentic-ai-to-wa.md) — Y Combinator
+- [We're All Addicted To Claude Code](youtubers/ycombinator/qwmmWzPnhog-were-all-addicted-to-claude-code.md) — Y Combinator
+
+> ... 還有 9 篇，請到對應頻道查看
+
+### 健康 (102 篇)
+
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — Dr. Berg 中文
+- [全球最消炎食物! 腸胃炎、關節炎、各種發炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260306-全球最消炎食物-腸胃炎關節炎各種發炎自然療法柏格醫生-Dr-Berg.md) `2026-03-06` — Dr. Berg 中文
+- [柏格醫生警告：這10種維生素和礦物質千萬別吃！吃了反而傷身（合成葉酸、碳酸鈣、氧化鎂必避）](youtubers/drberg_chinese/20260306-柏格醫生警告這10種維生素和礦物質千萬別吃吃了反而傷身合成葉酸碳酸鈣氧化鎂必避.md) `2026-03-06` — Dr. Berg 中文
+- [為什麼現代人嚴重缺鎂？柏格醫生曝：補鎂改善胰島素阻抗、睡眠、肌肉痠痛](youtubers/drberg_chinese/20260306-為什麼現代人嚴重缺鎂柏格醫生曝補鎂改善胰島素阻抗睡眠肌肉痠痛.md) `2026-03-06` — Dr. Berg 中文
+- [鎂越貴越好？錯，選對形式才是關鍵 #補充劑 #養生](youtubers/drberg_chinese/20260306-鎂越貴越好錯選對形式才是關鍵-補充劑-養生.md) `2026-03-06` — Dr. Berg 中文
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [好橄欖油消除脂肪肝,三種好油消炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260301-好橄欖油消除脂肪肝三種好油消炎自然療法柏格醫生-Dr-Berg.md) `2026-03-01` — Dr. Berg 中文
+- [癌症7大鮮為人知的主因！柏格醫生揭秘線粒體與環境如何影響癌症預防](youtubers/drberg_chinese/20260301-癌症7大鮮為人知的主因柏格醫生揭秘線粒體與環境如何影響癌症預防.md) `2026-03-01` — Dr. Berg 中文
+- [這個維生素能殺死癌細胞 你卻不知道](youtubers/drberg_chinese/20260301-這個維生素能殺死癌細胞-你卻不知道.md) `2026-03-01` — Dr. Berg 中文
+- [You wanna get richer? Get fit.](youtubers/dan_martell/2026-02-27-QfmfTEYP2JA.md) `2026-02-27` — Dan Martell
+- [不健康飲食的10大可怕副作用！右肩痛、失眠、腎結石都中了？快學8招戒糖戒垃圾食品](youtubers/drberg_chinese/2026-02-27-dxrsj2vGae4.md) `2026-02-27` — Dr. Berg 中文
+- [血栓才是心臟病和中風的真凶](youtubers/drberg_chinese/2026-02-27-ooE3kfKDs0I.md) `2026-02-27` — Dr. Berg 中文
+- [你的排毒系統壞了？硒才是關鍵](youtubers/drberg_chinese/2026-02-27-zVgyw81cNLY.md) `2026-02-27` — Dr. Berg 中文
+- [8 Tiny Habits That Made Me Rich](youtubers/dan_martell/2026-02-24_8ujbxFtVzBM.md) `2026-02-24` — Dan Martell
+- [維生素D缺乏症狀6個，最後一個超意外](youtubers/drberg_chinese/2026-02-24_6uWJeTduoNE.md) `2026-02-24` — Dr. Berg 中文
+- [柏格醫生揭秘：7種自然療法比藥物更有效（有科學研究證明）](youtubers/drberg_chinese/2026-02-24_ZF03OAPwxf8.md) `2026-02-24` — Dr. Berg 中文
+- [頭前傾2.5公分加重4.5公斤！柏格醫生教你每晚幾分鐘快速矯正駝背（筋膜伸展）](youtubers/drberg_chinese/2026-02-24_aAu1CzXLIpY.md) `2026-02-24` — Dr. Berg 中文
+- [為什麼你減不掉腹部脂肪？柏格醫生揭密](youtubers/drberg_chinese/2026-02-24_lRJqbfYZdjE.md) `2026-02-24` — Dr. Berg 中文
+- [停止吃這些食物，拯救你的心臟](youtubers/drberg_chinese/2026-02-23_gT6lnr7eKVg.md) `2026-02-23` — Dr. Berg 中文
+- [柏格醫生：吃早餐竟是傷肝元兇？停吃早餐啟動自噬，肝功能快速改善](youtubers/drberg_chinese/2026-02-23_qeDbZhDafZ4.md) `2026-02-23` — Dr. Berg 中文
+- [冬季憂鬱症 醫生揭露隱藏的真相](youtubers/drberg_chinese/20260220-冬季憂鬱症-醫生揭露隱藏的真相.md) `2026-02-20` — Dr. Berg 中文
+- [吃蛋有害還是有益健康？柏格醫生Dr Berg #快速減肥 #養生 #生酮飲食 #膽固醇 #斷食 #自然療法](youtubers/drberg_chinese/20260220-吃蛋有害還是有益健康柏格醫生Dr-Berg-快速減肥-養生-生酮飲食-膽固醇-斷食-自然療法.md) `2026-02-20` — Dr. Berg 中文
+- [柏格醫生推薦：每天必吃的7種最健康食物，降胰島素、提升免疫一次到位！](youtubers/drberg_chinese/20260220-柏格醫生推薦每天必吃的7種最健康食物降胰島素提升免疫一次到位.md) `2026-02-20` — Dr. Berg 中文
+- [為什麼乳酸菌是腸道最友善的菌](youtubers/drberg_chinese/20260220-為什麼乳酸菌是腸道最友善的菌.md) `2026-02-20` — Dr. Berg 中文
+- [纖維讓便秘更糟?醫生揭露被隱藏的真相](youtubers/drberg_chinese/20260220-纖維讓便秘更糟醫生揭露被隱藏的真相.md) `2026-02-20` — Dr. Berg 中文
+- [夜尿不是膀胱問題！改變這9件事，立即改善睡眠](youtubers/drberg_chinese/20260219-夜尿不是膀胱問題改變這9件事立即改善睡眠.md) `2026-02-19` — Dr. Berg 中文
+- [快速減肥、大減肥肚子的斷食法](youtubers/drberg_chinese/20260219-快速減肥大減肥肚子的斷食法.md) `2026-02-19` — Dr. Berg 中文
+- [死海鹽 vs 海鹽，哪個對你的皮膚更好？](youtubers/drberg_chinese/20260219-死海鹽-vs-海鹽哪個對你的皮膚更好.md) `2026-02-19` — Dr. Berg 中文
+- [薑黃素1500mg等同布洛芬？天然消炎無副作用，柏格醫生實證比較](youtubers/drberg_chinese/20260219-薑黃素1500mg等同布洛芬天然消炎無副作用柏格醫生實證比較.md) `2026-02-19` — Dr. Berg 中文
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [生酮+斷食 vs 單純斷食的差別 #生酮飲食 #斷食 #代謝](youtubers/drberg_chinese/20260218-生酮斷食-vs-單純斷食的差別-生酮飲食-斷食-代謝.md) `2026-02-18` — Dr. Berg 中文
+- [Curing Cynicism | A Bit of Optimism #podcast](youtubers/simon_sinek/20260218-Curing-Cynicism-A-Bit-of-Optimism-podcast.md) `2026-02-18` — Simon Sinek
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/2026-02-14_U5kQTKWTUX0.md) `2026-02-14` — dankoe
+- [吃了鎂補充品還是失眠疲勞？問題出在這裡](youtubers/drberg_chinese/2026-02-14_3vddvJ4Vjpg.md) `2026-02-14` — Dr. Berg 中文
+- [更年期：激素失衡不是卵巢問題，而是肝的問題](youtubers/drberg_chinese/2026-02-14_8tBp_-Q7uF4.md) `2026-02-14` — Dr. Berg 中文
+- [番茄馬鈴薯關節炎｜醫生揭露茄科蔬菜的真相](youtubers/drberg_chinese/2026-02-14_GekSX0eN91o.md) `2026-02-14` — Dr. Berg 中文
+- [便秘和腹瀉是缺腸道菌?！便秘,腸胃消化不良的最佳療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/2026-02-14_J-eBfxPCLlw.md) `2026-02-14` — Dr. Berg 中文
+- [更年期症狀,最需要這一種食物](youtubers/drberg_chinese/2026-02-14_OFDWAdafWSY.md) `2026-02-14` — Dr. Berg 中文
+- [減緩失智健忘、保健大腦的第一名營養素,補充褪黑激素(新資料),柏格醫生 Dr Berg](youtubers/drberg_chinese/2026-02-14_WxG_iMzWyQ0.md) `2026-02-14` — Dr. Berg 中文
+- [柏格醫生2025年最佳防癌飲食：輪替飲食,長斷食與間歇性斷食，餓死癌細胞，增強免疫力](youtubers/drberg_chinese/2026-02-14_gXWWwEMk46w.md) `2026-02-14` — Dr. Berg 中文
+- [打造年輕肌膚秘密！柏格醫生揭秘：最佳抗衰老食物與護膚真相](youtubers/drberg_chinese/2026-02-14_vBfCcT9jtww.md) `2026-02-14` — Dr. Berg 中文
+- [打造年輕肌膚秘密！柏格醫生揭秘：最佳抗衰老食物與護膚真相](youtubers/drberg_chinese/vBfCcT9jtww_2026-02-14.md) `2026-02-14` — Dr. Berg 中文
+- [MiniMax M2.5：挑戰頂級專有模型的開源 AI 新秀](youtubers/intheworldofai/2026-02-14_dRN9hJyg5Rc.md) `2026-02-14` — In The World of AI
+- [YC 專訪 OpenClaw 創辦人：一個在本機運行的 AI 如何席捲網路](youtubers/ycombinator/2026-02-14_4uzGDAoNOZc.md) `2026-02-14` — Y Combinator
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/2026-02-13_NcNingch2AM.md) `2026-02-13` — @DanMartell
+- [Top 9 AI Trends I'm Betting My Bank Account On in 2026](youtubers/dan_martell/2026-02-13_ZP9ki_8-ZvE.md) `2026-02-13` — @DanMartell
+- [鐵氟龍鍋塗層會脫落](youtubers/drberg_chinese/2026-02-13_6qc_Us_FEPY.md) `2026-02-13` — @drbergchinese
+- [牙齒腐爛的原因 柏格醫生揭露](youtubers/drberg_chinese/2026-02-13_pmSCD29UD9A.md) `2026-02-13` — @drbergchinese
+- [5天斷食能治癒身體嗎](youtubers/drberg_chinese/2026-02-13_wcxcAPTqrbg.md) `2026-02-13` — @drbergchinese
+
+> ... 還有 52 篇，請到對應頻道查看
+
+### 其他 (33 篇)
+
+- [I prioritize my wife's happiness](youtubers/dan_martell/20260306-I-prioritize-my-wifes-happiness.md) `2026-03-06` — Dan Martell
+- [Relationships matter](youtubers/dan_martell/20260306-Relationships-matter.md) `2026-03-06` — Dan Martell
+- [Why bosses blame their team](youtubers/dan_martell/20260301-Why-bosses-blame-their-team.md) `2026-03-01` — Dan Martell
+- [I helped this kid change his life](youtubers/dan_martell/20260219-I-helped-this-kid-change-his-life.md) `2026-02-19` — Dan Martell
+- [Why OpenClaw Broke The Internet](youtubers/ycombinator/20260218-Why-OpenClaw-Broke-The-Internet.md) `2026-02-18` — Y Combinator
+- [The Future Of Work (& The New High-Income Skill Stack)](youtubers/dankoe/2026-02-14_vCoGfisdS8Y.md) `2026-02-14` — dankoe
+- [Tipping Culture Has Become A Normalized Scam](youtubers/brainydose/2026-02-13_PfxZs824u1Y.md) `2026-02-13` — @brainydose
+- [Give me 59 secs... I'll delete your fear of starting](youtubers/dan_martell/2026-02-13_Q2xs6xiW9hM.md) `2026-02-13` — @DanMartell
+- [YouTube 影片摘要](youtubers/misc_bilibili/2026-02-06_tax_saving.md) `2026-02-06` — misc_bilibili
+- [Pony Alpha+OpenClaw：免费隐身模型完胜 OPUS！](youtubers/aiseeker_bilibili/BV1CDcczcEJ5.md) — AI-seeker
+- [AI 带来的 13 个糟心问题！看完细思极恐](youtubers/aiseeker_bilibili/BV1UNcqzBEvN.md) — AI-seeker (B站 142459613)
+- [10 Hygiene MISTAKES That Make You STINK](youtubers/brainydose/04-hygiene-mistakes.md) — BRAINY DOSE
+- [花錢如流水的 15 件事](youtubers/brainydose/24-waste-of-money.md) — brainydose
+- [保持低調的重要性：為何「看起來不富裕」反而是一種優勢](youtubers/brainydose/25-looking-poor-important.md) — brainydose
+- [虛假人物、假新聞：AI 瘋狂的危險](youtubers/brainydose/27-ai-madness-fake-people.md) — brainydose
+- [PfxZs824u1Y tipping culture scam](youtubers/brainydose/PfxZs824u1Y-tipping-culture-scam.md) — brainydose
+- [vCoGfisdS8Y future of work skill stack](youtubers/dankoe/vCoGfisdS8Y-future-of-work-skill-stack.md) — dankoe
+- [带你速逛WAIC2025！这些机器人什么时候进你家？](youtubers/qiuzhi2046_bilibili/videos/BV12i8yzhEhC.md) — videos
+- [大模型飞跃？智能体元年？一个视频拆解2025最值得关注的AI进展！](youtubers/qiuzhi2046_bilibili/videos/BV13fvrBoEGo.md) — videos
+- [一天60集？！起底“AI短剧”出海的捞金秘籍【全流程拆解】](youtubers/qiuzhi2046_bilibili/videos/BV14HmSBMEkw.md) — videos
+- [2025年AI生图“王”！Banana Pro玩法大分享～【建议收藏】](youtubers/qiuzhi2046_bilibili/videos/BV1BHUwBdEpq.md) — videos
+- [国产AI视频模型全球登顶！不用买Veo3啦～](youtubers/qiuzhi2046_bilibili/videos/BV1BrMizzEvj.md) — videos
+- [掌管P图的神！Nano Banana究极玩法全公开！建议收藏～](youtubers/qiuzhi2046_bilibili/videos/BV1CHaGzBEMc.md) — videos
+- [更猛了！B站开源AI语音天花板【附本地安装包】](youtubers/qiuzhi2046_bilibili/videos/BV1HeJQzSEHW.md) — videos
+- [用嘴“P视频”！还有什么是AI不能P的？？【玩法教程】](youtubers/qiuzhi2046_bilibili/videos/BV1ZY2tB4ERH.md) — videos
+- [B站首届AI春晚！](youtubers/qiuzhi2046_bilibili/videos/BV1duFrztESM.md) — videos
+- [更适合中国宝宝的AI生活助手是？？](youtubers/qiuzhi2046_bilibili/videos/BV1ejyGBKENz.md) — videos
+- [中国AI产业冰山图！全面盘点～【万字解析】](youtubers/qiuzhi2046_bilibili/videos/BV1gKiEBZEHq.md) — videos
+- [AI财神杯：哪个AI能带你发财？【Grok4 300刀实测】](youtubers/qiuzhi2046_bilibili/videos/BV1gvuEzyEHB.md) — videos
+- [年度好用AI大赏！【小白必备】](youtubers/qiuzhi2046_bilibili/videos/BV1ibvhBqEmp.md) — videos
+- [假如AI消灭了全人类，只剩下你一个人…【脑洞大开】](youtubers/qiuzhi2046_bilibili/videos/BV1kMWXzcER2.md) — videos
+- [爆火的AI录音卡，到底值不值？【全面测评】](youtubers/qiuzhi2046_bilibili/videos/BV1no6jBSEnc.md) — videos
+- [随意P视频？现在的AI太离谱了！【Runway Aleph】](youtubers/qiuzhi2046_bilibili/videos/BV1xseJzqEBv.md) — videos
+
+### 創業 (197 篇)
+
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [The Hardest Part Of Being A Leader | Simon Sinek](youtubers/simon_sinek/20260306-The-Hardest-Part-Of-Being-A-Leader-Simon-Sinek.md) `2026-03-06` — Simon Sinek
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [Startup School 2026](youtubers/ycombinator/20260306-Startup-School-2026.md) `2026-03-06` — Y Combinator
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27` — Dan Martell
+- [I helped this kid start his DETAILING BUSINESS](youtubers/dan_martell/2026-02-24_GnzpctL5I1Y.md) `2026-02-24` — Dan Martell
+- [AI will make more millionaires than the INTERNET](youtubers/dan_martell/2026-02-24_psL1OAsasA4.md) `2026-02-24` — Dan Martell
+- [The Easiest Software Business to Start in 2026](youtubers/liam_ottley/2026-02-24_KAufsCas_F4.md) `2026-02-24` — Liam Ottley
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — Liam Ottley
+- [How to create WEALTH with AI](youtubers/dan_martell/2026-02-23_LA-ejpPji38.md) `2026-02-23` — Dan Martell
+- [How To Think Like A Strategic Genius (5-Dimensional Thinking)](youtubers/dankoe/2026-02-23_TY8IVSQnwlk.md) `2026-02-23` — Dan Koe
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20` — Dan Martell
+- [Company Culture | Simon Sinek](youtubers/simon_sinek/20260220-Company-Culture-Simon-Sinek.md) `2026-02-20` — Simon Sinek
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — Tech With Tim
+- [Building a business vs building a brand](youtubers/dan_martell/20260218-Building-a-business-vs-building-a-brand.md) `2026-02-18` — Dan Martell
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18` — Tech With Tim
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15` — @chenglung（龍龍）
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14` — Dan Martell
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-14_ExNWGF-q64M.md) `2026-02-14` — dankoe
+- [How I'd build a one-person business (if I started over in 2026)](youtubers/dankoe/2026-02-14_VyR8nqD3sQ8.md) `2026-02-14` — dankoe
+- [Kortex: The $3 Million Dollar Mistake](youtubers/dankoe/2026-02-14_vbrTv-4PsdA.md) `2026-02-14` — dankoe
+- [OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!](youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md) `2026-02-14` — In The World of AI
+- [How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide](youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md) `2026-02-14` — Liam Ottley (@liamottley)
+- [AI Just Had It's iPhone Moment...](youtubers/liam_ottley/2026-02-14_qNtDxuLfFE8.md) `2026-02-14` — Liam Ottley
+- [Matthew McConaughey on How to Fall Back in Love with Your Life](youtubers/simon_sinek/2026-02-14_XeK4OCBhvwE.md) `2026-02-14` — Simon Sinek
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-13_DhEMFeo_gL8.md) `2026-02-13` — @DanMartell
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/2026-02-13_NcNingch2AM.md) `2026-02-13` — @DanMartell
+- [Top 9 AI Trends I'm Betting My Bank Account On in 2026](youtubers/dan_martell/2026-02-13_ZP9ki_8-ZvE.md) `2026-02-13` — @DanMartell
+- [These 6 ChatGPT Hacks Will Make You So Much Money](youtubers/dan_martell/2026-02-13_bkM-lYgAxh0.md) `2026-02-13` — @DanMartell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13` — @DanMartell
+- [When Pop Fandom Becomes a Force for Good with AJR's Adam Met](youtubers/simon_sinek/2026-02-13_K1757kpOpjs.md) `2026-02-13` — @simonsinek
+- [未來的工作：高收入技能堆疊](youtubers/dankoe/20260212-future-of-work-skill-stack.md) `2026-02-12` — Dan Koe (@dankoetalks)
+- [Lovart：2025 最強 AI 設計神器完整評測](youtubers/misc_bilibili/2026-02-07_Lovart-AI設計神器.md) `2026-02-07` — 泛科學院
+- [25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-06_25-ways-make-money-2026.md) `2026-02-06` — dan_martell
+- [Google AI Studio 最強教程：免費用 90% Gemini 功能](youtubers/misc_bilibili/2026-02-06_google-ai-studio-tutorial.md) `2026-02-06` — misc_bilibili
+- [OpenClaw + Antigravity: 全自主工程團隊!](youtubers/intheworldofai/20260203-openclaw-antigravity.md) `2026-02-03` — In The World of AI
+- [駕馭 AI 時代：2026 年高效程式學習新策略](youtubers/tech_with_tim/2026-02-02_learning-to-code-has-changed.md) `2026-02-02` — tech_with_tim
+- [🎙️ Clawd 創作者專訪：「我部署不讀的程式碼」](youtubers/pragmatic_engineer/20260128-clawd-creator-interview.md) `2026-01-28` — The Pragmatic Engineer
+- [This Open-Source AI Video Model Just Crushed Sora](youtubers/tech_with_tim/2026-01-27_ltx2-open-source-ai-video-model.md) `2026-01-27` — Tech With Tim
+- [Lovable vs MeDo, which AI app builder actually works?](youtubers/tech_with_tim/2026-01-14_lovable-vs-medo-ai-app-builder.md) `2026-01-14` — Tech With Tim
+- [FastAPI + React B2B SaaS Full Project Build](youtubers/tech_with_tim/2025-12-31_fastapi-react-b2b-saas-full-project.md) `2025-12-31` — Tech With Tim
+- [GLM-4.7 深度實測：開源編程新王誕生](youtubers/aisuperdomain/20251223-glm-47.md) `2025-12-23` — aisuperdomain
+- [Genspark's Super AI Agent is INSANE](youtubers/tech_with_tim/2025-12-15_genspark-super-ai-agent.md) `2025-12-15` — Tech With Tim
+- [宇树科技 G1 重磅升级！全球首款掌握滑板的人形机器人！](youtubers/aiseeker_bilibili/BV1azcqzLEMR.md) — aiseeker_bilibili
+- [Seedance 2.0 深度体验！是真硬核还是纯噱头？](youtubers/aiseeker_bilibili/BV1uwcqz6E9s.md) — aiseeker_bilibili
+- [🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Agentic能力直逼Gemini 3和Claude 4.5](youtubers/aisuperdomain_bilibili/BV1UTBKBxESA_🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Age.md) — aisuperdomain_bilibili
+
+> ... 還有 147 篇，請到對應頻道查看
+
+### 影片生成 (37 篇)
+
+- [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](youtubers/intheworldofai/2026-02-24_EGo7m7ZjW0c.md) `2026-02-24` — In The World of AI
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13` — @DanMartell
+- [Google Gemini 完整教學（下集）：生活與學習的 21 種 AI 應用](youtubers/misc_bilibili/2026-02-07_Google-Gemini教學下集.md) `2026-02-07` — Austin Chou MooSun（大有牧森）
+- [Claude Changed Content Creation - Remotion 影片製作教學](youtubers/misc_bilibili/2026-02-06_claude-remotion-video-creation.md) `2026-02-06` —  不明（科技/AI 教學頻道）
+- [Google AI Studio 最強教程：免費用 90% Gemini 功能](youtubers/misc_bilibili/2026-02-06_google-ai-studio-tutorial.md) `2026-02-06` — misc_bilibili
+- [MV 大導演：Suno + Nano Banana + Kling 完整教學](youtubers/misc_bilibili/2026-02-06_suno-nano-banana-kling-mv-tutorial.md) `2026-02-06` — misc_bilibili
+- [This Open-Source AI Video Model Just Crushed Sora](youtubers/tech_with_tim/2026-01-27_ltx2-open-source-ai-video-model.md) `2026-01-27` — Tech With Tim
+- [LTX2：開源AI影片模型橫空出世，Sora不再是唯一選擇！](youtubers/tech_with_tim/2026-01-27_this-opensource-ai-video-model-just-crushed-sora.md) `2026-01-27` — tech_with_tim
+- [Moltbook 2.0：AI 智能体雇佣人类，8 万 + 加入！](youtubers/aiseeker_bilibili/BV14vFez4ETy.md) — aiseeker_bilibili
+- [OpenAI 打造 ChatGPT 专属 AGI 机器人，颠覆一切](youtubers/aiseeker_bilibili/BV16KFFzJEi2.md) — aiseeker_bilibili
+- [集体整活！OpenAI 终于上线 AI 编程 APP，谷歌甩出 CONDUCTOR，Sonnet 5 还泄露了](youtubers/aiseeker_bilibili/BV1BuFFzjEhw.md) — aiseeker_bilibili
+- [Kling 3.0 首次曝光！直接封神成 AI 视频新王者！](youtubers/aiseeker_bilibili/BV1CkFezQEE1.md) — aiseeker_bilibili
+- [中国首款仿生 AI 机器人，外形高度拟人！](youtubers/aiseeker_bilibili/BV1DtFezwEC8.md) — aiseeker_bilibili
+- [大翻车！小鹏 IRON 机器人公开亮相居然当场摔了…](youtubers/aiseeker_bilibili/BV1SbFezhE1N.md) — aiseeker_bilibili
+- [【Antigravity+Stitch MCP】全新 AI 智能体，可独立搭建完整网站！](youtubers/aiseeker_bilibili/BV1ZtffB5ERv.md) — aiseeker_bilibili
+- [绝了！Vercel 的超强技能秘籍，一个简易文件夹让 Claude 写代码直接猛 10 倍！](youtubers/aiseeker_bilibili/BV1bqFLzVENL.md) — aiseeker_bilibili
+- [GPT-5.3 Codex 硬刚 Opus 4.6！全维度深度实测，谁赢麻了一眼看穿！](youtubers/aiseeker_bilibili/BV1daFkzhEYS.md) — aiseeker_bilibili
+- [实测出炉！Codex 桌面端 + 免费 GPT-5.2 Codex 上线，OpenAI 这波是抄 Conductor、Commander？](youtubers/aiseeker_bilibili/BV1deffBgEqo.md) — aiseeker_bilibili
+- [Claude Opus 4.6 杀疯了！堪称 AI 编码天花板，百万上下文直接拉满！](youtubers/aiseeker_bilibili/BV1eeFkzFE9o.md) — aiseeker_bilibili
+- [【Claude Opus 4.6 & GPT-5.3 Codex】两大新模型今日发布！完整解析奉上](youtubers/aiseeker_bilibili/BV1mDFkzEE3e.md) — aiseeker_bilibili
+- [炸了！马斯克实锤 Optimus Gen 3 将至，特斯拉居然停产 Model S 和 X！](youtubers/aiseeker_bilibili/BV1mrFLz6EF9.md) — aiseeker_bilibili
+- [太顶了！Claude Sonnet 5 封神，最强 AI 编程模型来袭，百万上下文还超便宜｜早期实测](youtubers/aiseeker_bilibili/BV1qGFFz5ENM.md) — aiseeker_bilibili
+- [太顶了！OpenClaw+Antigravity 加持，AI 直接成全自动工程团队，代码一键自动化！](youtubers/aiseeker_bilibili/BV1s2FLzTEEt.md) — aiseeker_bilibili
+- [Seedance 2.0 深度体验！是真硬核还是纯噱头？](youtubers/aiseeker_bilibili/BV1uwcqz6E9s.md) — aiseeker_bilibili
+- [香爆了！免费又安全的超级云智能体来袭，堪称 Clawdbot 平替，体验巨顶！](youtubers/aiseeker_bilibili/BV1xiFezdE2C.md) — aiseeker_bilibili
+- [2026：AI 斩获 15 大全新发现！](youtubers/aiseeker_bilibili/BV1yBFezsEyJ.md) — aiseeker_bilibili
+- [【Claude Sonnet 5 泄露】一次提示词直接生成 5000 行代码！](youtubers/aiseeker_bilibili/BV1yRffBdEeK.md) — aiseeker_bilibili
+- [离谱！AI 自研社交 MOLTBOOT，居然把人类全给禁了！](youtubers/aiseeker_bilibili/BV1yVFkzCEry.md) — aiseeker_bilibili
+- [【Claude Code 重磅更新】解锁无限内存！彻底解决记忆难题！](youtubers/aiseeker_bilibili/BV1yzFez9E2e.md) — aiseeker_bilibili
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/video_xXxrvra9DQg.md) — Dan Martell
+- [新創網站設計點評：Cursor 設計主管犀利吐槽](youtubers/ycombinator/RynySryqM_0-cursor-head-of-design-roasts-startup-websites.md) — Y Combinator
+- [從轉型到建立一家 96 億美元的薪資公司](youtubers/ycombinator/VaQA55ZZWBU-from-a-pivot-to-building-a-96-billion-payroll.md) — Y Combinator
+- [最佳消費者新創點子：直到現在才成為可能 (中文翻譯)](youtubers/ycombinator/Z4L4ZqL1xqQ-the-best-consumer-startup-ideas-were-impossib.md) — Y Combinator
+- [每個創辦人都應該知道的機器學習技術（中文翻譯）](youtubers/ycombinator/dC_3ys349bU-the-ml-technique-every-founder-should-know.md) — Y Combinator
+- [🎮 遊戲設計研究 (2026 趨勢)](topics/03_game_design.md) — topics
+- [📣 AI 行銷推廣研究 (2026 趨勢)](topics/07_ai_marketing.md) — topics
+- [🎬 AI 影片生成研究 (2026 趨勢)](topics/11_ai_video_generation.md) — topics
+
+### 心理/自我成長 (135 篇)
+
+- [Bartok Music | A Bit of Optimism #podcast](youtubers/simon_sinek/20260306-Bartok-Music-A-Bit-of-Optimism-podcast.md) `2026-03-06` — Simon Sinek
+- [The Hardest Part Of Being A Leader | Simon Sinek](youtubers/simon_sinek/20260306-The-Hardest-Part-Of-Being-A-Leader-Simon-Sinek.md) `2026-03-06` — Simon Sinek
+- [Reallocate Your Risk | A Bit Of Optimism #podcast](youtubers/simon_sinek/2026-02-27-PU1vbZPx7F0.md) `2026-02-27` — Simon Sinek
+- [8 Tiny Habits That Made Me Rich](youtubers/dan_martell/2026-02-24_8ujbxFtVzBM.md) `2026-02-24` — Dan Martell
+- [How To Think Like A Strategic Genius (5-Dimensional Thinking)](youtubers/dankoe/2026-02-23_TY8IVSQnwlk.md) `2026-02-23` — Dan Koe
+- [冬季憂鬱症 醫生揭露隱藏的真相](youtubers/drberg_chinese/20260220-冬季憂鬱症-醫生揭露隱藏的真相.md) `2026-02-20` — Dr. Berg 中文
+- [Company Culture | Simon Sinek](youtubers/simon_sinek/20260220-Company-Culture-Simon-Sinek.md) `2026-02-20` — Simon Sinek
+- [Vulnerability | A Bit of Optimism #podcast](youtubers/simon_sinek/20260220-Vulnerability-A-Bit-of-Optimism-podcast.md) `2026-02-20` — Simon Sinek
+- [快速減肥、大減肥肚子的斷食法](youtubers/drberg_chinese/20260219-快速減肥大減肥肚子的斷食法.md) `2026-02-19` — Dr. Berg 中文
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [Without The Title, Who Are You? | Simon Sinek](youtubers/simon_sinek/20260219-Without-The-Title-Who-Are-You-Simon-Sinek.md) `2026-02-19` — Simon Sinek
+- [Curing Cynicism | A Bit of Optimism #podcast](youtubers/simon_sinek/20260218-Curing-Cynicism-A-Bit-of-Optimism-podcast.md) `2026-02-18` — Simon Sinek
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [Why We Yearn for The Past - The Nostalgia Glitch](youtubers/brainydose/2026-02-14_xMIVWtqIxW4.md) `2026-02-14` — Brainy Dose
+- [How to fix your entire life in 1 day](youtubers/dankoe/2026-02-14_K8K09g9XR4s.md) `2026-02-14` — dankoe
+- [A Full Guide To Reinvent Your Entire Life (In 6-12 Months)](youtubers/dankoe/2026-02-14_SL5lwg1wYaE.md) `2026-02-14` — dankoe
+- [Why Are We Friends? | Simon Sinek](youtubers/simon_sinek/2026-02-14_CCXICFcqn3A.md) `2026-02-14` — Simon Sinek
+- [Matthew McConaughey on How to Fall Back in Love with Your Life](youtubers/simon_sinek/2026-02-14_XeK4OCBhvwE.md) `2026-02-14` — Simon Sinek
+- [Why We Yearn for The Past - The Nostalgia Glitch](youtubers/brainydose/2026-02-13_xMIVWtqIxW4.md) `2026-02-13` — @brainydose
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-13_DhEMFeo_gL8.md) `2026-02-13` — @DanMartell
+- [Why Being LAZY Makes You More Successful](youtubers/dan_martell/2026-02-13_J8mCcVp4c1M.md) `2026-02-13` — @DanMartell
+- [I'm 46. If you're in your 20s or 30s, watch this video](youtubers/dan_martell/2026-02-13_P9e_FTLMDHY.md) `2026-02-13` — @DanMartell
+- [The Only Skill You Need to Succeed in the AI Era](youtubers/dan_martell/2026-02-13_QpfVvmXBHOU.md) `2026-02-13` — @DanMartell
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-13_ExNWGF-q64M.md) `2026-02-13` — @dankoetalks
+- [The Future Of Work (& The New High-Income Skill Stack)](youtubers/dankoe/2026-02-13_vCoGfisdS8Y.md) `2026-02-13` — @dankoetalks
+- [When Pop Fandom Becomes a Force for Good with AJR's Adam Met](youtubers/simon_sinek/2026-02-13_K1757kpOpjs.md) `2026-02-13` — @simonsinek
+- [What Grit Really Teaches Us About Happiness](youtubers/simon_sinek/2026-02-13_KAi2L_b1V2I.md) `2026-02-13` — @simonsinek
+- [We're All Bad At Being Human](youtubers/simon_sinek/2026-02-13_d_13NyreOGo.md) `2026-02-13` — @simonsinek
+- [假人、假新聞 - AI 瘋狂的危險](youtubers/brainydose/20260212-ai-madness-fake-people.md) `2026-02-12` — BRAINY DOSE (@brainydose)
+- [每日五項核心練習 - 吉他穩健進步法](youtubers/misc_bilibili/2026-02-07_吉他每日五項練習.md) `2026-02-07` — zjycode
+- [內行人都在用的美股寶藏網站](youtubers/misc_bilibili/2026-02-07_美股寶藏網站.md) `2026-02-07` — MrKC深夜學堂
+- [25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-06_25-ways-make-money-2026.md) `2026-02-06` — dan_martell
+- [Gemini + Nano Banana 製作 PPT - NotebookLM 的替代方案](youtubers/misc_bilibili/2026-02-06_gemini_nanobanna_ppt.md) `2026-02-06` — misc_bilibili
+- [🎙️ Clawd 創作者專訪：「我部署不讀的程式碼」](youtubers/pragmatic_engineer/20260128-clawd-creator-interview.md) `2026-01-28` — The Pragmatic Engineer
+- [Superpowers：告別 Vibe Coding，擁抱工程級代碼](youtubers/aisuperdomain/20260111-superpowers-tdd.md) `2026-01-11` — aisuperdomain
+- [How to get a machine learning engineer job fast - Without a uni degree](youtubers/tech_with_tim/2025-12-17_machine-learning-engineer-roadmap.md) `2025-12-17` — Tech With Tim
+- [我的 MBP Setup：日常使用軟體和設備](youtubers/geekhour/2025-08-02_7C_6pex0hzk.md) `2025-08-02` — GeekHour
+- [🚀告别Vibe Coding！用Superpowers让Claude Code写出工程级代码，一次通过零报错！遵循TDD最佳实践！支持Codex](youtubers/aisuperdomain_bilibili/BV11urFBrEc4_🚀告别Vibe Coding！用Superpowers让Claude Code写出工程级代码，一次通.md) — aisuperdomain_bilibili
+- [🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作全打通！一句话让AI帮你做表格、分析数据、写报告，效率恐怖](youtubers/aisuperdomain_bilibili/BV1rcr5BVE7a_🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作.md) — aisuperdomain_bilibili
+- [關於文字標籤設計 (WCAG 2.5.3/G131/G162)](youtubers/alan_design/video_JN9Uh9mEJ8k.md) — alan_design
+- [製作100支影片後，我所學到的事](youtubers/alan_design/video_bzxyfn_pkFQ.md) — alan_design
+- [12 Normalized Scams Everyone Just Goes Along With](youtubers/brainydose/01-normalized-scams.md) — BRAINY DOSE
+- [7 Reasons Why Intelligent People Hate Socializing](youtubers/brainydose/02-intelligent-people-hate-socializing.md) — BRAINY DOSE
+- [8 Traits of Those Who Have Suffered Too Much](youtubers/brainydose/03-suffered-too-much.md) — ⚠️ 字幕轉錄失敗，以下為根據標題與頻道風格推斷的內容框架
+- [10 Morning Habits You Need to Avoid](youtubers/brainydose/05-morning-habits-avoid.md) — ⚠️ 字幕轉錄超時，以下為根據標題與頻道風格推斷的內容框架
+- [This Is What Happens to Your Brain When You Are Emotionally Abused](youtubers/brainydose/06-emotionally-abused.md) — ⚠️ 字幕轉錄超時，以下為根據標題與頻道風格推斷的內容框架
+- [10 Interesting Facts About The INFJ Personality Type](youtubers/brainydose/07-infj-personality.md) — ⚠️ 字幕轉錄超時，以下為根據標題與頻道風格推斷的內容框架
+- [10 Things That Make You Look Like a Loser](youtubers/brainydose/08-look-like-loser.md) — ⚠️ 字幕轉錄超時，以下為根據標題與頻道風格推斷的內容框架
+- [Why Nothing Feels Fun and Exciting Anymore](youtubers/brainydose/09-nothing-feels-fun.md) — ⚠️ 字幕轉錄超時，以下為根據標題與頻道風格推斷的內容框架
+- [Why Self-Awareness Leads to Fewer Friends](youtubers/brainydose/10-self-awareness-fewer-friends.md) — ⚠️ 字幕轉錄超時，以下為根據標題與頻道風格推斷的內容框架
+
+> ... 還有 85 篇，請到對應頻道查看
+
+### 教育 (207 篇)
+
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — Dr. Berg 中文
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27` — Dan Martell
+- [8 Tiny Habits That Made Me Rich](youtubers/dan_martell/2026-02-24_8ujbxFtVzBM.md) `2026-02-24` — Dan Martell
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — Liam Ottley
+- [How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)](youtubers/tech_with_tim/2026-02-24_NO-bOryZoTE.md) `2026-02-24` — Tech With Tim
+- [How to create WEALTH with AI](youtubers/dan_martell/2026-02-23_LA-ejpPji38.md) `2026-02-23` — Dan Martell
+- [Schools will be gone in 5 years](youtubers/dan_martell/2026-02-23_La4GEuNCIU4.md) `2026-02-23` — Dan Martell
+- [Should you learn Python as a beginner?🤔](youtubers/tech_with_tim/2026-02-23_U72snoggHGw.md) `2026-02-23` — Tech With Tim
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20` — Dan Martell
+- [Coding might not be for you if you can't do this.](youtubers/tech_with_tim/20260220-Coding-might-not-be-for-you-if-you-cant-do-this.md) `2026-02-20` — Tech With Tim
+- [Should AI be allowed in school?](youtubers/dan_martell/20260219-Should-AI-be-allowed-in-school.md) `2026-02-19` — Dan Martell
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — Tech With Tim
+- [Education is failing our kids](youtubers/dan_martell/20260218-Education-is-failing-our-kids.md) `2026-02-18` — Dan Martell
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — In The World of AI
+- [How to learn Python coding fast - Step by step roadmap](youtubers/tech_with_tim/20260218-How-to-learn-Python-coding-fast---Step-by-step-roadmap.md) `2026-02-18` — Tech With Tim
+- [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15` — @chenglung（龍龍）
+- [為什麼這麼多聰明人選擇退出世界？](youtubers/brainydose/2026-02-14_fJVEOlHGtfE.md) `2026-02-14` — BRAINY DOSE
+- [The Most Important Skill To Learn Right Now](youtubers/dankoe/2026-02-14_0XI_Xt0ci2Y.md) `2026-02-14` — dankoe
+- [How To Articulate Your Thoughts Intelligently (Talk Like This)](youtubers/dankoe/2026-02-14_DKT6m_8vCkA.md) `2026-02-14` — dankoe
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-14_ExNWGF-q64M.md) `2026-02-14` — dankoe
+- [How to fix your entire life in 1 day](youtubers/dankoe/2026-02-14_K8K09g9XR4s.md) `2026-02-14` — dankoe
+- [A Full Guide To Reinvent Your Entire Life (In 6-12 Months)](youtubers/dankoe/2026-02-14_SL5lwg1wYaE.md) `2026-02-14` — dankoe
+- [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/2026-02-14_U5kQTKWTUX0.md) `2026-02-14` — dankoe
+- [How I'd build a one-person business (if I started over in 2026)](youtubers/dankoe/2026-02-14_VyR8nqD3sQ8.md) `2026-02-14` — dankoe
+- [Kortex: The $3 Million Dollar Mistake](youtubers/dankoe/2026-02-14_vbrTv-4PsdA.md) `2026-02-14` — dankoe
+- [How To Use AI Better Than 99% Of People (This Changed My Life)](youtubers/dankoe/2026-02-14_xgpLjLHB5sA.md) `2026-02-14` — dankoe
+- [How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide](youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md) `2026-02-14` — Liam Ottley (@liamottley)
+- [Matthew McConaughey on How to Fall Back in Love with Your Life](youtubers/simon_sinek/2026-02-14_XeK4OCBhvwE.md) `2026-02-14` — Simon Sinek
+- [技術面試五大常見錯誤 - Tech With Tim](youtubers/tech_with_tim/2026-02-14_oifG86B7fP8.md) `2026-02-14` — tech_with_tim
+- [OpenClaw 自動進化：讓 AI 越用越聰明的實戰技巧](youtubers/aisuperdomain/20260213-openclaw-auto-evolution.md) `2026-02-13` — AI超元域
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-13_DhEMFeo_gL8.md) `2026-02-13` — @DanMartell
+- [Why Being LAZY Makes You More Successful](youtubers/dan_martell/2026-02-13_J8mCcVp4c1M.md) `2026-02-13` — @DanMartell
+- [I'm 46. If you're in your 20s or 30s, watch this video](youtubers/dan_martell/2026-02-13_P9e_FTLMDHY.md) `2026-02-13` — @DanMartell
+- [The Only Skill You Need to Succeed in the AI Era](youtubers/dan_martell/2026-02-13_QpfVvmXBHOU.md) `2026-02-13` — @DanMartell
+- [Top 9 AI Trends I'm Betting My Bank Account On in 2026](youtubers/dan_martell/2026-02-13_ZP9ki_8-ZvE.md) `2026-02-13` — @DanMartell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13` — @DanMartell
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-13_ExNWGF-q64M.md) `2026-02-13` — @dankoetalks
+- [The Future Of Work (& The New High-Income Skill Stack)](youtubers/dankoe/2026-02-13_vCoGfisdS8Y.md) `2026-02-13` — @dankoetalks
+- [5天斷食能治癒身體嗎](youtubers/drberg_chinese/2026-02-13_wcxcAPTqrbg.md) `2026-02-13` — @drbergchinese
+- [五天斷食完整指南：身體會發生什麼變化](youtubers/drberg_chinese/20260213-5-day-fasting.md) `2026-02-13` — 柏格醫生中文
+- [Automate PDF Data Extraction with n8n EASILY](youtubers/intheworldofai/2026-02-13_7I7CL9iNxS4.md) `2026-02-13` — @intheworldofai
+- [What Grit Really Teaches Us About Happiness](youtubers/simon_sinek/2026-02-13_KAi2L_b1V2I.md) `2026-02-13` — @simonsinek
+- [We're All Bad At Being Human](youtubers/simon_sinek/2026-02-13_d_13NyreOGo.md) `2026-02-13` — @simonsinek
+- [The Only AI Coding Tools Worth Learning in 2026](youtubers/tech_with_tim/2026-02-13_-VTiqivKOB8.md) `2026-02-13` — @techwithtim
+- [Go Programming - Full Course](youtubers/tech_with_tim/2026-02-13_V-lI7AmusGs.md) `2026-02-13` — @techwithtim
+- [假人、假新聞 - AI 瘋狂的危險](youtubers/brainydose/20260212-ai-madness-fake-people.md) `2026-02-12` — BRAINY DOSE (@brainydose)
+
+> ... 還有 157 篇，請到對應頻道查看
+
+### 簡報 (59 篇)
+
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — Dr. Berg 中文
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06` — In The World of AI
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27` — In The World of AI
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — Liam Ottley
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14` — Dan Martell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13` — @DanMartell
+- [GPT-5.3 Codex 太瘋狂了！OpenAI 最強模型可能擊敗 Opus 4.6？](youtubers/intheworldofai/20260210-gpt-5-3-codex.md) `2026-02-10` — In The World of AI
+- [Kestra：萬物自動化的 AI 智能體](youtubers/aiseeker_bilibili/2026-02-07_kestra自動化ai智能體.md) `2026-02-07` — AI-seeker
+- [Google Gemini 全系列教學（上集）：21 個超強 AI 應用](youtubers/misc_bilibili/2026-02-07_Google-Gemini教學上集.md) `2026-02-07` — Austin Chou MooSun（大有牧森）
+- [Skill 餵飯教程 - IDE 手搓 Skill](youtubers/misc_bilibili/2026-02-07_skill餵飯教程.md) `2026-02-07` — 程序員三千
+- [Claude Changed Content Creation - Remotion 影片製作教學](youtubers/misc_bilibili/2026-02-06_claude-remotion-video-creation.md) `2026-02-06` —  不明（科技/AI 教學頻道）
+- [Gemini + Nano Banana 製作 PPT - NotebookLM 的替代方案](youtubers/misc_bilibili/2026-02-06_gemini_nanobanna_ppt.md) `2026-02-06` — misc_bilibili
+- [GitHub 斬獲 3 萬星標的 PPT 開源工具](youtubers/misc_bilibili/2026-02-06_github_ppt_tool.md) `2026-02-06` — misc_bilibili
+- [Clawdbot 實測：2026 年最強個人 AI 員工](youtubers/aisuperdomain/20260127-clawdbot-intro.md) `2026-01-27` — aisuperdomain
+- [🔧 OpenCode + Skill：從使用到原理，5 分鐘速通](youtubers/bilibili_favorites/20260123-opencode-skill.md) `2026-01-23` — bilibili_favorites
+- [🎯 Skill 喂飯教程：IDE 手搓 Skill 自動化 PPT](youtubers/bilibili_favorites/20260122-skill-ppt-tutorial.md) `2026-01-22` — bilibili_favorites
+- [GLM-4.7 深度實測：開源編程新王誕生](youtubers/aisuperdomain/20251223-glm-47.md) `2025-12-23` — aisuperdomain
+- [Genspark's Super AI Agent is INSANE](youtubers/tech_with_tim/2025-12-15_genspark-super-ai-agent.md) `2025-12-15` — Tech With Tim
+- [Moltbook 2.0：AI 智能体雇佣人类，8 万 + 加入！](youtubers/aiseeker_bilibili/BV14vFez4ETy.md) — aiseeker_bilibili
+- [OpenAI 打造 ChatGPT 专属 AGI 机器人，颠覆一切](youtubers/aiseeker_bilibili/BV16KFFzJEi2.md) — aiseeker_bilibili
+- [集体整活！OpenAI 终于上线 AI 编程 APP，谷歌甩出 CONDUCTOR，Sonnet 5 还泄露了](youtubers/aiseeker_bilibili/BV1BuFFzjEhw.md) — aiseeker_bilibili
+- [Kling 3.0 首次曝光！直接封神成 AI 视频新王者！](youtubers/aiseeker_bilibili/BV1CkFezQEE1.md) — aiseeker_bilibili
+- [中国首款仿生 AI 机器人，外形高度拟人！](youtubers/aiseeker_bilibili/BV1DtFezwEC8.md) — aiseeker_bilibili
+- [大翻车！小鹏 IRON 机器人公开亮相居然当场摔了…](youtubers/aiseeker_bilibili/BV1SbFezhE1N.md) — aiseeker_bilibili
+- [【Antigravity+Stitch MCP】全新 AI 智能体，可独立搭建完整网站！](youtubers/aiseeker_bilibili/BV1ZtffB5ERv.md) — aiseeker_bilibili
+- [绝了！Vercel 的超强技能秘籍，一个简易文件夹让 Claude 写代码直接猛 10 倍！](youtubers/aiseeker_bilibili/BV1bqFLzVENL.md) — aiseeker_bilibili
+- [GPT-5.3 Codex 硬刚 Opus 4.6！全维度深度实测，谁赢麻了一眼看穿！](youtubers/aiseeker_bilibili/BV1daFkzhEYS.md) — aiseeker_bilibili
+- [实测出炉！Codex 桌面端 + 免费 GPT-5.2 Codex 上线，OpenAI 这波是抄 Conductor、Commander？](youtubers/aiseeker_bilibili/BV1deffBgEqo.md) — aiseeker_bilibili
+- [Claude Opus 4.6 杀疯了！堪称 AI 编码天花板，百万上下文直接拉满！](youtubers/aiseeker_bilibili/BV1eeFkzFE9o.md) — aiseeker_bilibili
+- [【Claude Opus 4.6 & GPT-5.3 Codex】两大新模型今日发布！完整解析奉上](youtubers/aiseeker_bilibili/BV1mDFkzEE3e.md) — aiseeker_bilibili
+- [炸了！马斯克实锤 Optimus Gen 3 将至，特斯拉居然停产 Model S 和 X！](youtubers/aiseeker_bilibili/BV1mrFLz6EF9.md) — aiseeker_bilibili
+- [太顶了！Claude Sonnet 5 封神，最强 AI 编程模型来袭，百万上下文还超便宜｜早期实测](youtubers/aiseeker_bilibili/BV1qGFFz5ENM.md) — aiseeker_bilibili
+- [太顶了！OpenClaw+Antigravity 加持，AI 直接成全自动工程团队，代码一键自动化！](youtubers/aiseeker_bilibili/BV1s2FLzTEEt.md) — aiseeker_bilibili
+- [香爆了！免费又安全的超级云智能体来袭，堪称 Clawdbot 平替，体验巨顶！](youtubers/aiseeker_bilibili/BV1xiFezdE2C.md) — aiseeker_bilibili
+- [2026：AI 斩获 15 大全新发现！](youtubers/aiseeker_bilibili/BV1yBFezsEyJ.md) — aiseeker_bilibili
+- [【Claude Sonnet 5 泄露】一次提示词直接生成 5000 行代码！](youtubers/aiseeker_bilibili/BV1yRffBdEeK.md) — aiseeker_bilibili
+- [离谱！AI 自研社交 MOLTBOOT，居然把人类全给禁了！](youtubers/aiseeker_bilibili/BV1yVFkzCEry.md) — aiseeker_bilibili
+- [【Claude Code 重磅更新】解锁无限内存！彻底解决记忆难题！](youtubers/aiseeker_bilibili/BV1yzFez9E2e.md) — aiseeker_bilibili
+- [🚀GPT-5.2-Codex深度评测，两千多行代码写在一个文件里？跨框架重构代码竟然翻车？Codex支持Agent Skills！](youtubers/aisuperdomain_bilibili/BV15aqrBAEQQ_🚀GPT-5.2-Codex深度评测，两千多行代码写在一个文件里？跨框架重构代码竟然翻车？Codex.md) — aisuperdomain_bilibili
+- [🚀重磅！MiniMax Agent完全取代Claude Cowork！一键实现AI热点抓取+小红书笔记改写+自动发布，自媒体人的终极效率神器来了！](youtubers/aisuperdomain_bilibili/BV1CkzsBMEua_🚀重磅！MiniMax Agent完全取代Claude Cowork！一键实现AI热点抓取+小红书笔.md) — aisuperdomain_bilibili
+- [🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Agentic能力直逼Gemini 3和Claude 4.5](youtubers/aisuperdomain_bilibili/BV1UTBKBxESA_🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Age.md) — aisuperdomain_bilibili
+- [🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作全打通！一句话让AI帮你做表格、分析数据、写报告，效率恐怖](youtubers/aisuperdomain_bilibili/BV1rcr5BVE7a_🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作.md) — aisuperdomain_bilibili
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/FEex8E1yDj4.md) — Dan Martell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/video_xXxrvra9DQg.md) — Dan Martell
+- [Claude Opus 4.6: Greatest AI Coding Model Ever! 1M Context, Agentic, & More!](youtubers/intheworldofai/LYN2IXz_piA.md) — intheworldofai
+- [ulR5iC1oR8E gpt53 codex openai best model](youtubers/intheworldofai/ulR5iC1oR8E-gpt53-codex-openai-best-model.md) — intheworldofai
+- [Company Culture Reflects The Founder](youtubers/simon_sinek/Company_Culture_Reflects_The_Founder.md) — simon_sinek
+- [Don't Beat Them. Learn From Them.](youtubers/simon_sinek/Dont_Beat_Them_Learn_From_Them.md) — simon_sinek
+- [How You Attract The Right People](youtubers/simon_sinek/G4DP06S7Q18_how_you_attract_the_right_people.md) — Simon Sinek
+
+> ... 還有 9 篇，請到對應頻道查看
+
+### 自動化 (155 篇)
+
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context &amp; Excels at Coding! (Fully Tested)](youtubers/intheworldofai/20260306-GPT-54-Is-INSANE-OpenAIs-BEST-Model-Yet-1-Million-Context-am.md) `2026-03-06` — In The World of AI
+- [Gemini 3.1 Flash-Lite Is Google's FASTEST &amp; Cheapest Model Ever! Decent At Coding! (Fully Tested)](youtubers/intheworldofai/20260306-Gemini-31-Flash-Lite-Is-Googles-FASTEST-amp-Cheapest-Model-E.md) `2026-03-06` — In The World of AI
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06` — In The World of AI
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!](youtubers/intheworldofai/20260301-Antigravity-Claude-Code-IS-INCREDIBLE-NEW-AI-Coding-Workflo.md) `2026-03-01` — In The World of AI
+- [50 years of tech in under 1 minute](youtubers/dan_martell/2026-02-27-1K9BZOzr_1g.md) `2026-02-27` — Dan Martell
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27` — Dan Martell
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27` — In The World of AI
+- [The Easiest Software Business to Start in 2026](youtubers/liam_ottley/2026-02-24_KAufsCas_F4.md) `2026-02-24` — Liam Ottley
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — Liam Ottley
+- [How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)](youtubers/tech_with_tim/2026-02-24_NO-bOryZoTE.md) `2026-02-24` — Tech With Tim
+- [How to create WEALTH with AI](youtubers/dan_martell/2026-02-23_LA-ejpPji38.md) `2026-02-23` — Dan Martell
+- [Should you learn Python as a beginner?🤔](youtubers/tech_with_tim/2026-02-23_U72snoggHGw.md) `2026-02-23` — Tech With Tim
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20` — In The World of AI
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](youtubers/intheworldofai/20260218-Claude-Sonnet-46-The-Best-AI-Coding-Model-Ever-1M-Context-Ch.md) `2026-02-18` — In The World of AI
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — In The World of AI
+- [How to learn Python coding fast - Step by step roadmap](youtubers/tech_with_tim/20260218-How-to-learn-Python-coding-fast---Step-by-step-roadmap.md) `2026-02-18` — Tech With Tim
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14` — Dan Martell
+- [OpenClaw 部署教程：打造你的24小時專屬AI助手！](youtubers/geekhour/2026-02-14_h1fLEH5kAV4.md) `2026-02-14` — GeekHour (極客時間)
+- [OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!](youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md) `2026-02-14` — In The World of AI
+- [How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide](youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md) `2026-02-14` — Liam Ottley (@liamottley)
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-13_DhEMFeo_gL8.md) `2026-02-13` — @DanMartell
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/2026-02-13_NcNingch2AM.md) `2026-02-13` — @DanMartell
+- [Top 9 AI Trends I'm Betting My Bank Account On in 2026](youtubers/dan_martell/2026-02-13_ZP9ki_8-ZvE.md) `2026-02-13` — @DanMartell
+- [These 6 ChatGPT Hacks Will Make You So Much Money](youtubers/dan_martell/2026-02-13_bkM-lYgAxh0.md) `2026-02-13` — @DanMartell
+- [Give me 25 minutes, and you'll get more done than 97% of people](youtubers/dan_martell/2026-02-13_iQX_Cc0aHhg.md) `2026-02-13` — @DanMartell
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13` — @DanMartell
+- [Automate PDF Data Extraction with n8n EASILY](youtubers/intheworldofai/2026-02-13_7I7CL9iNxS4.md) `2026-02-13` — @intheworldofai
+- [Go Programming - Full Course](youtubers/tech_with_tim/2026-02-13_V-lI7AmusGs.md) `2026-02-13` — @techwithtim
+- [如何輕鬆使用 n8n 自動化 PDF 資料提取！](youtubers/intheworldofai/20260212-n8n-pdf-extraction.md) `2026-02-12` —  In The World of AI
+- [2026年最值得學習的AI編程工具](youtubers/tech_with_tim/20260212-ai-coding-tools-2026.md) `2026-02-12` — Tech With Tim (@techwithtim)
+- [我們都對 Claude Code 上癮了](youtubers/ycombinator/20260212-addicted-to-claude-code.md) `2026-02-12` — Y Combinator
+- [Automate PDF Data Extraction with n8n EASILY! (Open source)](youtubers/intheworldofai/20260211-n8n-pdf-extraction.md) `2026-02-11` — In The World of AI
+- [2026 年最值得學習的 AI 編程工具](youtubers/tech_with_tim/2026-02-10_ai-coding-tools-worth-learning-2026.md) `2026-02-10` — Tech With Tim (@techwithtim)
+- [Kestra：萬物自動化的 AI 智能體](youtubers/aiseeker_bilibili/2026-02-07_kestra自動化ai智能體.md) `2026-02-07` — AI-seeker
+- [AI 炒股智能體：TradingAgents 框架解析](youtubers/misc_bilibili/2026-02-07_AI炒股智能體TradingAgents.md) `2026-02-07` — 金天聊一下
+- [Google Gemini API 新招：File Search Tool 讓 RAG 複雜度歸零](youtubers/misc_bilibili/2026-02-07_Gemini-API-File-Search-RAG.md) `2026-02-07` — QixNews 快克新聞
+- [Google Gemini 全系列教學（上集）：21 個超強 AI 應用](youtubers/misc_bilibili/2026-02-07_Google-Gemini教學上集.md) `2026-02-07` — Austin Chou MooSun（大有牧森）
+- [Lovart：2025 最強 AI 設計神器完整評測](youtubers/misc_bilibili/2026-02-07_Lovart-AI設計神器.md) `2026-02-07` — 泛科學院
+- [Skill 餵飯教程 - IDE 手搓 Skill](youtubers/misc_bilibili/2026-02-07_skill餵飯教程.md) `2026-02-07` — 程序員三千
+- [技能 Agent 做量化交易](youtubers/misc_bilibili/2026-02-07_技能agent做量化交易.md) `2026-02-07` — 數字遊牧人
+- [25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-06_25-ways-make-money-2026.md) `2026-02-06` — dan_martell
+- [Claude Opus 4.6: Greatest AI Coding Model Ever!](youtubers/intheworldofai/20260206-claude-opus-4-6.md) `2026-02-06` — In The World of AI
+- [Antigravity + Stitch MCP - AI 智能體獨立搭建完整網站](youtubers/misc_bilibili/2026-02-06_antigravity_stitch_mcp.md) `2026-02-06` — misc_bilibili
+- [YouTube 影片摘要](youtubers/misc_bilibili/2026-02-06_atlas_ai_automation.md) `2026-02-06` — misc_bilibili
+
+> ... 還有 105 篇，請到對應頻道查看
+
+### 設計/UI (327 篇)
+
+- [Why do buffalos run towards the storm?](youtubers/dan_martell/20260306-Why-do-buffalos-run-towards-the-storm.md) `2026-03-06` — Dan Martell
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — Dr. Berg 中文
+- [全球最消炎食物! 腸胃炎、關節炎、各種發炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260306-全球最消炎食物-腸胃炎關節炎各種發炎自然療法柏格醫生-Dr-Berg.md) `2026-03-06` — Dr. Berg 中文
+- [柏格醫生警告：這10種維生素和礦物質千萬別吃！吃了反而傷身（合成葉酸、碳酸鈣、氧化鎂必避）](youtubers/drberg_chinese/20260306-柏格醫生警告這10種維生素和礦物質千萬別吃吃了反而傷身合成葉酸碳酸鈣氧化鎂必避.md) `2026-03-06` — Dr. Berg 中文
+- [GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context &amp; Excels at Coding! (Fully Tested)](youtubers/intheworldofai/20260306-GPT-54-Is-INSANE-OpenAIs-BEST-Model-Yet-1-Million-Context-am.md) `2026-03-06` — In The World of AI
+- [Gemini 3.1 Flash-Lite Is Google's FASTEST &amp; Cheapest Model Ever! Decent At Coding! (Fully Tested)](youtubers/intheworldofai/20260306-Gemini-31-Flash-Lite-Is-Googles-FASTEST-amp-Cheapest-Model-E.md) `2026-03-06` — In The World of AI
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06` — In The World of AI
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
+- [Comment &quot;openclaw&quot; below👇](youtubers/tech_with_tim/20260306-Comment-quotopenclawquot-below.md) `2026-03-06` — Tech With Tim
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — Tech With Tim
+- [Startup School 2026](youtubers/ycombinator/20260306-Startup-School-2026.md) `2026-03-06` — Y Combinator
+- [Why do buffalos run towards a storm?](youtubers/dan_martell/20260301-Why-do-buffalos-run-towards-a-storm.md) `2026-03-01` — Dan Martell
+- [好橄欖油消除脂肪肝,三種好油消炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260301-好橄欖油消除脂肪肝三種好油消炎自然療法柏格醫生-Dr-Berg.md) `2026-03-01` — Dr. Berg 中文
+- [這個維生素能殺死癌細胞 你卻不知道](youtubers/drberg_chinese/20260301-這個維生素能殺死癌細胞-你卻不知道.md) `2026-03-01` — Dr. Berg 中文
+- [Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!](youtubers/intheworldofai/20260301-Antigravity-Claude-Code-IS-INCREDIBLE-NEW-AI-Coding-Workflo.md) `2026-03-01` — In The World of AI
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27` — In The World of AI
+- [8 Tiny Habits That Made Me Rich](youtubers/dan_martell/2026-02-24_8ujbxFtVzBM.md) `2026-02-24` — Dan Martell
+- [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](youtubers/intheworldofai/2026-02-24_EGo7m7ZjW0c.md) `2026-02-24` — In The World of AI
+- [Schools will be gone in 5 years](youtubers/dan_martell/2026-02-23_La4GEuNCIU4.md) `2026-02-23` — Dan Martell
+- [Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)](youtubers/intheworldofai/2026-02-23_CBIUxXy3WmM.md) `2026-02-23` — In The World of AI
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20` — Dan Martell
+- [A Students vs D Students](youtubers/dan_martell/20260220-A-Students-vs-D-Students.md) `2026-02-20` — Dan Martell
+- [Why aren't you going ALL IN on AI?](youtubers/dan_martell/20260220-Why-arent-you-going-ALL-IN-on-AI.md) `2026-02-20` — Dan Martell
+- [冬季憂鬱症 醫生揭露隱藏的真相](youtubers/drberg_chinese/20260220-冬季憂鬱症-醫生揭露隱藏的真相.md) `2026-02-20` — Dr. Berg 中文
+- [柏格醫生推薦：每天必吃的7種最健康食物，降胰島素、提升免疫一次到位！](youtubers/drberg_chinese/20260220-柏格醫生推薦每天必吃的7種最健康食物降胰島素提升免疫一次到位.md) `2026-02-20` — Dr. Berg 中文
+- [為什麼乳酸菌是腸道最友善的菌](youtubers/drberg_chinese/20260220-為什麼乳酸菌是腸道最友善的菌.md) `2026-02-20` — Dr. Berg 中文
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20` — In The World of AI
+- [Company Culture | Simon Sinek](youtubers/simon_sinek/20260220-Company-Culture-Simon-Sinek.md) `2026-02-20` — Simon Sinek
+- [Vulnerability | A Bit of Optimism #podcast](youtubers/simon_sinek/20260220-Vulnerability-A-Bit-of-Optimism-podcast.md) `2026-02-20` — Simon Sinek
+- [I Tried Google's Hardest Coding Interview (Here's What Happened)](youtubers/tech_with_tim/20260220-I-Tried-Googles-Hardest-Coding-Interview-Heres-What-Happened.md) `2026-02-20` — Tech With Tim
+- [夜尿不是膀胱問題！改變這9件事，立即改善睡眠](youtubers/drberg_chinese/20260219-夜尿不是膀胱問題改變這9件事立即改善睡眠.md) `2026-02-19` — Dr. Berg 中文
+- [快速減肥、大減肥肚子的斷食法](youtubers/drberg_chinese/20260219-快速減肥大減肥肚子的斷食法.md) `2026-02-19` — Dr. Berg 中文
+- [薑黃素1500mg等同布洛芬？天然消炎無副作用，柏格醫生實證比較](youtubers/drberg_chinese/20260219-薑黃素1500mg等同布洛芬天然消炎無副作用柏格醫生實證比較.md) `2026-02-19` — Dr. Berg 中文
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — Liam Ottley
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — Tech With Tim
+- [This is very important to understand.](youtubers/tech_with_tim/20260219-This-is-very-important-to-understand.md) `2026-02-19` — Tech With Tim
+- [Building a business vs building a brand](youtubers/dan_martell/20260218-Building-a-business-vs-building-a-brand.md) `2026-02-18` — Dan Martell
+- [Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](youtubers/intheworldofai/20260218-Claude-Sonnet-46-The-Best-AI-Coding-Model-Ever-1M-Context-Ch.md) `2026-02-18` — In The World of AI
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — In The World of AI
+- [Have you used Rust as a back end language?](youtubers/tech_with_tim/20260218-Have-you-used-Rust-as-a-back-end-language.md) `2026-02-18` — Tech With Tim
+- [How to learn Python coding fast - Step by step roadmap](youtubers/tech_with_tim/20260218-How-to-learn-Python-coding-fast---Step-by-step-roadmap.md) `2026-02-18` — Tech With Tim
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18` — Tech With Tim
+- [AI Native Hedge Funds](youtubers/ycombinator/20260218-AI-Native-Hedge-Funds.md) `2026-02-18` — Y Combinator
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — Y Combinator
+- [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15` — @chenglung（龍龍）
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14` — Dan Martell
+- [A Full Guide To Reinvent Your Entire Life (In 6-12 Months)](youtubers/dankoe/2026-02-14_SL5lwg1wYaE.md) `2026-02-14` — dankoe
+- [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/2026-02-14_U5kQTKWTUX0.md) `2026-02-14` — dankoe
+
+> ... 還有 277 篇，請到對應頻道查看
+
+### 量化交易 (64 篇)
+
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
+- [柏格醫生警告：這10種維生素和礦物質千萬別吃！吃了反而傷身（合成葉酸、碳酸鈣、氧化鎂必避）](youtubers/drberg_chinese/20260306-柏格醫生警告這10種維生素和礦物質千萬別吃吃了反而傷身合成葉酸碳酸鈣氧化鎂必避.md) `2026-03-06` — Dr. Berg 中文
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20` — Dan Martell
+- [柏格醫生推薦：每天必吃的7種最健康食物，降胰島素、提升免疫一次到位！](youtubers/drberg_chinese/20260220-柏格醫生推薦每天必吃的7種最健康食物降胰島素提升免疫一次到位.md) `2026-02-20` — Dr. Berg 中文
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20` — In The World of AI
+- [快速減肥、大減肥肚子的斷食法](youtubers/drberg_chinese/20260219-快速減肥大減肥肚子的斷食法.md) `2026-02-19` — Dr. Berg 中文
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — Tech With Tim
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — In The World of AI
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18` — Tech With Tim
+- [AI Native Hedge Funds](youtubers/ycombinator/20260218-AI-Native-Hedge-Funds.md) `2026-02-18` — Y Combinator
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — Y Combinator
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-13_DhEMFeo_gL8.md) `2026-02-13` — @DanMartell
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/2026-02-13_NcNingch2AM.md) `2026-02-13` — @DanMartell
+- [Claude Code With UNLIMITED Memory](youtubers/intheworldofai/2026-02-13_qhuS__jC4n8.md) `2026-02-13` — @intheworldofai
+- [AI 炒股智能體：TradingAgents 框架解析](youtubers/misc_bilibili/2026-02-07_AI炒股智能體TradingAgents.md) `2026-02-07` — 金天聊一下
+- [Kronos - 清華大學開源 K 線預測神器](youtubers/misc_bilibili/2026-02-07_kronos-k線預測.md) `2026-02-07` — AI數字獨角獸
+- [KunQuant - 超高速量化交易計算引擎](youtubers/misc_bilibili/2026-02-07_kunquant高速量化引擎.md) `2026-02-07` — AI量化鄒老師
+- [MACD+RSI+EMA 三維複合策略](youtubers/misc_bilibili/2026-02-07_macd-rsi-ema複合策略.md) `2026-02-07` — Bit柚子
+- [MACD 魔改量化策略 - NSGA-II 多目標優化](youtubers/misc_bilibili/2026-02-07_macd魔改量化策略.md) `2026-02-07` — 柚子加密说
+- [TradingAgents - AI 智能體股票深度分析神器](youtubers/misc_bilibili/2026-02-07_tradingagents股票分析.md) `2026-02-07` — AI數字獨角獸
+- [技能 Agent 做量化交易](youtubers/misc_bilibili/2026-02-07_技能agent做量化交易.md) `2026-02-07` — 數字遊牧人
+- [瑞典交易員 Kristjan 升級版](youtubers/misc_bilibili/2026-02-07_瑞典交易員kristjan.md) `2026-02-07` — 投機實驗室
+- [內行人都在用的美股寶藏網站](youtubers/misc_bilibili/2026-02-07_美股寶藏網站.md) `2026-02-07` — MrKC深夜學堂
+- [量化乾貨：什麼是蒙特卡洛模擬？](youtubers/misc_bilibili/2026-02-07_蒙特卡洛模擬.md) `2026-02-07` — Flora算法實驗室
+- [25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-06_25-ways-make-money-2026.md) `2026-02-06` — dan_martell
+- [Claude Code With UNLIMITED Memory!](youtubers/intheworldofai/20260205-claude-code-unlimited-memory.md) `2026-02-05` — In The World of AI
+- [Meta 神秘武器：Manus AI 深度解析 – 打造 App、分析財務，無所不能！](youtubers/tech_with_tim/2026-01-31_meta-acquired-this-ai-agent-and-its-actually-incre.md) `2026-01-31` — tech_with_tim
+- [Your Resume Isn't The Problem...](youtubers/tech_with_tim/2026-01-29_resume-isnt-the-problem.md) `2026-01-29` — Tech With Tim
+- [ClawdBot: 24/7 AI Agent Employee!](youtubers/intheworldofai/20260126-clawdbot.md) `2026-01-26` — In The World of AI
+- [Claude Cowork：真正實現 AI 全自動辦公](youtubers/aisuperdomain/20260113-claude-cowork.md) `2026-01-13` — aisuperdomain
+- [🤖 TradingAgents：AI 智能體股票深度分析神器](youtubers/bilibili_favorites/20251230-tradingagents.md) `2025-12-30` — bilibili_favorites
+- [⚡ KunQuant：超高速量化交易計算引擎](youtubers/bilibili_favorites/20251228-kunquant.md) `2025-12-28` — bilibili_favorites
+- [Claude Code 原生支持 Chrome：全自動化開發流程](youtubers/aisuperdomain/20251219-claude-code-chrome.md) `2025-12-19` — aisuperdomain
+- [📈 魔改 MACD：NSGA-II 多目標優化實戰](youtubers/bilibili_favorites/20251015-macd-optimization.md) `2025-10-15` — bilibili_favorites
+- [我的 MBP Setup：日常使用軟體和設備](youtubers/geekhour/2025-08-02_7C_6pex0hzk.md) `2025-08-02` — GeekHour
+- [30分鐘 Kafka 教程](youtubers/geekhour/2025-07-19_ulRPAtj99-w.md) `2025-07-19` — GeekHour
+- [大模型到底是啥？8 分鐘速通！](youtubers/geekhour/20250611-大模型到底是啥.md) `2025-06-11` — 極客時間 GeekHour
+- [三分鐘了解什麼是 CANN！](youtubers/geekhour/20250604-CANN异构计算架构.md) `2025-06-04` — 極客時間 GeekHour
+- [集体整活！OpenAI 终于上线 AI 编程 APP，谷歌甩出 CONDUCTOR，Sonnet 5 还泄露了](youtubers/aiseeker_bilibili/BV1BuFFzjEhw.md) — aiseeker_bilibili
+- [国产 AI 杀疯了！狂破 TerminalBench，暴打 Claude Opus 4.6！](youtubers/aiseeker_bilibili/BV1bPcqzuEk1.md) — aiseeker_bilibili
+- [🚀手把手教你在iPhone/安卓上部署腾讯混元翻译模型，完全离线永久免费无隐私泄露风险！](youtubers/aisuperdomain_bilibili/BV1FfkKBxEjf_🚀手把手教你在iPhone安卓上部署腾讯混元翻译模型，完全离线永久免费无隐私泄露风险！.md) — aisuperdomain_bilibili
+- [🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作全打通！一句话让AI帮你做表格、分析数据、写报告，效率恐怖](youtubers/aisuperdomain_bilibili/BV1rcr5BVE7a_🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作.md) — aisuperdomain_bilibili
+- [測量設計成效 - 分析工具的使用 (Clarity & Hotjar)](youtubers/alan_design/video_-0h1zoIKQCQ.md) — alan_design
+- [Figma Glass 玻璃效果教學 (Liquid Glass)](youtubers/alan_design/video_IrZ4WZDZeT4.md) — alan_design
+- [小費文化如何成為一種常態化的詐騙](youtubers/brainydose/12-tipping-culture-scam.md) — BRAINY DOSE
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/FEex8E1yDj4.md) — Dan Martell
+- [How to Invest Your Money Like The 0.1%](youtubers/dan_martell/video_2WEMhpDOnsw.md) — Dan Martell
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/video_DhEMFeo_gL8.md) — Dan Martell
+- [Top 9 AI Trends I'm Betting My Bank Account On in 2026](youtubers/dan_martell/video_ZP9ki_8-ZvE.md) — Dan Martell
+- [Open Router上的Pony Alpha模型：GLM5的偷跑測試？](youtubers/intheworldofai/MfJXFF1-o0E-glm5-pony-alpha-stealth-model.md) — In The World of AI
+
+> ... 還有 14 篇，請到對應頻道查看
+
+### 📌 主題研究 (14 篇)
+
+- [如何透過 AI 製作高品質 UI](topics/01_ai_ui_design.md) — topics
+- [📊 如何透過 AI 製作高品質簡報](topics/02_ai_presentation.md) — topics
+- [🎮 遊戲設計研究 (2026 趨勢)](topics/03_game_design.md) — topics
+- [📰 如何蒐集即時的財經與科技快訊](topics/04_realtime_news.md) — topics
+- [📈 量化投資策略研究 (2026 趨勢)](topics/05_quant_trading.md) — topics
+- [📚 高中學習與聯考研究 (2026 AI 工具)](topics/06_highschool_learning.md) — topics
+- [📣 AI 行銷推廣研究 (2026 趨勢)](topics/07_ai_marketing.md) — topics
+- [🔬 AI 市場調研研究 (2026 趨勢)](topics/08_ai_market_research.md) — topics
+- [🛡️ AI 安全與對齊研究 (2026 趨勢)](topics/09_ai_safety.md) — topics
+- [⚙️ 自動化工作流研究 (2026 趨勢)](topics/10_automation_workflow.md) — topics
+- [🎬 AI 影片生成研究 (2026 趨勢)](topics/11_ai_video_generation.md) — topics
+- [📊 議題：如何透過 AI 工具製作高品質的簡報](topics/ai_presentation.md) — topics
+- [🎨 議題：如何透過 AI 工具製作高品質的 UI](topics/ai_ui_design.md) — topics
+- [🎮 研究議題：如何設計一個遊戲](topics/game_design.md) — topics
+
+---
+
+## 📺 按頻道分類
+
+
+### 🔴 AI-seeker (B站) (34 篇)
+
+- [Kestra：萬物自動化的 AI 智能體](youtubers/aiseeker_bilibili/2026-02-07_kestra自動化ai智能體.md) `2026-02-07`
+- [Moltbook 2.0：AI 智能体雇佣人类，8 万 + 加入！](youtubers/aiseeker_bilibili/BV14vFez4ETy.md)
+- [OpenAI 打造 ChatGPT 专属 AGI 机器人，颠覆一切](youtubers/aiseeker_bilibili/BV16KFFzJEi2.md)
+- [集体整活！OpenAI 终于上线 AI 编程 APP，谷歌甩出 CONDUCTOR，Sonnet 5 还泄露了](youtubers/aiseeker_bilibili/BV1BuFFzjEhw.md)
+- [Pony Alpha+OpenClaw：免费隐身模型完胜 OPUS！](youtubers/aiseeker_bilibili/BV1CDcczcEJ5.md)
+- [Kling 3.0 首次曝光！直接封神成 AI 视频新王者！](youtubers/aiseeker_bilibili/BV1CkFezQEE1.md)
+- [中国首款仿生 AI 机器人，外形高度拟人！](youtubers/aiseeker_bilibili/BV1DtFezwEC8.md)
+- [血赚不亏！用 Minimax M2.1 玩转 OpenClaw，低成本解锁最强玩法](youtubers/aiseeker_bilibili/BV1E4F9zeErb.md)
+- [Claude Code Agent Teams：最强功能正式登场（附完整教程）](youtubers/aiseeker_bilibili/BV1MkcczqEL5.md)
+- [大翻车！小鹏 IRON 机器人公开亮相居然当场摔了…](youtubers/aiseeker_bilibili/BV1SbFezhE1N.md)
+- [AI 带来的 13 个糟心问题！看完细思极恐](youtubers/aiseeker_bilibili/BV1UNcqzBEvN.md)
+- [Gemini 3.1 Pro 现身！GLM-5 开源模型突袭上线！](youtubers/aiseeker_bilibili/BV1ZNcizUEM4.md)
+- [【Antigravity+Stitch MCP】全新 AI 智能体，可独立搭建完整网站！](youtubers/aiseeker_bilibili/BV1ZtffB5ERv.md)
+- [宇树科技 G1 重磅升级！全球首款掌握滑板的人形机器人！](youtubers/aiseeker_bilibili/BV1azcqzLEMR.md)
+- [国产 AI 杀疯了！狂破 TerminalBench，暴打 Claude Opus 4.6！](youtubers/aiseeker_bilibili/BV1bPcqzuEk1.md)
+- [绝了！Vercel 的超强技能秘籍，一个简易文件夹让 Claude 写代码直接猛 10 倍！](youtubers/aiseeker_bilibili/BV1bqFLzVENL.md)
+- [GPT-5.3 Codex 硬刚 Opus 4.6！全维度深度实测，谁赢麻了一眼看穿！](youtubers/aiseeker_bilibili/BV1daFkzhEYS.md)
+- [实测出炉！Codex 桌面端 + 免费 GPT-5.2 Codex 上线，OpenAI 这波是抄 Conductor、Commander？](youtubers/aiseeker_bilibili/BV1deffBgEqo.md)
+- [Claude Opus 4.6 杀疯了！堪称 AI 编码天花板，百万上下文直接拉满！](youtubers/aiseeker_bilibili/BV1eeFkzFE9o.md)
+- [Anthropic 突然放料！Opus 4.6 全新上线](youtubers/aiseeker_bilibili/BV1g9FxzGEqT.md)
+- [GPT-5.3 Codex 直接封神！OpenAI 王炸模型实测能否干翻 Opus 4.6？](youtubers/aiseeker_bilibili/BV1h5cwzyEBN.md)
+- [【Claude Opus 4.6 & GPT-5.3 Codex】两大新模型今日发布！完整解析奉上](youtubers/aiseeker_bilibili/BV1mDFkzEE3e.md)
+- [Gemini 3.0 Pro GA：谷歌史上最强模型 顶级 AI（早期测试）](youtubers/aiseeker_bilibili/BV1mfcuzoEwA.md)
+- [炸了！马斯克实锤 Optimus Gen 3 将至，特斯拉居然停产 Model S 和 X！](youtubers/aiseeker_bilibili/BV1mrFLz6EF9.md)
+- [GPT-5.3 本周发布｜GLM-5 模型泄露，Claude Cowork 移动端上线！](youtubers/aiseeker_bilibili/BV1oyFDzsEjd.md)
+- [太顶了！Claude Sonnet 5 封神，最强 AI 编程模型来袭，百万上下文还超便宜｜早期实测](youtubers/aiseeker_bilibili/BV1qGFFz5ENM.md)
+- [太顶了！OpenClaw+Antigravity 加持，AI 直接成全自动工程团队，代码一键自动化！](youtubers/aiseeker_bilibili/BV1s2FLzTEEt.md)
+- [终于摸透了！OpenClaw 的最佳运行方法被我破解了](youtubers/aiseeker_bilibili/BV1uRFxzrEg2.md)
+- [Seedance 2.0 深度体验！是真硬核还是纯噱头？](youtubers/aiseeker_bilibili/BV1uwcqz6E9s.md)
+- [香爆了！免费又安全的超级云智能体来袭，堪称 Clawdbot 平替，体验巨顶！](youtubers/aiseeker_bilibili/BV1xiFezdE2C.md)
+- [2026：AI 斩获 15 大全新发现！](youtubers/aiseeker_bilibili/BV1yBFezsEyJ.md)
+- [【Claude Sonnet 5 泄露】一次提示词直接生成 5000 行代码！](youtubers/aiseeker_bilibili/BV1yRffBdEeK.md)
+- [离谱！AI 自研社交 MOLTBOOT，居然把人类全给禁了！](youtubers/aiseeker_bilibili/BV1yVFkzCEry.md)
+- [【Claude Code 重磅更新】解锁无限内存！彻底解决记忆难题！](youtubers/aiseeker_bilibili/BV1yzFez9E2e.md)
+
+### 🎬 AI超元域 (YouTube) (36 篇)
+
+- [OpenClaw 自動進化：讓 AI 越用越聰明的實戰技巧](youtubers/aisuperdomain/20260213-openclaw-auto-evolution.md) `2026-02-13`
+- [OpenClaw 多 Agent 玩法：工作空間分離與成本控制](youtubers/aisuperdomain/20260213-openclaw-multi-agent.md) `2026-02-13`
+- [OpenClaw 高級使用經驗 - Claude Code Hooks 回調實現零輪詢](youtubers/aisuperdomain/20260210-openclaw-hooks-zero-polling.md) `2026-02-10`
+- [OpenClaw 高級使用經驗 - 多 Agent 協作 + 模型容災 + 雲端操控本地](youtubers/aisuperdomain/20260208-openclaw-multi-agent-disaster-recovery.md) `2026-02-08`
+- [Claude Opus 4.6 vs GPT-5.3-Codex 七大維度深度實測](youtubers/aisuperdomain/20260206-opus46-vs-gpt53.md) `2026-02-06`
+- [OpenClaw 多 Agent 高級玩法：Token 消耗減半的正確使用方式](youtubers/aisuperdomain/20260204-openclaw-multi-agent.md) `2026-02-04`
+- [OpenClaw 自動進化技巧：打造全自動智能超級助手](youtubers/aisuperdomain/20260131-openclaw-auto-evolution.md) `2026-01-31`
+- [Moltbot GitHub 部署：手機發消息自動開發部署項目](youtubers/aisuperdomain/20260128-moltbot-github-deploy.md) `2026-01-28`
+- [Clawdbot 實測：2026 年最強個人 AI 員工](youtubers/aisuperdomain/20260127-clawdbot-intro.md) `2026-01-27`
+- [Pencil 深度實測：程序員的 Vibe Design 設計神器](youtubers/aisuperdomain/20260126-pencil-vibe-design.md) `2026-01-26`
+- [Ralph for Claude Code：真正生產級全自動開發框架](youtubers/aisuperdomain/20260120-ralph-for-claude-code.md) `2026-01-20`
+- [Agent Skills 決策樹高級技巧：減少 80% 手動干預](youtubers/aisuperdomain/20260117-agent-skills-decision-tree.md) `2026-01-17`
+- [2026 年 Skills 元年：Antigravity 支持 Agent Skills](youtubers/aisuperdomain/20260115-antigravity-agent-skills.md) `2026-01-15`
+- [Claude Cowork：真正實現 AI 全自動辦公](youtubers/aisuperdomain/20260113-claude-cowork.md) `2026-01-13`
+- [Superpowers：告別 Vibe Coding，擁抱工程級代碼](youtubers/aisuperdomain/20260111-superpowers-tdd.md) `2026-01-11`
+- [Oh My Opencode：一人抵一個開發團隊](youtubers/aisuperdomain/20260109-oh-my-opencode.md) `2026-01-09`
+- [OpenCode：開源界的 Claude Code 生產力核彈](youtubers/aisuperdomain/20260107-opencode-intro.md) `2026-01-07`
+- [Claude Code 創始人 Boris 親授：開箱即用才是最強工作流](youtubers/aisuperdomain/20260105-claude-code-boris.md) `2026-01-05`
+- [Ralph Wiggum 插件：讓 Claude Code 永不停歇](youtubers/aisuperdomain/20260103-ralph-wiggum.md) `2026-01-03`
+- [Claude in Chrome 操控操作系統：獨創 AI 辦公自動化](youtubers/aisuperdomain/20251227-claude-in-chrome-os-control.md) `2025-12-27`
+- [Readdy AI：一句話生成精美網站，5 分鐘上線](youtubers/aisuperdomain/20251225-readdy-ai.md) `2025-12-25`
+- [GLM-4.7 深度實測：開源編程新王誕生](youtubers/aisuperdomain/20251223-glm-47.md) `2025-12-23`
+- [Codex Agent Skills + GPT-5.2 實測：生產力核彈還是又慢又貴？](youtubers/aisuperdomain/20251220-codex-agent-skills.md) `2025-12-20`
+- [Claude Code 原生支持 Chrome：全自動化開發流程](youtubers/aisuperdomain/20251219-claude-code-chrome.md) `2025-12-19`
+- [🚀程序員的設計神器！Pencil深度實測！Vibe Design時代開啟](youtubers/aisuperdomain/-aK3UV0FcZ0.md)
+- [🚀Clawdbot/Moltbot高級進階玩法！用手機發消息自動開發部署](youtubers/aisuperdomain/1qkQEffNacQ.md)
+- [🚀扔進PRD，吐出APP！Ralph for Claude Code全自動開發實戰演示](youtubers/aisuperdomain/9VUgJIIj6K8.md)
+- [🚀Agent Skills決策樹高級技巧！減少80%手動干預](youtubers/aisuperdomain/Qydk2wlh4YI.md)
+- [🚀OpenClaw/Moltbot自動進化技巧分享！打造全自動智能超級助手](youtubers/aisuperdomain/c5LKNO4YptM.md)
+- [🚀實測Clawdbot徹底改變我的工作方式！2026最強個人AI員工](youtubers/aisuperdomain/daXOXSSyudM.md)
+- [🚀解鎖OpenClaw多Agent高級玩法！Token消耗直接減半](youtubers/aisuperdomain/masJoPqT-6A.md)
+- [🚀 OpenClaw 高級進階技巧分享：模型精選策略+記憶系統優化+深度搜索集成+Gateway崩潰自動修復](youtubers/aisuperdomain/video_7n9qbuzwS-U.md)
+- [🚀 OpenClaw 進階玩法：自研 LanceDB 記憶插件讓小龍蝦記憶力暴增](youtubers/aisuperdomain/video_MtukF1C8epQ.md)
+- [🚀 在 OpenClaw 中實測 Claude Opus 4.6 與 GPT-5.3-Codex！](youtubers/aisuperdomain/video_Veoin_nqfOE.md)
+- [🚀 OpenClaw 高級使用經驗：如何調用 Claude Code 最省 Token！](youtubers/aisuperdomain/video_iJEfIc1mrsc.md)
+- [🚀 OpenClaw 高級使用經驗：五分鐘打造多 Agent 協作編程開發團隊！](youtubers/aisuperdomain/video_pvlPkUauHis.md)
+
+### 🔴 AI超元域 (B站) (30 篇)
+
+- [🚀告别Vibe Coding！用Superpowers让Claude Code写出工程级代码，一次通过零报错！遵循TDD最佳实践！支持Codex](youtubers/aisuperdomain_bilibili/BV11urFBrEc4_🚀告别Vibe Coding！用Superpowers让Claude Code写出工程级代码，一次通.md)
+- [🔥重磅测评！这款国内AI编程⼯具让我惊呆了，免费+免配置+异步⼯作，10分钟搭建完整宠物领养平台全流程实战演⽰！](youtubers/aisuperdomain_bilibili/BV13dzuB5EXp_🔥重磅测评！这款国内AI编程⼯具让我惊呆了，免费+免配置+异步⼯作，10分钟搭建完整宠物领养平台全流.md)
+- [🚀实测Clawdbot彻底改变我的工作方式！一条命令部署，WhatsApp远程控制电脑，自动编程开发，2026年最强个人AI员工来了！自我进化+无限记忆](youtubers/aisuperdomain_bilibili/BV14z6GB1EAr_🚀实测Clawdbot彻底改变我的工作方式！一条命令部署，WhatsApp远程控制电脑，自动编程开发.md)
+- [🚀Claude Code之父Boris分享终极使用技巧：Opus 4.5计划模式+iTerm2多Tab+自定义斜杠命令+GitHub Actions，效率倍增](youtubers/aisuperdomain_bilibili/BV15JibBfE8g_🚀Claude Code之父Boris分享终极使用技巧：Opus 4.5计划模式+iTerm2多Ta.md)
+- [🚀GPT-5.2-Codex深度评测，两千多行代码写在一个文件里？跨框架重构代码竟然翻车？Codex支持Agent Skills！](youtubers/aisuperdomain_bilibili/BV15aqrBAEQQ_🚀GPT-5.2-Codex深度评测，两千多行代码写在一个文件里？跨框架重构代码竟然翻车？Codex.md)
+- [🚀OpenClaw/Moltbot自动进化技巧分享！打造全自动智能超级助手，彻底解放双手，让AI越用越聪明！能自动学习避坑！自动操控Claude Code编程](youtubers/aisuperdomain_bilibili/BV17B61BxE3h_🚀OpenClawMoltbot自动进化技巧分享！打造全自动智能超级助手，彻底解放双手，让AI越用越.md)
+- [🚀国产大模型崛起！MiniMax M2.1浏览器自动化能力全网首测：Claude Code配置教程+6大实战案例完整复现指南！](youtubers/aisuperdomain_bilibili/BV17SBjBBEre_🚀国产大模型崛起！MiniMax M2.1浏览器自动化能力全网首测：Claude Code配置教程+.md)
+- [🚀重磅！MiniMax Agent完全取代Claude Cowork！一键实现AI热点抓取+小红书笔记改写+自动发布，自媒体人的终极效率神器来了！](youtubers/aisuperdomain_bilibili/BV1CkzsBMEua_🚀重磅！MiniMax Agent完全取代Claude Cowork！一键实现AI热点抓取+小红书笔.md)
+- [🚀开发者必看！Claude Code原生支持真正的Chrome浏览器，深度测评！轻松实现浏览器自动化、前端UI调试、后端API测试！保留登录状态和扩展插件](youtubers/aisuperdomain_bilibili/BV1EdBFBbEZn_🚀开发者必看！Claude Code原生支持真正的Chrome浏览器，深度测评！轻松实现浏览器自动化.md)
+- [🚀2026年Skills元年正式开启！谷歌Antigravity支持Agent Skills，彻底改写传统AI编程！保姆级教程从安装到创建到调用！](youtubers/aisuperdomain_bilibili/BV1FQkwByEAY_🚀2026年Skills元年正式开启！谷歌Antigravity支持Agent Skills，彻底改.md)
+- [🚀手把手教你在iPhone/安卓上部署腾讯混元翻译模型，完全离线永久免费无隐私泄露风险！](youtubers/aisuperdomain_bilibili/BV1FfkKBxEjf_🚀手把手教你在iPhone安卓上部署腾讯混元翻译模型，完全离线永久免费无隐私泄露风险！.md)
+- [🚀【保姆级教程】Antigravity进阶：手把手教你写带决策树的Agent Skills！AI编程助手自主决策用Codex CLI+Gemini审查代码](youtubers/aisuperdomain_bilibili/BV1KErQB4Esx_🚀【保姆级教程】Antigravity进阶：手把手教你写带决策树的Agent Skills！AI编程.md)
+- [🚀一人抵一个开发团队！OpenCode最强插件Oh My OpenCode让你拥有GPT 5.2+Gemini 3 Pro+Claude Opus 4.5组合](youtubers/aisuperdomain_bilibili/BV1SYrTBMEzB_🚀一人抵一个开发团队！OpenCode最强插件Oh My OpenCode让你拥有GPT 5.2+G.md)
+- [🚀【终极方案】Claude Code防封号完美攻略！](youtubers/aisuperdomain_bilibili/BV1SqigBeEPm_🚀【终极方案】Claude Code防封号完美攻略！.md)
+- [🚀Clawdbot/Moltbot高级进阶玩法！无需Mac和Linux！5分钟实现用手机发消息就能自动开发项目+部署项目+推送代码到GitHub！开发体验拉满](youtubers/aisuperdomain_bilibili/BV1Tu6EBhECo_🚀ClawdbotMoltbot高级进阶玩法！无需Mac和Linux！5分钟实现用手机发消息就能自动.md)
+- [🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Agentic能力直逼Gemini 3和Claude 4.5](youtubers/aisuperdomain_bilibili/BV1UTBKBxESA_🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Age.md)
+- [🚀Claude Code自动化开发必备神器！Ralph for Claude Code实战演示，导入PRD文档秒变任务清单，AI通宵帮你写代码！保姆级教程](youtubers/aisuperdomain_bilibili/BV1V9kEB7Erw_🚀Claude Code自动化开发必备神器！Ralph for Claude Code实战演示，导入.md)
+- [🚀OCR+视觉能力起飞！Gemini 3 Flash深度实测：OCR识别潦草处方、模糊古书全对！前端小项目完美开发！Antigravity实测iOS开发太弱](youtubers/aisuperdomain_bilibili/BV1VrqpB5EVJ_🚀OCR+视觉能力起飞！Gemini 3 Flash深度实测：OCR识别潦草处方、模糊古书全对！前端.md)
+- [🚀解锁OpenClaw多Agent高级玩法！Token消耗直接减半，这才是正确的使用方式！不同任务分配不同模型，独立Session、独立记忆，独立工作空间](youtubers/aisuperdomain_bilibili/BV1dqffBMEcg_🚀解锁OpenClaw多Agent高级玩法！Token消耗直接减半，这才是正确的使用方式！不同任务分.md)
+- [🚀GPT-5.2翻车项目它搞定？实测Antigravity+Opus 4.5最佳组合！完美解决Claude Code封号问题，10分钟从零开发完整MVP](youtubers/aisuperdomain_bilibili/BV1ikmiBjEin_🚀GPT-5.2翻车项目它搞定？实测Antigravity+Opus 4.5最佳组合！完美解决Cla.md)
+- [🚀独创思路真正实现AI办公自动化！将操作系统映射到浏览器后，Claude in Chrome竟然能全自动操控电脑操作系统！实测效果惊人！打开计算器、写代码等](youtubers/aisuperdomain_bilibili/BV1kbByBREwF_🚀独创思路真正实现AI办公自动化！将操作系统映射到浏览器后，Claude in Chrome竟然能全.md)
+- [🚀OpenClaw不用自己部署了！端脑云一键开箱即用，小白3分钟搞定，还能直接接入钉钉飞书，支持调用ComfyUI](youtubers/aisuperdomain_bilibili/BV1kkcPzPE5M_🚀OpenClaw不用自己部署了！端脑云一键开箱即用，小白3分钟搞定，还能直接接入钉钉飞书，支持调用.md)
+- [🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模型容灾机制深度配置+云端Gateway操控本地macOS！](youtubers/aisuperdomain_bilibili/BV1pScgzXEB7_🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模.md)
+- [🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作全打通！一句话让AI帮你做表格、分析数据、写报告，效率恐怖](youtubers/aisuperdomain_bilibili/BV1rcr5BVE7a_🚀2026年首个AI Agent神器！Claude Cowork深度实测：浏览器自动化+本地文件操作.md)
+- [🚀玩转moltbook！OpenClaw官方盖章，用它可以更省钱地尽情发帖](youtubers/aisuperdomain_bilibili/BV1rr6bBEENf_🚀玩转moltbook！OpenClaw官方盖章，用它可以更省钱地尽情发帖.md)
+- [🚀开源界的Claude Code来了！生产力核弹opencode深度使用体验，支持Antigravity IDE！结合OpenSpec规格驱动开发！支持LSP](youtubers/aisuperdomain_bilibili/BV1saimBYEXE_🚀开源界的Claude Code来了！生产力核弹opencode深度使用体验，支持Antigravi.md)
+- [🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！](youtubers/aisuperdomain_bilibili/BV1uKzvBCEzR_🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转.md)
+- [🚀在OpenClaw中实测Claude Opus 4.6与GPT-5.3-Codex！百万Token上下文窗口首次碾压GPT，实测编程、推理、中文能力、Bug](youtubers/aisuperdomain_bilibili/BV1ubFCzpEft_🚀在OpenClaw中实测Claude Opus 4.6与GPT-5.3-Codex！百万Token.md)
+- [🚀OpenClaw高级使用经验之如何调用Claude Code最省Token！Claude Code Hooks回调+Agent Teams全自动开发零轮询](youtubers/aisuperdomain_bilibili/BV1vYFQzQE4P_🚀OpenClaw高级使用经验之如何调用Claude Code最省Token！Claude Code.md)
+- [🚀Claude Code终极外挂！Ralph Wiggum插件让AI自动迭代不停歇，从Bug满天飞到完美应用只需一条命令！全程零干预！全自动Bug修复、补功能](youtubers/aisuperdomain_bilibili/BV1zyiiBRE32_🚀Claude Code终极外挂！Ralph Wiggum插件让AI自动迭代不停歇，从Bug满天飞到.md)
+
+### 🎨 Alan UI Design (22 篇)
+
+- [Figma 完整軟體教學 (2026)](youtubers/alan_design/2026-02-13_nxEUbjrF1JI.md) `2026-02-13`
+- [Figma Breadcrumb 設計 • Figma 教學](youtubers/alan_design/2025-11-07_-NA4Z_Kp3B4.md) `2025-11-07`
+- [測量設計成效 - 分析工具的使用 (Clarity & Hotjar)](youtubers/alan_design/video_-0h1zoIKQCQ.md)
+- [Figma Breadcrumb 設計](youtubers/alan_design/video_-NA4Z_Kp3B4.md)
+- [WCAG 2.2 - SC 2.5.7 - Dragging Movements 拖移動作設計](youtubers/alan_design/video_4yvYHY6pNPg.md)
+- [WCAG 2.2 - SC 1.4.11 - Non-text Contrast 非文字對比度](youtubers/alan_design/video_87rFIn_qpd4.md)
+- [Floating Label 設計](youtubers/alan_design/video_AwBOSaKEy8U.md)
+- [Figma Site 教學](youtubers/alan_design/video_F3R-exnLkFM.md)
+- [Stitch - AI UI介面生成](youtubers/alan_design/video_GrPuG1BXjbc.md)
+- [Figma Glass 玻璃效果教學 (Liquid Glass)](youtubers/alan_design/video_IrZ4WZDZeT4.md)
+- [關於文字標籤設計 (WCAG 2.5.3/G131/G162)](youtubers/alan_design/video_JN9Uh9mEJ8k.md)
+- [關於Apple Liquid Glass設計的初次想法](youtubers/alan_design/video_NbEpsvRgQKM.md)
+- [Figma: Buzz - 行銷協作工具](youtubers/alan_design/video_VZhDtB-xe8o.md)
+- [Cookie設計 (GDPR & CCPA/CPRA) #2 - Figma 實作](youtubers/alan_design/video_Z5utb3dQnMg.md)
+- [製作100支影片後，我所學到的事](youtubers/alan_design/video_bzxyfn_pkFQ.md)
+- [Figma: Make - AI UI/UX設計生成](youtubers/alan_design/video_gkLg6Y7ezJ4.md)
+- [ChatGPT & Figma App + Figma Make 教學](youtubers/alan_design/video_ksxHexfCkjw.md)
+- [Cookie設計 (GDPR & CCPA/CPRA) #1 - 背景知識](youtubers/alan_design/video_nkKYAinn9BA.md)
+- [Figma 完整軟體教學 (2026)](youtubers/alan_design/video_nxEUbjrF1JI.md)
+- [Figma功能: 檢查顏色對比度 (Check Color Contrast)](youtubers/alan_design/video_u2rG8n5-2YE.md)
+- [WCAG 2.2 - G65 - Breadcrumbs 麵包屑導覽](youtubers/alan_design/video_wi2f7soTHYw.md)
+- [WCAG 2.2 - SC 1.4.1 - Use of Color 顏色的使用](youtubers/alan_design/video_xL4iSKNc-PY.md)
+
+### 🔴 B站收藏 (8 篇)
+
+- [🛠️ Anthropic 黑客松冠軍親授 Claude Code 最優配置](youtubers/bilibili_favorites/20260131-claude-code-config.md) `2026-01-31`
+- [🔧 OpenCode + Skill：從使用到原理，5 分鐘速通](youtubers/bilibili_favorites/20260123-opencode-skill.md) `2026-01-23`
+- [🎯 Skill 喂飯教程：IDE 手搓 Skill 自動化 PPT](youtubers/bilibili_favorites/20260122-skill-ppt-tutorial.md) `2026-01-22`
+- [🧠 Agent Skill 從使用到原理，一次講清](youtubers/bilibili_favorites/20260101-agent-skill-principles.md) `2026-01-01`
+- [🤖 TradingAgents：AI 智能體股票深度分析神器](youtubers/bilibili_favorites/20251230-tradingagents.md) `2025-12-30`
+- [⚡ KunQuant：超高速量化交易計算引擎](youtubers/bilibili_favorites/20251228-kunquant.md) `2025-12-28`
+- [🎨 Nano Banana + Gemini 3 = S 級 UI 設計師](youtubers/bilibili_favorites/20251214-nano-banana-gemini-ui.md) `2025-12-14`
+- [📈 魔改 MACD：NSGA-II 多目標優化實戰](youtubers/bilibili_favorites/20251015-macd-optimization.md) `2025-10-15`
+
+### 🧠 BRAINY DOSE (37 篇)
+
+- [為什麼這麼多聰明人選擇退出世界？](youtubers/brainydose/2026-02-14_fJVEOlHGtfE.md) `2026-02-14`
+- [Why We Yearn for The Past - The Nostalgia Glitch](youtubers/brainydose/2026-02-14_xMIVWtqIxW4.md) `2026-02-14`
+- [Tipping Culture Has Become A Normalized Scam](youtubers/brainydose/2026-02-13_PfxZs824u1Y.md) `2026-02-13`
+- [Why We Yearn for The Past - The Nostalgia Glitch](youtubers/brainydose/2026-02-13_xMIVWtqIxW4.md) `2026-02-13`
+- [假人、假新聞 - AI 瘋狂的危險](youtubers/brainydose/20260212-ai-madness-fake-people.md) `2026-02-12`
+- [12 Normalized Scams Everyone Just Goes Along With](youtubers/brainydose/01-normalized-scams.md)
+- [7 Reasons Why Intelligent People Hate Socializing](youtubers/brainydose/02-intelligent-people-hate-socializing.md)
+- [8 Traits of Those Who Have Suffered Too Much](youtubers/brainydose/03-suffered-too-much.md)
+- [10 Hygiene MISTAKES That Make You STINK](youtubers/brainydose/04-hygiene-mistakes.md)
+- [10 Morning Habits You Need to Avoid](youtubers/brainydose/05-morning-habits-avoid.md)
+- [This Is What Happens to Your Brain When You Are Emotionally Abused](youtubers/brainydose/06-emotionally-abused.md)
+- [10 Interesting Facts About The INFJ Personality Type](youtubers/brainydose/07-infj-personality.md)
+- [10 Things That Make You Look Like a Loser](youtubers/brainydose/08-look-like-loser.md)
+- [Why Nothing Feels Fun and Exciting Anymore](youtubers/brainydose/09-nothing-feels-fun.md)
+- [Why Self-Awareness Leads to Fewer Friends](youtubers/brainydose/10-self-awareness-fewer-friends.md)
+- [我們為何懷念過去？——懷舊的失真現象](youtubers/brainydose/11-nostalgia-glitch.md)
+- [小費文化如何成為一種常態化的詐騙](youtubers/brainydose/12-tipping-culture-scam.md)
+- [為什麼這麼多聰明人選擇退出世界？](youtubers/brainydose/13-intelligent-people-quitting-world.md)
+- [Why So Many Intelligent People Are Quitting the World](youtubers/brainydose/13-intelligent-quitting-world.md)
+- [12 Silent Traps of Modern Life You're Probably Ignoring](youtubers/brainydose/14-silent-traps-modern-life.md)
+- [12 個看似健康，實際上對身體有害的選擇](youtubers/brainydose/15-healthy-choices-terrible.md)
+- [15 個完全是浪費錢的東西](youtubers/brainydose/16-waste-of-money.md)
+- [為什麼「看起來不富有」很重要](youtubers/brainydose/17-looking-poor-important.md)
+- [12 個讓人崩潰的惱人事](youtubers/brainydose/18-annoying-things.md)
+- [你被迫相信的最大謊言](youtubers/brainydose/19-biggest-lies.md)
+- [我們為何如此懷念過去？——懷舊的錯覺](youtubers/brainydose/20-nostalgia-glitch.md)
+- [小費文化已成常態化的詐騙？](youtubers/brainydose/21-tipping-culture-scam.md)
+- [為何越來越多聰明人選擇「退出世界」？](youtubers/brainydose/22-intelligent-quitting-world.md)
+- [看似健康卻有害的 12 種選擇](youtubers/brainydose/23-healthy-choices-terrible.md)
+- [花錢如流水的 15 件事](youtubers/brainydose/24-waste-of-money.md)
+- [保持低調的重要性：為何「看起來不富裕」反而是一種優勢](youtubers/brainydose/25-looking-poor-important.md)
+- [讓人崩潰的 12 個惱人小事](youtubers/brainydose/26-annoying-things-drive-crazy.md)
+- [虛假人物、假新聞：AI 瘋狂的危險](youtubers/brainydose/27-ai-madness-fake-people.md)
+- [你被灌輸的那些最大的謊言](youtubers/brainydose/28-biggest-lies-believe.md)
+- [現代生活中你可能忽略的 12 個隱形陷阱](youtubers/brainydose/29-silent-traps-modern-life.md)
+- [PfxZs824u1Y tipping culture scam](youtubers/brainydose/PfxZs824u1Y-tipping-culture-scam.md)
+- [xMIVWtqIxW4 nostalgia glitch](youtubers/brainydose/xMIVWtqIxW4-nostalgia-glitch.md)
+
+### 🎤 程隆 (1 篇)
+
+- [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15`
+
+### 🚀 Dan Martell (50 篇)
+
+- [5 tips to prompt AI like a Pro](youtubers/dan_martell/20260306-5-tips-to-prompt-AI-like-a-Pro.md) `2026-03-06`
+- [I prioritize my wife's happiness](youtubers/dan_martell/20260306-I-prioritize-my-wifes-happiness.md) `2026-03-06`
+- [Relationships matter](youtubers/dan_martell/20260306-Relationships-matter.md) `2026-03-06`
+- [Why do buffalos run towards the storm?](youtubers/dan_martell/20260306-Why-do-buffalos-run-towards-the-storm.md) `2026-03-06`
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06`
+- [Why bosses blame their team](youtubers/dan_martell/20260301-Why-bosses-blame-their-team.md) `2026-03-01`
+- [Why do buffalos run towards a storm?](youtubers/dan_martell/20260301-Why-do-buffalos-run-towards-a-storm.md) `2026-03-01`
+- [50 years of tech in under 1 minute](youtubers/dan_martell/2026-02-27-1K9BZOzr_1g.md) `2026-02-27`
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27`
+- [You wanna get richer? Get fit.](youtubers/dan_martell/2026-02-27-QfmfTEYP2JA.md) `2026-02-27`
+- [8 Tiny Habits That Made Me Rich](youtubers/dan_martell/2026-02-24_8ujbxFtVzBM.md) `2026-02-24`
+- [I helped this kid start his DETAILING BUSINESS](youtubers/dan_martell/2026-02-24_GnzpctL5I1Y.md) `2026-02-24`
+- [AI will make more millionaires than the INTERNET](youtubers/dan_martell/2026-02-24_psL1OAsasA4.md) `2026-02-24`
+- [How to create WEALTH with AI](youtubers/dan_martell/2026-02-23_LA-ejpPji38.md) `2026-02-23`
+- [Schools will be gone in 5 years](youtubers/dan_martell/2026-02-23_La4GEuNCIU4.md) `2026-02-23`
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20`
+- [A Students vs D Students](youtubers/dan_martell/20260220-A-Students-vs-D-Students.md) `2026-02-20`
+- [Why aren't you going ALL IN on AI?](youtubers/dan_martell/20260220-Why-arent-you-going-ALL-IN-on-AI.md) `2026-02-20`
+- [I helped this kid change his life](youtubers/dan_martell/20260219-I-helped-this-kid-change-his-life.md) `2026-02-19`
+- [Should AI be allowed in school?](youtubers/dan_martell/20260219-Should-AI-be-allowed-in-school.md) `2026-02-19`
+- [Building a business vs building a brand](youtubers/dan_martell/20260218-Building-a-business-vs-building-a-brand.md) `2026-02-18`
+- [Education is failing our kids](youtubers/dan_martell/20260218-Education-is-failing-our-kids.md) `2026-02-18`
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14`
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-13_DhEMFeo_gL8.md) `2026-02-13`
+- [Why Being LAZY Makes You More Successful](youtubers/dan_martell/2026-02-13_J8mCcVp4c1M.md) `2026-02-13`
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/2026-02-13_NcNingch2AM.md) `2026-02-13`
+- [I'm 46. If you're in your 20s or 30s, watch this video](youtubers/dan_martell/2026-02-13_P9e_FTLMDHY.md) `2026-02-13`
+- [Give me 59 secs... I'll delete your fear of starting](youtubers/dan_martell/2026-02-13_Q2xs6xiW9hM.md) `2026-02-13`
+- [The Only Skill You Need to Succeed in the AI Era](youtubers/dan_martell/2026-02-13_QpfVvmXBHOU.md) `2026-02-13`
+- [Top 9 AI Trends I'm Betting My Bank Account On in 2026](youtubers/dan_martell/2026-02-13_ZP9ki_8-ZvE.md) `2026-02-13`
+- [These 6 ChatGPT Hacks Will Make You So Much Money](youtubers/dan_martell/2026-02-13_bkM-lYgAxh0.md) `2026-02-13`
+- [Give me 25 minutes, and you'll get more done than 97% of people](youtubers/dan_martell/2026-02-13_iQX_Cc0aHhg.md) `2026-02-13`
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13`
+- [25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-06_25-ways-make-money-2026.md) `2026-02-06`
+- [Is Dropshipping the method for 2026?](youtubers/dan_martell/82NbQ1sEGg0.md)
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/FEex8E1yDj4.md)
+- [🎯 Dan Martell 知識庫](youtubers/dan_martell/_index.md)
+- [AI Tools: UNDERRATED vs OVERRATED](youtubers/dan_martell/ajPV4GHi0Bc.md)
+- [Modern education systems are dying](youtubers/dan_martell/vg5hN7hZV-8.md)
+- [How to Invest Your Money Like The 0.1%](youtubers/dan_martell/video_2WEMhpDOnsw.md)
+- [The Only 25 Ways to Make Money in 2026](youtubers/dan_martell/video_DhEMFeo_gL8.md)
+- [為何偷懶反而讓你更成功](youtubers/dan_martell/video_J8mCcVp4c1M.md)
+- [How I'd Make $1M with AI in 2026 (Zero Code)](youtubers/dan_martell/video_NcNingch2AM.md)
+- [I'm 46. If you're in your 20s or 30s, watch this video](youtubers/dan_martell/video_P9e_FTLMDHY.md)
+- [Give Me 59 Secs... I'll Delete Your Fear of Starting](youtubers/dan_martell/video_Q2xs6xiW9hM.md)
+- [The Only Trait to Get Rich in the AI Era](youtubers/dan_martell/video_QpfVvmXBHOU.md)
+- [Top 9 AI Trends I'm Betting My Bank Account On in 2026](youtubers/dan_martell/video_ZP9ki_8-ZvE.md)
+- [These 6 ChatGPT Hacks Will Make You So Much Money](youtubers/dan_martell/video_bkM-lYgAxh0.md)
+- [How to Be So Productive It Feels Like Cheating](youtubers/dan_martell/video_iQX_Cc0aHhg.md)
+- [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/video_xXxrvra9DQg.md)
+
+### 💡 Dan Koe (36 篇)
+
+- [How To Think Like A Strategic Genius (5-Dimensional Thinking)](youtubers/dankoe/2026-02-23_TY8IVSQnwlk.md) `2026-02-23`
+- [The Most Important Skill To Learn Right Now](youtubers/dankoe/2026-02-14_0XI_Xt0ci2Y.md) `2026-02-14`
+- [How To Articulate Your Thoughts Intelligently (Talk Like This)](youtubers/dankoe/2026-02-14_DKT6m_8vCkA.md) `2026-02-14`
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-14_ExNWGF-q64M.md) `2026-02-14`
+- [How to fix your entire life in 1 day](youtubers/dankoe/2026-02-14_K8K09g9XR4s.md) `2026-02-14`
+- [A Full Guide To Reinvent Your Entire Life (In 6-12 Months)](youtubers/dankoe/2026-02-14_SL5lwg1wYaE.md) `2026-02-14`
+- [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/2026-02-14_U5kQTKWTUX0.md) `2026-02-14`
+- [How I'd build a one-person business (if I started over in 2026)](youtubers/dankoe/2026-02-14_VyR8nqD3sQ8.md) `2026-02-14`
+- [The Future Of Work (& The New High-Income Skill Stack)](youtubers/dankoe/2026-02-14_vCoGfisdS8Y.md) `2026-02-14`
+- [Kortex: The $3 Million Dollar Mistake](youtubers/dankoe/2026-02-14_vbrTv-4PsdA.md) `2026-02-14`
+- [How To Use AI Better Than 99% Of People (This Changed My Life)](youtubers/dankoe/2026-02-14_xgpLjLHB5sA.md) `2026-02-14`
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-13_ExNWGF-q64M.md) `2026-02-13`
+- [The Future Of Work (& The New High-Income Skill Stack)](youtubers/dankoe/2026-02-13_vCoGfisdS8Y.md) `2026-02-13`
+- [未來的工作：高收入技能堆疊](youtubers/dankoe/20260212-future-of-work-skill-stack.md) `2026-02-12`
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/01-multiple-interests.md)
+- [How I'd build a one-person business (if I started over in 2026)](youtubers/dankoe/02-one-person-business-2026.md)
+- [How to fix your entire life in 1 day](youtubers/dankoe/03-fix-life-in-1-day.md)
+- [You need to become high-agency... here's how](youtubers/dankoe/04-high-agency.md)
+- [How To Articulate Your Thoughts Intelligently](youtubers/dankoe/05-articulate-thoughts.md)
+- [How To Use AI Better Than 99% Of People](youtubers/dankoe/06-use-ai-better.md)
+- [Kortex: The $3 Million Dollar Mistake](youtubers/dankoe/07-kortex-mistake.md)
+- [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/08-dopamine-detox.md)
+- [A Full Guide To Reinvent Your Entire Life (In 6-12 Months)](youtubers/dankoe/09-reinvent-life.md)
+- [You're Stuck In The Matrix, Here's How You Escape](youtubers/dankoe/10-escape-matrix.md)
+- [12 Rules To Change Your Life In 12 Months](youtubers/dankoe/11-12-rules-12-months.md)
+- [The Death Of Social Media (& The Future Of Content Creation)](youtubers/dankoe/12-death-of-social-media.md)
+- [How To Become So Self-Disciplined It Feels Illegal](youtubers/dankoe/13-self-discipline.md)
+- [You Have About 36 Months To Make It](youtubers/dankoe/14-36-months.md)
+- [How To Master Any Skill Fast (Give Yourself 2 Weeks)](youtubers/dankoe/15-master-skill-fast.md)
+- [What It Takes To Get Rich In Your 20s](youtubers/dankoe/16-get-rich-20s.md)
+- [I'm 28. Here's How To Get Ahead Of Most 20 Year Olds](youtubers/dankoe/17-ahead-of-20-year-olds.md)
+- [This mental model will make you think like a strategic genius](youtubers/dankoe/18-strategic-genius.md)
+- [You Need To Be Extreme If You Want Your Life To Change](youtubers/dankoe/19-be-extreme.md)
+- [How To Build A Better Personal Brand Than 99% Of People](youtubers/dankoe/20-personal-brand.md)
+- [ExNWGF q64M multiple interests](youtubers/dankoe/ExNWGF-q64M-multiple-interests.md)
+- [vCoGfisdS8Y future of work skill stack](youtubers/dankoe/vCoGfisdS8Y-future-of-work-skill-stack.md)
+
+### 🏥 Dr. Berg 中文 (71 篇)
+
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06`
+- [全球最消炎食物! 腸胃炎、關節炎、各種發炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260306-全球最消炎食物-腸胃炎關節炎各種發炎自然療法柏格醫生-Dr-Berg.md) `2026-03-06`
+- [柏格醫生警告：這10種維生素和礦物質千萬別吃！吃了反而傷身（合成葉酸、碳酸鈣、氧化鎂必避）](youtubers/drberg_chinese/20260306-柏格醫生警告這10種維生素和礦物質千萬別吃吃了反而傷身合成葉酸碳酸鈣氧化鎂必避.md) `2026-03-06`
+- [為什麼現代人嚴重缺鎂？柏格醫生曝：補鎂改善胰島素阻抗、睡眠、肌肉痠痛](youtubers/drberg_chinese/20260306-為什麼現代人嚴重缺鎂柏格醫生曝補鎂改善胰島素阻抗睡眠肌肉痠痛.md) `2026-03-06`
+- [鎂越貴越好？錯，選對形式才是關鍵 #補充劑 #養生](youtubers/drberg_chinese/20260306-鎂越貴越好錯選對形式才是關鍵-補充劑-養生.md) `2026-03-06`
+- [好橄欖油消除脂肪肝,三種好油消炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260301-好橄欖油消除脂肪肝三種好油消炎自然療法柏格醫生-Dr-Berg.md) `2026-03-01`
+- [癌症7大鮮為人知的主因！柏格醫生揭秘線粒體與環境如何影響癌症預防](youtubers/drberg_chinese/20260301-癌症7大鮮為人知的主因柏格醫生揭秘線粒體與環境如何影響癌症預防.md) `2026-03-01`
+- [這個維生素能殺死癌細胞 你卻不知道](youtubers/drberg_chinese/20260301-這個維生素能殺死癌細胞-你卻不知道.md) `2026-03-01`
+- [不健康飲食的10大可怕副作用！右肩痛、失眠、腎結石都中了？快學8招戒糖戒垃圾食品](youtubers/drberg_chinese/2026-02-27-dxrsj2vGae4.md) `2026-02-27`
+- [血栓才是心臟病和中風的真凶](youtubers/drberg_chinese/2026-02-27-ooE3kfKDs0I.md) `2026-02-27`
+- [你的排毒系統壞了？硒才是關鍵](youtubers/drberg_chinese/2026-02-27-zVgyw81cNLY.md) `2026-02-27`
+- [維生素D缺乏症狀6個，最後一個超意外](youtubers/drberg_chinese/2026-02-24_6uWJeTduoNE.md) `2026-02-24`
+- [柏格醫生揭秘：7種自然療法比藥物更有效（有科學研究證明）](youtubers/drberg_chinese/2026-02-24_ZF03OAPwxf8.md) `2026-02-24`
+- [頭前傾2.5公分加重4.5公斤！柏格醫生教你每晚幾分鐘快速矯正駝背（筋膜伸展）](youtubers/drberg_chinese/2026-02-24_aAu1CzXLIpY.md) `2026-02-24`
+- [為什麼你減不掉腹部脂肪？柏格醫生揭密](youtubers/drberg_chinese/2026-02-24_lRJqbfYZdjE.md) `2026-02-24`
+- [停止吃這些食物，拯救你的心臟](youtubers/drberg_chinese/2026-02-23_gT6lnr7eKVg.md) `2026-02-23`
+- [柏格醫生：吃早餐竟是傷肝元兇？停吃早餐啟動自噬，肝功能快速改善](youtubers/drberg_chinese/2026-02-23_qeDbZhDafZ4.md) `2026-02-23`
+- [冬季憂鬱症 醫生揭露隱藏的真相](youtubers/drberg_chinese/20260220-冬季憂鬱症-醫生揭露隱藏的真相.md) `2026-02-20`
+- [吃蛋有害還是有益健康？柏格醫生Dr Berg #快速減肥 #養生 #生酮飲食 #膽固醇 #斷食 #自然療法](youtubers/drberg_chinese/20260220-吃蛋有害還是有益健康柏格醫生Dr-Berg-快速減肥-養生-生酮飲食-膽固醇-斷食-自然療法.md) `2026-02-20`
+- [柏格醫生推薦：每天必吃的7種最健康食物，降胰島素、提升免疫一次到位！](youtubers/drberg_chinese/20260220-柏格醫生推薦每天必吃的7種最健康食物降胰島素提升免疫一次到位.md) `2026-02-20`
+- [為什麼乳酸菌是腸道最友善的菌](youtubers/drberg_chinese/20260220-為什麼乳酸菌是腸道最友善的菌.md) `2026-02-20`
+- [纖維讓便秘更糟?醫生揭露被隱藏的真相](youtubers/drberg_chinese/20260220-纖維讓便秘更糟醫生揭露被隱藏的真相.md) `2026-02-20`
+- [夜尿不是膀胱問題！改變這9件事，立即改善睡眠](youtubers/drberg_chinese/20260219-夜尿不是膀胱問題改變這9件事立即改善睡眠.md) `2026-02-19`
+- [快速減肥、大減肥肚子的斷食法](youtubers/drberg_chinese/20260219-快速減肥大減肥肚子的斷食法.md) `2026-02-19`
+- [死海鹽 vs 海鹽，哪個對你的皮膚更好？](youtubers/drberg_chinese/20260219-死海鹽-vs-海鹽哪個對你的皮膚更好.md) `2026-02-19`
+- [薑黃素1500mg等同布洛芬？天然消炎無副作用，柏格醫生實證比較](youtubers/drberg_chinese/20260219-薑黃素1500mg等同布洛芬天然消炎無副作用柏格醫生實證比較.md) `2026-02-19`
+- [生酮+斷食 vs 單純斷食的差別 #生酮飲食 #斷食 #代謝](youtubers/drberg_chinese/20260218-生酮斷食-vs-單純斷食的差別-生酮飲食-斷食-代謝.md) `2026-02-18`
+- [吃了鎂補充品還是失眠疲勞？問題出在這裡](youtubers/drberg_chinese/2026-02-14_3vddvJ4Vjpg.md) `2026-02-14`
+- [更年期：激素失衡不是卵巢問題，而是肝的問題](youtubers/drberg_chinese/2026-02-14_8tBp_-Q7uF4.md) `2026-02-14`
+- [番茄馬鈴薯關節炎｜醫生揭露茄科蔬菜的真相](youtubers/drberg_chinese/2026-02-14_GekSX0eN91o.md) `2026-02-14`
+- [便秘和腹瀉是缺腸道菌?！便秘,腸胃消化不良的最佳療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/2026-02-14_J-eBfxPCLlw.md) `2026-02-14`
+- [更年期症狀,最需要這一種食物](youtubers/drberg_chinese/2026-02-14_OFDWAdafWSY.md) `2026-02-14`
+- [減緩失智健忘、保健大腦的第一名營養素,補充褪黑激素(新資料),柏格醫生 Dr Berg](youtubers/drberg_chinese/2026-02-14_WxG_iMzWyQ0.md) `2026-02-14`
+- [柏格醫生2025年最佳防癌飲食：輪替飲食,長斷食與間歇性斷食，餓死癌細胞，增強免疫力](youtubers/drberg_chinese/2026-02-14_gXWWwEMk46w.md) `2026-02-14`
+- [打造年輕肌膚秘密！柏格醫生揭秘：最佳抗衰老食物與護膚真相](youtubers/drberg_chinese/2026-02-14_vBfCcT9jtww.md) `2026-02-14`
+- [打造年輕肌膚秘密！柏格醫生揭秘：最佳抗衰老食物與護膚真相](youtubers/drberg_chinese/vBfCcT9jtww_2026-02-14.md) `2026-02-14`
+- [鐵氟龍鍋塗層會脫落](youtubers/drberg_chinese/2026-02-13_6qc_Us_FEPY.md) `2026-02-13`
+- [牙齒腐爛的原因 柏格醫生揭露](youtubers/drberg_chinese/2026-02-13_pmSCD29UD9A.md) `2026-02-13`
+- [5天斷食能治癒身體嗎](youtubers/drberg_chinese/2026-02-13_wcxcAPTqrbg.md) `2026-02-13`
+- [五天斷食完整指南：身體會發生什麼變化](youtubers/drberg_chinese/20260213-5-day-fasting.md) `2026-02-13`
+- [鐵氟龍與 PFAS「永久化學物」：如何保護自己](youtubers/drberg_chinese/20260213-pfas-forever-chemicals.md) `2026-02-13`
+- [預防蛀牙的根本方法：不只是刷牙那麼簡單](youtubers/drberg_chinese/20260213-prevent-cavities.md) `2026-02-13`
+- [柏格醫生2025年最佳防癌飲食：輪替飲食、長斷食與間歇性斷食](youtubers/drberg_chinese/20260212-anti-cancer-diet.md) `2026-02-12`
+- [吃了鎂補充品還是失眠疲勞？問題出在這裡](youtubers/drberg_chinese/20260212-magnesium-mistakes.md) `2026-02-12`
+- [鐵氟龍鍋塗層會脫落！PFAS 永久化學物質排毒攻略](youtubers/drberg_chinese/20260212-pfas-forever-chemicals.md) `2026-02-12`
+- [高膽固醇真相！柏格醫生教您讀懂好壞膽固醇與改善心臟健康的自然方法](youtubers/drberg_chinese/2Vn4f_-ny8E_膽固醇.md)
+- [大腦變遲鈍、脾氣暴躁、無法集中注意力？可能是肝出問題了](youtubers/drberg_chinese/3AprliTw9P0_肝出問題腦變遲鈍.md)
+- [柏格醫生：吃早餐竟是傷肝元兇？停吃早餐啟動自噬，肝功能快速改善](youtubers/drberg_chinese/3PJEHIPUJrI_吃早餐傷肝.md)
+- [如何徹底戒除A片成癮？科學恢復多巴胺，拯救性生活與感情](youtubers/drberg_chinese/4E5qNtAC5wg_A片成癮.md)
+- [無糖食物大公開｜為什麼這些食物最健康？](youtubers/drberg_chinese/5z9fcG32fDc_無糖食物.md)
+- [鱈魚肝油 vs 魚油：對大腦最好的歐米伽3竟然是它！](youtubers/drberg_chinese/6bigYdRlpKc_鱈魚肝油vs魚油.md)
+- [油炸不要用的油！烹飪用最好和最糟的油](youtubers/drberg_chinese/76QpYG3IzAs_烹飪油.md)
+- [眼睛白內障，超過50歲一定要看，自然療法](youtubers/drberg_chinese/9dMpbT41kME_白內障.md)
+- [腳灼熱、刺痛、像火燒？醫生揭秘：不是神經病變，而是胰島素阻抗！](youtubers/drberg_chinese/CLBXBAhossc_腳灼熱刺痛.md)
+- [11種食物縮小攝護腺腫大！有效改善夜尿頻尿問題](youtubers/drberg_chinese/Cv5geWFNwDk_攝護腺腫大.md)
+- [柏格醫生揭露：吃錯食物 疾病就會找上你](youtubers/drberg_chinese/DXagzBPP1SE_吃錯食物.md)
+- [真相！這影片可能會被禁!!自然療法](youtubers/drberg_chinese/SBeRc1Ucv0E.md)
+- [最佳伸展筋膜,能消炎、助眠、不僵硬! 減壓！自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/T7YgNpXMqgA.md)
+- [糖尿病患者注意！胰臟癌風險比你想的高](youtubers/drberg_chinese/TvRsE7x81jc_糖尿病胰臟癌.md)
+- [如何做斷食與長斷食，不會餓減肥、燃燒體脂肪](youtubers/drberg_chinese/Un_PoUM2yb0_斷食.md)
+- [柏格醫生推薦：每天必吃的7種最健康食物](youtubers/drberg_chinese/W9m31IKlbBI_7種最健康食物.md)
+- [維生素D每日需要多少？科學證實官方推薦量錯了10倍](youtubers/drberg_chinese/XjOo5Oth30E_維生素D真相.md)
+- [真蛇油vs假蛇油：一個世紀的健康騙局](youtubers/drberg_chinese/_ktTmod3wMA.md)
+- [大藥廠隱瞞的天然療法，為什麼要禁用它們](youtubers/drberg_chinese/bd9R4_U6v80_天然療法.md)
+- [清血管這樣吃就對了！逆轉三高、改善心臟病、糖尿病、慢性腎臟病的科學飲食法](youtubers/drberg_chinese/guL9R8kzDCQ_清血管飲食.md)
+- [你的眩暈可能來自缺乏這個礦物質｜改善平衡感的秘訣](youtubers/drberg_chinese/mUlz3x_S_tM_眩暈礦物質.md)
+- [如何徹底戒除A片成癮？科學恢復多巴胺，拯救性生活與感情](youtubers/drberg_chinese/nXShPjrhySs.md)
+- [你喝的每一口都在傷肝為什麼沒人告訴你](youtubers/drberg_chinese/rLoPjfq-eB0.md)
+- [減掉頑固脂肪10重點，燃燒脂肪](youtubers/drberg_chinese/rN08sMxwFqI_減肥頑固脂肪.md)
+- [你信任的健康網紅可能被收買了？大藥廠如何操控社群媒體](youtubers/drberg_chinese/ve5JDnQ8JIQ_健康網紅被收買.md)
+- [為什麼慢跑讓扁平足惡化？醫生揭開真相](youtubers/drberg_chinese/wyx4wC7jSFs.md)
+
+### ⚡ GeekyHour (16 篇)
+
+- [一句話克隆你的聲音！Index TTS 教程](youtubers/geekhour/2026-02-14_2YbFmvF8-7c.md) `2026-02-14`
+- [一小時 Jenkins 教程](youtubers/geekhour/2026-02-14_GKLuQtni6Ok.md) `2026-02-14`
+- [OpenClaw 部署教程：打造你的24小時專屬AI助手！](youtubers/geekhour/2026-02-14_h1fLEH5kAV4.md) `2026-02-14`
+- [Index TTS：一句話克隆聲音的 AI 語音合成工具](youtubers/geekhour/20260213-index-tts-voice-cloning.md) `2026-02-13`
+- [OpenClaw 部署教程：打造你的 24 小時專屬 AI 助手](youtubers/geekhour/20260213-openclaw-deployment-tutorial.md) `2026-02-13`
+- [OpenClaw 部署教程：打造你的 24 小時專屬 AI 助手](youtubers/geekhour/20260202-OpenClaw部署教程.md) `2026-02-02`
+- [Fish Shell 搭建和配置教程](youtubers/geekhour/2025-12-26_oOXOP-9PAxA.md) `2025-12-26`
+- [我的 MBP Setup：日常使用軟體和設備](youtubers/geekhour/2025-08-02_7C_6pex0hzk.md) `2025-08-02`
+- [15分鐘搭建智能客服](youtubers/geekhour/2025-07-26_NKKbR5HaRJg.md) `2025-07-26`
+- [30分鐘 Kafka 教程](youtubers/geekhour/2025-07-19_ulRPAtj99-w.md) `2025-07-19`
+- [十分鐘 Cursor 教程！關於 Cursor 你可能不知道的事](youtubers/geekhour/20250628-Cursor教程.md) `2025-06-28`
+- [API 對接大模型？十分鐘搞定！](youtubers/geekhour/20250619-API对接大模型.md) `2025-06-19`
+- [大模型到底是啥？8 分鐘速通！](youtubers/geekhour/20250611-大模型到底是啥.md) `2025-06-11`
+- [三分鐘了解什麼是 CANN！](youtubers/geekhour/20250604-CANN异构计算架构.md) `2025-06-04`
+- [Vim 進階技巧，你知道多少？](youtubers/geekhour/20250215-Vim进阶技巧.md) `2025-02-15`
+- [5 分鐘！從零開始做個數據大屏](youtubers/geekhour/20250207-数据大屏-DataEase.md) `2025-02-07`
+
+### 🤖 In The World of AI (58 篇)
+
+- [GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context &amp; Excels at Coding! (Fully Tested)](youtubers/intheworldofai/20260306-GPT-54-Is-INSANE-OpenAIs-BEST-Model-Yet-1-Million-Context-am.md) `2026-03-06`
+- [Gemini 3.1 Flash-Lite Is Google's FASTEST &amp; Cheapest Model Ever! Decent At Coding! (Fully Tested)](youtubers/intheworldofai/20260306-Gemini-31-Flash-Lite-Is-Googles-FASTEST-amp-Cheapest-Model-E.md) `2026-03-06`
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06`
+- [Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!](youtubers/intheworldofai/20260301-Antigravity-Claude-Code-IS-INCREDIBLE-NEW-AI-Coding-Workflo.md) `2026-03-01`
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27`
+- [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](youtubers/intheworldofai/2026-02-24_EGo7m7ZjW0c.md) `2026-02-24`
+- [Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)](youtubers/intheworldofai/2026-02-23_CBIUxXy3WmM.md) `2026-02-23`
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20`
+- [Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](youtubers/intheworldofai/20260218-Claude-Sonnet-46-The-Best-AI-Coding-Model-Ever-1M-Context-Ch.md) `2026-02-18`
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18`
+- [MiniMax M2.5：挑戰頂級專有模型的開源 AI 新秀](youtubers/intheworldofai/2026-02-14_dRN9hJyg5Rc.md) `2026-02-14`
+- [OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team!](youtubers/intheworldofai/2026-02-14_kIWMLL0S8X8.md) `2026-02-14`
+- [Automate PDF Data Extraction with n8n EASILY](youtubers/intheworldofai/2026-02-13_7I7CL9iNxS4.md) `2026-02-13`
+- [Claude Sonnet 5: Greatest AI Coding Model Ever](youtubers/intheworldofai/2026-02-13__87CirMQ1FM.md) `2026-02-13`
+- [Claude Code With UNLIMITED Memory](youtubers/intheworldofai/2026-02-13_qhuS__jC4n8.md) `2026-02-13`
+- [Gemini 3.0 Pro GA WILL BE Google's Greatest Model Ever](youtubers/intheworldofai/2026-02-13_tPTMHT4O4HQ.md) `2026-02-13`
+- [GPT-5.3 Codex Is INSANE! OpenAI's BEST Model](youtubers/intheworldofai/2026-02-13_ulR5iC1oR8E.md) `2026-02-13`
+- [GLM-5 洩露？全新 Pony Alpha 隱形模型太瘋狂！](youtubers/intheworldofai/20260212-glm5-pony-alpha.md) `2026-02-12`
+- [如何輕鬆使用 n8n 自動化 PDF 資料提取！](youtubers/intheworldofai/20260212-n8n-pdf-extraction.md) `2026-02-12`
+- [Automate PDF Data Extraction with n8n EASILY! (Open source)](youtubers/intheworldofai/20260211-n8n-pdf-extraction.md) `2026-02-11`
+- [Gemini 3.0 Pro GA 將成為 Google 有史以來最棒的模型！](youtubers/intheworldofai/20260210-gemini-3-pro-ga.md) `2026-02-10`
+- [GPT-5.3 Codex 太瘋狂了！OpenAI 最強模型可能擊敗 Opus 4.6？](youtubers/intheworldofai/20260210-gpt-5-3-codex.md) `2026-02-10`
+- [Claude Opus 4.6: Greatest AI Coding Model Ever!](youtubers/intheworldofai/20260206-claude-opus-4-6.md) `2026-02-06`
+- [Claude Code With UNLIMITED Memory!](youtubers/intheworldofai/20260205-claude-code-unlimited-memory.md) `2026-02-05`
+- [Claude Sonnet 5: Greatest AI Coding Model Ever!](youtubers/intheworldofai/20260204-claude-sonnet-5.md) `2026-02-04`
+- [OpenClaw + Antigravity: 全自主工程團隊!](youtubers/intheworldofai/20260203-openclaw-antigravity.md) `2026-02-03`
+- [Stop Paying for ElevenLabs - NEW #1 AI Voice Is FREE!](youtubers/intheworldofai/20260202-inworld-tts-1-5.md) `2026-02-02`
+- [Epic Mode: NEW Toolkit Ends Vibe Coding!](youtubers/intheworldofai/20260201-epic-mode-traycer.md) `2026-02-01`
+- [Antigravity + Stitch: Build Anything FOR FREE!](youtubers/intheworldofai/20260131-antigravity-stitch.md) `2026-01-31`
+- [Manus 1.6: AI Super Agent That Can DO ANYTHING!](youtubers/intheworldofai/20260130-manus-1-6.md) `2026-01-30`
+- [Gemini in Chrome: Automate ANY Browser Task!](youtubers/intheworldofai/20260129-gemini-chrome.md) `2026-01-29`
+- [Kimi K2.5: GREATEST Opensource Model Beats Opus 4.5!](youtubers/intheworldofai/20260128-kimi-k2-5.md) `2026-01-28`
+- [Gemini 3.5: Google's Greatest Model Ever!](youtubers/intheworldofai/20260127-gemini-3-5.md) `2026-01-27`
+- [ClawdBot: 24/7 AI Agent Employee!](youtubers/intheworldofai/20260126-clawdbot.md) `2026-01-26`
+- [Pencil.dev: Greatest AI Design System!](youtubers/intheworldofai/20260124-pencil-dev.md) `2026-01-24`
+- [Zenflow: First-Ever AI Software Engineer!](youtubers/intheworldofai/20260123-zenflow.md) `2026-01-23`
+- [Antigravity + Opencode: Best AI Coding Workflow!](youtubers/intheworldofai/20260122-antigravity-opencode.md) `2026-01-22`
+- [Gemini Cowork: AI Operating System!](youtubers/intheworldofai/20260121-gemini-cowork.md) `2026-01-21`
+- [Antigravity AgentKit: Supercharge AI 100x!](youtubers/intheworldofai/20260120-antigravity-agentkit.md) `2026-01-20`
+- [Gemini Whisk Designer: Build Websites FOR FREE!](youtubers/intheworldofai/20260119-gemini-whisk-designer.md) `2026-01-19`
+- [Gemini Agent Mode Upgraded: Build ANYTHING FREE!](youtubers/intheworldofai/20260117-gemini-agent-mode.md) `2026-01-17`
+- [How to Use Google's Antigravity Better than 99%!](youtubers/intheworldofai/20260116-antigravity-guide.md) `2026-01-16`
+- [OpenClaw + Antigravity Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!](youtubers/intheworldofai/1Jqaj1KN5vA.md)
+- [Claude Code NEW Update IS HUGE! Claude Code Security, Claude Engineer, & MORE!](youtubers/intheworldofai/CrCPFGxtgEY.md)
+- [Claude Opus 4.6: Greatest AI Coding Model Ever! 1M Context, Agentic, & More!](youtubers/intheworldofai/LYN2IXz_piA.md)
+- [Open Router上的Pony Alpha模型：GLM5的偷跑測試？](youtubers/intheworldofai/MfJXFF1-o0E-glm5-pony-alpha-stealth-model.md)
+- [ 87CirMQ1FM claude sonnet5 greatest coding model](youtubers/intheworldofai/_87CirMQ1FM-claude-sonnet5-greatest-coding-model.md)
+- [Claude Sonnet 5: Greatest AI Coding Model Ever! 1M Context, Cheap, & More! (Early Test)](youtubers/intheworldofai/_87CirMQ1FM.md)
+- [Gemini 3.1 Pro Is Google's Greatest Model Ever! Most Powerful AI EVER! (Fully Tested)](youtubers/intheworldofai/_uQKI-NOCFg.md)
+- [OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!](youtubers/intheworldofai/kIWMLL0S8X8.md)
+- [qhuS  jC4n8 claude code unlimited memory](youtubers/intheworldofai/qhuS__jC4n8-claude-code-unlimited-memory.md)
+- [Claude Code With UNLIMITED Memory! Solves Claude's Memory Problem!](youtubers/intheworldofai/qhuS__jC4n8.md)
+- [Google's Nano Banana 2.0: Best Text-To-Image Generation Model EVER!](youtubers/intheworldofai/u22-XoQvI4I.md)
+- [ulR5iC1oR8E gpt53 codex openai best model](youtubers/intheworldofai/ulR5iC1oR8E-gpt53-codex-openai-best-model.md)
+- [GPT-5.3 Codex Is INSANE! OpenAI's BEST Model Might Beat Opus 4.6? (Fully Tested)](youtubers/intheworldofai/ulR5iC1oR8E.md)
+- [使用 n8n 輕鬆自動化 PDF 資料提取（開源）](youtubers/intheworldofai/video_7I7CL9iNxS4.md)
+- [GLM-5 洩漏？新 Pony Alpha 隱身模型表現驚人！媲美 Opus 4.6 品質！](youtubers/intheworldofai/video_MfJXFF1-o0E.md)
+- [Gemini 3.0 Pro GA 將成為 Google 史上最強模型！（早期測試）](youtubers/intheworldofai/video_tPTMHT4O4HQ.md)
+
+### 💰 Liam Ottley (16 篇)
+
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06`
+- [The Easiest Software Business to Start in 2026](youtubers/liam_ottley/2026-02-24_KAufsCas_F4.md) `2026-02-24`
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24`
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19`
+- [How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner's Guide](youtubers/liam_ottley/2026-02-14_2bsfQThGXxc.md) `2026-02-14`
+- [AI Just Had It's iPhone Moment...](youtubers/liam_ottley/2026-02-14_qNtDxuLfFE8.md) `2026-02-14`
+- [如何使用 Claude Code 自動化你的生活與工作：終極新手指南](youtubers/liam_ottley/2bsfQThGXxc.md)
+- [如何利用 AI 將 LinkedIn 變成個人品牌的吸客磁鐵](youtubers/liam_ottley/3iR3kHxCwfo-linkedin-lead-magnet-ai.md)
+- [Every AI Business Model Explained in 8 Minutes (Start from Home)](youtubers/liam_ottley/CSULpfABy0I.md)
+- [AGI Is Here. It's Real. And It Changes Everything — Here's My Plan](youtubers/liam_ottley/GyCNs5AymRw.md)
+- [How to Scale Your AI Agency (Forward Deployed Engineer Model Breakdown)](youtubers/liam_ottley/HiC1J8a9V1I.md)
+- [My Honest Thoughts on the OpenClaw Hype](youtubers/liam_ottley/RXBjzT8gQ2g.md)
+- [Did Claude Just Replace Video Editors? (Remotion Breakdown)](youtubers/liam_ottley/Tt-hpp87pd0.md)
+- [ClawdBot is INSANE. Here's 3 Ways to Make Money With It](youtubers/liam_ottley/XC5oeZnMvcg.md)
+- [從零開始：18分鐘打造你的第一個 AI 語音客服（免寫程式）](youtubers/liam_ottley/oB7gia1kC_g-ai-voice-agent-18min.md)
+- [5種在2026年用AI在家賺錢的天才方法](youtubers/liam_ottley/pLs6ZKEDixQ-5-ways-make-money-ai-2026.md)
+
+### misc_bilibili (37 篇)
+
+- [AI 炒股智能體：TradingAgents 框架解析](youtubers/misc_bilibili/2026-02-07_AI炒股智能體TradingAgents.md) `2026-02-07`
+- [Google Gemini API 新招：File Search Tool 讓 RAG 複雜度歸零](youtubers/misc_bilibili/2026-02-07_Gemini-API-File-Search-RAG.md) `2026-02-07`
+- [Google Gemini 全系列教學（上集）：21 個超強 AI 應用](youtubers/misc_bilibili/2026-02-07_Google-Gemini教學上集.md) `2026-02-07`
+- [Google Gemini 完整教學（下集）：生活與學習的 21 種 AI 應用](youtubers/misc_bilibili/2026-02-07_Google-Gemini教學下集.md) `2026-02-07`
+- [Grok AI + Gemini 製作角色一致性皮克斯動畫長影片](youtubers/misc_bilibili/2026-02-07_Grok-Gemini皮克斯動畫.md) `2026-02-07`
+- [Lovart：2025 最強 AI 設計神器完整評測](youtubers/misc_bilibili/2026-02-07_Lovart-AI設計神器.md) `2026-02-07`
+- [Agent Skill 從使用到原理完整解析](youtubers/misc_bilibili/2026-02-07_agent-skill原理.md) `2026-02-07`
+- [57.6k Star - 最全的 AI 應用落地案例大合集](youtubers/misc_bilibili/2026-02-07_ai應用案例合集.md) `2026-02-07`
+- [Claude Code + Wuunu 插件 - 網頁 UI 微調](youtubers/misc_bilibili/2026-02-07_claude-code-wuunu插件.md) `2026-02-07`
+- [Claude Code AI 編程最優配置](youtubers/misc_bilibili/2026-02-07_claude-code-配置.md) `2026-02-07`
+- [Gemini 3.0 Pro 四步打造美觀的 UI 設計](youtubers/misc_bilibili/2026-02-07_gemini3-pro-ui設計.md) `2026-02-07`
+- [Kronos - 清華大學開源 K 線預測神器](youtubers/misc_bilibili/2026-02-07_kronos-k線預測.md) `2026-02-07`
+- [KunQuant - 超高速量化交易計算引擎](youtubers/misc_bilibili/2026-02-07_kunquant高速量化引擎.md) `2026-02-07`
+- [MACD+RSI+EMA 三維複合策略](youtubers/misc_bilibili/2026-02-07_macd-rsi-ema複合策略.md) `2026-02-07`
+- [MACD 魔改量化策略 - NSGA-II 多目標優化](youtubers/misc_bilibili/2026-02-07_macd魔改量化策略.md) `2026-02-07`
+- [Nano Banana + Gemini 3 = S 級 UI 設計師](youtubers/misc_bilibili/2026-02-07_nano-banana-gemini3-ui設計.md) `2026-02-07`
+- [OpenCode + Skill 速通教學](youtubers/misc_bilibili/2026-02-07_opencode-skill速通.md) `2026-02-07`
+- [Skill 餵飯教程 - IDE 手搓 Skill](youtubers/misc_bilibili/2026-02-07_skill餵飯教程.md) `2026-02-07`
+- [TradingAgents - AI 智能體股票深度分析神器](youtubers/misc_bilibili/2026-02-07_tradingagents股票分析.md) `2026-02-07`
+- [每日五項核心練習 - 吉他穩健進步法](youtubers/misc_bilibili/2026-02-07_吉他每日五項練習.md) `2026-02-07`
+- [技能 Agent 做量化交易](youtubers/misc_bilibili/2026-02-07_技能agent做量化交易.md) `2026-02-07`
+- [瑞典交易員 Kristjan 升級版](youtubers/misc_bilibili/2026-02-07_瑞典交易員kristjan.md) `2026-02-07`
+- [內行人都在用的美股寶藏網站](youtubers/misc_bilibili/2026-02-07_美股寶藏網站.md) `2026-02-07`
+- [量化乾貨：什麼是蒙特卡洛模擬？](youtubers/misc_bilibili/2026-02-07_蒙特卡洛模擬.md) `2026-02-07`
+- [開源 UI 庫合集 - 免費可商用](youtubers/misc_bilibili/2026-02-07_開源UI庫合集.md) `2026-02-07`
+- [吃透這 20 個 Agent 應用項目](youtubers/misc_bilibili/2026-02-06_agent_20_projects.md) `2026-02-06`
+- [零成本完美復刻 90 萬訂閱 AI Podcast 頻道](youtubers/misc_bilibili/2026-02-06_ai_podcast_channel.md) `2026-02-06`
+- [Antigravity + Stitch MCP - AI 智能體獨立搭建完整網站](youtubers/misc_bilibili/2026-02-06_antigravity_stitch_mcp.md) `2026-02-06`
+- [YouTube 影片摘要](youtubers/misc_bilibili/2026-02-06_atlas_ai_automation.md) `2026-02-06`
+- [Claude Changed Content Creation - Remotion 影片製作教學](youtubers/misc_bilibili/2026-02-06_claude-remotion-video-creation.md) `2026-02-06`
+- [Gemini 3.0 Computer Use - Google 免費瀏覽器自動化 AI Agent](youtubers/misc_bilibili/2026-02-06_gemini_3_computer_use.md) `2026-02-06`
+- [Gemini + Nano Banana 製作 PPT - NotebookLM 的替代方案](youtubers/misc_bilibili/2026-02-06_gemini_nanobanna_ppt.md) `2026-02-06`
+- [GitHub 排名第一的大模型課程](youtubers/misc_bilibili/2026-02-06_github_llm_course.md) `2026-02-06`
+- [GitHub 斬獲 3 萬星標的 PPT 開源工具](youtubers/misc_bilibili/2026-02-06_github_ppt_tool.md) `2026-02-06`
+- [Google AI Studio 最強教程：免費用 90% Gemini 功能](youtubers/misc_bilibili/2026-02-06_google-ai-studio-tutorial.md) `2026-02-06`
+- [MV 大導演：Suno + Nano Banana + Kling 完整教學](youtubers/misc_bilibili/2026-02-06_suno-nano-banana-kling-mv-tutorial.md) `2026-02-06`
+- [YouTube 影片摘要](youtubers/misc_bilibili/2026-02-06_tax_saving.md) `2026-02-06`
+
+### 👨‍💻 Pragmatic Engineer (1 篇)
+
+- [🎙️ Clawd 創作者專訪：「我部署不讀的程式碼」](youtubers/pragmatic_engineer/20260128-clawd-creator-interview.md) `2026-01-28`
+
+### 🎯 Simon Sinek (44 篇)
+
+- [Bartok Music | A Bit of Optimism #podcast](youtubers/simon_sinek/20260306-Bartok-Music-A-Bit-of-Optimism-podcast.md) `2026-03-06`
+- [The Hardest Part Of Being A Leader | Simon Sinek](youtubers/simon_sinek/20260306-The-Hardest-Part-Of-Being-A-Leader-Simon-Sinek.md) `2026-03-06`
+- [Reallocate Your Risk | A Bit Of Optimism #podcast](youtubers/simon_sinek/2026-02-27-PU1vbZPx7F0.md) `2026-02-27`
+- [Company Culture | Simon Sinek](youtubers/simon_sinek/20260220-Company-Culture-Simon-Sinek.md) `2026-02-20`
+- [Vulnerability | A Bit of Optimism #podcast](youtubers/simon_sinek/20260220-Vulnerability-A-Bit-of-Optimism-podcast.md) `2026-02-20`
+- [Without The Title, Who Are You? | Simon Sinek](youtubers/simon_sinek/20260219-Without-The-Title-Who-Are-You-Simon-Sinek.md) `2026-02-19`
+- [Curing Cynicism | A Bit of Optimism #podcast](youtubers/simon_sinek/20260218-Curing-Cynicism-A-Bit-of-Optimism-podcast.md) `2026-02-18`
+- [Why Are We Friends? | Simon Sinek](youtubers/simon_sinek/2026-02-14_CCXICFcqn3A.md) `2026-02-14`
+- [Matthew McConaughey on How to Fall Back in Love with Your Life](youtubers/simon_sinek/2026-02-14_XeK4OCBhvwE.md) `2026-02-14`
+- [When Pop Fandom Becomes a Force for Good with AJR's Adam Met](youtubers/simon_sinek/2026-02-13_K1757kpOpjs.md) `2026-02-13`
+- [What Grit Really Teaches Us About Happiness](youtubers/simon_sinek/2026-02-13_KAi2L_b1V2I.md) `2026-02-13`
+- [We're All Bad At Being Human](youtubers/simon_sinek/2026-02-13_d_13NyreOGo.md) `2026-02-13`
+- [The Secret to Apple's Success](youtubers/simon_sinek/33aI53-vo5Y_secret_to_apples_success.md)
+- [Kindness Builds Community](youtubers/simon_sinek/4DmusQyYVuA_kindness_builds_community.md)
+- [When Kindness Means "Go On"](youtubers/simon_sinek/5aBOcIaCcT8_when_kindness_means_go_on.md)
+- [A Bit of Optimism Will Return In The New Year](youtubers/simon_sinek/A_Bit_of_Optimism_Will_Return_In_The_New_Year.md)
+- [Company Culture Reflects The Founder](youtubers/simon_sinek/Company_Culture_Reflects_The_Founder.md)
+- [Courage Comes From Friendship](youtubers/simon_sinek/Courage_Comes_From_Friendship.md)
+- [Don't Beat Them. Learn From Them.](youtubers/simon_sinek/Dont_Beat_Them_Learn_From_Them.md)
+- [Company Culture Reflects The Founder](youtubers/simon_sinek/EUrEFASpUWA_company_culture_reflects_founder.md)
+- [How You Attract The Right People](youtubers/simon_sinek/G4DP06S7Q18_how_you_attract_the_right_people.md)
+- [Your Why Defines Everything](youtubers/simon_sinek/HdnDx1yLgJM_your_why_defines_everything.md)
+- [How To Make People Feel Seen](youtubers/simon_sinek/How_To_Make_People_Feel_Seen.md)
+- [How You Attract The Right People](youtubers/simon_sinek/How_You_Attract_The_Right_People.md)
+- [When Pop Fandom Becomes a Force for Good with AJR's Adam Met](youtubers/simon_sinek/K1757kpOpjs_pop_fandom_force_for_good.md)
+- [What Grit Really Teaches Us About Happiness with Professor Angela Duckworth](youtubers/simon_sinek/KAi2L_b1V2I_grit_angela_duckworth.md)
+- [Kindness Builds Community](youtubers/simon_sinek/Kindness_Builds_Community.md)
+- [Kindness Is Not Empathy](youtubers/simon_sinek/Kindness_Is_Not_Empathy.md)
+- [Courage Comes From Friendship](youtubers/simon_sinek/LZX1yAQwPQg_courage_comes_from_friendship.md)
+- [Kindness Is Not Empathy](youtubers/simon_sinek/RHggJTaGvsk_kindness_is_not_empathy.md)
+- [Receiving Kindness Is Harder Than Giving Kindness](youtubers/simon_sinek/Receiving_Kindness_Is_Harder_Than_Giving_Kindness.md)
+- [The Hardest Part About Leadership](youtubers/simon_sinek/The_Hardest_Part_About_Leadership.md)
+- [The Secret to Apple's Success](youtubers/simon_sinek/The_Secret_to_Apples_Success.md)
+- [True Kindness Is Uncomfortable](youtubers/simon_sinek/True_Kindness_Is_Uncomfortable.md)
+- [Don't Beat Them. Learn From Them.](youtubers/simon_sinek/W36s9C1kTHw_dont_beat_them_learn_from_them.md)
+- [We're All Bad At Being Human](youtubers/simon_sinek/Were_All_Bad_At_Being_Human.md)
+- [When Kindness Means Go On](youtubers/simon_sinek/When_Kindness_Means_Go_On.md)
+- [Your Why Defines Everything](youtubers/simon_sinek/Your_Why_Defines_Everything.md)
+- [True Kindness Is Uncomfortable](youtubers/simon_sinek/a-Qhz-X8Ws0_true_kindness_is_uncomfortable.md)
+- [Receiving Kindness Is Harder Than Giving Kindness](youtubers/simon_sinek/czBC0y-84OE_receiving_kindness_is_harder.md)
+- [We're All Bad At Being Human](youtubers/simon_sinek/d_13NyreOGo_we_are_all_bad_at_being_human.md)
+- [How To Make People Feel Seen](youtubers/simon_sinek/g6sDRbo4S6g_how_to_make_people_feel_seen.md)
+- [The Hardest Part About Leadership](youtubers/simon_sinek/qtn-gwHWFFU_hardest_part_about_leadership.md)
+- [What A Company's WHY Really Means](youtubers/simon_sinek/u7DesMZtc40.md)
+
+### 💻 Tech With Tim (51 篇)
+
+- [Comment &quot;openclaw&quot; below👇](youtubers/tech_with_tim/20260306-Comment-quotopenclawquot-below.md) `2026-03-06`
+- [Is this the easiest way to make money coding?](youtubers/tech_with_tim/20260306-Is-this-the-easiest-way-to-make-money-coding.md) `2026-03-06`
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06`
+- [10 Python one liners you'll actually use](youtubers/tech_with_tim/2026-02-27-rmenKCClYUs.md) `2026-02-27`
+- [How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)](youtubers/tech_with_tim/2026-02-24_NO-bOryZoTE.md) `2026-02-24`
+- [How to ACTUALLY make money from coding](youtubers/tech_with_tim/2026-02-24_rH2IRqdI778.md) `2026-02-24`
+- [Should you learn Python as a beginner?🤔](youtubers/tech_with_tim/2026-02-23_U72snoggHGw.md) `2026-02-23`
+- [Coding might not be for you if you can't do this.](youtubers/tech_with_tim/20260220-Coding-might-not-be-for-you-if-you-cant-do-this.md) `2026-02-20`
+- [I Tried Google's Hardest Coding Interview (Here's What Happened)](youtubers/tech_with_tim/20260220-I-Tried-Googles-Hardest-Coding-Interview-Heres-What-Happened.md) `2026-02-20`
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19`
+- [This is very important to understand.](youtubers/tech_with_tim/20260219-This-is-very-important-to-understand.md) `2026-02-19`
+- [Have you used Rust as a back end language?](youtubers/tech_with_tim/20260218-Have-you-used-Rust-as-a-back-end-language.md) `2026-02-18`
+- [How to learn Python coding fast - Step by step roadmap](youtubers/tech_with_tim/20260218-How-to-learn-Python-coding-fast---Step-by-step-roadmap.md) `2026-02-18`
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18`
+- [技術面試五大常見錯誤 - Tech With Tim](youtubers/tech_with_tim/2026-02-14_oifG86B7fP8.md) `2026-02-14`
+- [The Only AI Coding Tools Worth Learning in 2026](youtubers/tech_with_tim/2026-02-13_-VTiqivKOB8.md) `2026-02-13`
+- [Go Programming - Full Course](youtubers/tech_with_tim/2026-02-13_V-lI7AmusGs.md) `2026-02-13`
+- [2026年最值得學習的AI編程工具](youtubers/tech_with_tim/20260212-ai-coding-tools-2026.md) `2026-02-12`
+- [2026 年最值得學習的 AI 編程工具](youtubers/tech_with_tim/2026-02-10_ai-coding-tools-worth-learning-2026.md) `2026-02-10`
+- [技術面試失敗的 5 個常見錯誤](youtubers/tech_with_tim/2026-02-09_technical-interview-mistakes.md) `2026-02-09`
+- [ClawdBot 安全設置完整教學：新手指南](youtubers/tech_with_tim/2026-02-07_clawdbot-full-tutorial-for-beginners-secure-setup-.md) `2026-02-07`
+- [ClawdBot/OpenClaw 新手完整教學：安全設定指南](youtubers/tech_with_tim/2026-02-06_clawdbot-secure-setup-guide.md) `2026-02-06`
+- [遠距軟體工程師之路：完整攻略指南](youtubers/tech_with_tim/2026-02-05_how-to-get-a-software-engineer-remote-job-full-roa.md) `2026-02-05`
+- [How to get a software engineer remote job - Full Roadmap](youtubers/tech_with_tim/2026-02-05_remote-software-engineer-job-roadmap.md) `2026-02-05`
+- [駕馭 AI 時代：2026 年高效程式學習新策略](youtubers/tech_with_tim/2026-02-02_learning-to-code-has-changed.md) `2026-02-02`
+- [如何準備技術面試才能成功？三種常見方法大剖析！](youtubers/tech_with_tim/2026-02-01_i-tested-3-interview-prep-methods-so-you-dont-have.md) `2026-02-01`
+- [I Tested 3 Interview Prep Methods So You Don't Have To](youtubers/tech_with_tim/2026-02-01_interview-prep-methods-tested.md) `2026-02-01`
+- [Meta Acquired This AI Agent… And It's Actually Incredible (Manus AI)](youtubers/tech_with_tim/2026-01-31_meta-acquired-manus-ai.md) `2026-01-31`
+- [Meta 神秘武器：Manus AI 深度解析 – 打造 App、分析財務，無所不能！](youtubers/tech_with_tim/2026-01-31_meta-acquired-this-ai-agent-and-its-actually-incre.md) `2026-01-31`
+- [Your Resume Isn't The Problem...](youtubers/tech_with_tim/2026-01-29_resume-isnt-the-problem.md) `2026-01-29`
+- [求職逆襲：軟體工程師面試通關秘笈](youtubers/tech_with_tim/2026-01-29_your-resume-isnt-the-problem.md) `2026-01-29`
+- [This Open-Source AI Video Model Just Crushed Sora](youtubers/tech_with_tim/2026-01-27_ltx2-open-source-ai-video-model.md) `2026-01-27`
+- [LTX2：開源AI影片模型橫空出世，Sora不再是唯一選擇！](youtubers/tech_with_tim/2026-01-27_this-opensource-ai-video-model-just-crushed-sora.md) `2026-01-27`
+- [Learn Matplotlib in 30 Minutes - Python Matplotlib Tutorial](youtubers/tech_with_tim/2026-01-24_matplotlib-tutorial-30-minutes.md) `2026-01-24`
+- [Postgres Just Killed Elasticsearch](youtubers/tech_with_tim/2026-01-22_postgres-killed-elasticsearch.md) `2026-01-22`
+- [The Only Programming Languages Worth Learning in 2026](youtubers/tech_with_tim/2026-01-20_programming-languages-2026.md) `2026-01-20`
+- [Ex-Microsoft Engineer Explains How To Prep For Coding Interviews](youtubers/tech_with_tim/2026-01-18_coding-interview-prep-microsoft.md) `2026-01-18`
+- [Learn NumPy in 40 Minutes - Python NumPy Tutorial](youtubers/tech_with_tim/2026-01-15_numpy-tutorial-40-minutes.md) `2026-01-15`
+- [Lovable vs MeDo, which AI app builder actually works?](youtubers/tech_with_tim/2026-01-14_lovable-vs-medo-ai-app-builder.md) `2026-01-14`
+- [Interview Coder Just Leaked Users' Full Names and Where They Got Offers](youtubers/tech_with_tim/2026-01-12_interview-coder-data-leak.md) `2026-01-12`
+- [Django FULL Project Build - YouTube Clone](youtubers/tech_with_tim/2026-01-08_django-youtube-clone-full-project.md) `2026-01-08`
+- [I Asked an Uber Tech recruiter if CS Grads are Cooked...](youtubers/tech_with_tim/2026-01-06_uber-recruiter-cs-grads-cooked.md) `2026-01-06`
+- [FastAPI + React B2B SaaS Full Project Build](youtubers/tech_with_tim/2025-12-31_fastapi-react-b2b-saas-full-project.md) `2025-12-31`
+- [Master Python Requests In 15 Minutes - Call Any API](youtubers/tech_with_tim/2025-12-22_python-requests-15-minutes.md) `2025-12-22`
+- [How to Run LLMs Locally - Full Guide](youtubers/tech_with_tim/2025-12-19_run-llms-locally-full-guide.md) `2025-12-19`
+- [How to get a machine learning engineer job fast - Without a uni degree](youtubers/tech_with_tim/2025-12-17_machine-learning-engineer-roadmap.md) `2025-12-17`
+- [Genspark's Super AI Agent is INSANE](youtubers/tech_with_tim/2025-12-15_genspark-super-ai-agent.md) `2025-12-15`
+- [How I'm Using AI Agents in 2026](youtubers/tech_with_tim/BikPUaT76i8.md)
+- [Go 語言程式設計完整課程](youtubers/tech_with_tim/V-lI7AmusGs.md)
+- [VTiqivKOB8 ai coding tools 2026](youtubers/tech_with_tim/VTiqivKOB8-ai-coding-tools-2026.md)
+- [Claude Code - Full Tutorial for Beginners](youtubers/tech_with_tim/ntDIxaeo3Wg.md)
+
+### topics (14 篇)
+
+- [如何透過 AI 製作高品質 UI](topics/01_ai_ui_design.md)
+- [📊 如何透過 AI 製作高品質簡報](topics/02_ai_presentation.md)
+- [🎮 遊戲設計研究 (2026 趨勢)](topics/03_game_design.md)
+- [📰 如何蒐集即時的財經與科技快訊](topics/04_realtime_news.md)
+- [📈 量化投資策略研究 (2026 趨勢)](topics/05_quant_trading.md)
+- [📚 高中學習與聯考研究 (2026 AI 工具)](topics/06_highschool_learning.md)
+- [📣 AI 行銷推廣研究 (2026 趨勢)](topics/07_ai_marketing.md)
+- [🔬 AI 市場調研研究 (2026 趨勢)](topics/08_ai_market_research.md)
+- [🛡️ AI 安全與對齊研究 (2026 趨勢)](topics/09_ai_safety.md)
+- [⚙️ 自動化工作流研究 (2026 趨勢)](topics/10_automation_workflow.md)
+- [🎬 AI 影片生成研究 (2026 趨勢)](topics/11_ai_video_generation.md)
+- [📊 議題：如何透過 AI 工具製作高品質的簡報](topics/ai_presentation.md)
+- [🎨 議題：如何透過 AI 工具製作高品質的 UI](topics/ai_ui_design.md)
+- [🎮 研究議題：如何設計一個遊戲](topics/game_design.md)
+
+### videos (30 篇)
+
+- [300回合狂测GPT5，有点真东西！【做了个三体】](youtubers/qiuzhi2046_bilibili/videos/BV11xbazdE9M.md)
+- [带你速逛WAIC2025！这些机器人什么时候进你家？](youtubers/qiuzhi2046_bilibili/videos/BV12i8yzhEhC.md)
+- [OpenAI原生AI浏览器！值得拥有的N个理由～](youtubers/qiuzhi2046_bilibili/videos/BV12is1zQELH.md)
+- [大模型飞跃？智能体元年？一个视频拆解2025最值得关注的AI进展！](youtubers/qiuzhi2046_bilibili/videos/BV13fvrBoEGo.md)
+- [一天60集？！起底“AI短剧”出海的捞金秘籍【全流程拆解】](youtubers/qiuzhi2046_bilibili/videos/BV14HmSBMEkw.md)
+- [太真了！现在的AI视频已经卷成这样了？！](youtubers/qiuzhi2046_bilibili/videos/BV16cx4zoErH.md)
+- [2025年AI生图“王”！Banana Pro玩法大分享～【建议收藏】](youtubers/qiuzhi2046_bilibili/videos/BV1BHUwBdEpq.md)
+- [国产AI视频模型全球登顶！不用买Veo3啦～](youtubers/qiuzhi2046_bilibili/videos/BV1BrMizzEvj.md)
+- [掌管P图的神！Nano Banana究极玩法全公开！建议收藏～](youtubers/qiuzhi2046_bilibili/videos/BV1CHaGzBEMc.md)
+- [手把手彻底学会 Agent Skills！【小白教程】](youtubers/qiuzhi2046_bilibili/videos/BV1G3FNznEiS.md)
+- [1天节省3小时，用AI给“信息降噪”！](youtubers/qiuzhi2046_bilibili/videos/BV1HatvzxELB.md)
+- [强到离谱？Gemini 3深度实测【玩法合集】](youtubers/qiuzhi2046_bilibili/videos/BV1HdynBrEes.md)
+- [更猛了！B站开源AI语音天花板【附本地安装包】](youtubers/qiuzhi2046_bilibili/videos/BV1HeJQzSEHW.md)
+- [全员免费的GPT5来了，4分钟全了解【实测GPT5】](youtubers/qiuzhi2046_bilibili/videos/BV1Hgt1zHE9J.md)
+- [从0开始“做”一个Agent！【n8n草履虫教程】](youtubers/qiuzhi2046_bilibili/videos/BV1KSKwzJEEV.md)
+- [Agent Infra到底是什么？【AI基建】](youtubers/qiuzhi2046_bilibili/videos/BV1Rz4iz1Exz.md)
+- [我做了个AI道士给人算命...日进斗金？【Agent小白教程】](youtubers/qiuzhi2046_bilibili/videos/BV1VP3EzXE2o.md)
+- [用嘴“P视频”！还有什么是AI不能P的？？【玩法教程】](youtubers/qiuzhi2046_bilibili/videos/BV1ZY2tB4ERH.md)
+- [轻松学会！高手都在用的AI编程大法！](youtubers/qiuzhi2046_bilibili/videos/BV1ZqmmBJEmP.md)
+- [太好玩啦！一句话P图的免费AI！【Flux Kontext小白本地教程】](youtubers/qiuzhi2046_bilibili/videos/BV1c1GHzLE7x.md)
+- [B站首届AI春晚！](youtubers/qiuzhi2046_bilibili/videos/BV1duFrztESM.md)
+- [更适合中国宝宝的AI生活助手是？？](youtubers/qiuzhi2046_bilibili/videos/BV1ejyGBKENz.md)
+- [中国AI产业冰山图！全面盘点～【万字解析】](youtubers/qiuzhi2046_bilibili/videos/BV1gKiEBZEHq.md)
+- [AI财神杯：哪个AI能带你发财？【Grok4 300刀实测】](youtubers/qiuzhi2046_bilibili/videos/BV1gvuEzyEHB.md)
+- [年度好用AI大赏！【小白必备】](youtubers/qiuzhi2046_bilibili/videos/BV1ibvhBqEmp.md)
+- [假如AI消灭了全人类，只剩下你一个人…【脑洞大开】](youtubers/qiuzhi2046_bilibili/videos/BV1kMWXzcER2.md)
+- [爆火的AI录音卡，到底值不值？【全面测评】](youtubers/qiuzhi2046_bilibili/videos/BV1no6jBSEnc.md)
+- [2025年，到底有多少人在用AI？](youtubers/qiuzhi2046_bilibili/videos/BV1sgBSBVEUA.md)
+- [随意P视频？现在的AI太离谱了！【Runway Aleph】](youtubers/qiuzhi2046_bilibili/videos/BV1xseJzqEBv.md)
+- [用神器Claude Code！打造贴身AI秘书团【小白教程】](youtubers/qiuzhi2046_bilibili/videos/BV1zqeMzfEiQ.md)
+
+### 🏢 Y Combinator (114 篇)
+
+- [Startup School 2026](youtubers/ycombinator/20260306-Startup-School-2026.md) `2026-03-06`
+- [AI Native Hedge Funds](youtubers/ycombinator/20260218-AI-Native-Hedge-Funds.md) `2026-02-18`
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18`
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18`
+- [Why OpenClaw Broke The Internet](youtubers/ycombinator/20260218-Why-OpenClaw-Broke-The-Internet.md) `2026-02-18`
+- [YC 專訪 OpenClaw 創辦人：一個在本機運行的 AI 如何席捲網路](youtubers/ycombinator/2026-02-14_4uzGDAoNOZc.md) `2026-02-14`
+- [We're All Addicted To Claude Code](youtubers/ycombinator/2026-02-14_qwmmWzPnhog.md) `2026-02-14`
+- [我們都對 Claude Code 上癮了](youtubers/ycombinator/20260212-addicted-to-claude-code.md) `2026-02-12`
+- [OpenClaw 創作者：為何 80% 的應用程式將會消失](youtubers/ycombinator/20260212-openclaw-creator-80-percent-apps-disappear.md) `2026-02-12`
+- [Dylan Field：Figma 的規模化之路](youtubers/ycombinator/-7Qz7tSTfUU-dylan-field-scaling-figma.md)
+- [AI 革命：無人看見的真相](youtubers/ycombinator/0LMK5JYkB94-ai-revolution-what-nobody-else-is-seeing.md)
+- [如何獲得你的第一批用戶（中文翻譯）](youtubers/ycombinator/0kARDVL2nZg-how-to-get-your-first-users.md)
+- [諾貝爾獎得主 John Jumper：AI 正在徹底改變科學發現](youtubers/ycombinator/2Yguz5U-Nic-nobel-laureate-john-jumper-ai-is-revolutioniz.md)
+- [打造可重複使用火箭的創業公司內幕](youtubers/ycombinator/2hgjgycOU_0-inside-the-startup-building-reusable-rockets.md)
+- [Aravind Srinivas：Perplexity 打造 Agentic Search 的競賽（中文翻譯）](youtubers/ycombinator/2jOnoTEk-xA-aravind-srinivas-perplexitys-race-to-build-ag.md)
+- [DoorDash CEO：以客戶為中心](youtubers/ycombinator/3N3TnaViyjk-doordash-ceo-customer-obsession.md)
+- [DeepSeek 背後的工程解鎖：解讀中國 AI 新星](youtubers/ycombinator/4Tmn-XP93m4-the-engineering-unlocks-behind-deepseek.md)
+- [Figma CEO Dylan Field：探索創意迷宮](youtubers/ycombinator/4UE4e6b2qtA-figmas-dylan-field-exploring-the-idea-maze.md)
+- [OpenClaw 創作者：為何 80% 的應用程式將會消失](youtubers/ycombinator/4uzGDAoNOZc-openclaw-creator-80-percent-apps-disappear.md)
+- [OpenClaw 創造者：為什麼 80% 的應用程式將會消失](youtubers/ycombinator/4uzGDAoNOZc-openclaw-creator-why-80-percent-of-apps.md)
+- [François Chollet：我們如何實現 AGI（通用人工智慧）](youtubers/ycombinator/5QcCeSsNRks-franois-chollet-how-we-get-to-agi.md)
+- [從轉型地獄到 14 億美元獨角獸](youtubers/ycombinator/5WN8bfG06Hk-from-pivot-hell-to-14-billion-unicorn.md)
+- [Alexandr Wang：打造 Scale AI（中文翻譯）](youtubers/ycombinator/5noIKN8t69U-alexandr-wang-building-scale-ai.md)
+- [GPT-4.5：大型模型的力量](youtubers/ycombinator/5uBAQrg4SoQ-gpt-45-big-model-energy.md)
+- [如何在你的新創公司中使用人工智慧](youtubers/ycombinator/7Kt9ugD3bGQ-how-to-use-ai-in-your-startup.md)
+- [垂直AI代理可能比SaaS大10倍（中文翻譯）](youtubers/ycombinator/ASABxNenD_U-vertical-ai-agents-could-be-10x-bigger-than-s.md)
+- [Satya Nadella：微軟的人工智慧賭注](youtubers/ycombinator/AUUZuzVHKdo-satya-nadella-microsofts-ai-bets.md)
+- [如何最大化利用 Vibe Coding（中文翻譯）](youtubers/ycombinator/BJjsfNO5JTo-how-to-get-the-most-out-of-vibe-coding.md)
+- [設計的重要性：從 Stripe、Lyft 和 Airbnb 學習](youtubers/ycombinator/CKfERe55CeA-why-design-matters-lessons-from-stripe-lyft-a.md)
+- [如何將一個失敗的創業公司變成 Google 相簿（中文翻譯）](youtubers/ycombinator/CcnwFJqEnxU-how-david-lieb-turned-a-failing-startup-into.md)
+- [未來的人工智慧介面](youtubers/ycombinator/DBhSfROq3wU-ai-interfaces-of-the-future.md)
+- [創業者銷售手冊](youtubers/ycombinator/DH7REvnQ1y4-the-sales-playbook-for-founders.md)
+- [啟動 AI 新創前該問的問題（中文翻譯）](youtubers/ycombinator/DJjZzzPANBY-ask-these-questions-before-starting-an-ai-sta.md)
+- [AI Agents 的最先進 Prompt 工程](youtubers/ycombinator/DL82mGde6wo-state-of-the-art-prompting-for-ai-agents.md)
+- [新創公司的好消息：大型企業不擅長人工智慧](youtubers/ycombinator/DULfEcPR0Gc-good-news-for-startups-enterprise-is-bad-at-a.md)
+- [這個新創公司試圖消除 29% 的二氧化碳排放量（中文翻譯）](youtubers/ycombinator/ENG_DQF5E60-this-startup-is-trying-to-delete-29-percent-o.md)
+- [Twitter vs. X：給新創公司創辦人的產品教訓](youtubers/ycombinator/EW9TUqOgjmQ-twitter-vs-x-product-lessons-for-startup-foun.md)
+- [如何打造未來：Parker Conrad](youtubers/ycombinator/FwD0wqwUjAI-how-to-build-the-future-parker-conrad.md)
+- [估值十億美元的新創公司是如何起步的？](youtubers/ycombinator/HB3l1BPi7zo-how-do-billion-dollar-startups-start.md)
+- [十億美元級別的不受歡迎的創業點子](youtubers/ycombinator/Hm-ZIiwiN1o-billion-dollar-unpopular-startup-ideas.md)
+- [Vibe Coding 是未來 (Vibe Coding Is The Future)](youtubers/ycombinator/IACHfKmZMr8-vibe-coding-is-the-future.md)
+- [新創公司花錢的正確與錯誤方式](youtubers/ycombinator/IRROi-Q1V44-the-right-and-wrong-way-to-spend-money-at-you.md)
+- [人工智慧與就業：大家都在誤解什麼？](youtubers/ycombinator/IqwSb2hO1jE-what-everyone-is-getting-wrong-about-ai-and-j.md)
+- [AI Agents 的下一個突破就在這裡](youtubers/ycombinator/JOYSDqJdiro-the-next-breakthrough-in-ai-agents-is-here.md)
+- [Transformers 解釋：永遠改變 AI 的發現](youtubers/ycombinator/JZLZQVmfGn8-transformers-explained-the-discovery-that-cha.md)
+- [Anthropic 共同創辦人：打造 Claude Code（中文翻譯）](youtubers/ycombinator/JdT78t1Offo-anthropic-co-founder-building-claude-code.md)
+- [下一代 AI 突破將在於推理（中文翻譯）](youtubers/ycombinator/JiwiqYGw4iU-why-the-next-ai-breakthroughs-will-be-in-reas.md)
+- [AI 賦能的新創點子](youtubers/ycombinator/K4s6Cgicw_A-startup-ideas-you-can-now-build-with-ai.md)
+- [我們如何重新設計我們的網站](youtubers/ycombinator/K5JoLAauzq4-how-we-redesigned-our-website.md)
+- [設計評論：Y Combinator 全新官方網站](youtubers/ycombinator/K5JoLAauzq4-yc-website-redesign.md)
+- [AI 正在吞噬物流業（中文翻譯）](youtubers/ycombinator/KTmxaMdUbHA-ai-is-eating-logistics.md)
+- [Andrej Karpathy：軟體再次改變](youtubers/ycombinator/LCEmiRjPEtQ-andrej-karpathy-software-is-changing-again.md)
+- [Windsurf CEO：押注 AI Agents（中文翻譯）](youtubers/ycombinator/LKgAx7FWva4-windsurf-ceo-betting-on-ai-agents.md)
+- [OpenAI 的 o1 模型為何如此重要？](youtubers/ycombinator/Lv9bKyQgoHo-why-openais-o1-is-a-huge-deal.md)
+- [現在是構建加密貨幣的最佳時機（中文翻譯）](youtubers/ycombinator/Pdne9xaRLUc-why-now-is-the-best-time-to-build-in-crypto.md)
+- [你不需要成為億萬富翁也能發射衛星](youtubers/ycombinator/Q0Xs0lGgwVA-you-dont-have-to-be-a-billionaire-to-launch-s.md)
+- [The AI Agent Economy Is Here](youtubers/ycombinator/Q8wVMdwhlh4.md)
+- [安德魯·吳：利用 AI 加速創業](youtubers/ycombinator/RNJCfif1dPY-andrew-ng-building-faster-with-ai.md)
+- [新創網站設計點評：Cursor 設計主管犀利吐槽](youtubers/ycombinator/RynySryqM_0-cursor-head-of-design-roasts-startup-websites.md)
+- [如何打造未來：Aravind Srinivas](youtubers/ycombinator/SP7Ua8FKZN4-how-to-build-the-future-aravind-srinivas.md)
+- [如何在AI時代度過你的20歲（中文翻譯）](youtubers/ycombinator/ShYKkPPhOoc-how-to-spend-your-20s-in-the-ai-era.md)
+- [如何獲得 AI 新創點子（中文翻譯）](youtubers/ycombinator/TANaRNMbYgk-how-to-get-ai-startup-ideas.md)
+- [AI 程式碼代理將如何改變你的工作？](youtubers/ycombinator/TECDj4JUx7o-how-ai-coding-agents-will-change-your-job.md)
+- [Michael Truell：23 歲打造 Cursor](youtubers/ycombinator/TrXi3naD6Og-michael-truell-building-cursor-at-23.md)
+- [The Powerful Alternative To Fine-Tuning](youtubers/ycombinator/UPGB-hsAoVY.md)
+- [Sam Altman：OpenAI 的未來](youtubers/ycombinator/V979Wd1gmTU-sam-altman-the-future-of-openai.md)
+- [Anthropic Claude 電腦使用：遊戲規則改變者](youtubers/ycombinator/VDmU0jjklBo-anthropics-claude-computer-use-is-a-game-chan.md)
+- [如何打造真正富足的未來（中文翻譯）](youtubers/ycombinator/VIkphkYlkaQ-how-to-build-a-truly-abundant-future.md)
+- [從轉型到建立一家 96 億美元的薪資公司](youtubers/ycombinator/VaQA55ZZWBU-from-a-pivot-to-building-a-96-billion-payroll.md)
+- [如何設計更好的 AI 應用程式](youtubers/ycombinator/WJoZK9sMwvw-how-to-design-better-ai-apps.md)
+- [核融合能源將為 AI 熱潮提供動力](youtubers/ycombinator/XdigD0LOXx0-fusion-energy-will-power-the-ai-boom.md)
+- [Anthropic Head of Pretraining on Scaling Laws](youtubers/ycombinator/YFeb3yAxtjE-anthropic-head-of-pretraining-on-scaling.md)
+- [最佳消費者新創點子：直到現在才成為可能 (中文翻譯)](youtubers/ycombinator/Z4L4ZqL1xqQ-the-best-consumer-startup-ideas-were-impossib.md)
+- [AI 新創公司的 FDE 策略：Bob McGrew 的經驗分享](youtubers/ycombinator/Zyw-YA0k3xo-the-fde-playbook-for-ai-startups-with-bob-mcg.md)
+- [李飛飛：空間智能](youtubers/ycombinator/_PioN-CpOP0-fei-fei-li-spatial-intelligence.md)
+- [Chelsea Finn：打造能做任何事的機器人（中文翻譯）](youtubers/ycombinator/a8-QsBHoH94-chelsea-finn-building-robots-that-can-do-anyt.md)
+- [AI 如何改變企業（中文翻譯）](youtubers/ycombinator/aIKfA3gIXwo-how-ai-is-changing-enterprise.md)
+- [Zepto 如何成為印度成長最快的創業公司](youtubers/ycombinator/aYK0H85E_oU-how-zepto-became-indias-fastest-growing-start.md)
+- [頂尖 1% 創辦人如何處理共同創辦人衝突](youtubers/ycombinator/bvjyaz4ZiVI-how-top-1-percent-founders-navigate-co-founde.md)
+- [AI 新創公司最強大的七大護城河](youtubers/ycombinator/bxBzsSsqQAM-the-7-most-powerful-moats-for-ai-startups.md)
+- [伊隆·馬斯克：數位超級智慧 (Elon Musk: Digital Superintelligence)](youtubers/ycombinator/cFIlta1GkiE-elon-musk-digital-superintelligence.md)
+- [The Truth About The AI Bubble](youtubers/ycombinator/cqrJzG03ENE-the-truth-about-the-ai-bubble.md)
+- [擴展法則將如何決定 AI 的未來](youtubers/ycombinator/d6Ed5bZAtrM-how-scaling-laws-will-determine-ais-future.md)
+- [每個創辦人都應該知道的機器學習技術（中文翻譯）](youtubers/ycombinator/dC_3ys349bU-the-ml-technique-every-founder-should-know.md)
+- [What Boris Cherny Learned From Building Claude Code](youtubers/ycombinator/eCjYIj-fEDw.md)
+- [Bob McGrew：AI 代理與通往 AGI 的道路（中文翻譯）](youtubers/ycombinator/eW7rUtYHD9U-bob-mcgrew-ai-agents-and-the-path-to-agi.md)
+- [將 AI 數據中心送入太空的初創公司內幕](youtubers/ycombinator/hKw6cRKcqzY-inside-the-startup-launching-ai-data-centers.md)
+- [新創公司招聘首批工程師和銷售人員的實戰指南（中文翻譯）](youtubers/ycombinator/i_PjjXKNpA4-the-startup-playbook-for-hiring-your-first-en.md)
+- [現在任何人都能編碼：AI 代理如何構建你的整個應用程式](youtubers/ycombinator/jbIQfoldLag-now-anyone-can-code-how-ai-agents-can-build-y.md)
+- [Replit 如何從 1000 萬美元增長到 1 億美元 ARR（中文翻譯）](youtubers/ycombinator/kOyIjt6FUrw-how-replit-went-from-10m-to-100m-arr.md)
+- [創業者如何提升設計能力](youtubers/ycombinator/ksGNfd-wQY4-what-founders-can-do-to-improve-their-design.md)
+- [From Idea to $650M Exit: Lessons in Building AI Startups](youtubers/ycombinator/l0h3nAW13ao-from-idea-to-650m-exit-lessons-in-buildi.md)
+- [The Future of Software Creation with Replit CEO](youtubers/ycombinator/lWmDiDGsLK4-the-future-of-software-creation-with-rep.md)
+- [標題（中文翻譯）：擁有 10 兆參數和 300 智商的 AI 模型](youtubers/ycombinator/lbJilIQhHko-the-10-trillion-parameter-ai-model-with-300-i.md)
+- [為什麼你的新創網站沒有轉換率（中文翻譯）](youtubers/ycombinator/leQ89XSHILw-why-your-startup-website-isnt-converting.md)
+- [將 Agentic AI 帶入華爾街的金融新創公司](youtubers/ycombinator/lqokpIme47A-the-finance-startup-bringing-agentic-ai-to-wa.md)
+- [新創建議：AI 市場策略、轉型以及如何招聘（中文翻譯）](youtubers/ycombinator/nGLmpKi-jRU-startup-advice-ai-gtm-pivoting-and-how-to-hir.md)
+- [Cursor CEO：超越程式碼](youtubers/ycombinator/oOylEw3tPQ8-cursor-ceo-going-beyond-code.md)
+- [擴展規模與通往人類級別 AI 的道路（Scaling and the Road to Human-Level AI）](youtubers/ycombinator/p8Jx4qvDoSo-scaling-and-the-road-to-human-level-ai.md)
+- [AI 真的有那麼聰明嗎？](youtubers/ycombinator/pBlIgs6w7Ss-how-intelligent-is-ai-really.md)
+- [25 歲的年輕人如何打造價值 6.75 億美元的法律 AI 新創公司（中文翻譯）](youtubers/ycombinator/pHuXCzM2ntU-how-this-25-year-old-built-a-675m-legal-ai-st.md)
+- [We're All Addicted To Claude Code](youtubers/ycombinator/qwmmWzPnhog-were-all-addicted-to-claude-code.md)
+- [OpenAI、Deepseek、Qwen 開源 LLM 比較](youtubers/ycombinator/raTbhtKZTZA-openai-vs-deepseek-vs-qwen-comparing-open-sou.md)
+- [打造一家估值 20 億美元的 SaaS 公司](youtubers/ycombinator/rjyJsbUunQ4-building-a-2-billion-saas-company.md)
+- [如何打造第一架獨立超音速飛機（中文翻譯）](youtubers/ycombinator/sOFmYwYa9Pk-how-blake-scholl-built-the-first-independent.md)
+- [Amplitude 如何從懷疑者轉變為全面擁抱 AI（中文翻譯）](youtubers/ycombinator/t8co94HS6tY-how-amplitude-went-from-skeptics-to-all-in-on.md)
+- [品牌設計秘訣：Linear 創辦人現身說法](youtubers/ycombinator/uEeFsW9343g-brand-design-tips-from-linear-founder.md)
+- [光錐 2025 年預測](youtubers/ycombinator/uGjv25IrjoE-the-lightcone-2025-forecast.md)
+- [標題：Aaron Levie：為什麼新創公司能在 AI 時代勝出](youtubers/ycombinator/uqc_vt95GJg-aaron-levie-why-startups-win-in-the-ai-era.md)
+- [創業起步：你應該知道的關鍵術語（Starting A Company: The Key Terms You Should Know）](youtubers/ycombinator/wH3TKpALlw4-starting-a-company-the-key-terms-you-should-k.md)
+- [傳奇消費者創投預測 AI 產品的未來](youtubers/ycombinator/xFQ5mIJdxhA-legendary-consumer-vc-predicts-the-future-of.md)
+- [如何打造未來：Sam Altman（中文翻譯）](youtubers/ycombinator/xXCBz_8hM9w-how-to-build-the-future-sam-altman.md)
+- [2024：GPT Wrapper 神話被證偽的一年](youtubers/ycombinator/z0wt2pe_LZM-2024-the-year-the-gpt-wrapper-myth-proved-wro.md)
+- [如何創辦一家開發者工具公司（中文翻譯）](youtubers/ycombinator/z1aKRhRnVNk-how-to-start-a-dev-tools-company.md)
+
+---
+
+## 📅 最新摘要（按日期）
+
+
+#### 2026-03
+
+- [5 tips to prompt AI like a Pro](youtubers/dan_martell/20260306-5-tips-to-prompt-AI-like-a-Pro.md) `2026-03-06` — 🚀 Dan Martell `AI 工具`
+- [I prioritize my wife's happiness](youtubers/dan_martell/20260306-I-prioritize-my-wifes-happiness.md) `2026-03-06` — 🚀 Dan Martell
+- [Relationships matter](youtubers/dan_martell/20260306-Relationships-matter.md) `2026-03-06` — 🚀 Dan Martell
+- [Why do buffalos run towards the storm?](youtubers/dan_martell/20260306-Why-do-buffalos-run-towards-the-storm.md) `2026-03-06` — 🚀 Dan Martell `設計/UI`
+- [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — 🚀 Dan Martell `AI Agent` `量化交易` `AI 工具`
+- [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — 🏥 Dr. Berg 中文 `AI 工具` `健康` `設計/UI`
+- [全球最消炎食物! 腸胃炎、關節炎、各種發炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260306-全球最消炎食物-腸胃炎關節炎各種發炎自然療法柏格醫生-Dr-Berg.md) `2026-03-06` — 🏥 Dr. Berg 中文 `健康` `設計/UI`
+- [柏格醫生警告：這10種維生素和礦物質千萬別吃！吃了反而傷身（合成葉酸、碳酸鈣、氧化鎂必避）](youtubers/drberg_chinese/20260306-柏格醫生警告這10種維生素和礦物質千萬別吃吃了反而傷身合成葉酸碳酸鈣氧化鎂必避.md) `2026-03-06` — 🏥 Dr. Berg 中文 `量化交易` `健康` `設計/UI`
+- [為什麼現代人嚴重缺鎂？柏格醫生曝：補鎂改善胰島素阻抗、睡眠、肌肉痠痛](youtubers/drberg_chinese/20260306-為什麼現代人嚴重缺鎂柏格醫生曝補鎂改善胰島素阻抗睡眠肌肉痠痛.md) `2026-03-06` — 🏥 Dr. Berg 中文 `健康`
+- [鎂越貴越好？錯，選對形式才是關鍵 #補充劑 #養生](youtubers/drberg_chinese/20260306-鎂越貴越好錯選對形式才是關鍵-補充劑-養生.md) `2026-03-06` — 🏥 Dr. Berg 中文 `健康`
+- [GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context &amp; Excels at Coding! (Fully Tested)](youtubers/intheworldofai/20260306-GPT-54-Is-INSANE-OpenAIs-BEST-Model-Yet-1-Million-Context-am.md) `2026-03-06` — 🤖 In The World of AI `AI Agent` `AI 工具` `AI 編程`
+- [Gemini 3.1 Flash-Lite Is Google's FASTEST &amp; Cheapest Model Ever! Decent At Coding! (Fully Tested)](youtubers/intheworldofai/20260306-Gemini-31-Flash-Lite-Is-Googles-FASTEST-amp-Cheapest-Model-E.md) `2026-03-06` — 🤖 In The World of AI `AI Agent` `AI 工具` `AI 編程`
+- [Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)](youtubers/intheworldofai/20260306-Gemini-Super-Agents-Supercharge-AI-Agents-To-Do-Anything-Ope.md) `2026-03-06` — 🤖 In The World of AI `AI Agent` `AI 工具` `AI 編程`
+- [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — 💰 Liam Ottley `AI 工具` `AI 編程` `健康`
+- [Bartok Music | A Bit of Optimism #podcast](youtubers/simon_sinek/20260306-Bartok-Music-A-Bit-of-Optimism-podcast.md) `2026-03-06` — 🎯 Simon Sinek `心理/自我成長`
+- [The Hardest Part Of Being A Leader | Simon Sinek](youtubers/simon_sinek/20260306-The-Hardest-Part-Of-Being-A-Leader-Simon-Sinek.md) `2026-03-06` — 🎯 Simon Sinek `創業` `心理/自我成長`
+- [Comment &quot;openclaw&quot; below👇](youtubers/tech_with_tim/20260306-Comment-quotopenclawquot-below.md) `2026-03-06` — 💻 Tech With Tim `AI 工具` `設計/UI`
+- [Is this the easiest way to make money coding?](youtubers/tech_with_tim/20260306-Is-this-the-easiest-way-to-make-money-coding.md) `2026-03-06` — 💻 Tech With Tim `AI 編程`
+- [My Honest Thoughts on AI and the Job Market in 2026 (No Hype)](youtubers/tech_with_tim/20260306-My-Honest-Thoughts-on-AI-and-the-Job-Market-in-2026-No-Hype.md) `2026-03-06` — 💻 Tech With Tim `AI Agent` `AI 工具` `AI 編程`
+- [Startup School 2026](youtubers/ycombinator/20260306-Startup-School-2026.md) `2026-03-06` — 🏢 Y Combinator `創業` `設計/UI`
+- [Why bosses blame their team](youtubers/dan_martell/20260301-Why-bosses-blame-their-team.md) `2026-03-01` — 🚀 Dan Martell
+- [Why do buffalos run towards a storm?](youtubers/dan_martell/20260301-Why-do-buffalos-run-towards-a-storm.md) `2026-03-01` — 🚀 Dan Martell `設計/UI`
+- [好橄欖油消除脂肪肝,三種好油消炎自然療法,柏格醫生 Dr Berg](youtubers/drberg_chinese/20260301-好橄欖油消除脂肪肝三種好油消炎自然療法柏格醫生-Dr-Berg.md) `2026-03-01` — 🏥 Dr. Berg 中文 `健康` `設計/UI`
+- [癌症7大鮮為人知的主因！柏格醫生揭秘線粒體與環境如何影響癌症預防](youtubers/drberg_chinese/20260301-癌症7大鮮為人知的主因柏格醫生揭秘線粒體與環境如何影響癌症預防.md) `2026-03-01` — 🏥 Dr. Berg 中文 `健康`
+- [這個維生素能殺死癌細胞 你卻不知道](youtubers/drberg_chinese/20260301-這個維生素能殺死癌細胞-你卻不知道.md) `2026-03-01` — 🏥 Dr. Berg 中文 `健康` `設計/UI`
+- [Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!](youtubers/intheworldofai/20260301-Antigravity-Claude-Code-IS-INCREDIBLE-NEW-AI-Coding-Workflo.md) `2026-03-01` — 🤖 In The World of AI `AI Agent` `AI 工具` `AI 編程`
+
+#### 2026-02
+
+- [50 years of tech in under 1 minute](youtubers/dan_martell/2026-02-27-1K9BZOzr_1g.md) `2026-02-27` — 🚀 Dan Martell `自動化`
+- [The most powerful AI Agent I've ever used in my life](youtubers/dan_martell/2026-02-27-D_YzcH0VsGY.md) `2026-02-27` — 🚀 Dan Martell `AI Agent` `AI 工具` `AI 編程`
+- [You wanna get richer? Get fit.](youtubers/dan_martell/2026-02-27-QfmfTEYP2JA.md) `2026-02-27` — 🚀 Dan Martell `健康`
+- [不健康飲食的10大可怕副作用！右肩痛、失眠、腎結石都中了？快學8招戒糖戒垃圾食品](youtubers/drberg_chinese/2026-02-27-dxrsj2vGae4.md) `2026-02-27` — 🏥 Dr. Berg 中文 `健康`
+- [血栓才是心臟病和中風的真凶](youtubers/drberg_chinese/2026-02-27-ooE3kfKDs0I.md) `2026-02-27` — 🏥 Dr. Berg 中文 `健康`
+- [你的排毒系統壞了？硒才是關鍵](youtubers/drberg_chinese/2026-02-27-zVgyw81cNLY.md) `2026-02-27` — 🏥 Dr. Berg 中文 `健康`
+- [Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!](youtubers/intheworldofai/2026-02-27-6FNu2xqP758.md) `2026-02-27` — 🤖 In The World of AI `AI Agent` `AI 工具` `AI 編程`
+- [Reallocate Your Risk | A Bit Of Optimism #podcast](youtubers/simon_sinek/2026-02-27-PU1vbZPx7F0.md) `2026-02-27` — 🎯 Simon Sinek `心理/自我成長`
+- [10 Python one liners you'll actually use](youtubers/tech_with_tim/2026-02-27-rmenKCClYUs.md) `2026-02-27` — 💻 Tech With Tim `AI 工具` `AI 編程`
+- [8 Tiny Habits That Made Me Rich](youtubers/dan_martell/2026-02-24_8ujbxFtVzBM.md) `2026-02-24` — 🚀 Dan Martell `健康` `心理/自我成長` `設計/UI`
+- [I helped this kid start his DETAILING BUSINESS](youtubers/dan_martell/2026-02-24_GnzpctL5I1Y.md) `2026-02-24` — 🚀 Dan Martell `創業`
+- [AI will make more millionaires than the INTERNET](youtubers/dan_martell/2026-02-24_psL1OAsasA4.md) `2026-02-24` — 🚀 Dan Martell `創業`
+- [維生素D缺乏症狀6個，最後一個超意外](youtubers/drberg_chinese/2026-02-24_6uWJeTduoNE.md) `2026-02-24` — 🏥 Dr. Berg 中文 `健康`
+- [柏格醫生揭秘：7種自然療法比藥物更有效（有科學研究證明）](youtubers/drberg_chinese/2026-02-24_ZF03OAPwxf8.md) `2026-02-24` — 🏥 Dr. Berg 中文 `健康`
+- [頭前傾2.5公分加重4.5公斤！柏格醫生教你每晚幾分鐘快速矯正駝背（筋膜伸展）](youtubers/drberg_chinese/2026-02-24_aAu1CzXLIpY.md) `2026-02-24` — 🏥 Dr. Berg 中文 `健康`
+- [為什麼你減不掉腹部脂肪？柏格醫生揭密](youtubers/drberg_chinese/2026-02-24_lRJqbfYZdjE.md) `2026-02-24` — 🏥 Dr. Berg 中文 `健康`
+- [NEW Antigravity AI Studio Release From Google Changes AI Code Development!](youtubers/intheworldofai/2026-02-24_EGo7m7ZjW0c.md) `2026-02-24` — 🤖 In The World of AI `AI Agent` `AI 工具` `AI 編程`
+- [The Easiest Software Business to Start in 2026](youtubers/liam_ottley/2026-02-24_KAufsCas_F4.md) `2026-02-24` — 💰 Liam Ottley `AI 工具` `AI 編程` `創業`
+- [My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)](youtubers/liam_ottley/2026-02-24_O_VBdNrX0PM.md) `2026-02-24` — 💰 Liam Ottley `AI 工具` `AI 編程` `創業`
+- [How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)](youtubers/tech_with_tim/2026-02-24_NO-bOryZoTE.md) `2026-02-24` — 💻 Tech With Tim `AI Agent` `AI 工具` `AI 編程`
+- [How to ACTUALLY make money from coding](youtubers/tech_with_tim/2026-02-24_rH2IRqdI778.md) `2026-02-24` — 💻 Tech With Tim `AI 編程`
+- [How to create WEALTH with AI](youtubers/dan_martell/2026-02-23_LA-ejpPji38.md) `2026-02-23` — 🚀 Dan Martell `創業` `教育` `自動化`
+- [Schools will be gone in 5 years](youtubers/dan_martell/2026-02-23_La4GEuNCIU4.md) `2026-02-23` — 🚀 Dan Martell `設計/UI` `教育`
+- [How To Think Like A Strategic Genius (5-Dimensional Thinking)](youtubers/dankoe/2026-02-23_TY8IVSQnwlk.md) `2026-02-23` — 💡 Dan Koe `創業` `心理/自我成長`
+- [停止吃這些食物，拯救你的心臟](youtubers/drberg_chinese/2026-02-23_gT6lnr7eKVg.md) `2026-02-23` — 🏥 Dr. Berg 中文 `健康` `SEO/行銷`
+- [柏格醫生：吃早餐竟是傷肝元兇？停吃早餐啟動自噬，肝功能快速改善](youtubers/drberg_chinese/2026-02-23_qeDbZhDafZ4.md) `2026-02-23` — 🏥 Dr. Berg 中文 `健康`
+- [Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)](youtubers/intheworldofai/2026-02-23_CBIUxXy3WmM.md) `2026-02-23` — 🤖 In The World of AI `AI 工具` `AI 編程` `設計/UI`
+- [Should you learn Python as a beginner?🤔](youtubers/tech_with_tim/2026-02-23_U72snoggHGw.md) `2026-02-23` — 💻 Tech With Tim `AI 編程` `教育` `自動化`
+- [9 AI Skills You MUST Have to Get Ahead of 99% of People](youtubers/dan_martell/20260220-9-AI-Skills-You-MUST-Have-to-Get-Ahead-of-99-of-People.md) `2026-02-20` — 🚀 Dan Martell `量化交易` `AI 工具` `AI 編程`
+- [A Students vs D Students](youtubers/dan_martell/20260220-A-Students-vs-D-Students.md) `2026-02-20` — 🚀 Dan Martell `設計/UI`
+- [Why aren't you going ALL IN on AI?](youtubers/dan_martell/20260220-Why-arent-you-going-ALL-IN-on-AI.md) `2026-02-20` — 🚀 Dan Martell `AI 編程` `設計/UI`
+- [冬季憂鬱症 醫生揭露隱藏的真相](youtubers/drberg_chinese/20260220-冬季憂鬱症-醫生揭露隱藏的真相.md) `2026-02-20` — 🏥 Dr. Berg 中文 `AI 工具` `健康` `心理/自我成長`
+- [吃蛋有害還是有益健康？柏格醫生Dr Berg #快速減肥 #養生 #生酮飲食 #膽固醇 #斷食 #自然療法](youtubers/drberg_chinese/20260220-吃蛋有害還是有益健康柏格醫生Dr-Berg-快速減肥-養生-生酮飲食-膽固醇-斷食-自然療法.md) `2026-02-20` — 🏥 Dr. Berg 中文 `健康`
+- [柏格醫生推薦：每天必吃的7種最健康食物，降胰島素、提升免疫一次到位！](youtubers/drberg_chinese/20260220-柏格醫生推薦每天必吃的7種最健康食物降胰島素提升免疫一次到位.md) `2026-02-20` — 🏥 Dr. Berg 中文 `量化交易` `健康` `設計/UI`
+- [為什麼乳酸菌是腸道最友善的菌](youtubers/drberg_chinese/20260220-為什麼乳酸菌是腸道最友善的菌.md) `2026-02-20` — 🏥 Dr. Berg 中文 `健康` `設計/UI`
+- [纖維讓便秘更糟?醫生揭露被隱藏的真相](youtubers/drberg_chinese/20260220-纖維讓便秘更糟醫生揭露被隱藏的真相.md) `2026-02-20` — 🏥 Dr. Berg 中文 `健康`
+- [Claude Code + Figma MCP Is The Greatest AI Design System I've Ever Used!](youtubers/intheworldofai/20260220-Claude-Code-Figma-MCP-Is-The-Greatest-AI-Design-System-Ive.md) `2026-02-20` — 🤖 In The World of AI `AI Agent` `量化交易` `AI 工具`
+- [Company Culture | Simon Sinek](youtubers/simon_sinek/20260220-Company-Culture-Simon-Sinek.md) `2026-02-20` — 🎯 Simon Sinek `創業` `心理/自我成長` `設計/UI`
+- [Vulnerability | A Bit of Optimism #podcast](youtubers/simon_sinek/20260220-Vulnerability-A-Bit-of-Optimism-podcast.md) `2026-02-20` — 🎯 Simon Sinek `心理/自我成長` `設計/UI`
+- [Coding might not be for you if you can't do this.](youtubers/tech_with_tim/20260220-Coding-might-not-be-for-you-if-you-cant-do-this.md) `2026-02-20` — 💻 Tech With Tim `AI 編程` `教育`
+- [I Tried Google's Hardest Coding Interview (Here's What Happened)](youtubers/tech_with_tim/20260220-I-Tried-Googles-Hardest-Coding-Interview-Heres-What-Happened.md) `2026-02-20` — 💻 Tech With Tim `AI 工具` `AI 編程` `設計/UI`
+- [I helped this kid change his life](youtubers/dan_martell/20260219-I-helped-this-kid-change-his-life.md) `2026-02-19` — 🚀 Dan Martell
+- [Should AI be allowed in school?](youtubers/dan_martell/20260219-Should-AI-be-allowed-in-school.md) `2026-02-19` — 🚀 Dan Martell `AI 工具` `教育`
+- [夜尿不是膀胱問題！改變這9件事，立即改善睡眠](youtubers/drberg_chinese/20260219-夜尿不是膀胱問題改變這9件事立即改善睡眠.md) `2026-02-19` — 🏥 Dr. Berg 中文 `健康` `設計/UI`
+- [快速減肥、大減肥肚子的斷食法](youtubers/drberg_chinese/20260219-快速減肥大減肥肚子的斷食法.md) `2026-02-19` — 🏥 Dr. Berg 中文 `量化交易` `健康` `心理/自我成長`
+- [死海鹽 vs 海鹽，哪個對你的皮膚更好？](youtubers/drberg_chinese/20260219-死海鹽-vs-海鹽哪個對你的皮膚更好.md) `2026-02-19` — 🏥 Dr. Berg 中文 `健康`
+- [薑黃素1500mg等同布洛芬？天然消炎無副作用，柏格醫生實證比較](youtubers/drberg_chinese/20260219-薑黃素1500mg等同布洛芬天然消炎無副作用柏格醫生實證比較.md) `2026-02-19` — 🏥 Dr. Berg 中文 `健康` `設計/UI`
+- [3 years into the AI Agency model. Where it’s all going…](youtubers/liam_ottley/20260219-3-years-into-the-AI-Agency-model-Where-its-all-going.md) `2026-02-19` — 💰 Liam Ottley `AI Agent` `AI 工具` `AI 編程`
+- [Without The Title, Who Are You? | Simon Sinek](youtubers/simon_sinek/20260219-Without-The-Title-Who-Are-You-Simon-Sinek.md) `2026-02-19` — 🎯 Simon Sinek `心理/自我成長`
+- [OpenClaw Full Course: Setup, Skills, Voice, Memory &amp; More](youtubers/tech_with_tim/20260219-OpenClaw-Full-Course-Setup-Skills-Voice-Memory-amp-More.md) `2026-02-19` — 💻 Tech With Tim `AI Agent` `量化交易` `AI 工具`
+- [This is very important to understand.](youtubers/tech_with_tim/20260219-This-is-very-important-to-understand.md) `2026-02-19` — 💻 Tech With Tim `AI 編程` `設計/UI`
+- [Building a business vs building a brand](youtubers/dan_martell/20260218-Building-a-business-vs-building-a-brand.md) `2026-02-18` — 🚀 Dan Martell `創業` `設計/UI`
+- [Education is failing our kids](youtubers/dan_martell/20260218-Education-is-failing-our-kids.md) `2026-02-18` — 🚀 Dan Martell `教育`
+- [生酮+斷食 vs 單純斷食的差別 #生酮飲食 #斷食 #代謝](youtubers/drberg_chinese/20260218-生酮斷食-vs-單純斷食的差別-生酮飲食-斷食-代謝.md) `2026-02-18` — 🏥 Dr. Berg 中文 `健康`
+- [Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](youtubers/intheworldofai/20260218-Claude-Sonnet-46-The-Best-AI-Coding-Model-Ever-1M-Context-Ch.md) `2026-02-18` — 🤖 In The World of AI `AI Agent` `AI 工具` `AI 編程`
+- [Qwen 3.5 The GREATEST Opensource AI Model That Beats Opus 4.5 and Gemini 3? (Fully Tested)](youtubers/intheworldofai/20260218-Qwen-35-The-GREATEST-Opensource-AI-Model-That-Beats-Opus-45.md) `2026-02-18` — 🤖 In The World of AI `AI Agent` `量化交易` `AI 工具`
+- [Curing Cynicism | A Bit of Optimism #podcast](youtubers/simon_sinek/20260218-Curing-Cynicism-A-Bit-of-Optimism-podcast.md) `2026-02-18` — 🎯 Simon Sinek `健康` `心理/自我成長`
+- [Have you used Rust as a back end language?](youtubers/tech_with_tim/20260218-Have-you-used-Rust-as-a-back-end-language.md) `2026-02-18` — 💻 Tech With Tim `設計/UI`
+- [How to learn Python coding fast - Step by step roadmap](youtubers/tech_with_tim/20260218-How-to-learn-Python-coding-fast---Step-by-step-roadmap.md) `2026-02-18` — 💻 Tech With Tim `AI 工具` `AI 編程` `設計/UI`
+- [I Tried To Rebuild My Startup With AI](youtubers/tech_with_tim/20260218-I-Tried-To-Rebuild-My-Startup-With-AI.md) `2026-02-18` — 💻 Tech With Tim `AI Agent` `量化交易` `AI 工具`
+- [AI Native Hedge Funds](youtubers/ycombinator/20260218-AI-Native-Hedge-Funds.md) `2026-02-18` — 🏢 Y Combinator `AI Agent` `量化交易` `AI 編程`
+- [Boris Cherny: How We Built Claude Code](youtubers/ycombinator/20260218-Boris-Cherny-How-We-Built-Claude-Code.md) `2026-02-18` — 🏢 Y Combinator `AI Agent` `量化交易` `AI 工具`
+- [The New Way To Build A Startup](youtubers/ycombinator/20260218-The-New-Way-To-Build-A-Startup.md) `2026-02-18` — 🏢 Y Combinator `AI Agent` `AI 工具` `AI 編程`
+- [Why OpenClaw Broke The Internet](youtubers/ycombinator/20260218-Why-OpenClaw-Broke-The-Internet.md) `2026-02-18` — 🏢 Y Combinator
+- [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15` — 🎤 程隆 `AI 工具` `創業` `設計/UI`
+- [為什麼這麼多聰明人選擇退出世界？](youtubers/brainydose/2026-02-14_fJVEOlHGtfE.md) `2026-02-14` — 🧠 BRAINY DOSE `教育`
+- [Why We Yearn for The Past - The Nostalgia Glitch](youtubers/brainydose/2026-02-14_xMIVWtqIxW4.md) `2026-02-14` — 🧠 BRAINY DOSE `心理/自我成長`
+- [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/2026-02-14_FEex8E1yDj4.md) `2026-02-14` — 🚀 Dan Martell `AI 工具` `AI 編程` `創業`
+- [The Most Important Skill To Learn Right Now](youtubers/dankoe/2026-02-14_0XI_Xt0ci2Y.md) `2026-02-14` — 💡 Dan Koe `AI 工具` `教育`
+- [How To Articulate Your Thoughts Intelligently (Talk Like This)](youtubers/dankoe/2026-02-14_DKT6m_8vCkA.md) `2026-02-14` — 💡 Dan Koe `教育`
+- [If you have multiple interests, do not waste the next 2-3 years](youtubers/dankoe/2026-02-14_ExNWGF-q64M.md) `2026-02-14` — 💡 Dan Koe `創業` `教育`
+- [How to fix your entire life in 1 day](youtubers/dankoe/2026-02-14_K8K09g9XR4s.md) `2026-02-14` — 💡 Dan Koe `心理/自我成長` `教育`
+- [A Full Guide To Reinvent Your Entire Life (In 6-12 Months)](youtubers/dankoe/2026-02-14_SL5lwg1wYaE.md) `2026-02-14` — 💡 Dan Koe `心理/自我成長` `設計/UI` `教育`
+- [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/2026-02-14_U5kQTKWTUX0.md) `2026-02-14` — 💡 Dan Koe `AI 工具` `健康` `設計/UI`
+
+> ... 還有 204 篇更早的摘要
+
+---
+
+## 📊 統計
+
+| 指標 | 數量 |
+|------|------|
+| 總摘要數 | 706 |
+| 頻道數 | 20 |
+| 主題標籤 | 15 |
+| 中文 | 450 |
+| 英文 | 256 |
+| 最早 | 2025-02-07 |
+| 最新 | 2026-03-06 |

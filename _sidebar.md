@@ -1,42 +1,41 @@
 - [🏠 首頁](/)
+- [📚 完整索引](INDEX.md)
+- [📹 影片 SOP](VIDEO-SOP.md)
 
-- **🎯 研究專案**
-  - [🤖 AI Agent 知識庫](#)
-  - [📈 量化交易 + AI](#)
-  - [📚 教育 AI 工具](#)
-  - [📝 會議記錄工具](#)
-  - [💼 智慧報價系統](#)
+- **📺 YouTube 頻道**
+  - [Y Combinator](youtubers/ycombinator/)
+  - [In The World of AI](youtubers/intheworldofai/)
+  - [Tech With Tim](youtubers/tech_with_tim/)
+  - [Dan Martell](youtubers/dan_martell/)
+  - [Dan Koe](youtubers/dankoe/)
+  - [Simon Sinek](youtubers/simon_sinek/)
+  - [BRAINY DOSE](youtubers/brainydose/)
+  - [Dr. Berg 中文](youtubers/drberg_chinese/)
+  - [AI超元域](youtubers/aisuperdomain/)
+  - [Alan UI Design](youtubers/alan_design/)
+  - [Liam Ottley](youtubers/liam_ottley/)
+  - [GeekyHour](youtubers/geekhour/)
+  - [Pragmatic Engineer](youtubers/pragmatic_engineer/)
 
-- **📰 研究報告**
-  - [OpenAI vs Anthropic Agent Teams](2026-02-08_AI-Agent-Teams-Research.md)
+- **🔴 B站頻道**
+  - [AI-seeker](youtubers/aiseeker_bilibili/)
+  - [AI超元域](youtubers/aisuperdomain_bilibili/)
+  - [秋芝2046](youtubers/qiuzhi2046_bilibili/)
+  - [B站散件](youtubers/misc_bilibili/)
+  - [B站收藏](youtubers/bilibili_favorites/)
 
-- **🔬 研究議題**
-  - [🎨 AI 製作高品質 UI](topics/01_ai_ui_design.md)
-  - [📊 AI 製作高品質簡報](topics/02_ai_presentation.md)
-  - [🎮 遊戲設計研究](topics/03_game_design.md)
-  - [📰 財經與科技快訊](topics/04_realtime_news.md)
-  - [📈 量化投資策略](topics/05_quant_trading.md)
-  - [📚 高中學習與聯考](topics/06_highschool_learning.md)
-  - [📣 AI 行銷推廣](topics/07_ai_marketing.md)
-  - [🔬 AI 市場調研](topics/08_ai_market_research.md)
-  - [🛡️ AI 安全與對齊](topics/09_ai_safety.md)
-  - [⚡ 自動化工作流](topics/10_automation_workflow.md)
-  - [🎬 AI 影片生成](topics/11_ai_video_generation.md)
+- **📖 系列專題**
+  - [Google Agent 白皮書](series/google-agent-whitepaper/)
+  - [Elon Musk 訪談](series/elon-musk/)
 
-- **📖 教學影片**
+- **🔬 研究**
+  - [獨立研究報告](research/)
+  - [主題研究](topics/)
+
+- **📖 教學**
   - [Beautiful.ai](tutorials/beautiful-ai/)
   - [v0.dev](tutorials/v0-dev/)
   - [Framer](tutorials/framer/)
-
-- **📺 頻道整理**
-  - [所有頻道](youtubers/)
-  - [Y Combinator](youtubers/ycombinator/)
-  - [BRAINY DOSE](youtubers/brainydose/)
-  
-- **🔴 B站頻道**
-  - [AI-seeker](youtubers/aiseeker_bilibili/)
-  - [AI 超元域](youtubers/aisuperdomain_bilibili/)
-  - [秋芝2046](youtubers/qiuzhi2046_bilibili/)
 
 - **🎨 簡報作品**
   - [查看簡報](presentations/)
