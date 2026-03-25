@@ -1,6 +1,6 @@
 # 📚 AI 研究筆記索引
 
-> 共 **706** 篇摘要 | 最後更新：2026-03-22 17:55
+> 共 **707** 篇摘要 | 最後更新：2026-03-25 11:54
 
 ---
 
@@ -62,7 +62,7 @@
 
 > ... 還有 103 篇，請到對應頻道查看
 
-### AI 工具 (393 篇)
+### AI 工具 (394 篇)
 
 - [5 tips to prompt AI like a Pro](youtubers/dan_martell/20260306-5-tips-to-prompt-AI-like-a-Pro.md) `2026-03-06` — Dan Martell
 - [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
@@ -115,7 +115,7 @@
 - [OpenClaw 多 Agent 玩法：工作空間分離與成本控制](youtubers/aisuperdomain/20260213-openclaw-multi-agent.md) `2026-02-13` — AI超元域
 - [Why We Yearn for The Past - The Nostalgia Glitch](youtubers/brainydose/2026-02-13_xMIVWtqIxW4.md) `2026-02-13` — @brainydose
 
-> ... 還有 343 篇，請到對應頻道查看
+> ... 還有 344 篇，請到對應頻道查看
 
 ### AI 編程 (303 篇)
 
@@ -318,7 +318,7 @@
 - [爆火的AI录音卡，到底值不值？【全面测评】](youtubers/qiuzhi2046_bilibili/videos/BV1no6jBSEnc.md) — videos
 - [随意P视频？现在的AI太离谱了！【Runway Aleph】](youtubers/qiuzhi2046_bilibili/videos/BV1xseJzqEBv.md) — videos
 
-### 創業 (197 篇)
+### 創業 (198 篇)
 
 - [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
 - [The Biggest Shift in Business Since the Internet Just Happened](youtubers/liam_ottley/20260306-The-Biggest-Shift-in-Business-Since-the-Internet-Just-Happen.md) `2026-03-06` — Liam Ottley
@@ -367,11 +367,11 @@
 - [FastAPI + React B2B SaaS Full Project Build](youtubers/tech_with_tim/2025-12-31_fastapi-react-b2b-saas-full-project.md) `2025-12-31` — Tech With Tim
 - [GLM-4.7 深度實測：開源編程新王誕生](youtubers/aisuperdomain/20251223-glm-47.md) `2025-12-23` — aisuperdomain
 - [Genspark's Super AI Agent is INSANE](youtubers/tech_with_tim/2025-12-15_genspark-super-ai-agent.md) `2025-12-15` — Tech With Tim
+- [15 Principles of Success — Dan Martell 的成功 15 法則](youtubers/dan_martell/20241231-15-Principles-of-Success.md) `2024-12-31` — Dan Martell
 - [宇树科技 G1 重磅升级！全球首款掌握滑板的人形机器人！](youtubers/aiseeker_bilibili/BV1azcqzLEMR.md) — aiseeker_bilibili
 - [Seedance 2.0 深度体验！是真硬核还是纯噱头？](youtubers/aiseeker_bilibili/BV1uwcqz6E9s.md) — aiseeker_bilibili
-- [🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Agentic能力直逼Gemini 3和Claude 4.5](youtubers/aisuperdomain_bilibili/BV1UTBKBxESA_🚀开源编程新王诞生，对标Claude Sonnet 4.5？实测GLM-4.7：Coding和Age.md) — aisuperdomain_bilibili
 
-> ... 還有 147 篇，請到對應頻道查看
+> ... 還有 148 篇，請到對應頻道查看
 
 ### 影片生成 (37 篇)
 
@@ -468,7 +468,7 @@
 
 > ... 還有 85 篇，請到對應頻道查看
 
-### 教育 (207 篇)
+### 教育 (208 篇)
 
 - [You’re not behind (yet): How to learn AI in 18 minutes](youtubers/dan_martell/20260306-Youre-not-behind-yet-How-to-learn-AI-in-18-minutes.md) `2026-03-06` — Dan Martell
 - [5天斷食能治癒身體嗎？深度生酮、清除病原體、逆轉衰老](youtubers/drberg_chinese/20260306-5天斷食能治癒身體嗎深度生酮清除病原體逆轉衰老.md) `2026-03-06` — Dr. Berg 中文
@@ -521,7 +521,7 @@
 - [Go Programming - Full Course](youtubers/tech_with_tim/2026-02-13_V-lI7AmusGs.md) `2026-02-13` — @techwithtim
 - [假人、假新聞 - AI 瘋狂的危險](youtubers/brainydose/20260212-ai-madness-fake-people.md) `2026-02-12` — BRAINY DOSE (@brainydose)
 
-> ... 還有 157 篇，請到對應頻道查看
+> ... 還有 158 篇，請到對應頻道查看
 
 ### 簡報 (59 篇)
 
@@ -954,7 +954,7 @@
 
 - [行銷人必收！日本 AI 咒語神站「Put!」：商用 Banner、縮圖模板全部「複製貼上」就好！](youtubers/chenglung/2026-02-15_a-KNjwOnl18.md) `2026-02-15`
 
-### 🚀 Dan Martell (50 篇)
+### 🚀 Dan Martell (51 篇)
 
 - [5 tips to prompt AI like a Pro](youtubers/dan_martell/20260306-5-tips-to-prompt-AI-like-a-Pro.md) `2026-03-06`
 - [I prioritize my wife's happiness](youtubers/dan_martell/20260306-I-prioritize-my-wifes-happiness.md) `2026-03-06`
@@ -990,6 +990,7 @@
 - [Give me 25 minutes, and you'll get more done than 97% of people](youtubers/dan_martell/2026-02-13_iQX_Cc0aHhg.md) `2026-02-13`
 - [I Ranked the Best AI Tools to Make Money in 2026](youtubers/dan_martell/2026-02-13_xXxrvra9DQg.md) `2026-02-13`
 - [25 Ways to Make Money in 2026](youtubers/dan_martell/2026-02-06_25-ways-make-money-2026.md) `2026-02-06`
+- [15 Principles of Success — Dan Martell 的成功 15 法則](youtubers/dan_martell/20241231-15-Principles-of-Success.md) `2024-12-31`
 - [Is Dropshipping the method for 2026?](youtubers/dan_martell/82NbQ1sEGg0.md)
 - [I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](youtubers/dan_martell/FEex8E1yDj4.md)
 - [🎯 Dan Martell 知識庫](youtubers/dan_martell/_index.md)
@@ -1642,7 +1643,7 @@
 - [A Full Guide To Reinvent Your Entire Life (In 6-12 Months)](youtubers/dankoe/2026-02-14_SL5lwg1wYaE.md) `2026-02-14` — 💡 Dan Koe `心理/自我成長` `設計/UI` `教育`
 - [A Full Dopamine Detox Protocol To Reset Your Life In 30 Days](youtubers/dankoe/2026-02-14_U5kQTKWTUX0.md) `2026-02-14` — 💡 Dan Koe `AI 工具` `健康` `設計/UI`
 
-> ... 還有 204 篇更早的摘要
+> ... 還有 205 篇更早的摘要
 
 ---
 
@@ -1650,10 +1651,10 @@
 
 | 指標 | 數量 |
 |------|------|
-| 總摘要數 | 706 |
+| 總摘要數 | 707 |
 | 頻道數 | 20 |
 | 主題標籤 | 15 |
-| 中文 | 450 |
+| 中文 | 451 |
 | 英文 | 256 |
-| 最早 | 2025-02-07 |
+| 最早 | 2024-12-31 |
 | 最新 | 2026-03-06 |
